@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 640,
+      "xpos": 193,
+      "type": "match",
+      "ypos": 326,
+      "height": 121
+    },
+    {
+      "xpos": 498,
+      "ypos": 378,
+      "width": 33,
+      "height": 31,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "yast2-error-hooks"
+  ]
+}
