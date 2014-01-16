@@ -1,22 +1,24 @@
 {
   "area": [
     {
-      "width": 353,
       "xpos": 11,
-      "type": "match",
+      "width": 353,
       "ypos": 8,
+      "type": "match",
       "height": 125
     },
     {
-      "width": 175,
       "xpos": 13,
-      "type": "match",
+      "width": 175,
       "ypos": 168,
-      "height": 50
+      "type": "match",
+      "height": 39
     }
   ],
   "tags": [
+    "ENV-DISTRI-sled",
     "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
     "inst-welcome",
     "languagepicked"
   ]
