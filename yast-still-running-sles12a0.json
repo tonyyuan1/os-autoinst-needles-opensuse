@@ -1,13 +1,6 @@
 {
   "area": [
     {
-      "width": 188,
-      "xpos": 836,
-      "type": "match",
-      "ypos": 0,
-      "height": 65
-    },
-    {
       "width": 70,
       "xpos": 16,
       "type": "match",
@@ -16,6 +9,7 @@
     }
   ],
   "tags": [
+    "ENV-DISTRI-sled",
     "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
     "yast-still-running"
