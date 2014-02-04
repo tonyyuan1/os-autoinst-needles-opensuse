@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 249,
+      "xpos": 22,
+      "match": 93,
+      "type": "match",
+      "ypos": 8,
+      "height": 44
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted"
+  ]
+}
