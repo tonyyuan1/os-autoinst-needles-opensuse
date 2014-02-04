@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 341,
+      "width": 334,
+      "ypos": 194,
+      "type": "match",
+      "height": 189
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "inst-userinfostyped"
+  ]
+}
