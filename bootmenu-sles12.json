@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "width": 800,
+      "processing_flags": "t",
+      "match": 99,
+      "ypos": 0,
+      "type": "match",
+      "height": 250
+    },
+    {
+      "xpos": 525,
+      "ypos": 166,
+      "width": 25,
+      "height": 27,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
