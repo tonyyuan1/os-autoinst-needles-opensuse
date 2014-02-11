@@ -9,9 +9,8 @@
     }
   ],
   "tags": [
-    "ENV-DISTRI-sled",
+    "partitioning",
     "ENV-DISTRI-sles",
-    "ENV-INSTLANG-en_US",
-    "partitioning"
+    "ENV-INSTLANG-en_US"
   ]
 }
