@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 348,
+      "ypos": 430,
+      "width": 134,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "autologindisabled",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US"
+  ]
+}
