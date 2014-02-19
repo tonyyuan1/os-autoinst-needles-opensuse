@@ -11,6 +11,8 @@
   "tags": [
     "ENV-DESKTOP-minimalx",
     "ENV-DISTRI-sles",
-    "ENV-INSTLANG-en_US"
+    "ENV-INSTLANG-en_US",
+    "displaymanager",
+    "reboot-after-installation"
   ]
 }
