@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 1024,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 4,
+      "height": 764
+    },
+    {
+      "width": 314,
+      "xpos": 709,
+      "type": "exclude",
+      "ypos": 736,
+      "height": 32
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sled",
+    "ENV-INSTLANG-en_US",
+    "GNOME",
+    "desktop-at-first-boot"
+  ]
+}
