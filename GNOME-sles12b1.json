@@ -21,6 +21,7 @@
     "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
     "GNOME",
+    "test-consoletest_finish-1",
     "desktop-at-first-boot"
   ]
 }
