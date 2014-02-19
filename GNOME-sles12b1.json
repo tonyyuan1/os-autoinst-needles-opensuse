@@ -18,6 +18,7 @@
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
     "GNOME",
     "desktop-at-first-boot"
