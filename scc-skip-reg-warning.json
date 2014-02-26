@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 344,
+      "xpos": 361,
+      "type": "match",
+      "ypos": 309,
+      "height": 168
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "scc-skip-reg-warning"
+  ]
+}
