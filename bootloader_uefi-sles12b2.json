@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-UEFI-1",
+    "bootloader-grub2"
+  ],
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 136,
+      "width": 468,
+      "height": 207,
+      "type": "match"
+    }
+  ]
+}
