@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 254,
+      "width": 133,
+      "xpos": 169,
+      "type": "match",
+      "height": 15
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-UEFI-1",
+    "inst-video-typed-grub2"
+  ]
+}
