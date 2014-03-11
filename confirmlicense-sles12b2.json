@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "confirmlicense"
+  ],
+  "area": [
+    {
+      "width": 209,
+      "ypos": 164,
+      "xpos": 357,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 645,
+      "width": 188,
+      "ypos": 587,
+      "type": "match",
+      "height": 38
+    }
+  ]
+}
