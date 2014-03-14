@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 101,
+      "ypos": 124,
+      "width": 308,
+      "height": 84,
+      "type": "match"
+    },
+    {
+      "xpos": 301,
+      "ypos": 269,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-nautilus-1"
+  ]
+}
