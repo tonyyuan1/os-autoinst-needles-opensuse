@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-FLAVOR-DVD",
+    "ENV-INSTLANG-en_US",
+    "inst-userpasswdtoosimple"
+  ],
+  "area": [
+    {
+      "height": 152,
+      "type": "match",
+      "xpos": 382,
+      "width": 259,
+      "ypos": 309
+    }
+  ]
+}
