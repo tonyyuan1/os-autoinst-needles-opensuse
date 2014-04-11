@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "after-paritioning"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 7,
+      "xpos": 14,
+      "height": 710,
+      "width": 990
+    }
+  ]
+}
