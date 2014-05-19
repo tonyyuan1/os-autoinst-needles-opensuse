@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 77,
+      "width": 302,
+      "xpos": 8,
+      "type": "match",
+      "height": 53
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "inst-networksettings"
+  ]
+}
