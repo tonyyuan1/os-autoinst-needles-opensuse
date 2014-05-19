@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 69,
+      "ypos": 196,
+      "width": 172,
+      "xpos": 149
+    }
+  ],
+  "tags": [
+    "inst-packageinstallationstarted",
+    "ENV-INSTLANG-en_US"
+  ]
+}
