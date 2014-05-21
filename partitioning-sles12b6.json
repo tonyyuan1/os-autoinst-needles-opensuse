@@ -1,17 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 522,
-      "height": 266,
-      "width": 325,
-      "type": "match",
-      "ypos": 401
-    }
-  ],
   "tags": [
     "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
-    "after-partitioning",
-    "inst-timezone"
+    "partitioning"
+  ],
+  "area": [
+    {
+      "xpos": 522,
+      "type": "match",
+      "ypos": 401,
+      "width": 325,
+      "height": 266
+    }
   ]
 }
