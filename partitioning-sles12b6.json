@@ -11,6 +11,7 @@
   "tags": [
     "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
-    "partitioning"
+    "after-partitioning",
+    "inst-timezone"
   ]
 }
