@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "cdreporemoved"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 112,
+      "width": 58,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 299,
+      "ypos": 113,
+      "width": 38,
+      "height": 15,
+      "type": "ocr"
+    }
+  ]
+}
