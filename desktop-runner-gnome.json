@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "desktop-runner"
+  ],
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 292,
+      "width": 382,
+      "height": 176,
+      "type": "match"
+    }
+  ]
+}
