@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 398,
+      "width": 245,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-zypper_up-nothingtodo"
+  ]
+}
