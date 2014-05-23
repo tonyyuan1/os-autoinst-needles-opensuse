@@ -1,0 +1,20 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-FLAVOR-Core-DVD",
+    "ENV-INSTLANG-en_US",
+    "displaymanager",
+    "reboot-after-installation"
+  ],
+  "area": [
+    {
+      "xpos": 193,
+      "ypos": 174,
+      "width": 654,
+      "height": 192,
+      "type": "match"
+    }
+  ]
+}
