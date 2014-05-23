@@ -1,17 +1,24 @@
 {
   "tags": [
-    "screenlock",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-sle",
+    "ENV-FLAVOR-Desktop-DVD",
     "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Desktop-DVD"
+    "screenlock"
   ],
   "area": [
     {
-      "xpos": 952,
+      "type": "match",
       "ypos": 1,
-      "width": 72,
+      "xpos": 952,
       "height": 22,
+      "width": 72
+    },
+    {
+      "xpos": 503,
+      "ypos": 323,
+      "width": 19,
+      "height": 55,
       "type": "match"
     }
   ]
