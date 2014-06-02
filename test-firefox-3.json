@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 471,
+      "ypos": 298,
+      "width": 323,
+      "height": 140,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-firefox-3"
+  ]
+}
