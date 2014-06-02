@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 512,
+      "width": 134,
+      "type": "match",
+      "ypos": 464,
+      "height": 20
+    }
+  ],
+  "tags": [
+    "autologindisabled"
+  ]
+}
