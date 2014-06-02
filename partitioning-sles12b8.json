@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "partitioning"
+  ],
+  "area": [
+    {
+      "xpos": 520,
+      "height": 266,
+      "ypos": 401,
+      "type": "match",
+      "width": 325
+    }
+  ]
+}
