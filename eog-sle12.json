@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 85,
+      "ypos": 126,
+      "width": 249,
+      "height": 73,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-eog-1"
+  ]
+}
