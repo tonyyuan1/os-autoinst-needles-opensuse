@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "test-xterm-1"
+  ],
+  "area": [
+    {
+      "height": 13,
+      "type": "match",
+      "xpos": 29,
+      "ypos": 232,
+      "width": 256
+    }
+  ]
+}
