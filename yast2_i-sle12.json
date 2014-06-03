@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 52,
+      "width": 548,
+      "height": 191,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-yast2-i-1"
+  ]
+}
