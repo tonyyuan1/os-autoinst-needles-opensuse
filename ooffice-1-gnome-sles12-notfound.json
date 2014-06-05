@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 337,
+      "ypos": 291,
+      "width": 167,
+      "height": 115,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-ooffice-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Server-DVD"
+  ]
+}
