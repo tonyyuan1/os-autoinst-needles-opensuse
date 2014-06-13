@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "type": "match",
+      "xpos": 134,
+      "ypos": 151,
+      "width": 449
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "linuxrc-repo-not-found"
+  ]
+}
