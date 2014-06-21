@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 31,
+      "width": 1019,
+      "height": 736,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}
