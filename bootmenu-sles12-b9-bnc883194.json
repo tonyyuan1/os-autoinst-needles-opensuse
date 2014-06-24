@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "grub2",
+    "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 73,
+      "height": 61,
+      "xpos": 30,
+      "type": "match",
+      "width": 267
+    }
+  ]
+}
