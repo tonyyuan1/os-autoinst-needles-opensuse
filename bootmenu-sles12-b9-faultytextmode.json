@@ -10,6 +10,7 @@
   ],
   "tags": [
     "grub2",
+    "bootloader",
     "workaround"
   ]
 }
