@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "height": 23,
-      "type": "match",
-      "ypos": 477,
-      "width": 519,
-      "xpos": 150
-    }
-  ],
   "tags": [
     "ENV-DISTRI-opensuse",
     "inst-video-typed"
+  ],
+  "area": [
+    {
+      "ypos": 477,
+      "type": "match",
+      "xpos": 150,
+      "height": 23,
+      "width": 519
+    }
   ]
 }
