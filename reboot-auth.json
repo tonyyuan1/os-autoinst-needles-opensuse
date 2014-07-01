@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 234,
+      "ypos": 214,
+      "width": 556,
+      "height": 335,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "reboot-auth",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US"
+  ]
+}
