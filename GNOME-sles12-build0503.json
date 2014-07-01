@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 4,
+      "type": "match",
+      "height": 741,
+      "width": 1024,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "GNOME",
+    "desktop-at-first-boot",
+    "test-consoletest_finish-1"
+  ]
+}
