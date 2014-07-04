@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-SLES",
+    "ENV-INSTLANG-en_US",
+    "inst-usersetup",
+    "inst-usersetup-sles12p445b8"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 171,
+      "height": 453,
+      "width": 801,
+      "xpos": 55
+    }
+  ]
+}
