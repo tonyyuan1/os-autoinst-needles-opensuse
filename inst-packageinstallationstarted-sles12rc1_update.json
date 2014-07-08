@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 192,
+      "xpos": 151,
+      "height": 42,
+      "width": 172
+    },
+    {
+      "xpos": 352,
+      "ypos": 81,
+      "width": 384,
+      "height": 54,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-packageinstallationstarted",
+    "ENV-INSTLANG-en_US"
+  ]
+}
