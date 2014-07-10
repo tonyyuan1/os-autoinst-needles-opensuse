@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-FLAVOR-DVD",
+    "ENV-INSTLANG-en_US",
+    "test-firefox-1"
+  ],
+  "area": [
+    {
+      "width": 583,
+      "height": 58,
+      "type": "match",
+      "ypos": 102,
+      "xpos": 173
+    }
+  ]
+}
