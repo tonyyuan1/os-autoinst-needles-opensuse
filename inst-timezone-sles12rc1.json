@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "after-paritioning",
+    "inst-timezone"
+  ],
+  "area": [
+    {
+      "width": 990,
+      "type": "match",
+      "ypos": 51,
+      "height": 625,
+      "xpos": 15
+    },
+    {
+      "height": 79,
+      "ypos": 681,
+      "type": "match",
+      "xpos": 780,
+      "width": 233
+    }
+  ]
+}
