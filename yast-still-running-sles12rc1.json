@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-sled",
+    "ENV-DISTRI-sles",
+    "ENV-INSTLANG-en_US",
+    "yast-still-running"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 73,
+      "ypos": 717,
+      "xpos": 16,
+      "height": 45
+    }
+  ]
+}
