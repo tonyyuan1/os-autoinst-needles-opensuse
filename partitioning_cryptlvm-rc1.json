@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 377,
+      "height": 63,
+      "width": 255,
+      "ypos": 220,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-opensuse",
+    "partition-cryptlvm-summary"
+  ]
+}
