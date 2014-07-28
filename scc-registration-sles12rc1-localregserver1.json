@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 520,
+      "type": "match",
+      "ypos": 356,
+      "height": 317,
+      "width": 357
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-FLAVOR-Core-DVD",
+    "ENV-INSTLANG-en_US",
+    "scc-registration"
+  ]
+}
