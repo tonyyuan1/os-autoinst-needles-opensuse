@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "generic-desktop",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 5,
+      "width": 1022,
+      "height": 204,
+      "type": "match"
+    },
+    {
+      "xpos": 3,
+      "ypos": 639,
+      "width": 733,
+      "height": 136,
+      "type": "match"
+    },
+    {
+      "xpos": 913,
+      "ypos": 732,
+      "width": 109,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}
