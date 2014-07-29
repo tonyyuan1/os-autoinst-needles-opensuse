@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-ooffice-2",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "height": 92,
+      "width": 163,
+      "ypos": 202,
+      "type": "match",
+      "xpos": 117
+    }
+  ]
+}
