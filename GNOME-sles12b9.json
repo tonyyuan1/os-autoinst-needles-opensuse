@@ -5,6 +5,7 @@
     "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
     "GNOME",
+    "generic-desktop",
     "desktop-at-first-boot",
     "test-consoletest_finish-1"
   ],

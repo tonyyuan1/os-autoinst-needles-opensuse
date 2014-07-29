@@ -18,6 +18,7 @@
   "tags": [
     "ENV-DESKTOP-minimalx",
     "ENV-INSTLANG-en_US",
+    "generic-desktop",
     "desktop-at-first-boot",
     "test-consoletest_finish-1"
   ]
