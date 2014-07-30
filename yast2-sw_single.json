@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 97,
+      "width": 331,
+      "height": 71,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-sw_single",
+    "ENV-INSTLANG-en_US"
+  ]
+}
