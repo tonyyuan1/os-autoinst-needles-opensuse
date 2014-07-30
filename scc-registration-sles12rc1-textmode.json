@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "scc-registration"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 358,
+      "width": 292,
+      "height": 168,
+      "xpos": 362
+    }
+  ]
+}
