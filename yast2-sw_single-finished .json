@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 64,
+      "width": 283,
+      "height": 115,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "yast2-sw_single-finished",
+    "ysat2-sw_single-finished"
+  ]
+}
