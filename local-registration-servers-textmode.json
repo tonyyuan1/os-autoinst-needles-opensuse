@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 428,
+      "ypos": 293,
+      "xpos": 295,
+      "height": 82
+    }
+  ],
+  "tags": [
+    "local-registration-servers",
+    "ENV-INSTLANG-en_US"
+  ]
+}
