@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-SLES",
+    "ENV-INSTLANG-en_US",
+    "inst-betawarning",
+    "inst-betawarning-sles12p445b8"
+  ],
+  "area": [
+    {
+      "xpos": 212,
+      "ypos": 212,
+      "width": 294,
+      "height": 238,
+      "type": "match"
+    }
+  ]
+}

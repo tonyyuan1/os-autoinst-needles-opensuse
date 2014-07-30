@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-DISTRI-SLES",
+    "ENV-INSTLANG-en_US",
+    "partitioning",
+    "partitioning-sles12p445b8"
+  ],
+  "area": [
+    {
+      "ypos": 81,
+      "type": "match",
+      "xpos": 112,
+      "width": 718,
+      "height": 299
+    }
+  ]
+}
