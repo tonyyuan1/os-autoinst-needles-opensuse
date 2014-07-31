@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "remove-repository",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 373,
+      "xpos": 342,
+      "ypos": 94,
+      "height": 121
+    }
+  ]
+}
