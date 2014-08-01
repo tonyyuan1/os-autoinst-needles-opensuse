@@ -1,22 +1,22 @@
 {
   "area": [
     {
-      "height": 90,
-      "xpos": 342,
-      "width": 398,
+      "height": 77,
+      "ypos": 111,
       "type": "match",
-      "ypos": 106
+      "width": 396,
+      "xpos": 342
     },
     {
-      "xpos": 45,
-      "ypos": 184,
-      "width": 283,
-      "height": 54,
+      "xpos": 42,
+      "ypos": 186,
+      "width": 289,
+      "height": 53,
       "type": "match"
     }
   ],
   "tags": [
     "ENV-DISTRI-sle",
-    "upgrade_select"
+    "select-for-update"
   ]
 }
