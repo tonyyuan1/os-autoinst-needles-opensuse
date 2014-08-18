@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "Network_manager-controlled",
+    "Network_manager-controlled-rc1",
+    "Networkmanager_controlled",
+    "yast2_lan",
+    "yast2_lan-20140523",
+    "yast2_lan-sled12b8",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Core-DVD"
+  ],
+  "area": [
+    {
+      "ypos": 288,
+      "height": 184,
+      "type": "match",
+      "xpos": 343,
+      "width": 338
+    }
+  ]
+}
