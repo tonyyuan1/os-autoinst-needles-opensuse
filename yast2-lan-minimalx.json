@@ -13,11 +13,11 @@
   ],
   "area": [
     {
-      "ypos": 288,
-      "height": 184,
-      "type": "match",
-      "xpos": 343,
-      "width": 338
+      "xpos": 336,
+      "type": "exclude",
+      "width": 345,
+      "height": 200,
+      "ypos": 285
     }
   ]
 }
