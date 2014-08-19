@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "test-aplay-2"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 2,
+      "width": 1006,
+      "height": 749,
+      "ypos": 6
+    }
+  ]
+}
