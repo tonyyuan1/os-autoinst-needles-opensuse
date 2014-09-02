@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 82,
+      "ypos": 706,
+      "width": 412,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-consoletest_finish-1",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-Core-DVD"
+  ]
+}
