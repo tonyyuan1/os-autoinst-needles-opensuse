@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Server-DVD",
+    "bootloader",
+    "grub2"
+  ],
+  "area": [
+    {
+      "height": 175,
+      "width": 275,
+      "ypos": 15,
+      "type": "match",
+      "xpos": 260
+    },
+    {
+      "height": 89,
+      "width": 206,
+      "type": "match",
+      "ypos": 187,
+      "xpos": 138
+    }
+  ]
+}
