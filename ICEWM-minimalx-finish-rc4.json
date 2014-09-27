@@ -1,0 +1,60 @@
+{
+  "area": [
+    {
+      "ypos": 4,
+      "type": "match",
+      "xpos": 0,
+      "width": 1024,
+      "height": 741
+    },
+    {
+      "width": 1024,
+      "height": 764,
+      "xpos": 0,
+      "ypos": 4,
+      "type": "match"
+    },
+    {
+      "xpos": 520,
+      "type": "match",
+      "ypos": 706,
+      "height": 61,
+      "width": 412
+    },
+    {
+      "xpos": 0,
+      "type": "match",
+      "ypos": 5,
+      "width": 1024,
+      "height": 741
+    },
+    {
+      "ypos": 26,
+      "type": "match",
+      "xpos": 0,
+      "width": 1024,
+      "height": 716
+    },
+    {
+      "xpos": 46,
+      "ypos": 684,
+      "type": "match",
+      "width": 189,
+      "height": 12
+    },
+    {
+      "ypos": 706,
+      "type": "match",
+      "xpos": 520,
+      "width": 412,
+      "height": 61
+    }
+  ],
+  "tags": [
+    "test-consoletest_finish-1",
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Core-DVD"
+  ]
+}
