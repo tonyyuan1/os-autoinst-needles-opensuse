@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "width": 142,
+      "height": 15,
+      "ypos": 238,
+      "type": "match",
+      "xpos": 568
+    },
+    {
+      "width": 141,
+      "height": 16,
+      "xpos": 191,
+      "type": "match",
+      "ypos": 286
+    },
+    {
+      "width": 189,
+      "height": 16,
+      "type": "match",
+      "ypos": 267,
+      "xpos": 156
+    },
+    {
+      "height": 17,
+      "width": 110,
+      "type": "match",
+      "ypos": 237,
+      "xpos": 389
+    }
+  ],
+  "tags": [
+    "inst-video-typed-grub2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}
