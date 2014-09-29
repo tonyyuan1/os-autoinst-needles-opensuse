@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 61,
+      "width": 412,
+      "xpos": 87,
+      "ypos": 707,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-DISTRI-sle",
+    "test-consoletest_finish-1"
+  ]
+}
