@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 58,
+      "type": "match",
+      "width": 554,
+      "height": 91
+    },
+    {
+      "height": 160,
+      "width": 473,
+      "xpos": 27,
+      "type": "match",
+      "ypos": 214
+    }
+  ],
+  "tags": [
+    "test-yast2_bootloader-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Server-DVD"
+  ]
+}
