@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "reboot-auth"
+  ],
+  "area": [
+    {
+      "xpos": 235,
+      "ypos": 219,
+      "width": 549,
+      "height": 330,
+      "type": "match"
+    }
+  ]
+}
