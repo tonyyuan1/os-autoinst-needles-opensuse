@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "exited-bootloader"
+  ],
+  "area": [
+    {
+      "height": 72,
+      "ypos": 696,
+      "type": "match",
+      "xpos": 0,
+      "width": 167
+    }
+  ]
+}

@@ -16,6 +16,7 @@
     }
   ],
   "tags": [
-    "test-glib_i686-1"
+    "test-glib_i686-1",
+    "test-glibc_i686-1"
   ]
 }
