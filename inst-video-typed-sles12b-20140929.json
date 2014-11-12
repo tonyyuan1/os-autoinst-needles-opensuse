@@ -32,7 +32,6 @@
   "tags": [
     "inst-video-typed-grub2",
     "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "ENV-UEFI-1",
     "ENV-FLAVOR-Desktop-DVD"

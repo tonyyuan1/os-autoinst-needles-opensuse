@@ -23,8 +23,6 @@
     }
   ],
   "tags": [
-    "ENV-DISTRI-sled",
-    "ENV-DISTRI-sles",
     "ENV-INSTLANG-en_US",
     "inst-welcome",
     "languagepicked"

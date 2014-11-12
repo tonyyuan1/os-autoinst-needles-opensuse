@@ -16,7 +16,6 @@
     }
   ],
   "tags": [
-    "ENV-DISTRI-sle",
     "select-for-update"
   ]
 }

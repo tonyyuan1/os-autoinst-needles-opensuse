@@ -18,7 +18,6 @@
   "tags": [
     "test-yast2_bootloader-1",
     "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "ENV-FLAVOR-Server-DVD"
   ]

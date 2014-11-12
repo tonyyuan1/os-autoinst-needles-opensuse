@@ -1,10 +1,7 @@
 {
   "tags": [
-    "ENV-DESKTOP-kde",
-    "ENV-DISTRI-SLES",
     "ENV-INSTLANG-en_US",
-    "inst-betawarning",
-    "inst-betawarning-sles12p445b8"
+    "inst-betawarning"
   ],
   "area": [
     {

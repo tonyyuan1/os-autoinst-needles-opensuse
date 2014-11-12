@@ -11,7 +11,6 @@
   "tags": [
     "desktop-at-first-boot",
     "ENV-DESKTOP-minimalx",
-    "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "ENV-UEFI-1",
     "ENV-FLAVOR-Core-DVD"

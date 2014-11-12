@@ -9,10 +9,7 @@
     }
   ],
   "tags": [
-    "inst-usersetup-sles12p445b8",
     "inst-usersetup",
-    "ENV-DESKTOP-kde",
-    "ENV-DISTRI-SLES",
     "ENV-INSTLANG-en_US"
   ]
 }

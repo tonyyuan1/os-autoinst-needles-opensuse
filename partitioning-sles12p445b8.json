@@ -1,10 +1,7 @@
 {
   "tags": [
-    "ENV-DESKTOP-kde",
-    "ENV-DISTRI-SLES",
     "ENV-INSTLANG-en_US",
-    "partitioning",
-    "partitioning-sles12p445b8"
+    "partitioning"
   ],
   "area": [
     {
