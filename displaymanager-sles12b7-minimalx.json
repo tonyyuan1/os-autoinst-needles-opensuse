@@ -2,7 +2,8 @@
   "tags": [
     "ENV-INSTLANG-en_US",
     "displaymanager",
-    "reboot-after-installation"
+    "reboot-after-installation",
+    "ENV-DISTRI-minimalx"
   ],
   "area": [
     {
