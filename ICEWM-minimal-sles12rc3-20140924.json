@@ -1,16 +1,17 @@
 {
   "area": [
     {
-      "ypos": 706,
-      "type": "match",
       "xpos": 79,
+      "ypos": 706,
       "width": 374,
-      "height": 62
+      "height": 62,
+      "type": "match"
     }
   ],
   "tags": [
-    "ENV-INSTLANG-en_US",
-    "ENV-UEFI-1",
-    "desktop-at-first-boot"
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "test-consoletest_finish-1",
+    "ENV-FLAVOR-Core-DVD"
   ]
 }

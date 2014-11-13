@@ -10,8 +10,8 @@
   ],
   "tags": [
     "desktop-at-first-boot",
-    "ENV-INSTLANG-en_US",
-    "ENV-UEFI-1",
+    "generic-desktop",
+    "test-consoletest_finish-1",
     "ENV-FLAVOR-Core-DVD"
   ]
 }
