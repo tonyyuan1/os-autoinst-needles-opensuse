@@ -1,0 +1,51 @@
+{
+  "area": [
+    {
+      "height": 246,
+      "type": "match",
+      "xpos": 1,
+      "ypos": 0,
+      "width": 1019
+    },
+    {
+      "width": 388,
+      "ypos": 277,
+      "xpos": 308,
+      "height": 94,
+      "type": "match"
+    },
+    {
+      "ypos": 460,
+      "width": 132,
+      "height": 27,
+      "type": "match",
+      "xpos": 324
+    },
+    {
+      "ypos": 568,
+      "width": 405,
+      "type": "match",
+      "height": 166,
+      "xpos": 284
+    },
+    {
+      "xpos": 445,
+      "ypos": 0,
+      "width": 153,
+      "height": 28,
+      "type": "exclude"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 145,
+      "height": 32,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}
