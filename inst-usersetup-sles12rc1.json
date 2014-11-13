@@ -1,7 +1,8 @@
 {
   "tags": [
     "ENV-INSTLANG-en_US",
-    "inst-usersetup"
+    "inst-usersetup",
+    "inst-returned-to-yast"
   ],
   "area": [
     {
