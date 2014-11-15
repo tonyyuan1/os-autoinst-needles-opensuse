@@ -1,0 +1,14 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "width": 732,
+      "type": "match",
+      "height": 353,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "package-sysstat-selected-for-install"
+  ]
+}
