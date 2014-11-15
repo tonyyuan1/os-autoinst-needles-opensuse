@@ -1,0 +1,14 @@
+{
+  "tags": [
+    "package-sysstat-not-installed"
+  ],
+  "area": [
+    {
+      "width": 354,
+      "ypos": 0,
+      "xpos": 0,
+      "height": 127,
+      "type": "match"
+    }
+  ]
+}
