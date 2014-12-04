@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "ypos": 702,
+      "xpos": 0,
+      "width": 101
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "width": 133,
+      "ypos": 736,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "texinfo-logs-uploaded"
+  ]
+}
