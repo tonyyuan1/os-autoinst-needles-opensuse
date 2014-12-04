@@ -1,0 +1,21 @@
+{
+  "tags": [
+    "rebootnow",
+    "rebootnow-131M1",
+    "rebootnow-sles12b1",
+    "rebootnow-sles12b7",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "area": [
+    {
+      "width": 265,
+      "xpos": 85,
+      "ypos": 48,
+      "type": "match",
+      "height": 90
+    }
+  ]
+}
