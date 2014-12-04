@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "startinstall",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "width": 173,
+      "ypos": 208,
+      "xpos": 243
+    }
+  ]
+}
