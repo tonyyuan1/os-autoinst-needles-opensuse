@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 209,
+      "ypos": 247,
+      "width": 363,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-addon",
+    "ENV-INSTLANG-en_US"
+  ]
+}
