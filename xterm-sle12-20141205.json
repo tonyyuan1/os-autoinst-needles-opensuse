@@ -1,14 +1,19 @@
 {
   "tags": [
-    "test-xterm-1"
+    "test-xterm-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-Server-DVD"
   ],
   "area": [
     {
-      "ypos": 232,
-      "width": 275,
-      "xpos": 10,
-      "height": 14,
-      "type": "match"
+      "type": "match",
+      "height": 13,
+      "xpos": 21,
+      "width": 264,
+      "ypos": 232
     }
   ]
 }
