@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "inst-overview",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 73,
+      "xpos": 22,
+      "width": 305,
+      "ypos": 196
+    },
+    {
+      "height": 36,
+      "type": "match",
+      "width": 75,
+      "ypos": 720,
+      "xpos": 940
+    }
+  ]
+}
