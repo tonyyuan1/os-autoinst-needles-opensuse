@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Core-DVD",
+    "bootloader",
+    "grub2"
+  ],
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 15,
+      "width": 275,
+      "type": "match",
+      "height": 175
+    },
+    {
+      "height": 89,
+      "type": "match",
+      "ypos": 187,
+      "width": 206,
+      "xpos": 138
+    }
+  ]
+}
