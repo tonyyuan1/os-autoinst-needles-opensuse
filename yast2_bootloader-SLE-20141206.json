@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Core-DVD",
+    "test-yast2_bootloader-1"
+  ],
+  "area": [
+    {
+      "height": 72,
+      "type": "match",
+      "width": 286,
+      "ypos": 138,
+      "xpos": 10
+    },
+    {
+      "height": 62,
+      "type": "match",
+      "width": 342,
+      "ypos": 74,
+      "xpos": 267
+    },
+    {
+      "xpos": 5,
+      "width": 261,
+      "ypos": 258,
+      "type": "match",
+      "height": 66
+    },
+    {
+      "height": 56,
+      "type": "match",
+      "width": 229,
+      "ypos": 74,
+      "xpos": 6
+    }
+  ]
+}
