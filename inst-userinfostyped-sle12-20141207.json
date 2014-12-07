@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "inst-userinfostyped"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 505,
+      "width": 348,
+      "height": 122,
+      "ypos": 301
+    }
+  ]
+}
