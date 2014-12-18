@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 120,
+      "type": "match",
+      "xpos": 362,
+      "ypos": 423,
+      "width": 292
+    }
+  ],
+  "tags": [
+    "scc-registration",
+    "ENV-VIDEOMODE-text",
+    "ENV-INSTLANG-en_US"
+  ]
+}
