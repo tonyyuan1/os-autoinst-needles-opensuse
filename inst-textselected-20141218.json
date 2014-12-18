@@ -1,5 +1,13 @@
 {
-  "area": [],
+  "area": [
+    {
+      "xpos": 231,
+      "ypos": 417,
+      "width": 120,
+      "height": 33,
+      "type": "match"
+    }
+  ],
   "tags": [
     "inst-textselected"
   ]
