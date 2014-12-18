@@ -1,14 +1,21 @@
 {
-  "tags": [
-    "on-category"
-  ],
   "area": [
     {
+      "type": "match",
       "xpos": 32,
-      "ypos": 180,
-      "width": 23,
       "height": 14,
+      "ypos": 522,
+      "width": 23
+    },
+    {
+      "xpos": 30,
+      "ypos": 227,
+      "width": 31,
+      "height": 22,
       "type": "match"
     }
+  ],
+  "tags": [
+    "on-category"
   ]
 }
