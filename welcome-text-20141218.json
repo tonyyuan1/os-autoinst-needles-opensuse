@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "height": 145,
+      "xpos": 22,
+      "type": "match",
+      "width": 317,
+      "ypos": 183
+    },
+    {
+      "xpos": 8,
+      "ypos": 53,
+      "width": 169,
+      "height": 57,
+      "type": "match"
+    }
+  ]
+}
