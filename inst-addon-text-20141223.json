@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "width": 474,
+      "xpos": 179,
+      "ypos": 227,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-addon"
+  ]
+}
