@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 96,
+      "ypos": 250,
+      "width": 102,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "current-pattern-selected",
+    "on-pattern",
+    "pattern-base"
+  ]
+}
