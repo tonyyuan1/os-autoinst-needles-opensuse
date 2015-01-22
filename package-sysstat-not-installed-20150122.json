@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 562,
+      "xpos": 1,
+      "height": 93,
+      "type": "match",
+      "ypos": 0
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "package-sysstat-not-installed"
+  ]
+}
