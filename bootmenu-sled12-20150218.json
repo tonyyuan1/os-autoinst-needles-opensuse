@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 260,
+      "ypos": 15,
+      "width": 275,
+      "height": 175
+    },
+    {
+      "width": 206,
+      "height": 89,
+      "ypos": 187,
+      "xpos": 138,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "bootloader",
+    "grub2"
+  ]
+}
