@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 189,
+      "width": 21,
+      "height": 30,
+      "ypos": 172
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "patterns-list-selected"
+  ]
+}
