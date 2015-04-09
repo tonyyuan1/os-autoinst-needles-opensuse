@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 144,
+      "type": "match",
+      "ypos": 315,
+      "width": 220,
+      "xpos": 402
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-DVD",
+    "ENV-INSTLANG-en_US",
+    "inst-userpasswdtoosimple"
+  ],
+  "properties": []
+}
