@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 265,
+      "height": 90,
+      "type": "match",
+      "ypos": 232,
+      "xpos": 268
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rebootnow",
+    "ENV-INSTLANG-en_US"
+  ]
+}
