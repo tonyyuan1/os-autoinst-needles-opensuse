@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "scc-skip-reg-warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 341,
+      "width": 344,
+      "ypos": 310,
+      "type": "match",
+      "height": 168
+    }
+  ]
+}
