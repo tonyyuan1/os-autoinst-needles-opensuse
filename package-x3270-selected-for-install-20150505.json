@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "package-x3270-selected-for-install"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 65,
+      "width": 143,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}
