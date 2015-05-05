@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 32,
+      "width": 275,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "package-x3270-not-installed"
+  ]
+}
