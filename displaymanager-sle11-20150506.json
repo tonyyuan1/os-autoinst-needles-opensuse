@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 228,
+      "ypos": 265,
+      "width": 283,
+      "height": 237,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}
