@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "please-try-again"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 338,
+      "ypos": 408,
+      "width": 292,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
