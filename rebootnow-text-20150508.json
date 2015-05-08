@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "rebootnow"
+  ],
+  "area": [
+    {
+      "height": 30,
+      "ypos": 285,
+      "xpos": 281,
+      "width": 241,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
