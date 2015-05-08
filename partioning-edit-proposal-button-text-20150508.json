@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "ypos": 397,
+      "xpos": 410,
+      "width": 215,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "partioning-edit-proposal-button"
+  ]
+}
