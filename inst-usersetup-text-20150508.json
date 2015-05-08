@@ -13,6 +13,6 @@
     "ENV-VIDEOMODE-text",
     "before-package-selection",
     "inst-returned-to-yast",
-    "inst-usersettings"
+    "inst-usersetup"
   ]
 }
