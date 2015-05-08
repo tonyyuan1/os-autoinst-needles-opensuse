@@ -3,14 +3,14 @@
     "ENV-INSTLANG-en_US",
     "yast-still-running"
   ],
+  "properties": [],
   "area": [
     {
-      "type": "match",
-      "width": 70,
-      "ypos": 720,
+      "height": 16,
+      "ypos": 752,
       "xpos": 0,
-      "height": 22
+      "width": 70,
+      "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
