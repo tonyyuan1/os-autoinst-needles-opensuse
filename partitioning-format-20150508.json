@@ -1,22 +1,15 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "xpos": 262,
-      "ypos": 275,
-      "width": 205,
-      "height": 37,
-      "type": "match"
-    },
-    {
-      "xpos": 282,
-      "ypos": 424,
-      "width": 211,
-      "height": 32,
-      "type": "match"
-    }
-  ],
   "tags": [
     "partition-format"
-  ]
+  ],
+  "area": [
+    {
+      "width": 205,
+      "type": "match",
+      "height": 37,
+      "ypos": 275,
+      "xpos": 262
+    }
+  ],
+  "properties": []
 }
