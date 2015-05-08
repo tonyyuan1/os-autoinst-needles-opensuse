@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "inst-instmode",
+    "ENV-VIDEOMODE-text"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 209,
+      "type": "match",
+      "ypos": 291,
+      "height": 70,
+      "width": 592
+    },
+    {
+      "height": 47,
+      "width": 91,
+      "type": "match",
+      "xpos": 924,
+      "ypos": 697
+    }
+  ]
+}

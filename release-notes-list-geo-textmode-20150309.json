@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "release-notes-list-ha",
+    "ENV-VIDEOMODE-text"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 427,
+      "ypos": 173,
+      "height": 14,
+      "xpos": 36,
+      "type": "match"
+    }
+  ]
+}

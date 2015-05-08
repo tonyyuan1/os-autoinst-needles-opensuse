@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-license-beta",
+    "ENV-VIDEOMODE-text"
+  ],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 25,
+      "width": 156,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 104,
+      "ypos": 115,
+      "width": 353,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

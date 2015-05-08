@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "yast-iscsi-initiator-discovery",
+    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 69,
+      "width": 216,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 265,
+      "ypos": 281,
+      "width": 82,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

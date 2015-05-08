@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-packageinstallationstarted",
+    "installation-details-view"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 69,
+      "width": 344,
+      "xpos": 6,
+      "ypos": 26
+    }
+  ]
+}

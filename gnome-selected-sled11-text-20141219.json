@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 23,
+      "width": 269,
+      "ypos": 124,
+      "xpos": 24
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-VIDEOMODE-text",
+    "gnome-selected"
+  ]
+}

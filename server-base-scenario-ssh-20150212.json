@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "server-base-scenario",
+    "ENV-VIDEOMODE-text"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 153,
+      "ypos": 266,
+      "height": 130,
+      "width": 700
+    },
+    {
+      "width": 404,
+      "height": 95,
+      "type": "match",
+      "xpos": 6,
+      "ypos": 67
+    }
+  ]
+}

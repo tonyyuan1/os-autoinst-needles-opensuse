@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-betawarning"
+  ],
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 311,
+      "width": 367,
+      "height": 141,
+      "type": "match"
+    }
+  ]
+}

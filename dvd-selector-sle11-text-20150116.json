@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 390,
+      "ypos": 299,
+      "width": 241,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "dvd-selector",
+    "ENV-VIDEOMODE-text"
+  ]
+}

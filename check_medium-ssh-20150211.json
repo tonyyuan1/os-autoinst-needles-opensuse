@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "media-check",
+    "ENV-VIDEOMODE-text"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 5,
+      "type": "match",
+      "ypos": 70,
+      "width": 412,
+      "height": 58
+    },
+    {
+      "height": 29,
+      "width": 75,
+      "ypos": 714,
+      "xpos": 939,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-VIDEOMODE-text",
+    "yast-iscsi-client-loaded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 45,
+      "width": 166,
+      "height": 69,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-overview-options",
+    "ENV-VIDEOMODE-text"
+  ],
+  "area": [
+    {
+      "xpos": 471,
+      "ypos": 691,
+      "width": 125,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}

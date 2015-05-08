@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "yast-iscsi-initiator-login",
+    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 65,
+      "width": 222,
+      "height": 47,
+      "type": "match"
+    },
+    {
+      "xpos": 256,
+      "ypos": 280,
+      "width": 73,
+      "height": 52,
+      "type": "match"
+    }
+  ]
+}

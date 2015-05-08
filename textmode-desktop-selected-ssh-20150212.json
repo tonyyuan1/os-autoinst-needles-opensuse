@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 295,
+      "height": 46,
+      "type": "match",
+      "xpos": 22,
+      "ypos": 253
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-selected",
+    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode"
+  ]
+}

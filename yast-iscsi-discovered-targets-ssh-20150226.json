@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 248,
+      "type": "match",
+      "width": 144,
+      "ypos": 87,
+      "height": 29
+    }
+  ],
+  "tags": [
+    "yast-iscsi-discovered-targets",
+    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode"
+  ]
+}

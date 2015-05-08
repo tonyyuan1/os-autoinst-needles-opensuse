@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 168,
+      "height": 20,
+      "ypos": 335,
+      "xpos": 327
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "autologindisabled"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-VIDEOMODE-text",
+    "desktop-selected"
+  ],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 125,
+      "width": 295,
+      "height": 54,
+      "type": "match"
+    }
+  ]
+}

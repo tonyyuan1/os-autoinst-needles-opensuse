@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 139,
+      "ypos": 343,
+      "width": 273,
+      "xpos": 219
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "network-setup"
+  ]
+}
