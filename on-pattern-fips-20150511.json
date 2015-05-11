@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-fips"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 70,
+      "ypos": 539,
+      "xpos": 97,
+      "height": 30
+    }
+  ]
+}
