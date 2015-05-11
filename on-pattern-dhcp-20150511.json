@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-dhcp"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 159,
+      "ypos": 602,
+      "xpos": 100,
+      "height": 23
+    }
+  ],
+  "properties": []
+}
