@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-apparmor"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 204,
+      "type": "match",
+      "height": 27,
+      "ypos": 281,
+      "xpos": 93
+    }
+  ]
+}
