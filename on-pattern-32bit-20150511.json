@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-32bit"
+  ],
+  "area": [
+    {
+      "width": 191,
+      "type": "match",
+      "height": 23,
+      "ypos": 314,
+      "xpos": 99
+    }
+  ],
+  "properties": []
+}
