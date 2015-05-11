@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-ldap"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 602,
+      "xpos": 95,
+      "height": 23,
+      "type": "match",
+      "width": 172
+    }
+  ]
+}
