@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "on-pattern",
+    "pattern-oracle"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 176,
+      "ypos": 603,
+      "xpos": 100,
+      "height": 21
+    }
+  ]
+}
