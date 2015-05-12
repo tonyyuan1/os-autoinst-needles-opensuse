@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "pattern_selector"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 330,
+      "xpos": 2,
+      "ypos": 16,
+      "height": 99
+    }
+  ]
+}
