@@ -1,16 +1,17 @@
 {
   "tags": [
     "ENV-INSTLANG-en_US",
-    "desktop-at-first-boot"
+    "desktop-at-first-boot",
+    "generic-desktop"
   ],
   "properties": [],
   "area": [
     {
       "xpos": 7,
       "ypos": 728,
-      "width": 201,
       "height": 35,
-      "type": "match"
+      "type": "match",
+      "width": 195
     }
   ]
 }
