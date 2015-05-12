@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 1010,
+      "ypos": 0,
+      "xpos": 0,
+      "height": 711
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-PATTERNS-all",
+    "yast2_lan"
+  ]
+}
