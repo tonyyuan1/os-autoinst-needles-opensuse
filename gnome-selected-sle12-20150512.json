@@ -1,15 +1,16 @@
 {
-  "tags": [
-    "gnome-selected"
-  ],
-  "properties": [],
   "area": [
     {
-      "xpos": 34,
-      "ypos": 491,
-      "width": 180,
       "height": 25,
+      "ypos": 460,
+      "xpos": 33,
+      "width": 255,
       "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "gnome-selected"
   ]
 }
