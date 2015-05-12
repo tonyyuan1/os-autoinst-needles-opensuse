@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 459,
+      "width": 257,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "desktop-selected",
+    "ENV-DESKTOP-minimalx"
+  ]
+}
