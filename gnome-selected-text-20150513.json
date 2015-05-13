@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "xpos": 24,
+      "ypos": 240,
+      "width": 269,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "gnome-selected"
+  ]
+}
