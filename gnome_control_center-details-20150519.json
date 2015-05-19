@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 158,
+      "ypos": 148,
+      "width": 120,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome-control-center-details"
+  ]
+}
