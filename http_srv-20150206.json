@@ -1,25 +1,25 @@
 {
-  "tags": [
-    "test-http_srv-1",
-    "ENV-OFW-1"
+  "properties": [
+    "workaround"
   ],
   "area": [
     {
       "xpos": 0,
       "ypos": 1,
-      "width": 644,
       "height": 115,
+      "width": 644,
       "type": "match"
     },
     {
-      "xpos": 0,
-      "ypos": 176,
       "width": 356,
-      "height": 23,
-      "type": "match"
+      "type": "match",
+      "height": 14,
+      "ypos": 176,
+      "xpos": 0
     }
   ],
-  "properties": [
-    "workaround"
+  "tags": [
+    "test-http_srv-1",
+    "ENV-OFW-1"
   ]
 }
