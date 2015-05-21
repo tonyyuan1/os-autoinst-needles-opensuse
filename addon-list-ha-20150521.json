@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-dvd-ha"
+  ],
+  "area": [
+    {
+      "xpos": 478,
+      "ypos": 377,
+      "width": 63,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
