@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US",
+    "virtman_guest_install_in_progress",
+    "virtman_select_volume"
+  ],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 48,
+      "width": 176,
+      "height": 185,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

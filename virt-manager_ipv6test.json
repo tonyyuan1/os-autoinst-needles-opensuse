@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "virt-manager_ipv6test"
+  ],
+  "area": [
+    {
+      "xpos": 185,
+      "ypos": 392,
+      "width": 234,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 289,
+      "ypos": 460,
+      "width": 86,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 176,
+      "ypos": 514,
+      "width": 299,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

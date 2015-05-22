@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "virtman_details",
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 278,
+      "ypos": 256,
+      "width": 377,
+      "height": 40,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": []
+}

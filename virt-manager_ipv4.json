@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 178,
+      "ypos": 535,
+      "width": 141,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 249,
+      "ypos": 395,
+      "width": 133,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_ipv4"
+  ]
+}

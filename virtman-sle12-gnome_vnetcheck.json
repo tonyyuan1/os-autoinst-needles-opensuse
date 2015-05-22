@@ -1,0 +1,38 @@
+{
+  "tags": [
+    "virtman-sle12-gnome_vnetcheck",
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 107,
+      "width": 306,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 110,
+      "ypos": 171,
+      "width": 56,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 112,
+      "ypos": 273,
+      "width": 61,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 107,
+      "ypos": 377,
+      "width": 62,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

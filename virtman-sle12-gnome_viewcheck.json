@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "virtman-sle12-gnome_viewcheck",
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 247,
+      "ypos": 117,
+      "width": 143,
+      "height": 111,
+      "type": "match"
+    }
+  ]
+}
