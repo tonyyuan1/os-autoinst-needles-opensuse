@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "autoyast-boot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 138,
+      "ypos": 64,
+      "width": 384,
+      "height": 214,
+      "type": "match"
+    }
+  ]
+}
