@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 355,
+      "height": 24,
+      "width": 86,
+      "type": "match",
+      "ypos": 314
+    }
+  ],
+  "tags": [
+    "ENV-UPGRADE-1",
+    "packages-section-selected"
+  ],
+  "properties": []
+}
