@@ -1,15 +1,17 @@
 {
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
-      "width": 217,
+      "type": "match",
+      "ypos": 94,
       "height": 32,
       "xpos": 23,
-      "ypos": 94,
-      "type": "match"
+      "width": 217
     }
   ],
   "tags": [
     "addon-betawarning-ha"
-  ],
-  "properties": []
+  ]
 }
