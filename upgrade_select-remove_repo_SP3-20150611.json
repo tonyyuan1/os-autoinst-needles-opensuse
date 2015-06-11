@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "remove-repository"
+  ],
+  "area": [
+    {
+      "xpos": 75,
+      "height": 79,
+      "width": 247,
+      "type": "match",
+      "ypos": 191
+    },
+    {
+      "height": 14,
+      "xpos": 479,
+      "width": 233,
+      "type": "match",
+      "ypos": 160
+    }
+  ]
+}
