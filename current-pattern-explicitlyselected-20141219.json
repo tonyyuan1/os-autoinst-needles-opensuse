@@ -1,14 +1,15 @@
 {
   "area": [
     {
-      "type": "match",
-      "width": 25,
-      "height": 25,
-      "ypos": 615,
-      "xpos": 32
+      "width": 19,
+      "xpos": 36,
+      "height": 18,
+      "ypos": 637,
+      "type": "match"
     }
   ],
   "tags": [
     "current-pattern-selected"
-  ]
+  ],
+  "properties": []
 }
