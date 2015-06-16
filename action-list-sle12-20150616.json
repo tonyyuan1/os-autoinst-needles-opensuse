@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "action-list"
+  ],
+  "area": [
+    {
+      "xpos": 888,
+      "ypos": 573,
+      "width": 91,
+      "height": 85,
+      "type": "match"
+    }
+  ]
+}
