@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 20,
+      "xpos": 363,
+      "width": 467,
+      "type": "match",
+      "ypos": 147
+    },
+    {
+      "width": 67,
+      "height": 25,
+      "xpos": 943,
+      "ypos": 726,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-overview-dep-warning"
+  ]
+}
