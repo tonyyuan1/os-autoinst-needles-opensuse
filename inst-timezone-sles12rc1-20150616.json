@@ -1,12 +1,11 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 15,
-      "height": 625,
-      "width": 990,
+      "ypos": 65,
       "type": "match",
-      "ypos": 58
+      "width": 990,
+      "height": 625,
+      "xpos": 15
     },
     {
       "xpos": 780,
@@ -21,5 +20,6 @@
     "ENV-INSTLANG-en_US",
     "after-paritioning",
     "inst-timezone"
-  ]
+  ],
+  "properties": []
 }
