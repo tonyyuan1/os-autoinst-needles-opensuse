@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dasd-disk-management"
+  ],
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 89,
+      "width": 123,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
