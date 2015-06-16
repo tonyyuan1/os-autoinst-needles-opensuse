@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dasd-unselected"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 160,
+      "width": 90,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
