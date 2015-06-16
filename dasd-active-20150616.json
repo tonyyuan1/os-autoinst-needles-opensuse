@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "dasd-active"
+  ],
+  "area": [
+    {
+      "xpos": 452,
+      "ypos": 185,
+      "width": 59,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 827,
+      "ypos": 160,
+      "width": 80,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
