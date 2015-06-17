@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 106,
+      "ypos": 559,
+      "width": 200,
+      "height": 58,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_network-routing_enabled",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US"
+  ]
+}
