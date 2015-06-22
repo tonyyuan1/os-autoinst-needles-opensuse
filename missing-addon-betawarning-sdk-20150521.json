@@ -1,22 +1,22 @@
 {
-  "tags": [
-    "addon-betawarning-sdk"
-  ],
+  "properties": [],
   "area": [
     {
-      "xpos": 20,
-      "ypos": 94,
       "width": 168,
+      "xpos": 20,
       "height": 33,
+      "ypos": 94,
       "type": "match"
     },
     {
-      "xpos": 68,
-      "ypos": 229,
       "width": 372,
       "height": 34,
+      "xpos": 68,
+      "ypos": 229,
       "type": "match"
     }
   ],
-  "properties": []
+  "tags": [
+    "addon-betawarning-sdk"
+  ]
 }
