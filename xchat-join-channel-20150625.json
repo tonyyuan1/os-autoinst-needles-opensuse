@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "xchat-join-channel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 632,
+      "ypos": 546,
+      "width": 142,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}
