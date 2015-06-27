@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_network-lan",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 63,
+      "ypos": 129,
+      "width": 635,
+      "height": 73,
+      "type": "match"
+    }
+  ]
+}
