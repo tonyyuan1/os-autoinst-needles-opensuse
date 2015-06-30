@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 720,
+      "width": 142,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "release-notes-button"
+  ]
+}
