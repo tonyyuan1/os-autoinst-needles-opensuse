@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "addonproduct-selection"
+  ],
+  "area": [
+    {
+      "xpos": 54,
+      "ypos": 169,
+      "width": 278,
+      "height": 130,
+      "type": "match"
+    }
+  ]
+}
