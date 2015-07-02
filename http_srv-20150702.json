@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 84,
+      "width": 644,
+      "type": "match",
+      "ypos": 1,
+      "xpos": 0
+    },
+    {
+      "width": 356,
+      "height": 15,
+      "xpos": 0,
+      "ypos": 224,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-http_srv-1",
+    "ENV-OFW-1"
+  ]
+}
