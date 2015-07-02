@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 699,
+      "ypos": 164,
+      "width": 54,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 178,
+      "ypos": 202,
+      "width": 145,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 204,
+      "ypos": 496,
+      "width": 566,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "release-notes-tab-sdk"
+  ]
+}
