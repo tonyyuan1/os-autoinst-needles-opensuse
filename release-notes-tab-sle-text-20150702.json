@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-tab-sle"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 196,
+      "ypos": 170,
+      "width": 184,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 211,
+      "ypos": 208,
+      "width": 128,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
