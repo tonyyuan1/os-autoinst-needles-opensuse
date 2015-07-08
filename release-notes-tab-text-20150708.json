@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 246,
+      "ypos": 163,
+      "width": 171,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-tab"
+  ]
+}
