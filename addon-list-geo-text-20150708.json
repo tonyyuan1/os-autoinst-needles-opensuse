@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 503,
+      "ypos": 366,
+      "width": 75,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-dvd-geo"
+  ]
+}
