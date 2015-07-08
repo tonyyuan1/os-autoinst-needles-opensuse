@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-tab-ha"
+  ],
+  "area": [
+    {
+      "xpos": 596,
+      "ypos": 174,
+      "width": 57,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 209,
+      "ypos": 209,
+      "width": 103,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 208,
+      "ypos": 270,
+      "width": 393,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
