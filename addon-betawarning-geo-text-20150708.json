@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-betawarning-geo"
+  ],
+  "area": [
+    {
+      "width": 134,
+      "ypos": 23,
+      "type": "match",
+      "height": 34,
+      "xpos": 10
+    },
+    {
+      "ypos": 281,
+      "height": 44,
+      "type": "match",
+      "xpos": 324,
+      "width": 369
+    }
+  ],
+  "properties": []
+}
