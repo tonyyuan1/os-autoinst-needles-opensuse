@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "release-notes-tab-ha"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 603,
+      "ypos": 177,
+      "height": 14,
+      "width": 44
+    },
+    {
+      "type": "match",
+      "ypos": 207,
+      "xpos": 205,
+      "width": 109,
+      "height": 18
+    },
+    {
+      "xpos": 207,
+      "ypos": 302,
+      "width": 392,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
