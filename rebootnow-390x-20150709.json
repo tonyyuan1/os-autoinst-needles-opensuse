@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 267,
+      "ypos": 237,
+      "width": 220,
+      "height": 65,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "rebootnow"
+  ]
+}
