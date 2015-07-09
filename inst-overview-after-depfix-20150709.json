@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "inst-overview-after-depfix"
+  ],
+  "area": [
+    {
+      "height": 73,
+      "width": 305,
+      "type": "match",
+      "xpos": 22,
+      "ypos": 196
+    },
+    {
+      "width": 169,
+      "height": 36,
+      "ypos": 681,
+      "xpos": 596,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
