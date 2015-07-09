@@ -1,7 +1,8 @@
 {
   "properties": [],
   "tags": [
-    "hostname"
+    "hostname",
+    "hostname-susetest"
   ],
   "area": [
     {
