@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "height": 32,
+      "width": 175,
+      "margin": 300,
+      "ypos": 497
+    },
+    {
+      "xpos": 260,
+      "type": "match",
+      "margin": 300,
+      "ypos": 495,
+      "height": 17,
+      "width": 166
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-zypper_up-confirm",
+    "test-zypper_up-nothingtodo",
+    "zypper_up-nothingtodo",
+    "zypper_up_yesno-20140710",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-Maintenance-Desktop"
+  ]
+}
