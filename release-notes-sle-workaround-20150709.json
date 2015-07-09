@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 219,
+      "xpos": 201,
+      "width": 145,
+      "height": 20
+    },
+    {
+      "height": 42,
+      "width": 160,
+      "type": "match",
+      "xpos": 203,
+      "ypos": 274
+    }
+  ],
+  "properties": []
+}
