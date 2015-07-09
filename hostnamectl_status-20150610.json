@@ -9,7 +9,8 @@
     }
   ],
   "tags": [
-    "hostnamectl_status"
+    "hostnamectl_status",
+    "hostnamectl_status_susetest"
   ],
   "properties": []
 }
