@@ -1,4 +1,7 @@
 {
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
       "ypos": 331,

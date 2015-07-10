@@ -12,5 +12,7 @@
     "text-logged-in",
     "text-logged-in-root"
   ],
-  "properties": []
+  "properties": [
+    "workaround"
+  ]
 }
