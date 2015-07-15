@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 331,
+      "xpos": 243,
+      "width": 531,
+      "height": 90
+    }
+  ],
+  "tags": [
+    "Networkmanager_controlled"
+  ],
+  "properties": []
+}
