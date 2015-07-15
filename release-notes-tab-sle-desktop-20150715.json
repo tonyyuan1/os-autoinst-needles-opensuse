@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 270,
+      "height": 19,
+      "ypos": 41,
+      "xpos": 219,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "release-notes-tab-sle"
+  ],
+  "properties": []
+}
