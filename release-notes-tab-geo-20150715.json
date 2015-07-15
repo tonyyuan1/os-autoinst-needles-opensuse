@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "release-notes-tab-geo"
+  ],
+  "area": [
+    {
+      "width": 139,
+      "height": 15,
+      "ypos": 83,
+      "xpos": 23,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 45,
+      "xpos": 401,
+      "width": 80,
+      "height": 14
+    },
+    {
+      "height": 15,
+      "width": 354,
+      "xpos": 18,
+      "ypos": 164,
+      "type": "match"
+    }
+  ]
+}
