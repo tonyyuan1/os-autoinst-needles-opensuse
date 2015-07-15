@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-VIDEOMODE-text",
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 208,
+      "xpos": 208,
+      "width": 107,
+      "height": 18
+    },
+    {
+      "type": "match",
+      "xpos": 209,
+      "ypos": 272,
+      "height": 47,
+      "width": 549
+    }
+  ],
+  "properties": []
+}
