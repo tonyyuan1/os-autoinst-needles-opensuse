@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 97,
+      "xpos": 150,
+      "type": "match",
+      "width": 571,
+      "height": 157
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "test-gnome_control_center-1"
+  ]
+}
