@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "bootloader-ofw-yaboot",
+    "ENV-OFW-1"
+  ],
+  "area": [
+    {
+      "xpos": 221,
+      "ypos": 26,
+      "width": 211,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
