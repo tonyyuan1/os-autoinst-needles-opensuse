@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "text-logged-in",
+    "text-logged-in-root"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 79,
+      "ypos": 124,
+      "height": 22,
+      "width": 36
+    }
+  ]
+}
