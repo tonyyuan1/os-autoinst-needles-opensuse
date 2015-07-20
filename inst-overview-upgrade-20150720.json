@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 196,
+      "type": "match",
+      "height": 73,
+      "width": 305
+    },
+    {
+      "width": 75,
+      "height": 36,
+      "type": "match",
+      "ypos": 720,
+      "xpos": 940
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-UPGRADE-1",
+    "inst-overview"
+  ]
+}
