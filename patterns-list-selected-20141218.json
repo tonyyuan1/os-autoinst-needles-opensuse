@@ -1,16 +1,15 @@
 {
   "properties": [],
-  "tags": [
-    "on-category",
-    "patterns-list-selected"
-  ],
   "area": [
     {
-      "xpos": 184,
-      "ypos": 173,
       "type": "match",
-      "height": 30,
-      "width": 21
+      "ypos": 173,
+      "xpos": 184,
+      "width": 21,
+      "height": 30
     }
+  ],
+  "tags": [
+    "patterns-list-selected"
   ]
 }
