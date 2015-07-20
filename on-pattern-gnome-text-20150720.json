@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "on-pattern",
+    "pattern-gnome"
+  ],
+  "area": [
+    {
+      "xpos": 71,
+      "ypos": 241,
+      "width": 203,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
