@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "release-notes-tab-sdk"
+  ],
+  "area": [
+    {
+      "xpos": 269,
+      "ypos": 45,
+      "width": 86,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 18,
+      "ypos": 95,
+      "width": 148,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 20,
+      "ypos": 155,
+      "width": 489,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
