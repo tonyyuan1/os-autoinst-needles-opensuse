@@ -1,29 +1,29 @@
 {
-  "tags": [
-    "release-notes-tab-ha"
-  ],
+  "properties": [],
   "area": [
     {
-      "ypos": 163,
+      "ypos": 42,
+      "width": 101,
       "type": "match",
-      "width": 44,
-      "height": 14,
-      "xpos": 668
+      "xpos": 63,
+      "height": 17
     },
     {
-      "xpos": 79,
-      "width": 146,
-      "height": 21,
+      "ypos": 96,
+      "width": 145,
       "type": "match",
-      "ypos": 217
+      "xpos": 19,
+      "height": 18
     },
     {
-      "ypos": 303,
-      "width": 301,
+      "ypos": 154,
+      "width": 306,
       "type": "match",
-      "height": 10,
-      "xpos": 79
+      "xpos": 17,
+      "height": 39
     }
   ],
-  "properties": []
+  "tags": [
+    "release-notes-tab-ha"
+  ]
 }
