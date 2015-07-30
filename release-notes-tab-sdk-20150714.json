@@ -1,29 +1,29 @@
 {
-  "properties": [],
   "area": [
     {
+      "height": 14,
+      "xpos": 72,
       "type": "match",
-      "ypos": 45,
-      "width": 84,
-      "xpos": 269,
-      "height": 14
+      "width": 81,
+      "ypos": 45
     },
     {
-      "height": 19,
-      "xpos": 19,
       "width": 147,
-      "ypos": 96,
-      "type": "match"
+      "ypos": 79,
+      "type": "match",
+      "height": 19,
+      "xpos": 18
     },
     {
+      "width": 432,
+      "ypos": 137,
+      "type": "match",
       "height": 40,
-      "xpos": 19,
-      "width": 507,
-      "ypos": 154,
-      "type": "match"
+      "xpos": 17
     }
   ],
   "tags": [
     "release-notes-tab-sdk"
-  ]
+  ],
+  "properties": []
 }
