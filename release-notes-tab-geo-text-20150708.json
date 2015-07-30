@@ -1,30 +1,30 @@
 {
   "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 127,
+      "ypos": 177,
+      "height": 14,
+      "xpos": 313
+    },
+    {
+      "height": 14,
+      "xpos": 208,
+      "type": "match",
+      "width": 104,
+      "ypos": 208
+    },
+    {
+      "type": "match",
+      "ypos": 273,
+      "width": 465,
+      "xpos": 209,
+      "height": 46
+    }
+  ],
   "tags": [
     "ENV-VIDEOMODE-text",
     "release-notes-tab-geo"
-  ],
-  "area": [
-    {
-      "xpos": 665,
-      "ypos": 178,
-      "width": 79,
-      "height": 12,
-      "type": "match"
-    },
-    {
-      "xpos": 204,
-      "ypos": 209,
-      "width": 112,
-      "height": 14,
-      "type": "match"
-    },
-    {
-      "xpos": 209,
-      "ypos": 306,
-      "width": 469,
-      "height": 12,
-      "type": "match"
-    }
   ]
 }
