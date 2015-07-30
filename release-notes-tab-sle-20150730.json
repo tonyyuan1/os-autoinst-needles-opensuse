@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 268,
+      "height": 17,
+      "ypos": 42,
+      "width": 52,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "release-notes-tab-sle"
+  ]
+}
