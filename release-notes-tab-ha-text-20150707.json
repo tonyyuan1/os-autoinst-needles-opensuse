@@ -1,30 +1,30 @@
 {
+  "area": [
+    {
+      "type": "match",
+      "width": 94,
+      "ypos": 177,
+      "height": 14,
+      "xpos": 201
+    },
+    {
+      "height": 13,
+      "xpos": 208,
+      "type": "match",
+      "width": 106,
+      "ypos": 209
+    },
+    {
+      "height": 46,
+      "xpos": 208,
+      "type": "match",
+      "width": 394,
+      "ypos": 273
+    }
+  ],
   "tags": [
     "ENV-VIDEOMODE-text",
     "release-notes-tab-ha"
-  ],
-  "area": [
-    {
-      "xpos": 596,
-      "ypos": 174,
-      "width": 57,
-      "height": 20,
-      "type": "match"
-    },
-    {
-      "xpos": 209,
-      "ypos": 209,
-      "width": 103,
-      "height": 12,
-      "type": "match"
-    },
-    {
-      "xpos": 208,
-      "ypos": 270,
-      "width": 393,
-      "height": 50,
-      "type": "match"
-    }
   ],
   "properties": []
 }
