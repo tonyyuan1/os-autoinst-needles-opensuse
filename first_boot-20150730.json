@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "tags": [
     "text-login",
     "ENV-DESKTOP-gnome",
@@ -11,10 +10,11 @@
   "area": [
     {
       "xpos": 319,
-      "ypos": 641,
-      "width": 403,
       "height": 115,
-      "type": "match"
+      "type": "match",
+      "ypos": 641,
+      "width": 403
     }
-  ]
+  ],
+  "properties": []
 }
