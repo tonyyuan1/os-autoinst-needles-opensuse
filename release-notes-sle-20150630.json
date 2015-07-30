@@ -1,22 +1,22 @@
 {
+  "area": [
+    {
+      "type": "match",
+      "width": 145,
+      "ypos": 56,
+      "height": 18,
+      "xpos": 19
+    },
+    {
+      "width": 312,
+      "ypos": 114,
+      "type": "match",
+      "height": 54,
+      "xpos": 19
+    }
+  ],
   "tags": [
     "release-notes-sle"
   ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 201,
-      "ypos": 182,
-      "width": 145,
-      "height": 15,
-      "type": "match"
-    },
-    {
-      "xpos": 201,
-      "ypos": 239,
-      "width": 605,
-      "height": 66,
-      "type": "match"
-    }
-  ]
+  "properties": []
 }
