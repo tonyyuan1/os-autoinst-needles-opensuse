@@ -1,29 +1,29 @@
 {
   "properties": [],
-  "tags": [
-    "release-notes-tab-geo"
-  ],
   "area": [
     {
-      "width": 139,
-      "height": 15,
-      "ypos": 83,
-      "xpos": 23,
+      "xpos": 244,
+      "height": 13,
+      "ypos": 45,
+      "width": 134,
+      "type": "match"
+    },
+    {
+      "height": 16,
+      "xpos": 19,
+      "width": 146,
+      "ypos": 82,
       "type": "match"
     },
     {
       "type": "match",
-      "ypos": 45,
-      "xpos": 401,
-      "width": 80,
-      "height": 14
-    },
-    {
-      "height": 15,
-      "width": 354,
-      "xpos": 18,
-      "ypos": 164,
-      "type": "match"
+      "width": 359,
+      "ypos": 137,
+      "height": 41,
+      "xpos": 17
     }
+  ],
+  "tags": [
+    "release-notes-tab-geo"
   ]
 }
