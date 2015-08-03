@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "confirmlicense",
+    "license-popup"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 311,
+      "height": 21,
+      "ypos": 165,
+      "type": "match",
+      "width": 209
+    },
+    {
+      "ypos": 587,
+      "height": 38,
+      "xpos": 650,
+      "width": 186,
+      "type": "match"
+    }
+  ]
+}
