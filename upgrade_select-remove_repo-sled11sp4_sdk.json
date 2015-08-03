@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-INSTLANG-en_US",
+    "remove-repository"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 121,
+      "ypos": 89,
+      "xpos": 342,
+      "width": 491,
+      "type": "match"
+    },
+    {
+      "xpos": 67,
+      "ypos": 187,
+      "width": 261,
+      "height": 89,
+      "type": "match"
+    }
+  ]
+}
