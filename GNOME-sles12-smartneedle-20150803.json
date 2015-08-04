@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
@@ -8,34 +7,28 @@
     "desktop-at-first-boot",
     "test-consoletest_finish-1"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 54,
-      "ypos": 10,
       "width": 65,
+      "type": "match",
+      "ypos": 10,
       "height": 183,
-      "type": "match"
+      "xpos": 54
     },
     {
       "xpos": 6,
       "ypos": 746,
-      "width": 173,
       "height": 20,
-      "type": "match"
+      "type": "match",
+      "width": 173
     },
     {
-      "xpos": 843,
       "ypos": 48,
-      "width": 148,
       "height": 78,
-      "type": "match"
-    },
-    {
-      "xpos": 985,
-      "ypos": 744,
-      "width": 32,
-      "height": 19,
-      "type": "match"
+      "xpos": 843,
+      "type": "match",
+      "width": 148
     }
   ]
 }
