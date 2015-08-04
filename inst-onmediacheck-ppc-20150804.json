@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "inst-onmediacheck"
+  ],
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 131,
+      "width": 204,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
