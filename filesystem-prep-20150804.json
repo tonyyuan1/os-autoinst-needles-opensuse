@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 408,
+      "ypos": 483,
+      "width": 70,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "filesystem-prep"
+  ]
+}
