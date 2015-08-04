@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "partitioning-size",
+    "ENV-FLAVOR-Server-DVD"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 95,
+      "width": 195,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 436,
+      "ypos": 287,
+      "width": 81,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
