@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "inst-rescuesystem"
+  ],
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 99,
+      "width": 111,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
