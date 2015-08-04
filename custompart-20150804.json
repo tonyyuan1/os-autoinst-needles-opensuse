@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "custompart"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 186,
+      "ypos": 130,
+      "xpos": 309,
+      "type": "match",
+      "width": 468
+    }
+  ]
+}
