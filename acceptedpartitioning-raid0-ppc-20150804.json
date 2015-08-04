@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "acceptedpartitioning"
+  ],
+  "area": [
+    {
+      "xpos": 385,
+      "height": 244,
+      "ypos": 112,
+      "width": 582,
+      "type": "match"
+    }
+  ]
+}
