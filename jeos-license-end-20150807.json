@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "jeos-license-end",
+    "ENV-FLAVOR-JeOS-for-kvm"
+  ],
+  "area": [
+    {
+      "xpos": 442,
+      "ypos": 753,
+      "width": 39,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 203,
+      "ypos": 754,
+      "width": 84,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
