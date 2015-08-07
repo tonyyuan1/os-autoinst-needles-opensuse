@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 659,
+      "width": 135,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 755,
+      "width": 70,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "jeos-firstrun-finished"
+  ]
+}
