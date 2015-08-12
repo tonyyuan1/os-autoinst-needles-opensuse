@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "inst-betawarning",
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Server-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 360,
+      "ypos": 402,
+      "width": 459,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
