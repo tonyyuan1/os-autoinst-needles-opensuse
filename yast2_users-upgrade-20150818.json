@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 788,
+      "xpos": 115,
+      "ypos": 80,
+      "type": "match",
+      "height": 558
+    }
+  ],
+  "tags": [
+    "UPGRADE-1",
+    "test-yast2_users-1"
+  ]
+}
