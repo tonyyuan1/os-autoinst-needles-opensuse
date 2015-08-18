@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-iscsi-client-initiator-name"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 277,
+      "ypos": 364,
+      "width": 186,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}
