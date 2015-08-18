@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-iscsi-client-target-connected"
+  ],
+  "area": [
+    {
+      "xpos": 894,
+      "ypos": 77,
+      "width": 78,
+      "height": 85,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
