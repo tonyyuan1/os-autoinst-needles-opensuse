@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ha-cluster-init-multicast-address"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 239,
+      "width": 323,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
