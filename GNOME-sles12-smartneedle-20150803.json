@@ -1,4 +1,35 @@
 {
+  "area": [
+    {
+      "xpos": 5,
+      "width": 166,
+      "height": 17,
+      "ypos": 746,
+      "type": "match"
+    },
+    {
+      "ypos": 18,
+      "type": "match",
+      "height": 75,
+      "width": 59,
+      "xpos": 59
+    },
+    {
+      "xpos": 60,
+      "width": 58,
+      "type": "match",
+      "ypos": 118,
+      "height": 74
+    },
+    {
+      "xpos": 846,
+      "width": 141,
+      "height": 83,
+      "type": "match",
+      "ypos": 42
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
@@ -6,29 +37,5 @@
     "generic-desktop",
     "desktop-at-first-boot",
     "test-consoletest_finish-1"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "width": 65,
-      "type": "match",
-      "ypos": 10,
-      "height": 183,
-      "xpos": 54
-    },
-    {
-      "xpos": 6,
-      "ypos": 746,
-      "height": 20,
-      "type": "match",
-      "width": 173
-    },
-    {
-      "ypos": 48,
-      "height": 78,
-      "xpos": 843,
-      "type": "match",
-      "width": 148
-    }
   ]
 }
