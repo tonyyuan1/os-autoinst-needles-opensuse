@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 50,
+      "width": 251,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast-package-dasher-not-installed"
+  ],
+  "properties": []
+}
