@@ -3,21 +3,21 @@
     "ENV-VIDEOMODE-text",
     "release-notes-sle"
   ],
+  "properties": [],
   "area": [
     {
+      "xpos": 200,
       "type": "match",
-      "width": 107,
-      "ypos": 464,
-      "height": 18,
-      "xpos": 200
+      "width": 105,
+      "ypos": 465,
+      "height": 12
     },
     {
-      "xpos": 247,
-      "height": 12,
-      "ypos": 274,
       "width": 224,
-      "type": "match"
+      "xpos": 248,
+      "type": "match",
+      "height": 12,
+      "ypos": 274
     }
-  ],
-  "properties": []
+  ]
 }
