@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-betawarning-ha"
+  ],
+  "area": [
+    {
+      "height": 33,
+      "width": 204,
+      "ypos": 94,
+      "xpos": 23,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 213,
+      "height": 65,
+      "width": 234,
+      "ypos": 213
+    }
+  ]
+}
