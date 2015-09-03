@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-list"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 73,
+      "height": 74,
+      "width": 245,
+      "ypos": 191
+    },
+    {
+      "height": 10,
+      "ypos": 126,
+      "width": 82,
+      "type": "match",
+      "xpos": 357
+    }
+  ]
+}
