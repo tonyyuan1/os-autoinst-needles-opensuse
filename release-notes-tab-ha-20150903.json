@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "release-notes-tab-ha"
+  ],
+  "area": [
+    {
+      "xpos": 60,
+      "type": "match",
+      "height": 17,
+      "width": 101,
+      "ypos": 42
+    },
+    {
+      "type": "match",
+      "xpos": 19,
+      "height": 18,
+      "width": 145,
+      "ypos": 96
+    },
+    {
+      "width": 306,
+      "height": 39,
+      "ypos": 154,
+      "xpos": 17,
+      "type": "match"
+    }
+  ]
+}
