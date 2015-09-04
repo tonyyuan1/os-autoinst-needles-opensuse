@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "nfs-client-selected-for-install"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 81,
+      "width": 127,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
