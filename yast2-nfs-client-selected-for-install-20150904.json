@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 366,
+      "ypos": 82,
+      "width": 162,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "yast2-nfs-client-selected-for-install"
+  ]
+}
