@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 431,
+      "ypos": 246,
+      "width": 428,
+      "height": 67,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "scc-addon-regcode-HA"
+  ],
+  "properties": []
+}
