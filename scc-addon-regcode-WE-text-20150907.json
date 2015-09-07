@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "scc-addon-regcode-WE"
+  ],
+  "area": [
+    {
+      "xpos": 177,
+      "ypos": 228,
+      "width": 509,
+      "height": 53,
+      "type": "match"
+    }
+  ]
+}
