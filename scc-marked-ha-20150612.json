@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "scc-marked-ha"
-  ],
   "area": [
     {
       "xpos": 363,
-      "ypos": 298,
+      "height": 15,
+      "ypos": 294,
       "width": 345,
-      "height": 12,
       "type": "match"
     }
+  ],
+  "tags": [
+    "scc-marked-ha"
   ],
   "properties": []
 }
