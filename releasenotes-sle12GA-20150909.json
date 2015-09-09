@@ -1,0 +1,28 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 202,
+      "ypos": 180,
+      "width": 148,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 224,
+      "ypos": 278,
+      "width": 198,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-INSTLANG-en_US",
+    "ENV-OFW-1",
+    "ENV-VERSION-12",
+    "release-notes-sle"
+  ]
+}
