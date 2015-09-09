@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-HDDMODEL-virtio-scsi-pci",
+    "custompart"
+  ],
+  "area": [
+    {
+      "height": 186,
+      "xpos": 309,
+      "type": "match",
+      "width": 468,
+      "ypos": 130
+    }
+  ],
+  "properties": []
+}
