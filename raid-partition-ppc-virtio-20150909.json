@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-HDDMODEL-virtio-scsi-pci",
+    "raid-partition"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 319,
+      "height": 72,
+      "ypos": 305,
+      "width": 335
+    }
+  ],
+  "properties": []
+}
