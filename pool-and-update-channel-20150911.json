@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "pool-and-update-channel"
+  ],
+  "area": [
+    {
+      "height": 12,
+      "xpos": 621,
+      "type": "match",
+      "width": 276,
+      "ypos": 481
+    },
+    {
+      "width": 274,
+      "ypos": 545,
+      "xpos": 621,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
