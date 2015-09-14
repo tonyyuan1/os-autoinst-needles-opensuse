@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "disabledhome"
+  ],
+  "area": [
+    {
+      "xpos": 384,
+      "ypos": 398,
+      "width": 243,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}
