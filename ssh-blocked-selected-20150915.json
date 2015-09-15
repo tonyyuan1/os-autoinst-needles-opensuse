@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 398,
+      "ypos": 413,
+      "width": 201,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 555,
+      "ypos": 415,
+      "width": 44,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-blocked-selected"
+  ]
+}
