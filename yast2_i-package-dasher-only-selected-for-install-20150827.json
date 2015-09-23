@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 82,
+      "width": 135,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "package-dasher-only-selected-for-install"
+  ]
+}
