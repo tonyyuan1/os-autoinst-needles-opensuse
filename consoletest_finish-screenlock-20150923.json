@@ -1,22 +1,22 @@
 {
+  "area": [
+    {
+      "height": 123,
+      "type": "match",
+      "ypos": 0,
+      "xpos": 840,
+      "width": 183
+    },
+    {
+      "height": 27,
+      "width": 346,
+      "xpos": 678,
+      "ypos": 0,
+      "type": "match"
+    }
+  ],
   "tags": [
     "screenlock"
   ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 832,
-      "ypos": 44,
-      "width": 171,
-      "height": 95,
-      "type": "match"
-    },
-    {
-      "xpos": 833,
-      "ypos": 235,
-      "width": 183,
-      "height": 154,
-      "type": "match"
-    }
-  ]
+  "properties": []
 }
