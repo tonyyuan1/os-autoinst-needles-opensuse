@@ -1,0 +1,38 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 29,
+      "width": 258,
+      "ypos": 135,
+      "xpos": 105
+    },
+    {
+      "type": "match",
+      "width": 254,
+      "height": 26,
+      "xpos": 107,
+      "ypos": 241
+    },
+    {
+      "type": "match",
+      "xpos": 23,
+      "ypos": 81,
+      "width": 302,
+      "height": 46
+    },
+    {
+      "ypos": 345,
+      "xpos": 104,
+      "height": 27,
+      "width": 256,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "virtman_vnetcheck",
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US"
+  ]
+}
