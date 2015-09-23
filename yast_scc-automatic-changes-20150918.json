@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 293,
+      "ypos": 108,
+      "width": 447,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "yast_scc-automatic-changes"
+  ]
+}

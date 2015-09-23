@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "yast_scc-license-dialog"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 398,
+      "ypos": 82,
+      "width": 218,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

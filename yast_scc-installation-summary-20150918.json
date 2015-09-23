@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "yast_scc-installation-summary"
+  ],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 64,
+      "width": 276,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
