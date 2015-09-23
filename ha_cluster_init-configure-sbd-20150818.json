@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "ha-cluster-init-configure-sbd"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 430,
+      "width": 235,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

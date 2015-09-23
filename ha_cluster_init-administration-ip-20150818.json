@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "ha-cluster-init-administration-ip"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 495,
+      "width": 604,
+      "height": 273,
+      "type": "match"
+    },
+    {
+      "xpos": 112,
+      "ypos": 528,
+      "width": 218,
+      "height": 14,
+      "type": "exclude"
+    },
+    {
+      "xpos": 166,
+      "ypos": 590,
+      "width": 434,
+      "height": 17,
+      "type": "exclude"
+    }
+  ]
+}

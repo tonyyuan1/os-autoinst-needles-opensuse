@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-HACLUSTER",
+    "yast2_lan"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 0,
+      "width": 1010,
+      "xpos": 0,
+      "height": 711,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 497,
+      "width": 276,
+      "height": 152,
+      "type": "exclude"
+    },
+    {
+      "xpos": 116,
+      "ypos": 0,
+      "width": 70,
+      "height": 24,
+      "type": "exclude"
+    }
+  ]
+}

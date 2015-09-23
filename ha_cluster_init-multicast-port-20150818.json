@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 255,
+      "width": 179,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ha-cluster-init-multicast-port"
+  ]
+}

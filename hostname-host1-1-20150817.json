@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "hostname-host1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 225,
+      "width": 51,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

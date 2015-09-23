@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ha-cluster-init-watchdog-warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 464,
+      "width": 848,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ha-cluster-init-configure-sbd-confirmation"
+  ],
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 494,
+      "width": 374,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

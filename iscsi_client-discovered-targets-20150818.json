@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2-iscsi-client-discovered-targets"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 1022,
+      "height": 764,
+      "type": "match"
+    },
+    {
+      "xpos": 189,
+      "ypos": 0,
+      "width": 125,
+      "height": 23,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
+}
