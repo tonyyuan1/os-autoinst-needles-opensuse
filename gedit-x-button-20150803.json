@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 801,
+      "ypos": 71,
+      "width": 33,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gedit-x-button"
+  ]
+}

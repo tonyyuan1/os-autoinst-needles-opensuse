@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 163,
+      "ypos": 50,
+      "width": 160,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pidgin-pkg-removed"
+  ]
+}

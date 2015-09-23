@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evince-open-pdf"
+  ],
+  "area": [
+    {
+      "xpos": 210,
+      "ypos": 278,
+      "width": 243,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 610,
+      "ypos": 594,
+      "width": 122,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

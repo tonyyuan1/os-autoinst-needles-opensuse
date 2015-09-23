@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "gedit-about-credits"
+  ],
+  "area": [
+    {
+      "xpos": 373,
+      "ypos": 332,
+      "width": 80,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 354,
+      "ypos": 496,
+      "width": 100,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

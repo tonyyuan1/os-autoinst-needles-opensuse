@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "pidgin-protocol-aim"
+  ],
+  "area": [
+    {
+      "xpos": 498,
+      "ypos": 221,
+      "width": 108,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

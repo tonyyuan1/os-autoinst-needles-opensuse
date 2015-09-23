@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 406,
+      "width": 390,
+      "height": 119,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gedit-about-license"
+  ]
+}

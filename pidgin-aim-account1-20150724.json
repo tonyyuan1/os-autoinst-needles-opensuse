@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "pidgin-aim-account1"
+  ],
+  "area": [
+    {
+      "xpos": 279,
+      "type": "match",
+      "ypos": 266,
+      "width": 289,
+      "height": 32
+    }
+  ],
+  "properties": []
+}

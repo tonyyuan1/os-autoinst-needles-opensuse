@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evince-search-toolbar"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 86,
+      "width": 369,
+      "height": 37,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 26,
+      "ypos": 51,
+      "width": 39,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 27,
+      "ypos": 64,
+      "width": 62,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pidgin-pkg-installed"
+  ],
+  "properties": []
+}
