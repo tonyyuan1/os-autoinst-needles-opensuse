@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "nautilus-ftp-rightkey-menu"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 788,
+      "ypos": 631,
+      "width": 73,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 353,
+      "ypos": 149,
+      "width": 66,
+      "height": 67,
+      "type": "match"
+    },
+    {
+      "xpos": 131,
+      "ypos": 261,
+      "width": 110,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-newfile-moved"
+  ]
+}

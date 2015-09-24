@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "gnote-search-welcome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 219,
+      "width": 97,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 219,
+      "ypos": 260,
+      "width": 118,
+      "height": 65,
+      "type": "match"
+    }
+  ]
+}
