@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evince-presentation-mode"
+  ],
+  "area": [
+    {
+      "xpos": 109,
+      "ypos": 244,
+      "width": 116,
+      "height": 524,
+      "type": "match"
+    },
+    {
+      "xpos": 791,
+      "ypos": 255,
+      "width": 111,
+      "height": 513,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pidgin-aim-online-buddy"
+  ],
+  "area": [
+    {
+      "ypos": 314,
+      "xpos": 4,
+      "type": "match",
+      "width": 123,
+      "height": 79
+    }
+  ]
+}

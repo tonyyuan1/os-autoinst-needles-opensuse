@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 188,
+      "ypos": 179,
+      "width": 128,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 188,
+      "ypos": 340,
+      "width": 109,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 188,
+      "ypos": 402,
+      "width": 432,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gedit-saved-file"
+  ],
+  "properties": []
+}
