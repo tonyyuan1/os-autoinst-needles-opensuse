@@ -16,8 +16,7 @@
     }
   ],
   "tags": [
-    "bootloader",
-    "inst-bootmenu"
+    "bootloader-grub2"
   ],
   "properties": []
 }
