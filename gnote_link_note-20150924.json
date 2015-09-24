@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 65,
+      "ypos": 267,
+      "height": 16,
+      "width": 82
+    }
+  ],
+  "tags": [
+    "gnote-new-note-link"
+  ],
+  "properties": []
+}
