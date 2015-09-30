@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 350,
+      "height": 90,
+      "type": "match",
+      "width": 310,
+      "ypos": 118
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "SLE12_software_selection",
+    "ENV-DISTRI-suse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

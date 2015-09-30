@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 577,
+      "ypos": 683,
+      "width": 437,
+      "height": 80,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "SLE12_goforinstall",
+    "ENV-DISTRI-suse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}

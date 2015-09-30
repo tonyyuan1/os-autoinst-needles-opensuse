@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-icewm",
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US",
+    "SLE12_beta"
+  ],
+  "area": [
+    {
+      "xpos": 223,
+      "ypos": 247,
+      "width": 316,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

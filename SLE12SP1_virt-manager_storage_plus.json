@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "SLE12SP1_virt-manager_storage_plus"
+  ],
+  "area": [
+    {
+      "xpos": 304,
+      "ypos": 352,
+      "width": 31,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

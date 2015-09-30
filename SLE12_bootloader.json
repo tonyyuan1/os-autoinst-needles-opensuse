@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 238,
+      "ypos": 140,
+      "width": 197,
+      "height": 84,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "SLE12_bootloader",
+    "ENV-DISTRI-suse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "SLE12_install_in_progress",
+    "ENV-DISTRI-suse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 115,
+      "ypos": 172,
+      "width": 231,
+      "height": 116,
+      "type": "match"
+    },
+    {
+      "xpos": 343,
+      "ypos": 647,
+      "width": 168,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 204,
+      "ypos": 241,
+      "width": 173,
+      "height": 134,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "SLE12_login",
+    "ENV-DISTRI-suse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}

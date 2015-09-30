@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 582,
+      "width": 34,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "SLE12_virt-manager_vnet_plus"
+  ]
+}

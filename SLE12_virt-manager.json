@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "SLE12_virt-manager",
+    "ENV-DISTRI-virtualization",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 471,
+      "ypos": 172,
+      "width": 372,
+      "height": 147,
+      "type": "match"
+    }
+  ]
+}

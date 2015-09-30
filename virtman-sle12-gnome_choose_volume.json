@@ -1,17 +1,17 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 619,
-      "ypos": 636,
-      "width": 114,
-      "height": 23,
-      "type": "match"
+      "type": "match",
+      "xpos": 626,
+      "height": 28,
+      "ypos": 616,
+      "width": 110
     }
   ],
   "tags": [
-    "virtman-sle12-gnome_choose_volume",
     "ENV-DISTRI-virtualization",
-    "ENV-INSTLANG-en_US"
-  ],
-  "properties": []
+    "ENV-INSTLANG-en_US",
+    "virtman-sle12-gnome_choose_volume"
+  ]
 }

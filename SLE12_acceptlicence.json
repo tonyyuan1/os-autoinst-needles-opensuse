@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 345,
+      "ypos": 205,
+      "width": 168,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 519,
+      "ypos": 668,
+      "width": 206,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 18,
+      "ypos": 266,
+      "width": 317,
+      "height": 64,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "SLE12_acceptlicence",
+    "ENV-DISTRI-suse",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}
