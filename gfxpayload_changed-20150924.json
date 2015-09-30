@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gfxpayload_changed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 181,
+      "height": 12,
+      "type": "match",
+      "xpos": 113,
+      "ypos": 208
+    }
+  ]
+}
