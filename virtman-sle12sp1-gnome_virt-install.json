@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 268,
+      "ypos": 54,
+      "width": 220,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 163,
+      "ypos": 240,
+      "width": 319,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "virtman-sle12sp1-gnome_virt-install"
+  ]
+}
