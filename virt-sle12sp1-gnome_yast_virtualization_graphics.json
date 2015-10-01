@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 245,
+      "ypos": 293,
+      "width": 254,
+      "height": 84,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "virt-sle12sp1-gnome_yast_virtualization_graphics",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+  ]
+}

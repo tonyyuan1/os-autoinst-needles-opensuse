@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "virt-sle12sp1-gnome_yast_virtualization_bridge"
+  ],
+  "area": [
+    {
+      "xpos": 227,
+      "ypos": 292,
+      "width": 185,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 223,
+      "ypos": 378,
+      "width": 251,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
