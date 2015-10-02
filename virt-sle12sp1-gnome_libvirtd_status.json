@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "virt-sle12sp1-gnome_libvirtd_status",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 82,
+      "width": 152,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
