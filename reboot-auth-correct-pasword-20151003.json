@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "reboot-auth-correct-password"
+  ],
+  "area": [
+    {
+      "xpos": 344,
+      "ypos": 360,
+      "width": 183,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
