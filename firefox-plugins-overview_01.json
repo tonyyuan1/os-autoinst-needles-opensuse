@@ -1,0 +1,68 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-INSTLANG-en_US",
+    "firefox-plugins-overview_01"
+  ],
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 318,
+      "width": 194,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 292,
+      "ypos": 386,
+      "width": 249,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 292,
+      "ypos": 455,
+      "width": 211,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 291,
+      "ypos": 524,
+      "width": 287,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 708,
+      "ypos": 344,
+      "width": 150,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 707,
+      "ypos": 413,
+      "width": 151,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 710,
+      "ypos": 481,
+      "width": 148,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 710,
+      "ypos": 551,
+      "width": 148,
+      "height": 35,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 234,
+      "height": 24,
+      "ypos": 41,
+      "type": "match",
+      "xpos": 8
+    },
+    {
+      "height": 30,
+      "width": 29,
+      "xpos": 13,
+      "type": "match",
+      "ypos": 151
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-private-twitter"
+  ]
+}

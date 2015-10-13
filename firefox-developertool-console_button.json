@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 376,
+      "xpos": 622,
+      "width": 64,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-console_button",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

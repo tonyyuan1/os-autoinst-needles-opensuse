@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 226,
+      "height": 38,
+      "type": "match",
+      "ypos": 54,
+      "xpos": 202
+    },
+    {
+      "xpos": 405,
+      "ypos": 16,
+      "type": "match",
+      "width": 127,
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-saving_box",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

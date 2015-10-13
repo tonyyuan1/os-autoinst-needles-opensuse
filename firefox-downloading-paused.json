@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 257,
+      "ypos": 130,
+      "width": 50,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 256,
+      "ypos": 84,
+      "width": 77,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-paused",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

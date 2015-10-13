@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "firefox-appearance-tabicon",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 158,
+      "ypos": 427,
+      "width": 36,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

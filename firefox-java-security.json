@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 157,
+      "width": 192,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-java-security",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

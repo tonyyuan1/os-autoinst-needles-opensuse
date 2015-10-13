@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 165,
+      "ypos": 132,
+      "width": 163,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 126,
+      "ypos": 202,
+      "width": 53,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-ssl-loadpage",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "firefox-urls_protocols-smb",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 131,
+      "ypos": 128,
+      "width": 250,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 195,
+      "ypos": 305,
+      "width": 416,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

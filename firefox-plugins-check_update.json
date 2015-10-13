@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 286,
+      "height": 21,
+      "type": "match",
+      "width": 281,
+      "xpos": 230
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-plugins-check_update",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

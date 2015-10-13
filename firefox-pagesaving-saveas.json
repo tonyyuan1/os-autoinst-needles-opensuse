@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "firefox-pagesaving-saveas",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 42,
+      "xpos": 658,
+      "ypos": 570,
+      "width": 190,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 118,
+      "height": 46,
+      "ypos": 86,
+      "width": 211
+    }
+  ]
+}

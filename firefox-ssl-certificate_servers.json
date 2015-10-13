@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "firefox-ssl-certificate_servers",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 194,
+      "width": 62,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

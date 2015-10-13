@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "height": 32,
+      "width": 146,
+      "xpos": 721,
+      "ypos": 390,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-java-asktoactivate",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}
