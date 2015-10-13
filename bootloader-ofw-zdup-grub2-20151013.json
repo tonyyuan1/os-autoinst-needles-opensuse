@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "ENV-ZDUP-1",
+    "bootloader-ofw",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "ypos": 17,
+      "xpos": 13,
+      "width": 632,
+      "type": "match",
+      "height": 217
+    }
+  ]
+}
