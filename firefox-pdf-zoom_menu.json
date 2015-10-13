@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "ypos": 209,
+      "xpos": 591,
+      "width": 24,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pdf-zoom_menu",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

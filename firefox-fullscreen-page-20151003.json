@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 164,
+      "ypos": 135,
+      "width": 262,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 133,
+      "ypos": 281,
+      "width": 219,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-fullscreen-page"
+  ],
+  "properties": []
+}

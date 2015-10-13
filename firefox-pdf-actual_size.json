@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 319,
+      "ypos": 389,
+      "width": 443,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-pdf-actual_size",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

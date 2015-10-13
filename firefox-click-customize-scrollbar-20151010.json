@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-click-scrollbar"
+  ],
+  "area": [
+    {
+      "xpos": 446,
+      "ypos": 382,
+      "width": 15,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

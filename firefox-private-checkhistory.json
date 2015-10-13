@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 266,
+      "width": 261,
+      "height": 153,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-private-checkhistory",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": []
+}

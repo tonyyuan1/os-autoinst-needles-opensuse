@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 28,
+      "ypos": 76,
+      "width": 10,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-changesaving-diffresult",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": []
+}

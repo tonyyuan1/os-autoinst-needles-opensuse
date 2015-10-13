@@ -1,0 +1,26 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-extcontent-opening",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 429,
+      "ypos": 170,
+      "width": 69,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 548,
+      "ypos": 481,
+      "width": 199,
+      "height": 39,
+      "type": "match"
+    }
+  ]
+}

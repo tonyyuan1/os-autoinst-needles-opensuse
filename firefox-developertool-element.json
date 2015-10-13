@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 220,
+      "ypos": 514,
+      "width": 324,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-element",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}

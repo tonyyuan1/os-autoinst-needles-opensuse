@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "firefox-urls_protocols-https",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 131,
+      "ypos": 131,
+      "width": 230,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 482,
+      "ypos": 389,
+      "width": 75,
+      "height": 75,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-links_nav-suse_blogs"
+  ],
+  "area": [
+    {
+      "ypos": 129,
+      "type": "match",
+      "xpos": 129,
+      "height": 34,
+      "width": 393
+    },
+    {
+      "ypos": 364,
+      "height": 29,
+      "width": 275,
+      "type": "match",
+      "xpos": 129
+    }
+  ]
+}

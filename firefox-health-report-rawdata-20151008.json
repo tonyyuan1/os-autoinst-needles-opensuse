@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-health-report-rawdata"
+  ],
+  "area": [
+    {
+      "height": 50,
+      "width": 123,
+      "xpos": 442,
+      "type": "match",
+      "ypos": 201
+    }
+  ]
+}

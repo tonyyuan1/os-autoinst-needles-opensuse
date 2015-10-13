@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "firefox-urls_protocols-ftp",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 130,
+      "ypos": 127,
+      "width": 227,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 197,
+      "ypos": 303,
+      "width": 363,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

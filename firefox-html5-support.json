@@ -1,0 +1,54 @@
+{
+  "area": [
+    {
+      "ypos": 218,
+      "xpos": 136,
+      "width": 157,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "width": 76,
+      "xpos": 387,
+      "ypos": 218,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "width": 99,
+      "ypos": 218,
+      "xpos": 639,
+      "type": "match",
+      "height": 31
+    },
+    {
+      "xpos": 137,
+      "ypos": 316,
+      "width": 180,
+      "type": "match",
+      "height": 28
+    },
+    {
+      "width": 113,
+      "xpos": 389,
+      "ypos": 316,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "height": 29,
+      "type": "match",
+      "ypos": 316,
+      "xpos": 639,
+      "width": 142
+    }
+  ],
+  "tags": [
+    "firefox-html5-support",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "properties": []
+}

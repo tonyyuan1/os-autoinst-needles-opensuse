@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 432,
+      "ypos": 178,
+      "width": 156,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 462,
+      "ypos": 224,
+      "width": 231,
+      "height": 51,
+      "type": "match"
+    },
+    {
+      "xpos": 466,
+      "ypos": 295,
+      "width": 243,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-help",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ]
+}
