@@ -1,26 +1,24 @@
 {
-  "properties": [
-    "workaround"
+  "properties": [],
+  "area": [
+    {
+      "xpos": 66,
+      "width": 254,
+      "type": "match",
+      "height": 148,
+      "ypos": 194
+    },
+    {
+      "ypos": 185,
+      "height": 22,
+      "type": "match",
+      "width": 388,
+      "xpos": 380
+    }
   ],
   "tags": [
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "scc-addon-license-ha"
-  ],
-  "area": [
-    {
-      "ypos": 194,
-      "width": 254,
-      "type": "match",
-      "xpos": 66,
-      "height": 228
-    },
-    {
-      "height": 22,
-      "xpos": 380,
-      "type": "match",
-      "ypos": 185,
-      "width": 388
-    }
   ]
 }
