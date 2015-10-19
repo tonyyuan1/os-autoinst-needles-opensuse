@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 370,
+      "width": 174,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-dvd-ha",
+    "ENV-VIDEOMODE-text",
+    "ENV-DESKTOP-textmode"
+  ]
+}
