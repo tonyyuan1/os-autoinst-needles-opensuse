@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 51,
+      "width": 990,
+      "height": 625,
+      "type": "match",
+      "xpos": 15
+    },
+    {
+      "ypos": 681,
+      "width": 233,
+      "height": 79,
+      "type": "match",
+      "xpos": 780
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "after-paritioning",
+    "inst-timezone"
+  ]
+}
