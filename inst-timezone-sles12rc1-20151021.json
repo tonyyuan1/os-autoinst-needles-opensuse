@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-INSTLANG-en_US",
+    "after-paritioning",
+    "inst-timezone"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 15,
+      "width": 990,
+      "ypos": 65,
+      "height": 625
+    },
+    {
+      "width": 233,
+      "xpos": 780,
+      "type": "match",
+      "height": 79,
+      "ypos": 681
+    }
+  ],
+  "properties": []
+}
