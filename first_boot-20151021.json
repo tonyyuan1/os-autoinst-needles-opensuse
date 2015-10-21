@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 373,
+      "ypos": 441,
+      "width": 298,
+      "height": 160,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "displaymanager",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-OFW-1",
+    "ENV-FLAVOR-Server-DVD"
+  ]
+}
