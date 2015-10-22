@@ -11,7 +11,6 @@
   ],
   "tags": [
     "SLE12_partition_ext4",
-    "ENV-DISTRI-suse",
     "ENV-INSTLANG-en_US"
   ]
 }
