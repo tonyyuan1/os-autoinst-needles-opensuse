@@ -1,0 +1,33 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-email_link-send",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Desktop-DVD"
+  ],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 117,
+      "width": 375,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 233,
+      "width": 289,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 8,
+      "ypos": 329,
+      "width": 194,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
