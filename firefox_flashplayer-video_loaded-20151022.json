@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 400,
+      "ypos": 421,
+      "width": 93,
+      "height": 73,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-flashplayer-video_loaded"
+  ]
+}

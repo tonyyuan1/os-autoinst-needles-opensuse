@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "firefox-email_link-settings_receiving",
+    "firefox-email_link-settings_sending"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 188,
+      "ypos": 172,
+      "width": 88,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
