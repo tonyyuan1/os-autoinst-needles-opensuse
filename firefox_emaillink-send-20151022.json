@@ -1,11 +1,7 @@
 {
   "properties": [],
   "tags": [
-    "firefox-email_link-send",
-    "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-sle",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Desktop-DVD"
+    "firefox-email_link-send"
   ],
   "area": [
     {

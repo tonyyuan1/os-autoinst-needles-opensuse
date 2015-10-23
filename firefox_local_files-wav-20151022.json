@@ -24,10 +24,6 @@
   ],
   "properties": [],
   "tags": [
-    "firefox-local_files-wav",
-    "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-sle",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Desktop-DVD"
+    "firefox-local_files-wav"
   ]
 }

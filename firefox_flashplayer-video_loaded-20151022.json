@@ -10,10 +10,6 @@
     }
   ],
   "tags": [
-    "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-sle",
-    "ENV-FLAVOR-Desktop-DVD",
-    "ENV-INSTLANG-en_US",
     "firefox-flashplayer-video_loaded"
   ]
 }
