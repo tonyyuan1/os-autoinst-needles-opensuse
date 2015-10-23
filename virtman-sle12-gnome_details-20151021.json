@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "virtman-sle12-gnome_details",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 162,
+      "width": 420,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

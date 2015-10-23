@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 294,
+      "height": 19,
+      "width": 71,
+      "type": "match",
+      "xpos": 231
+    }
+  ],
+  "tags": [
+    "virtman-sle12-gnome_select_volume",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": []
+}

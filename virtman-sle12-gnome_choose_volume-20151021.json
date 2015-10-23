@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 626,
+      "height": 28,
+      "ypos": 616,
+      "width": 110
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "virtman-sle12-gnome_choose_volume"
+  ]
+}

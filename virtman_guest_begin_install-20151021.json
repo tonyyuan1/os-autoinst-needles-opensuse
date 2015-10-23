@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "virtman_guest_begin_install",
+    "ENV-INSTLANG-en_US"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 117,
+      "height": 42,
+      "type": "match",
+      "width": 151,
+      "xpos": 8
+    }
+  ]
+}

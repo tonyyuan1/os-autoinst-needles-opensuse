@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "virtman-sle12-gnome_storagecheck"
+  ],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 104,
+      "width": 216,
+      "height": 86,
+      "type": "match"
+    },
+    {
+      "xpos": 19,
+      "ypos": 236,
+      "width": 343,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 325,
+      "width": 453,
+      "height": 113,
+      "type": "match"
+    }
+  ]
+}

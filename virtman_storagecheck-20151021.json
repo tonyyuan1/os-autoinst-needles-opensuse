@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "virtman_storagecheck",
+    "ENV-INSTLANG-en_US"
+  ],
+  "area": [
+    {
+      "width": 219,
+      "height": 83,
+      "xpos": 22,
+      "ypos": 84,
+      "type": "match"
+    },
+    {
+      "ypos": 212,
+      "xpos": 21,
+      "width": 351,
+      "height": 49,
+      "type": "match"
+    },
+    {
+      "width": 448,
+      "height": 112,
+      "ypos": 304,
+      "xpos": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
