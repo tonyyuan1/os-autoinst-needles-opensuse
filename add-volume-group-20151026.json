@@ -2,14 +2,21 @@
   "tags": [
     "lvmsetupraid"
   ],
-  "properties": [],
   "area": [
     {
-      "xpos": 22,
-      "ypos": 94,
       "width": 288,
+      "xpos": 22,
+      "type": "match",
       "height": 36,
-      "type": "match"
+      "ypos": 94
+    },
+    {
+      "width": 252,
+      "xpos": 12,
+      "type": "match",
+      "height": 69,
+      "ypos": 254
     }
-  ]
+  ],
+  "properties": []
 }
