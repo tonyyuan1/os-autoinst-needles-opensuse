@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-gnomeshell-checkdir"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 62,
+      "width": 263,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}

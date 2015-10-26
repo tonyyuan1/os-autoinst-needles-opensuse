@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-downloading-resumed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 210,
+      "ypos": 163,
+      "width": 71,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 256,
+      "ypos": 88,
+      "width": 74,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}

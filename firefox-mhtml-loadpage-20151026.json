@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-mhtml-loadpage"
+  ],
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 202,
+      "width": 199,
+      "height": 105,
+      "type": "match"
+    }
+  ]
+}

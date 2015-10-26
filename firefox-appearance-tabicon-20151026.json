@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-appearance-tabicon"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 158,
+      "ypos": 427,
+      "width": 36,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

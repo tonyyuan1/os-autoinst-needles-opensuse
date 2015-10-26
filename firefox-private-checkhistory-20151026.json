@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 266,
+      "width": 261,
+      "height": 153,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-private-checkhistory"
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 255,
+      "ypos": 91,
+      "width": 76,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-downloading-canceled"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-plugins-tabicon"
+  ],
+  "area": [
+    {
+      "xpos": 157,
+      "ypos": 480,
+      "width": 39,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

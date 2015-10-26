@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 210,
+      "ypos": 387,
+      "width": 240,
+      "height": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pdf-pagedown"
+  ]
+}
