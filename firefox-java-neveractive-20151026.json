@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-java-neveractive"
+  ],
+  "area": [
+    {
+      "xpos": 719,
+      "ypos": 388,
+      "width": 151,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 293,
+      "ypos": 364,
+      "width": 79,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

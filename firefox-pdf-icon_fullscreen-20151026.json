@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-pdf-icon_fullscreen"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "width": 24,
+      "ypos": 207,
+      "xpos": 720
+    }
+  ]
+}

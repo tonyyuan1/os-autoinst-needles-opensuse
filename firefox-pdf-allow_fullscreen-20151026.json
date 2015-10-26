@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-pdf-allow_fullscreen"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 516,
+      "ypos": 160,
+      "width": 113,
+      "height": 35,
+      "type": "match"
+    }
+  ]
+}

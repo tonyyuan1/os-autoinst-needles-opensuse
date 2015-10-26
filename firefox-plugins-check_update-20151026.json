@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 286,
+      "height": 21,
+      "type": "match",
+      "width": 281,
+      "xpos": 230
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-plugins-check_update"
+  ]
+}
