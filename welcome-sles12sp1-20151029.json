@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 252,
+      "width": 484,
+      "height": 303,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-betawarning",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-UEFI-1",
+    "ENV-FLAVOR-Server-DVD"
+  ]
+}
