@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "addon-license-sdk"
+  ],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 95,
+      "width": 554,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
