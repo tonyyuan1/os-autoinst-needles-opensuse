@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "addon-license-ha"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 30,
+      "width": 291,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 41,
+      "ypos": 114,
+      "width": 543,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
