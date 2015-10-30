@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "addon-license-geo"
+  ],
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 94,
+      "width": 658,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 70,
+      "ypos": 230,
+      "width": 518,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
