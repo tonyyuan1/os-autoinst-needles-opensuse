@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 349,
+      "ypos": 110,
+      "width": 105,
+      "height": 55,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 193,
+      "width": 300,
+      "height": 123,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "languagepicked",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+  ]
+}
