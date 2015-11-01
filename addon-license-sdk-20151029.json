@@ -3,16 +3,21 @@
     "ENV-OFW-1",
     "addon-license-sdk"
   ],
+  "properties": [],
   "area": [
     {
-      "width": 554,
-      "xpos": 22,
-      "type": "match",
+      "ypos": 95,
       "height": 35,
-      "ypos": 95
+      "type": "match",
+      "width": 554,
+      "xpos": 22
+    },
+    {
+      "height": 12,
+      "ypos": 235,
+      "xpos": 71,
+      "width": 455,
+      "type": "match"
     }
-  ],
-  "properties": [
-    "workaround"
   ]
 }
