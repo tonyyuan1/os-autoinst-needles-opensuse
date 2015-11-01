@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-INSTLANG-en_US",
+    "inst-welcome"
+  ],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 192,
+      "width": 301,
+      "height": 116,
+      "type": "match"
+    },
+    {
+      "xpos": 361,
+      "ypos": 254,
+      "width": 336,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
