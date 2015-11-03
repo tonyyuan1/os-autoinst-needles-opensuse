@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-topsite_www.twitter.com"
+  ],
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 94,
+      "type": "match",
+      "width": 304,
+      "height": 71
+    },
+    {
+      "ypos": 210,
+      "xpos": 138,
+      "type": "match",
+      "width": 29,
+      "height": 27
+    }
+  ],
+  "properties": []
+}
