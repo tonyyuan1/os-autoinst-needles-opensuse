@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-urls_protocols-https"
+  ],
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 131,
+      "type": "match",
+      "width": 191,
+      "height": 31
+    },
+    {
+      "ypos": 512,
+      "xpos": 351,
+      "width": 67,
+      "type": "match",
+      "height": 63
+    }
+  ],
+  "properties": []
+}
