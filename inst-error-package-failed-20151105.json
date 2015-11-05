@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-error-retry"
+  ],
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 247,
+      "width": 147,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
