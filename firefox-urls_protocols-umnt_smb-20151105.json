@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-urls_protocols-umnt_smb"
+  ],
+  "area": [
+    {
+      "height": 73,
+      "type": "match",
+      "width": 122,
+      "xpos": 184,
+      "ypos": 140
+    }
+  ]
+}
