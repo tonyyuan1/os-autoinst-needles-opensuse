@@ -1,0 +1,50 @@
+{
+  "tags": [
+    "firefox-html5-support"
+  ],
+  "area": [
+    {
+      "xpos": 138,
+      "ypos": 340,
+      "width": 153,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 387,
+      "ypos": 340,
+      "width": 79,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 635,
+      "ypos": 339,
+      "width": 111,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 137,
+      "ypos": 435,
+      "width": 186,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 384,
+      "ypos": 438,
+      "width": 123,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 636,
+      "ypos": 438,
+      "width": 148,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
