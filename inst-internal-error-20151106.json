@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 226,
+      "ypos": 338,
+      "width": 90,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-error-info"
+  ],
+  "properties": []
+}
