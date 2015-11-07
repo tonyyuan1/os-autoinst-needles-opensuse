@@ -15,7 +15,7 @@
       "type": "match"
     },
     {
-      "xpos": -1,
+      "xpos": 0,
       "ypos": 138,
       "width": 47,
       "height": 26,
@@ -25,10 +25,6 @@
   "properties": [],
   "tags": [
     "ENV-ARCH-s390x",
-    "ENV-DESKTOP-gnome",
-    "ENV-DISTRI-sle",
-    "ENV-FLAVOR-Server-DVD",
-    "ENV-INSTLANG-en_US",
     "inst-console"
   ]
 }
