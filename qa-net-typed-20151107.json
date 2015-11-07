@@ -1,22 +1,22 @@
 {
-  "area": [
-    {
-      "height": 13,
-      "width": 116,
-      "type": "match",
-      "xpos": 63,
-      "ypos": 392
-    },
-    {
-      "type": "match",
-      "width": 74,
-      "height": 13,
-      "xpos": 315,
-      "ypos": 376
-    }
-  ],
   "tags": [
     "qa-net-typed"
+  ],
+  "area": [
+    {
+      "xpos": 153,
+      "ypos": 392,
+      "height": 13,
+      "type": "match",
+      "width": 98
+    },
+    {
+      "xpos": 279,
+      "ypos": 360,
+      "width": 74,
+      "type": "match",
+      "height": 13
+    }
   ],
   "properties": []
 }
