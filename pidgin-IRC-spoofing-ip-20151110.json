@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "pidgin-spoofing-ip"
+  ],
+  "area": [
+    {
+      "xpos": 352,
+      "ypos": 138,
+      "width": 108,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
