@@ -2,13 +2,14 @@
   "tags": [
     "ooffice-save-prompt"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 315,
-      "ypos": 321,
-      "width": 441,
-      "height": 140,
-      "type": "match"
+      "height": 145,
+      "width": 483,
+      "xpos": 271,
+      "type": "match",
+      "ypos": 310
     }
   ]
 }
