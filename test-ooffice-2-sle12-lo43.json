@@ -1,15 +1,16 @@
 {
-  "tags": [
-    "test-ooffice-2",
-    "ENV-INSTLANG-en_US"
-  ],
+  "properties": [],
   "area": [
     {
       "height": 92,
-      "width": 163,
-      "ypos": 202,
       "type": "match",
-      "xpos": 117
+      "ypos": 200,
+      "xpos": 80,
+      "width": 163
     }
+  ],
+  "tags": [
+    "test-ooffice-2",
+    "ENV-INSTLANG-en_US"
   ]
 }
