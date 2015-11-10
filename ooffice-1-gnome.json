@@ -1,13 +1,14 @@
 {
   "area": [
     {
-      "xpos": 7,
-      "ypos": 35,
-      "width": 526,
       "height": 246,
-      "type": "match"
+      "ypos": 35,
+      "type": "match",
+      "width": 526,
+      "xpos": 7
     }
   ],
+  "properties": [],
   "tags": [
     "test-ooffice-1"
   ]
