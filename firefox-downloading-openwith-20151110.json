@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 349,
+      "width": 98,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-downloading-openwith"
+  ]
+}
