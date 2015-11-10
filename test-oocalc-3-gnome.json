@@ -1,14 +1,15 @@
 {
-  "tags": [
-    "test-oocalc-3"
-  ],
   "area": [
     {
-      "xpos": 310,
-      "ypos": 316,
-      "width": 445,
       "height": 145,
-      "type": "match"
+      "width": 445,
+      "xpos": 309,
+      "type": "match",
+      "ypos": 310
     }
+  ],
+  "properties": [],
+  "tags": [
+    "test-oocalc-3"
   ]
 }
