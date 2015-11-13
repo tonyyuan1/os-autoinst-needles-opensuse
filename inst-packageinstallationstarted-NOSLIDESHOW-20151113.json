@@ -1,0 +1,26 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 46,
+      "ypos": 188,
+      "type": "match",
+      "width": 308,
+      "xpos": 20
+    },
+    {
+      "height": 54,
+      "type": "match",
+      "ypos": 86,
+      "width": 90,
+      "xpos": 353
+    }
+  ],
+  "tags": [
+    "installation-details-view",
+    "inst-packageinstallationstarted",
+    "ENV-INSTLANG-en_US"
+  ]
+}
