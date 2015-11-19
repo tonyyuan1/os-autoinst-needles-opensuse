@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "x11-selected"
+  ],
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 496,
+      "width": 107,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
