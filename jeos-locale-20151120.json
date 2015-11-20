@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 399,
+      "ypos": 16,
+      "width": 167,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "jeos-locale"
+  ],
+  "properties": []
+}
