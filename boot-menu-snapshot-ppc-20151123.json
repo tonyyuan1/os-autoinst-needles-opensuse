@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "boot-menu-snapshot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 115,
+      "xpos": 25,
+      "height": 11,
+      "type": "match",
+      "width": 347
+    }
+  ]
+}
