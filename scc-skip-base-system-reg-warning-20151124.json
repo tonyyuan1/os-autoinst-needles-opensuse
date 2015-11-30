@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 202,
+      "ypos": 350,
+      "width": 336,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-skip-base-system-reg-warning"
+  ],
+  "properties": []
+}

@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "addon-dvd-geo"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 49,
+      "height": 10,
+      "ypos": 514,
+      "xpos": 40,
+      "match": 100
+    },
+    {
+      "xpos": 502,
+      "ypos": 389,
+      "width": 53,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}

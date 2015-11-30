@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "addonurl-entry"
+  ],
+  "area": [
+    {
+      "xpos": 127,
+      "ypos": 83,
+      "width": 160,
+      "height": 355,
+      "type": "match"
+    }
+  ]
+}

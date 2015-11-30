@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-installation-report"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 88,
+      "width": 182,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 132,
+      "ypos": 130,
+      "width": 271,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
