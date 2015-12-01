@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 92,
+      "xpos": 327,
+      "type": "match",
+      "width": 178,
+      "height": 22
+    },
+    {
+      "type": "match",
+      "width": 602,
+      "height": 12,
+      "ypos": 225,
+      "xpos": 181
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-license-sdk"
+  ]
+}

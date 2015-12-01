@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-dvd-rt"
+  ],
+  "area": [
+    {
+      "xpos": 486,
+      "ypos": 404,
+      "match": 100,
+      "height": 10,
+      "width": 49,
+      "type": "match"
+    }
+  ]
+}

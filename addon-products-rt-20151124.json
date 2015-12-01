@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-products-rt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 248,
+      "height": 27,
+      "ypos": 87,
+      "xpos": 136
+    },
+    {
+      "xpos": 133,
+      "ypos": 159,
+      "width": 282,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}

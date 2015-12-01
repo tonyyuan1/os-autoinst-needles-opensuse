@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 58,
+      "height": 10,
+      "ypos": 514,
+      "xpos": 45
+    },
+    {
+      "xpos": 497,
+      "ypos": 366,
+      "width": 62,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-dvd-sdk"
+  ],
+  "properties": []
+}

@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-betawarning-rt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 218,
+      "ypos": 254,
+      "width": 338,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 219,
+      "ypos": 208,
+      "width": 95,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
