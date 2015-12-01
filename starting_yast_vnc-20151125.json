@@ -1,0 +1,13 @@
+{
+   "area" : [
+      {
+         "xpos" : 0,
+         "ypos" : 700,
+         "width" : 200,
+         "height" : 60
+      }
+   ],
+   "tags" : [
+      "starting_yast"
+   ]
+}
