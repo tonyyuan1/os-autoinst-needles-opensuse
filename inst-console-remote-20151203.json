@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 0,
+      "ypos": 62,
+      "type": "match",
+      "width": 193
+    },
+    {
+      "xpos": 1,
+      "height": 41,
+      "ypos": 94,
+      "width": 613,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-console"
+  ],
+  "properties": []
+}
