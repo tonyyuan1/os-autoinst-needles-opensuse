@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 2,
+      "type": "match",
+      "width": 106,
+      "height": 81,
+      "xpos": 1
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-yast2_lan-2"
+  ]
+}
