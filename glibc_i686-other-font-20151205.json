@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 225,
+      "xpos": 0,
+      "type": "match",
+      "height": 13,
+      "width": 306
+    },
+    {
+      "ypos": 129,
+      "xpos": 0,
+      "type": "match",
+      "width": 361,
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-glib_i686-1",
+    "test-glibc_i686-1"
+  ]
+}
