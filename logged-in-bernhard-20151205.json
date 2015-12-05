@@ -6,9 +6,9 @@
   "area": [
     {
       "xpos": 0,
-      "ypos": 98,
+      "ypos": 114,
       "width": 72,
-      "height": 32,
+      "height": 10,
       "type": "match"
     }
   ]
