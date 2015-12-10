@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-addon"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 138,
+      "ypos": 88,
+      "width": 249,
+      "height": 83,
+      "type": "match"
+    }
+  ]
+}
