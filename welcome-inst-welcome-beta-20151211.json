@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BETA-1",
+    "inst-welcome"
+  ],
+  "area": [
+    {
+      "width": 301,
+      "type": "match",
+      "ypos": 192,
+      "height": 116,
+      "xpos": 25
+    },
+    {
+      "xpos": 361,
+      "height": 10,
+      "width": 366,
+      "type": "match",
+      "ypos": 268
+    }
+  ]
+}
