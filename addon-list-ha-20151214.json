@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "addon-list"
+  ],
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 125,
+      "width": 114,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
