@@ -1,22 +1,23 @@
 {
+  "properties": [],
   "tags": [
     "ENV-OFW-1",
+    "ENV-VERSION-12-SP1",
     "addon-license-sdk"
   ],
-  "properties": [],
   "area": [
     {
-      "ypos": 95,
-      "height": 35,
       "type": "match",
       "width": 554,
-      "xpos": 22
+      "ypos": 95,
+      "xpos": 22,
+      "height": 35
     },
     {
       "height": 12,
-      "ypos": 235,
       "xpos": 71,
       "width": 455,
+      "ypos": 235,
       "type": "match"
     }
   ]
