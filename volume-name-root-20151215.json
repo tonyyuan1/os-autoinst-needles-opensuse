@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 316,
+      "width": 108,
+      "height": 59,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 85,
+      "width": 506,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "volume-name-root"
+  ],
+  "properties": []
+}
