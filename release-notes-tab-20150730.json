@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 181,
-      "height": 54,
-      "ypos": 27,
-      "width": 41,
-      "type": "match"
-    }
-  ],
+  "properties": [],
   "tags": [
     "release-notes-tab"
   ],
-  "properties": []
+  "area": [
+    {
+      "height": 72,
+      "ypos": 9,
+      "xpos": 181,
+      "width": 41,
+      "type": "match"
+    }
+  ]
 }
