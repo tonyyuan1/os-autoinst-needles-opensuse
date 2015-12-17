@@ -1,18 +1,19 @@
 {
-  "area": [
-    {
-      "type": "match",
-      "width": 322,
-      "height": 319,
-      "ypos": 0,
-      "xpos": 0
-    }
-  ],
-  "tags": [
-    "test-yast2_bootloader-1",
-    "ENV-UEFI-1"
-  ],
-  "properties": [
-    "workaround"
-  ]
+   "tags" : [
+      "ENV-FLAVOR-JeOS-for-kvm",
+      "ENV-UEFI-1",
+      "test-yast2_bootloader-1"
+   ],
+   "properties" : [
+      "workaround"
+   ],
+   "area" : [
+      {
+         "height" : 319,
+         "type" : "match",
+         "xpos" : 0,
+         "width" : 322,
+         "ypos" : 0
+      }
+   ]
 }
