@@ -1,5 +1,5 @@
 {
-  "properties": [],
+  "properties": ["workaround"],
   "tags": [
     "DTMF-159D"
   ],
