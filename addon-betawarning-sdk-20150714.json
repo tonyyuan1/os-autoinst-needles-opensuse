@@ -1,23 +1,30 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 23,
-      "ypos": 95,
+      "type": "match",
       "width": 163,
+      "ypos": 95,
       "height": 30,
+      "xpos": 23
+    },
+    {
+      "height": 48,
+      "ypos": 216,
+      "xpos": 217,
+      "width": 325,
       "type": "match"
     },
     {
-      "xpos": 217,
-      "ypos": 216,
-      "width": 325,
-      "height": 48,
-      "type": "match"
+      "type": "exclude",
+      "width": 50,
+      "xpos": 291,
+      "ypos": 218,
+      "height": 18
     }
   ],
   "tags": [
     "ENV-FLAVOR-Server-DVD",
     "addon-betawarning-sdk"
-  ]
+  ],
+  "properties": []
 }
