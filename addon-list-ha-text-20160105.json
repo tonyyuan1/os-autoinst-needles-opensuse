@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "ENV-VIDEOMODE-text",
+    "addon-list"
+  ],
+  "area": [
+    {
+      "height": 67,
+      "xpos": 9,
+      "width": 106,
+      "ypos": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
