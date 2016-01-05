@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP2-HA",
+    "ENV-VIDEOMODE-text",
+    "addon-betawarning-geo"
+  ],
+  "area": [
+    {
+      "width": 119,
+      "type": "match",
+      "ypos": 23,
+      "xpos": 10,
+      "height": 34
+    },
+    {
+      "width": 349,
+      "type": "match",
+      "ypos": 281,
+      "xpos": 324,
+      "height": 44
+    }
+  ]
+}
