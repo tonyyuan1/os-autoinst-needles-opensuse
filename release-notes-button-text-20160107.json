@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-button"
+  ],
+  "area": [
+    {
+      "xpos": 854,
+      "ypos": 30,
+      "width": 148,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
