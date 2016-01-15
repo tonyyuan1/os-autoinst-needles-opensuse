@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 175,
+      "type": "match",
+      "ypos": 3,
+      "xpos": 1,
+      "height": 20
+    }
+  ],
+  "tags": [
+    "bios-boot",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US"
+  ]
+}
