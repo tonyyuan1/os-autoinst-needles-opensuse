@@ -1,0 +1,25 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "release-notes-sdk"
+  ],
+  "area": [
+    {
+      "xpos": 73,
+      "ypos": 46,
+      "width": 78,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 19,
+      "ypos": 135,
+      "width": 320,
+      "height": 43,
+      "type": "match"
+    }
+  ]
+}
