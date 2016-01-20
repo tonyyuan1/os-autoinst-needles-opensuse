@@ -1,21 +1,22 @@
 {
   "tags": [
+    "ENV-VERSION-12-SP1-RT",
     "release-notes-geo"
   ],
   "area": [
     {
-      "xpos": 252,
-      "ypos": 45,
-      "width": 118,
-      "height": 14,
+      "height": 15,
+      "xpos": 250,
+      "width": 121,
+      "ypos": 44,
       "type": "match"
     },
     {
-      "xpos": 19,
       "ypos": 153,
-      "width": 498,
-      "height": 41,
-      "type": "match"
+      "xpos": 17,
+      "width": 500,
+      "type": "match",
+      "height": 41
     }
   ],
   "properties": []
