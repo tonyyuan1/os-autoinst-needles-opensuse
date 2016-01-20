@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "release-notes-geo"
+  ],
+  "area": [
+    {
+      "xpos": 252,
+      "ypos": 45,
+      "width": 118,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 19,
+      "ypos": 153,
+      "width": 498,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
