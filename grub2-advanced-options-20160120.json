@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "grub2-advanced-options"
+  ],
+  "area": [
+    {
+      "xpos": 165,
+      "ypos": 254,
+      "width": 143,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
