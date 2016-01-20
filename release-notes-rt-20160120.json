@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1-RT",
+    "release-notes-rt"
+  ],
+  "area": [
+    {
+      "xpos": 68,
+      "ypos": 44,
+      "width": 90,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 20,
+      "ypos": 138,
+      "width": 508,
+      "height": 39,
+      "type": "match"
+    }
+  ]
+}
