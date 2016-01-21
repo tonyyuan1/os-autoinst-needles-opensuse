@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 97,
+      "width": 78,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-VIDEOMODE-text",
+    "addon-products-geo"
+  ]
+}
