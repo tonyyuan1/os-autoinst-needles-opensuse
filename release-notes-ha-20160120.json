@@ -2,22 +2,22 @@
   "properties": [],
   "area": [
     {
-      "xpos": 68,
       "ypos": 44,
       "width": 90,
-      "height": 14,
-      "type": "match"
+      "xpos": 68,
+      "type": "match",
+      "height": 14
     },
     {
-      "xpos": 19,
-      "ypos": 154,
-      "width": 531,
       "height": 40,
+      "xpos": 19,
+      "width": 531,
+      "ypos": 154,
       "type": "match"
     }
   ],
   "tags": [
-    "ENV-VERSION-12-SP1-RT",
+    "ENV-VERSION-12-SP2-HA",
     "release-notes-ha"
   ]
 }
