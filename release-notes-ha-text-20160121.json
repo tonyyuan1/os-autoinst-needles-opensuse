@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-VERSION-12-SP2-HA",
+    "ENV-VIDEOMODE-text",
+    "release-notes-ha"
+  ],
+  "area": [
+    {
+      "xpos": 201,
+      "ypos": 178,
+      "width": 86,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
