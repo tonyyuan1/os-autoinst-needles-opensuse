@@ -1,0 +1,25 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 379,
+      "type": "match",
+      "height": 102,
+      "xpos": 316,
+      "ypos": 271
+    },
+    {
+      "xpos": 347,
+      "ypos": 567,
+      "width": 335,
+      "type": "match",
+      "height": 166
+    }
+  ],
+  "tags": [
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}
