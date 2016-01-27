@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 357,
-      "ypos": 304,
-      "width": 185,
-      "height": 166,
-      "type": "match"
-    }
-  ],
   "tags": [
     "inst-instsourcemenu"
   ],
-  "properties": []
+  "properties": [],
+  "area": [
+    {
+      "ypos": 304,
+      "xpos": 357,
+      "type": "match",
+      "height": 166,
+      "width": 185
+    }
+  ]
 }
