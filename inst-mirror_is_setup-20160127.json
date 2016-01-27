@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 244,
+      "ypos": 176,
+      "width": 58,
+      "height": 109,
+      "type": "match"
+    },
+    {
+      "xpos": 283,
+      "ypos": 301,
+      "width": 92,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "inst-mirror_is_setup"
+  ],
+  "properties": []
+}
