@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "import-untrusted-gpg-key"
+  ],
+  "area": [
+    {
+      "xpos": 445,
+      "ypos": 248,
+      "width": 234,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
