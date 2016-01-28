@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "ENV-VERSION-12-SP1-RT",
+    "release-notes-geo"
+  ],
+  "area": [
+    {
+      "xpos": 253,
+      "ypos": 46,
+      "width": 118,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 19,
+      "ypos": 154,
+      "width": 500,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
