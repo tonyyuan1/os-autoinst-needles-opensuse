@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-license-rt"
+  ],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 95,
+      "width": 124,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 69,
+      "ypos": 230,
+      "width": 332,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 312,
+      "ypos": 95,
+      "width": 294,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
