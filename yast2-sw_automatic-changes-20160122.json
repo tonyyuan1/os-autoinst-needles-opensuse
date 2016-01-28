@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "yast2-sw_automatic-changes"
+  ],
+  "area": [
+    {
+      "xpos": 294,
+      "ypos": 77,
+      "width": 439,
+      "height": 71,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
