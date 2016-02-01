@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-welcome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 180,
+      "width": 309,
+      "height": 132,
+      "type": "match"
+    }
+  ]
+}
