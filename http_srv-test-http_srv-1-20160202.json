@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 27,
+      "width": 997,
+      "height": 57,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 176,
+      "width": 356,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-http_srv-1"
+  ]
+}
