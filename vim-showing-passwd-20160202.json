@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 0,
+      "width": 112,
+      "height": 67,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "vim-showing-passwd"
+  ]
+}
