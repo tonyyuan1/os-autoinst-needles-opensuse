@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 291,
+      "width": 163,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 10,
+      "ypos": 755,
+      "width": 85,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vim-showing-passwd"
+  ]
+}
