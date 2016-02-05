@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "evolution_mail-show-unread"
+  ],
+  "area": [
+    {
+      "xpos": 278,
+      "ypos": 151,
+      "width": 151,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}

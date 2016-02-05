@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_wizard-ews-enable-gal"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 198,
+      "ypos": 533,
+      "width": 222,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}

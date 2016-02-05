@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_mail-confirm-read"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 350,
+      "height": 38,
+      "width": 368,
+      "type": "match",
+      "ypos": 315
+    }
+  ]
+}

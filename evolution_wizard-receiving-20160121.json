@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution_wizard-receiving"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 137,
+      "xpos": 3,
+      "height": 24,
+      "type": "match",
+      "ypos": 250
+    },
+    {
+      "type": "match",
+      "ypos": 119,
+      "width": 199,
+      "height": 35,
+      "xpos": 414
+    }
+  ]
+}

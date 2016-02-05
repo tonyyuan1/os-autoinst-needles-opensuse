@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_wizard-sending-authcheck"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 437,
+      "ypos": 463,
+      "width": 185,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 928,
+      "ypos": 324,
+      "width": 84,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "evolution_wizard-ews-fetch-url"
+  ]
+}
