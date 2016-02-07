@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "inst-usersetup",
+    "inst-returned-to-yast"
+  ],
+  "area": [
+    {
+      "height": 400,
+      "type": "match",
+      "xpos": 82,
+      "ypos": 231,
+      "width": 801
+    }
+  ]
+}
