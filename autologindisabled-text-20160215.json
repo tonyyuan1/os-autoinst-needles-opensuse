@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "autologindisabled"
+  ],
+  "area": [
+    {
+      "width": 168,
+      "type": "match",
+      "ypos": 431,
+      "height": 20,
+      "xpos": 343
+    }
+  ],
+  "properties": []
+}
