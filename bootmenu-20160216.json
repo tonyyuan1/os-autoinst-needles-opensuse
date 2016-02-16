@@ -1,26 +1,25 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "type": "match",
-      "width": 237,
-      "xpos": 281,
-      "height": 140,
-      "ypos": 43
-    },
-    {
-      "type": "match",
-      "width": 185,
-      "xpos": 154,
-      "height": 66,
-      "ypos": 208
-    }
-  ],
   "tags": [
     "ENV-VERSION-12-SP2",
     "ENV-VERSION-12-SP2-HA",
     "bootloader",
-    "bootloader-shim-import-prompt",
     "grub2"
-  ]
+  ],
+  "area": [
+    {
+      "width": 237,
+      "type": "match",
+      "height": 140,
+      "ypos": 43,
+      "xpos": 281
+    },
+    {
+      "width": 185,
+      "type": "match",
+      "height": 66,
+      "ypos": 208,
+      "xpos": 154
+    }
+  ],
+  "properties": []
 }
