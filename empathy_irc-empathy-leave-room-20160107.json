@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "empathy-leave-room"
+  ],
+  "area": [
+    {
+      "xpos": 605,
+      "ypos": 328,
+      "width": 224,
+      "height": 49,
+      "type": "match"
+    }
+  ]
+}

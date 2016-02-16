@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "empathy-account-irc"
+  ],
+  "area": [
+    {
+      "xpos": 551,
+      "ypos": 547,
+      "width": 184,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

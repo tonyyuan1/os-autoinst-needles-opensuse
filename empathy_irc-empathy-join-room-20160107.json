@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 92,
+      "ypos": 291,
+      "width": 117,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "empathy-join-room"
+  ]
+}

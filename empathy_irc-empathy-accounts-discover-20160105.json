@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "empathy-accounts-discover"
+  ],
+  "area": [
+    {
+      "xpos": 200,
+      "ypos": 174,
+      "width": 563,
+      "height": 94,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

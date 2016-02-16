@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "empathy-add-account"
+  ],
+  "area": [
+    {
+      "xpos": 203,
+      "ypos": 531,
+      "width": 28,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 429,
+      "ypos": 331,
+      "width": 83,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "empathy-irc-network"
+  ]
+}
