@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "empathy-sent-message"
+  ],
+  "area": [
+    {
+      "xpos": 245,
+      "ypos": 477,
+      "width": 318,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
