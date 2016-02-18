@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_wizard-skip-lookup"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 497,
+      "ypos": 575,
+      "width": 211,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 705,
+      "width": 247,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "evolution_mail-online",
+    "evolution_mail-ready"
+  ]
+}

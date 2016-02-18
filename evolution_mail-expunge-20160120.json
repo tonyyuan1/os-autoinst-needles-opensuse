@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 261,
+      "ypos": 305,
+      "width": 519,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "evolution_mail-expunge"
+  ],
+  "properties": []
+}
