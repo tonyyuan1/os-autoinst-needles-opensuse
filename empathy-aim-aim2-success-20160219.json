@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "empathy-aim-aim2-success"
+  ],
+  "area": [
+    {
+      "xpos": 611,
+      "ypos": 200,
+      "width": 117,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 819,
+      "ypos": 184,
+      "width": 92,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 105,
+      "width": 109,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

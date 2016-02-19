@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 324,
+      "ypos": 311,
+      "width": 196,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 682,
+      "ypos": 403,
+      "width": 195,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "empathy-confirm-aim-deletion1"
+  ],
+  "properties": []
+}
