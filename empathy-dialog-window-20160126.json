@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "empathy-dialog-window"
+  ],
+  "area": [
+    {
+      "xpos": 306,
+      "ypos": 56,
+      "width": 242,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 311,
+      "ypos": 432,
+      "width": 387,
+      "height": 81,
+      "type": "match"
+    }
+  ]
+}

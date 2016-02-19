@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "empathy-aim-contact-list"
+  ],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 142,
+      "width": 268,
+      "height": 53,
+      "type": "match"
+    }
+  ]
+}

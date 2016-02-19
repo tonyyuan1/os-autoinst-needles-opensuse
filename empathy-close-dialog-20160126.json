@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "ypos": 257,
+      "width": 280,
+      "height": 171,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "empathy-close-dialog"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "empathy-disable-aim-account0"
+  ],
+  "area": [
+    {
+      "xpos": 831,
+      "ypos": 189,
+      "width": 35,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

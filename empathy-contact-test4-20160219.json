@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "empathy-contact-test4"
+  ],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 205,
+      "width": 271,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
