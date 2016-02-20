@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "width": 249,
+      "height": 12,
+      "ypos": 657,
+      "type": "match"
+    },
+    {
+      "xpos": 66,
+      "ypos": 739,
+      "width": 96,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ssh-login-ok",
+    "ENV-INSTLANG-en_US"
+  ]
+}
