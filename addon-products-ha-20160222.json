@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 72,
+      "ypos": 188,
+      "width": 250,
+      "height": 79,
+      "type": "match"
+    },
+    {
+      "xpos": 359,
+      "ypos": 125,
+      "width": 49,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-products-ha"
+  ],
+  "properties": []
+}
