@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD",
+    "addon-betawarning-we"
+  ],
+  "area": [
+    {
+      "xpos": 216,
+      "ypos": 215,
+      "width": 329,
+      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 92,
+      "width": 214,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}
