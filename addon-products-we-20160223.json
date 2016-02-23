@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-products-we"
+  ],
+  "area": [
+    {
+      "xpos": 71,
+      "ypos": 191,
+      "width": 252,
+      "height": 75,
+      "type": "match"
+    },
+    {
+      "xpos": 358,
+      "ypos": 125,
+      "width": 56,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
