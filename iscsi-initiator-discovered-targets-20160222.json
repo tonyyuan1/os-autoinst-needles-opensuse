@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 38,
+      "ypos": 107,
+      "width": 403,
+      "height": 125,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-discovered-targets"
+  ]
+}
