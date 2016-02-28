@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "startapp-delete"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 931,
+      "ypos": 111,
+      "width": 67,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

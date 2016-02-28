@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "application-menu-firefox"
+  ],
+  "area": [
+    {
+      "xpos": 204,
+      "ypos": 286,
+      "width": 110,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

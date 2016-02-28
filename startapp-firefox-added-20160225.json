@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 97,
+      "width": 764,
+      "height": 61,
+      "type": "match"
+    },
+    {
+      "xpos": 46,
+      "ypos": 4,
+      "width": 975,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "startapp-firefox-added"
+  ],
+  "properties": []
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 2,
+      "width": 773,
+      "height": 59,
+      "type": "match"
+    },
+    {
+      "xpos": 6,
+      "ypos": 205,
+      "width": 119,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "dconf-org-gnome"
+  ]
+}

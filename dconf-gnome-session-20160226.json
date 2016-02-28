@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 3,
+      "width": 774,
+      "height": 60,
+      "type": "match"
+    },
+    {
+      "xpos": 7,
+      "ypos": 408,
+      "width": 218,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-session"
+  ]
+}

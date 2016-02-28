@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "tweak-addapp-button"
+  ],
+  "area": [
+    {
+      "xpos": 586,
+      "ypos": 484,
+      "width": 116,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}

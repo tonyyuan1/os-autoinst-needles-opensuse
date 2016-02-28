@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 367,
+      "width": 200,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tweak-startapp"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "tweak-startapp-applist"
+  ],
+  "area": [
+    {
+      "xpos": 317,
+      "ypos": 191,
+      "width": 393,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 495,
+      "ypos": 9,
+      "width": 245,
+      "height": 125,
+      "type": "match"
+    }
+  ]
+}

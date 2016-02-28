@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "applicationstart-firefox"
+  ],
+  "area": [
+    {
+      "xpos": 314,
+      "ypos": 420,
+      "width": 397,
+      "height": 98,
+      "type": "match"
+    },
+    {
+      "xpos": 380,
+      "ypos": 7,
+      "width": 479,
+      "height": 153,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

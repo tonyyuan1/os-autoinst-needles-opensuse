@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 2,
+      "width": 775,
+      "height": 64,
+      "type": "match"
+    },
+    {
+      "xpos": 5,
+      "ypos": 692,
+      "width": 221,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dconf-gnome-evolution"
+  ]
+}
