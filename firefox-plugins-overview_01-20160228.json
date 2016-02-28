@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 342,
+      "type": "match",
+      "xpos": 284,
+      "height": 23,
+      "width": 130
+    },
+    {
+      "width": 192,
+      "height": 28,
+      "xpos": 283,
+      "type": "match",
+      "ypos": 410
+    },
+    {
+      "ypos": 479,
+      "type": "match",
+      "width": 202,
+      "xpos": 285,
+      "height": 32
+    },
+    {
+      "width": 257,
+      "height": 32,
+      "xpos": 289,
+      "type": "match",
+      "ypos": 547
+    }
+  ],
+  "tags": [
+    "firefox-plugins-overview_01"
+  ]
+}
