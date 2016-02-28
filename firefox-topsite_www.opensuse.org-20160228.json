@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 126,
+      "type": "match",
+      "height": 42,
+      "xpos": 130,
+      "width": 263
+    },
+    {
+      "ypos": 205,
+      "height": 42,
+      "xpos": 130,
+      "width": 59,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-topsite_www.opensuse.org"
+  ]
+}
