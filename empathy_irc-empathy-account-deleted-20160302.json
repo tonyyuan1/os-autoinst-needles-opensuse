@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 203,
+      "ypos": 127,
+      "width": 590,
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "empathy-account-deleted"
+  ]
+}
