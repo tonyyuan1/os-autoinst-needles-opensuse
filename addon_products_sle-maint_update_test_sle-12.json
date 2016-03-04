@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "addon-products-http://download.suse.de/ibs/SUSE:/Maintenance:/Test:/SLE-SERVER:/12-SP1:/x86_64/update/"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 128,
+      "width": 224,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
