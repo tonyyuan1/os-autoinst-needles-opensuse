@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 465,
+      "width": 86,
+      "ypos": 146,
+      "height": 26
+    },
+    {
+      "type": "match",
+      "width": 163,
+      "xpos": 254,
+      "height": 33,
+      "ypos": 62
+    }
+  ],
+  "tags": [
+    "pidgin-aim-sentmsg"
+  ],
+  "properties": []
+}
