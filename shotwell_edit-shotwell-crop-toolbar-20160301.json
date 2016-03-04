@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 629,
+      "width": 385,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "shotwell-crop-toolbar"
+  ],
+  "properties": []
+}

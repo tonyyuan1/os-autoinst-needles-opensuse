@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 470,
+      "ypos": 276,
+      "width": 110,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "shotwell-export-jepg"
+  ]
+}
