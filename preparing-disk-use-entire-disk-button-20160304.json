@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "preparing-disk-use-entire-disk-button"
+  ],
+  "area": [
+    {
+      "xpos": 344,
+      "ypos": 396,
+      "width": 173,
+      "height": 41,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 90,
+      "width": 299,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}
