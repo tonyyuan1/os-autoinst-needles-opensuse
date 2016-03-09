@@ -1,6 +1,6 @@
 {
   "tags": [
-    "addon-dvd-sdk",
+    "addon-dvd-sdk", "addon-dvd-sr1",
     "ENV-VIDEOMODE-text",
     "ENV-DESKTOP-textmode"
   ],

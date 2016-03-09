@@ -10,7 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "addon-dvd-ha",
+    "addon-dvd-ha","addon-dvd-sr2",
     "ENV-VIDEOMODE-text",
     "ENV-DESKTOP-textmode"
   ]
