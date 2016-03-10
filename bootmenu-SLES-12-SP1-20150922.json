@@ -17,6 +17,8 @@
   ],
   "tags": [
     "bootloader",
+    "ENV-VERSION-12-SP1",
+    "ENV-FLAVOR-Server-DVD",
     "grub2"
   ],
   "properties": []

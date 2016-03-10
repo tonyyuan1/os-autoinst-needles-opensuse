@@ -1,7 +1,7 @@
 {
   "tags": [
     "ENV-VERSION-12-SP2",
-    "ENV-VERSION-12-SP2-HA",
+    "ENV-FLAVOR-Server-DVD",
     "bootloader",
     "grub2"
   ],
