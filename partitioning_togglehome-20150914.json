@@ -1,22 +1,22 @@
 {
   "properties": [],
-  "tags": [
-    "partition-proposals-window"
-  ],
   "area": [
     {
-      "xpos": 361,
-      "ypos": 195,
-      "width": 171,
       "height": 21,
+      "width": 171,
+      "ypos": 191,
+      "xpos": 361,
       "type": "match"
     },
     {
-      "xpos": 410,
-      "ypos": 397,
+      "ypos": 400,
       "width": 217,
-      "height": 24,
+      "height": 16,
+      "xpos": 410,
       "type": "match"
     }
+  ],
+  "tags": [
+    "partition-proposals-window"
   ]
 }
