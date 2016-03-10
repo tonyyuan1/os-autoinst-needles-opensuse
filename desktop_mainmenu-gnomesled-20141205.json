@@ -31,7 +31,6 @@
   ],
   "tags": [
     "test-desktop_mainmenu-1",
-    "ENV-DESKTOP-gnome",
-    "ENV-FLAVOR-Server-DVD"
+    "ENV-DESKTOP-gnome"
   ]
 }

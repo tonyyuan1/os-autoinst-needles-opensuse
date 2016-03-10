@@ -1,8 +1,6 @@
 {
   "tags": [
     "ENV-DESKTOP-gnome",
-    "ENV-FLAVOR-Desktop-DVD",
-    "ENV-FLAVOR-Server-DVD",
     "ENV-INSTLANG-en_US",
     "screenlock"
   ],
