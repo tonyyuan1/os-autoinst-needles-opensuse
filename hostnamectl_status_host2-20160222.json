@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 77,
+      "ypos": 31,
+      "width": 129,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "hostnamectl_status_host2"
+  ]
+}
