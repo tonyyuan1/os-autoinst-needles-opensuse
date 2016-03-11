@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "iscsi-lio-server"
+  ],
+  "area": [
+    {
+      "width": 499,
+      "ypos": 57,
+      "height": 103,
+      "xpos": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
