@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "evolution_mail-inbox"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 10,
-      "ypos": 369,
-      "width": 139,
-      "height": 76,
-      "type": "match"
-    }
-  ]
+    "area": [
+        {
+            "height": 76,
+            "type": "match",
+            "width": 54,
+            "xpos": 30,
+            "ypos": 369
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "evolution_mail-inbox"
+    ]
 }
