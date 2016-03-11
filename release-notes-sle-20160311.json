@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 180,
+      "height": 22,
+      "xpos": 197,
+      "type": "match",
+      "width": 154
+    },
+    {
+      "height": 55,
+      "ypos": 237,
+      "type": "match",
+      "xpos": 199,
+      "width": 536
+    }
+  ],
+  "tags": [
+    "release-notes-sle"
+  ],
+  "properties": []
+}
