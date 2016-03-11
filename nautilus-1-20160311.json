@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-nautilus-1"
+  ],
+  "area": [
+    {
+      "xpos": 123,
+      "ypos": 145,
+      "width": 290,
+      "height": 77,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
