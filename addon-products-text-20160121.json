@@ -1,17 +1,23 @@
 {
-  "properties": [],
   "tags": [
-    "ENV-DESKTOP-textmode",
     "ENV-VIDEOMODE-text",
     "addon-products"
   ],
   "area": [
     {
-      "xpos": 15,
+      "height": 22,
       "ypos": 28,
       "width": 220,
-      "height": 50,
-      "type": "match"
+      "type": "match",
+      "xpos": 15
+    },
+    {
+      "height": 15,
+      "width": 68,
+      "ypos": 61,
+      "type": "match",
+      "xpos": 24
     }
-  ]
+  ],
+  "properties": []
 }
