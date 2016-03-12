@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "local-registration-servers"
+  ],
+  "area": [
+    {
+      "xpos": 400,
+      "type": "match",
+      "ypos": 299,
+      "height": 80,
+      "width": 225
+    }
+  ]
+}
