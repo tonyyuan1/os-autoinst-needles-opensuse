@@ -1,15 +1,16 @@
 {
   "area": [
     {
-      "height": 45,
-      "xpos": 4,
-      "width": 295,
-      "ypos": 208,
-      "type": "match"
+      "type": "match",
+      "width": 269,
+      "height": 30,
+      "ypos": 200,
+      "xpos": 1
     }
   ],
   "tags": [
     "module-selection",
     "ENV-INSTLANG-en_US"
-  ]
+  ],
+  "properties": []
 }
