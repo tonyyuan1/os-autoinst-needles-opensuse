@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 66,
+      "width": 185,
+      "ypos": 168,
+      "type": "match",
+      "xpos": 126
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "ENV-FLAVOR-Server-DVD",
+    "bootloader",
+    "grub2"
+  ]
+}
