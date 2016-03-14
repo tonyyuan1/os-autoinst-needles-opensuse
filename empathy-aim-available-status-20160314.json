@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "empathy-aim-available-status"
+  ],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 106,
+      "width": 91,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 426,
+      "ypos": 257,
+      "width": 214,
+      "height": 111,
+      "type": "match"
+    }
+  ]
+}
