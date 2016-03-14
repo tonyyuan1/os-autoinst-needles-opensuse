@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "scc-module-we"
+  ],
+  "area": [
+    {
+      "xpos": 362,
+      "ypos": 275,
+      "width": 22,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 420,
+      "ypos": 270,
+      "width": 252,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
