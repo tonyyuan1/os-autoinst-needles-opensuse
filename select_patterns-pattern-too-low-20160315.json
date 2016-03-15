@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pattern-too-low"
+  ],
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 446,
+      "width": 32,
+      "height": 227,
+      "type": "match"
+    }
+  ]
+}
