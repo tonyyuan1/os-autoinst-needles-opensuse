@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "gnomecase-defaultapps-bz2file"
+  ],
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 268,
+      "width": 90,
+      "height": 75,
+      "type": "match"
+    }
+  ]
+}

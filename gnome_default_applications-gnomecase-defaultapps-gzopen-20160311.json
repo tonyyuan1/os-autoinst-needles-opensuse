@@ -1,0 +1,22 @@
+{
+    "area": [
+        {
+            "height": 58,
+            "type": "match",
+            "width": 91,
+            "xpos": 4,
+            "ypos": 161
+        },
+        {
+            "height": 35,
+            "type": "match",
+            "width": 100,
+            "xpos": 250,
+            "ypos": 5
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "gnomecase-defaultapps-gzopen"
+    ]
+}
