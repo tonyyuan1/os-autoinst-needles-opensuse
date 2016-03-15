@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 501,
+      "ypos": 264,
+      "width": 84,
+      "height": 80,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnomecase-defaultapps-gzfile"
+  ],
+  "properties": []
+}

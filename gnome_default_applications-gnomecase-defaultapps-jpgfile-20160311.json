@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gnomecase-defaultapps-jpgfile"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 168,
+      "width": 123,
+      "height": 73,
+      "type": "match"
+    }
+  ]
+}

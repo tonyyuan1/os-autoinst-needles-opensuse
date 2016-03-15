@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "gnomecase-defaultapps-firefoxopen"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 251,
+      "ypos": 5,
+      "width": 268,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 117,
+      "ypos": 147,
+      "width": 321,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

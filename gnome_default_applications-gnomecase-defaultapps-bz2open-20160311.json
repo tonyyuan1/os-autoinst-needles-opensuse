@@ -1,0 +1,22 @@
+{
+    "area": [
+        {
+            "height": 59,
+            "type": "match",
+            "width": 92,
+            "xpos": 4,
+            "ypos": 162
+        },
+        {
+            "height": 30,
+            "type": "match",
+            "width": 105,
+            "xpos": 245,
+            "ypos": 5
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "gnomecase-defaultapps-bz2open"
+    ]
+}
