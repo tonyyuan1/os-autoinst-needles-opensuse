@@ -1,7 +1,8 @@
 {
   "properties": [],
   "tags": [
-    "pattern-too-low"
+    "pattern-too-low",
+    "ENV-VERSION-12"
   ],
   "area": [
     {
