@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "del-user"
+  ],
+  "area": [
+    {
+      "xpos": 181,
+      "ypos": 408,
+      "width": 31,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}

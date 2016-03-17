@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "user-logout-sector"
-  ],
-  "area": [
-    {
-      "xpos": 676,
-      "ypos": 580,
-      "width": 340,
-      "height": 59,
-      "type": "match"
-    }
-  ],
-  "properties": []
+    "area": [
+        {
+            "height": 59,
+            "type": "match",
+            "width": 130,
+            "xpos": 891,
+            "ypos": 580
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "user-logout-sector"
+    ]
 }
