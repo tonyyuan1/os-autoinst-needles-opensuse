@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "system-role-default-system"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 128,
+      "width": 191,
+      "ypos": 193,
+      "height": 34
+    },
+    {
+      "height": 43,
+      "width": 358,
+      "ypos": 283,
+      "xpos": 327,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
