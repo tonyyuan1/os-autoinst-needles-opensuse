@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "actived-add-user"
+  ],
+  "area": [
+    {
+      "xpos": 579,
+      "ypos": 252,
+      "width": 178,
+      "height": 282,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

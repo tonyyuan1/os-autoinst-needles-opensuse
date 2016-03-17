@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "testUser-login-dm"
+  ],
+  "area": [
+    {
+      "xpos": 331,
+      "ypos": 259,
+      "width": 357,
+      "height": 174,
+      "type": "match"
+    },
+    {
+      "xpos": 334,
+      "ypos": 461,
+      "width": 353,
+      "height": 272,
+      "type": "match"
+    }
+  ]
+}

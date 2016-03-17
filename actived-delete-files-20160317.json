@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "actived-delete-files"
+  ],
+  "area": [
+    {
+      "xpos": 194,
+      "ypos": 132,
+      "width": 638,
+      "height": 187,
+      "type": "match"
+    }
+  ]
+}

@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 927,
-      "ypos": 742,
-      "width": 96,
-      "height": 25,
-      "type": "match"
-    }
-  ],
-  "properties": [],
-  "tags": [
-    "system-indicator"
-  ]
+    "area": [
+        {
+            "height": 25,
+            "type": "match",
+            "width": 46,
+            "xpos": 977,
+            "ypos": 742
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "system-indicator"
+    ]
 }

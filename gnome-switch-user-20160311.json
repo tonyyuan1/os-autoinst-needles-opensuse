@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "switch-user"
+  ],
+  "area": [
+    {
+      "xpos": 665,
+      "ypos": 563,
+      "width": 350,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}
