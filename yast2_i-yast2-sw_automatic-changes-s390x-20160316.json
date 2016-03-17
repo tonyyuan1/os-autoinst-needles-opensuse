@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 26,
+      "xpos": 11,
+      "height": 176,
+      "type": "match",
+      "width": 916
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "yast2-sw_automatic-changes",
+    "yast2-sw_shows_summary"
+  ],
+  "properties": []
+}
