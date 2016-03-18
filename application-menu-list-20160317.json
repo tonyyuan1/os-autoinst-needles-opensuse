@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "application-menu-list"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 294,
+      "width": 88,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

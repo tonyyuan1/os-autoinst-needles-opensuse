@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "favorites-list-libreoffice"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 210,
+      "ypos": 466,
+      "width": 141,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 19,
+      "ypos": 550,
+      "width": 119,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 739,
+      "width": 97,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}
