@@ -1,22 +1,15 @@
 {
-  "tags": [
-    "application-running-firefox"
-  ],
   "area": [
     {
-      "xpos": 13,
-      "ypos": 687,
-      "width": 518,
-      "height": 79,
-      "type": "match"
-    },
-    {
-      "xpos": 151,
-      "ypos": 15,
-      "width": 738,
-      "height": 77,
-      "type": "match"
+      "height": 94,
+      "ypos": 62,
+      "type": "match",
+      "xpos": 132,
+      "width": 754
     }
   ],
-  "properties": []
+  "properties": [],
+  "tags": [
+    "application-running-firefox"
+  ]
 }
