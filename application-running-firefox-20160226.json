@@ -1,15 +1,15 @@
 {
   "area": [
     {
-      "height": 94,
-      "ypos": 62,
+      "ypos": 740,
+      "xpos": 2,
       "type": "match",
-      "xpos": 132,
-      "width": 754
+      "width": 738,
+      "height": 26
     }
   ],
-  "properties": [],
   "tags": [
     "application-running-firefox"
-  ]
+  ],
+  "properties": []
 }
