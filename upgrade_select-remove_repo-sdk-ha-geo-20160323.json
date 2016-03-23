@@ -1,0 +1,44 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD-HA",
+    "remove-repository"
+  ],
+  "area": [
+    {
+      "height": 10,
+      "width": 43,
+      "xpos": 482,
+      "ypos": 162,
+      "type": "match"
+    },
+    {
+      "xpos": 482,
+      "height": 10,
+      "width": 56,
+      "ypos": 176,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 204,
+      "width": 46,
+      "height": 10,
+      "xpos": 483
+    },
+    {
+      "width": 85,
+      "height": 10,
+      "xpos": 482,
+      "type": "match",
+      "ypos": 189
+    },
+    {
+      "xpos": 78,
+      "ypos": 194,
+      "width": 243,
+      "height": 70,
+      "type": "match"
+    }
+  ]
+}
