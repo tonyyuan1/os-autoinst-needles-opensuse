@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 78,
+      "width": 254,
+      "xpos": 73,
+      "type": "match",
+      "ypos": 193
+    },
+    {
+      "ypos": 161,
+      "type": "match",
+      "xpos": 481,
+      "width": 60,
+      "height": 11
+    },
+    {
+      "width": 84,
+      "height": 10,
+      "xpos": 481,
+      "type": "match",
+      "ypos": 175
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD-HA",
+    "remove-repository"
+  ],
+  "properties": []
+}
