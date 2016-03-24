@@ -1,22 +1,22 @@
 {
-  "properties": [],
-  "tags": [
-    "root-gnome-terminal"
-  ],
-  "area": [
-    {
-      "xpos": 152,
-      "ypos": 124,
-      "width": 292,
-      "height": 38,
-      "type": "match"
-    },
-    {
-      "xpos": 374,
-      "ypos": 184,
-      "width": 66,
-      "height": 37,
-      "type": "match"
-    }
-  ]
+    "area": [
+        {
+            "height": 28,
+            "type": "match",
+            "width": 302,
+            "xpos": 147,
+            "ypos": 129
+        },
+        {
+            "height": 27,
+            "type": "match",
+            "width": 66,
+            "xpos": 374,
+            "ypos": 189
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "root-gnome-terminal"
+    ]
 }

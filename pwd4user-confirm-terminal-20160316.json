@@ -1,22 +1,22 @@
 {
-  "properties": [],
-  "tags": [
-    "pwd4user-confirm-terminal"
-  ],
-  "area": [
-    {
-      "xpos": 146,
-      "ypos": 132,
-      "width": 315,
-      "height": 29,
-      "type": "match"
-    },
-    {
-      "xpos": 240,
-      "ypos": 239,
-      "width": 137,
-      "height": 26,
-      "type": "match"
-    }
-  ]
+    "area": [
+        {
+            "height": 29,
+            "type": "match",
+            "width": 315,
+            "xpos": 146,
+            "ypos": 127
+        },
+        {
+            "height": 26,
+            "type": "match",
+            "width": 137,
+            "xpos": 240,
+            "ypos": 239
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "pwd4user-confirm-terminal"
+    ]
 }

@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 275,
-      "ypos": 181,
-      "width": 294,
-      "height": 96,
-      "type": "match"
-    }
-  ],
-  "properties": [],
-  "tags": [
-    "user-test-deleted"
-  ]
+    "area": [
+        {
+            "height": 71,
+            "type": "match",
+            "width": 324,
+            "xpos": 244,
+            "ypos": 274
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "user-test-deleted"
+    ]
 }
