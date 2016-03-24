@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "mainmenu-office-calc"
+  ],
+  "area": [
+    {
+      "xpos": 210,
+      "ypos": 508,
+      "width": 164,
+      "height": 44,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "area": [
+        {
+            "height": 28,
+            "type": "match",
+            "width": 263,
+            "xpos": 381,
+            "ypos": 8
+        },
+        {
+            "height": 190,
+            "type": "match",
+            "width": 413,
+            "xpos": 3,
+            "ypos": 42
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "oobase-launched"
+    ]
+}
