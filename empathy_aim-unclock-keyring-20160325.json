@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "empathy_aim-unclock-keyring"
+  ],
+  "area": [
+    {
+      "xpos": 664,
+      "ypos": 473,
+      "width": 86,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
