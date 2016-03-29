@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "iscsi-target-LUN-path-selected"
+  ],
+  "area": [
+    {
+      "xpos": 265,
+      "ypos": 335,
+      "width": 44,
+      "height": 55,
+      "type": "match"
+    }
+  ]
+}
