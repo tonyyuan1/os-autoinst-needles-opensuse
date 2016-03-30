@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "filesystem-fat"
+  ],
+  "area": [
+    {
+      "xpos": 275,
+      "ypos": 288,
+      "width": 248,
+      "height": 220,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
