@@ -1,15 +1,16 @@
 {
+  "properties": [],
   "tags": [
     "iscsi-target-overview"
   ],
   "area": [
     {
-      "type": "match",
+      "match": 94,
       "ypos": 197,
-      "xpos": 212,
+      "type": "match",
       "width": 337,
-      "height": 271
+      "height": 271,
+      "xpos": 212
     }
-  ],
-  "properties": []
+  ]
 }
