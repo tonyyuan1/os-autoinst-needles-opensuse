@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 240,
+      "type": "match",
+      "xpos": 643,
+      "height": 103,
+      "width": 108
+    }
+  ],
+  "tags": [
+    "gnomecase-defaultapps-htmlfile"
+  ],
+  "properties": []
+}
