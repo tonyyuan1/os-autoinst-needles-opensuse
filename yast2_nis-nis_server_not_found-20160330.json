@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "nis_server_not_found"
+  ],
+  "area": [
+    {
+      "xpos": 425,
+      "ypos": 368,
+      "width": 163,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
