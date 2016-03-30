@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "custompart-efi-boot"
+  ],
+  "area": [
+    {
+      "xpos": 386,
+      "ypos": 224,
+      "width": 424,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
