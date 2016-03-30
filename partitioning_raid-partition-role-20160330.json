@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-UEFI-1",
+    "partition-role"
+  ],
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 363,
+      "width": 216,
+      "height": 111,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
