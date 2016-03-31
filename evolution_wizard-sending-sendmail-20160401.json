@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_wizard-sending-sendmail"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 289,
+      "ypos": 204,
+      "width": 296,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution-preference"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 26,
+      "ypos": 1,
+      "width": 853,
+      "height": 41,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 64,
+      "width": 200,
+      "height": 78,
+      "type": "match"
+    }
+  ]
+}

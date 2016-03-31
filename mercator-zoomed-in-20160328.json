@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 253,
+      "xpos": 232,
+      "width": 562,
+      "height": 179
+    },
+    {
+      "xpos": 212,
+      "width": 610,
+      "height": 42,
+      "ypos": 516,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "mercator-zoomed-in"
+  ],
+  "properties": []
+}
