@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 567,
+      "ypos": 480,
+      "width": 27,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "displaymanager-settings"
+  ],
+  "properties": []
+}

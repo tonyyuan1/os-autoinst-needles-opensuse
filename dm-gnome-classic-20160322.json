@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dm-gnome-classic"
+  ],
+  "area": [
+    {
+      "width": 173,
+      "ypos": 565,
+      "type": "match",
+      "height": 29,
+      "xpos": 578
+    }
+  ]
+}
