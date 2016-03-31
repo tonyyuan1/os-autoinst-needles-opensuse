@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 317,
+      "ypos": 367,
+      "width": 133,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "unable_to_mount_nfs"
+  ],
+  "properties": []
+}
