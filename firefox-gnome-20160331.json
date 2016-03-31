@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 11,
+      "type": "match",
+      "xpos": 0,
+      "width": 260,
+      "height": 92
+    },
+    {
+      "ypos": 197,
+      "type": "match",
+      "xpos": 8,
+      "width": 148,
+      "height": 83
+    }
+  ],
+  "tags": [
+    "firefox-gnome"
+  ]
+}
