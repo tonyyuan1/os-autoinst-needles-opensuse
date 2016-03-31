@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "width": 80,
+      "xpos": 795,
+      "ypos": 335,
+      "type": "match"
+    },
+    {
+      "width": 125,
+      "height": 27,
+      "xpos": 20,
+      "type": "match",
+      "ypos": 307
+    }
+  ],
+  "tags": [
+    "test-mysql_srv-1"
+  ]
+}
