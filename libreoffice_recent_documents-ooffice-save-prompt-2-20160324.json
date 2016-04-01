@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ooffice-save-prompt-2"
+  ],
+  "area": [
+    {
+      "xpos": 90,
+      "ypos": 16,
+      "width": 477,
+      "height": 75,
+      "type": "match"
+    }
+  ]
+}
