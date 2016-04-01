@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "evolution-selectA-timezone"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 49,
+      "width": 557,
+      "xpos": 265,
+      "type": "match",
+      "ypos": 154
+    },
+    {
+      "type": "match",
+      "ypos": 208,
+      "height": 38,
+      "width": 140,
+      "xpos": 202
+    },
+    {
+      "height": 29,
+      "xpos": 203,
+      "width": 102,
+      "ypos": 500,
+      "type": "match"
+    },
+    {
+      "height": 12,
+      "width": 182,
+      "xpos": 311,
+      "type": "match",
+      "ypos": 453
+    },
+    {
+      "height": 87,
+      "width": 12,
+      "xpos": 802,
+      "type": "match",
+      "ypos": 257
+    },
+    {
+      "type": "match",
+      "ypos": 581,
+      "height": 42,
+      "width": 199,
+      "xpos": 628
+    },
+    {
+      "type": "match",
+      "ypos": 520,
+      "height": 53,
+      "xpos": 753,
+      "width": 69
+    }
+  ]
+}
