@@ -1,0 +1,22 @@
+{
+    "area": [
+        {
+            "height": 26,
+            "type": "match",
+            "width": 234,
+            "xpos": 398,
+            "ypos": 9
+        },
+        {
+            "height": 102,
+            "type": "match",
+            "width": 190,
+            "xpos": 1,
+            "ypos": 41
+        }
+    ],
+    "properties": [],
+    "tags": [
+        "ooimpress-launched"
+    ]
+}

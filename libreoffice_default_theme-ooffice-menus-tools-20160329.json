@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ooffice-menus-tools"
+  ],
+  "area": [
+    {
+      "xpos": 50,
+      "ypos": 74,
+      "width": 171,
+      "height": 95,
+      "type": "match"
+    }
+  ]
+}

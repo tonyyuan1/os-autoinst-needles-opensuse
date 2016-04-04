@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "oobase-select-database"
+  ],
+  "area": [
+    {
+      "xpos": 315,
+      "ypos": 12,
+      "width": 331,
+      "height": 66,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

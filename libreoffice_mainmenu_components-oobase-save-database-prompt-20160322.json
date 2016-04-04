@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 90,
+      "ypos": 37,
+      "width": 485,
+      "height": 77,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "oobase-save-database-prompt"
+  ],
+  "properties": []
+}
