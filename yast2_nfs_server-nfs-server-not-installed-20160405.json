@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "nfs-server-not-installed"
+  ],
+  "area": [
+    {
+      "ypos": 324,
+      "type": "match",
+      "height": 30,
+      "width": 292,
+      "xpos": 363
+    },
+    {
+      "height": 21,
+      "width": 84,
+      "xpos": 435,
+      "ypos": 444,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
