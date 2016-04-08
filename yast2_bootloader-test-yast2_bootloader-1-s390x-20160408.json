@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "test-yast2_bootloader-1"
+  ],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 29,
+      "width": 642,
+      "height": 99,
+      "type": "match"
+    }
+  ]
+}
