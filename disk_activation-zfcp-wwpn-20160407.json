@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 515,
+      "ypos": 345,
+      "width": 37,
+      "height": 66,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "zfcp-wwpn"
+  ]
+}

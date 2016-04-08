@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 90,
+      "type": "match",
+      "width": 232,
+      "height": 35,
+      "ypos": 194
+    },
+    {
+      "ypos": 342,
+      "height": 48,
+      "xpos": 552,
+      "type": "match",
+      "width": 256
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disk-activation-zfcp"
+  ]
+}
