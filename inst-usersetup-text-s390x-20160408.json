@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 22,
+      "height": 67,
+      "type": "match",
+      "width": 302,
+      "xpos": 8
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-VIDEOMODE-text",
+    "before-package-selection",
+    "inst-returned-to-yast",
+    "inst-usersetup"
+  ]
+}

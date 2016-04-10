@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-VIDEOMODE-text",
+    "startinstall"
+  ],
+  "area": [
+    {
+      "width": 173,
+      "type": "match",
+      "xpos": 312,
+      "ypos": 255,
+      "height": 20
+    }
+  ],
+  "properties": []
+}
