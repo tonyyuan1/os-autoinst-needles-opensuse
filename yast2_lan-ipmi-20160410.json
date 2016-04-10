@@ -1,7 +1,7 @@
 {
   "properties": [],
   "tags": [
-    "ENV-BACKEND-generalhw",
+    "ENV-BACKEND-ipmi",
     "test-yast2_lan-2"
   ],
   "area": [
