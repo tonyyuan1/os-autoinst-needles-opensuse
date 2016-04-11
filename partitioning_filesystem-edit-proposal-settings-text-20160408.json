@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "edit-proposal-settings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 407,
+      "ypos": 398,
+      "width": 206,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

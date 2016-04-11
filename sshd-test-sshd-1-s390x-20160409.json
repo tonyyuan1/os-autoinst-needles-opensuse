@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 45,
+      "ypos": 515,
+      "width": 196,
+      "type": "match",
+      "xpos": 23
+    },
+    {
+      "width": 295,
+      "type": "match",
+      "xpos": 304,
+      "ypos": 719,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "test-sshd-1"
+  ]
+}

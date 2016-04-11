@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "dasd-disk-management"
+  ],
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 30,
+      "width": 641,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

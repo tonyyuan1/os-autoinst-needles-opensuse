@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 44,
+      "ypos": 286,
+      "width": 456,
+      "xpos": 280,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-VIDEOMODE-text",
+    "rebootnow"
+  ]
+}
