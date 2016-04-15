@@ -1,14 +1,14 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 13,
-      "ypos": 136,
+      "type": "match",
       "width": 134,
       "height": 47,
-      "type": "match"
+      "xpos": 13,
+      "ypos": 136
     }
   ],
-  "properties": [],
   "tags": [
     "volumegroup-name-root"
   ]
