@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-OFW-1",
+    "ENV-VERSION-12",
+    "bootloader-ofw",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "xpos": 13,
+      "type": "match",
+      "ypos": 53,
+      "width": 632,
+      "height": 217
+    }
+  ]
+}
