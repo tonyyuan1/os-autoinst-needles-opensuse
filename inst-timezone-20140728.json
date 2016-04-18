@@ -1,6 +1,7 @@
 {
   "tags": [
     "ENV-INSTLANG-en_US",
+    "ENV-VERSION-12",
     "after-partitioning",
     "inst-timezone"
   ],
