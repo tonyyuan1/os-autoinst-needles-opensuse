@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 26,
+      "type": "match",
+      "xpos": 165,
+      "height": 26,
+      "width": 169
+    }
+  ],
+  "tags": [
+    "http_default_host"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
