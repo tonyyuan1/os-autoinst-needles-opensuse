@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 87,
+      "width": 554,
+      "xpos": 28,
+      "type": "match",
+      "ypos": 67
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "test-yast2_bootloader-1"
+  ]
+}
