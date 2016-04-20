@@ -17,8 +17,6 @@
   ],
   "tags": [
     "test-yast2_bootloader-1",
-    "ENV-DESKTOP-gnome",
-    "ENV-INSTLANG-en_US",
-    "ENV-FLAVOR-Server-DVD"
+    "ENV-UEFI-1"
   ]
 }
