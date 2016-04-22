@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 395,
+      "ypos": 5,
+      "width": 239,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 154,
+      "ypos": 292,
+      "width": 308,
+      "height": 219,
+      "type": "match"
+    },
+    {
+      "xpos": 170,
+      "ypos": 266,
+      "width": 270,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 600,
+      "ypos": 462,
+      "width": 200,
+      "height": 166,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "libreoffice-test-fodt"
+  ]
+}

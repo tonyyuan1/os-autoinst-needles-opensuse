@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 255,
+      "ypos": 439,
+      "width": 93,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 737,
+      "ypos": 438,
+      "width": 74,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "libreoffice-specified-file-doc"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "libreoffice-specified-file-odt"
+  ],
+  "area": [
+    {
+      "ypos": 544,
+      "xpos": 257,
+      "width": 82,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "height": 21,
+      "type": "match",
+      "width": 62,
+      "xpos": 747,
+      "ypos": 544
+    }
+  ]
+}

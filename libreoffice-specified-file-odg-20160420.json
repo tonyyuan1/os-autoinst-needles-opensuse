@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "libreoffice-specified-file-odg"
+  ],
+  "area": [
+    {
+      "width": 90,
+      "type": "match",
+      "height": 23,
+      "ypos": 543,
+      "xpos": 256
+    },
+    {
+      "type": "match",
+      "width": 68,
+      "height": 19,
+      "xpos": 743,
+      "ypos": 545
+    }
+  ],
+  "properties": []
+}

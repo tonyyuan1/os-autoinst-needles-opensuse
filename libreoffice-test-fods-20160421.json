@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "libreoffice-test-fods"
+  ],
+  "area": [
+    {
+      "xpos": 405,
+      "ypos": 4,
+      "width": 212,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 191,
+      "width": 126,
+      "height": 197,
+      "type": "match"
+    },
+    {
+      "xpos": 489,
+      "ypos": 361,
+      "width": 241,
+      "height": 165,
+      "type": "match"
+    },
+    {
+      "xpos": 67,
+      "ypos": 673,
+      "width": 213,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "libreoffice-test-fodg"
+  ],
+  "area": [
+    {
+      "xpos": 400,
+      "ypos": 4,
+      "width": 220,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 63,
+      "ypos": 129,
+      "width": 220,
+      "height": 289,
+      "type": "match"
+    },
+    {
+      "xpos": 343,
+      "ypos": 211,
+      "width": 251,
+      "height": 338,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

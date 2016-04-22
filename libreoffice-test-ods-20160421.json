@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 407,
+      "ypos": 4,
+      "width": 211,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 10,
+      "ypos": 195,
+      "width": 125,
+      "height": 185,
+      "type": "match"
+    },
+    {
+      "xpos": 52,
+      "ypos": 676,
+      "width": 206,
+      "height": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 502,
+      "ypos": 337,
+      "width": 221,
+      "height": 176,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "libreoffice-test-ods"
+  ]
+}
