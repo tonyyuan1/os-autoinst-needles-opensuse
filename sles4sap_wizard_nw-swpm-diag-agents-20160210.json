@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "sles4sap-wizard-nw-swpm-diag-agents"
+  ],
+  "area": [
+    {
+      "xpos": 113,
+      "ypos": 54,
+      "width": 792,
+      "height": 343,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

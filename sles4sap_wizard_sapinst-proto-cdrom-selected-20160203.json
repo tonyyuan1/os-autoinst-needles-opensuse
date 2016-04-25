@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 229,
+      "ypos": 332,
+      "width": 117,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-sapinst-proto-cdrom-selected"
+  ]
+}

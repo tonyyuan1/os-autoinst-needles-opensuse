@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "sles4sap-wizard-tuned-profile"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 0,
+      "width": 875,
+      "height": 114,
+      "type": "match"
+    },
+    {
+      "xpos": 327,
+      "ypos": 283,
+      "width": 532,
+      "height": 110,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

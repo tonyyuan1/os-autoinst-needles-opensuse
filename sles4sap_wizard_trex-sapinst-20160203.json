@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "sles4sap-wizard-sapinst"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 8,
+      "width": 570,
+      "height": 107,
+      "type": "match"
+    },
+    {
+      "xpos": 180,
+      "ypos": 290,
+      "width": 329,
+      "height": 78,
+      "type": "match"
+    },
+    {
+      "xpos": 179,
+      "ypos": 403,
+      "width": 652,
+      "height": 94,
+      "type": "match"
+    }
+  ]
+}

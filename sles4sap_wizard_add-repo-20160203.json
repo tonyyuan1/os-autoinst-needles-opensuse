@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 0,
+      "width": 912,
+      "height": 128,
+      "type": "match"
+    },
+    {
+      "xpos": 354,
+      "ypos": 365,
+      "width": 490,
+      "height": 88,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-add-repo"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-more-media"
+  ],
+  "area": [
+    {
+      "xpos": 330,
+      "ypos": 334,
+      "width": 366,
+      "height": 105,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

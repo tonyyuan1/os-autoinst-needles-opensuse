@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-installation-servers-detected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 337,
+      "ypos": 243,
+      "width": 352,
+      "height": 53,
+      "type": "match"
+    }
+  ]
+}

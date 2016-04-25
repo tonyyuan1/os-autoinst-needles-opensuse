@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 185,
+      "ypos": 0,
+      "width": 403,
+      "height": 74,
+      "type": "match"
+    },
+    {
+      "xpos": 756,
+      "ypos": 704,
+      "width": 260,
+      "height": 64,
+      "type": "match"
+    },
+    {
+      "xpos": 223,
+      "ypos": 118,
+      "width": 705,
+      "height": 126,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-completed"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 367,
+      "height": 108,
+      "type": "match"
+    },
+    {
+      "xpos": 228,
+      "ypos": 117,
+      "width": 738,
+      "height": 80,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-welcome"
+  ]
+}
