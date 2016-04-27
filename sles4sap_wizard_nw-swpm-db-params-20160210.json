@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-nw-swpm-db-params"
+  ],
+  "area": [
+    {
+      "xpos": 114,
+      "ypos": 58,
+      "width": 796,
+      "height": 250,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

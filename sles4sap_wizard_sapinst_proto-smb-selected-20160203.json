@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-sapinst-proto-smb-selected"
+  ],
+  "area": [
+    {
+      "xpos": 227,
+      "ypos": 327,
+      "width": 119,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

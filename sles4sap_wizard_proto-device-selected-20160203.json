@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 182,
+      "ypos": 323,
+      "width": 116,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-proto-device-selected "
+  ]
+}

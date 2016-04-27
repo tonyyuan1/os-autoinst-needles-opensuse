@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "sles4sap-wizard-trex-swpm-welcome"
+  ],
+  "area": [
+    {
+      "xpos": 112,
+      "ypos": 18,
+      "width": 798,
+      "height": 345,
+      "type": "match"
+    },
+    {
+      "xpos": 397,
+      "ypos": 311,
+      "width": 276,
+      "height": 25,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
+}

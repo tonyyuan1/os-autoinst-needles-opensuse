@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 116,
+      "ypos": 55,
+      "width": 474,
+      "height": 180,
+      "type": "match"
+    },
+    {
+      "xpos": 116,
+      "ypos": 256,
+      "width": 461,
+      "height": 139,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-nw-swpm-params"
+  ]
+}

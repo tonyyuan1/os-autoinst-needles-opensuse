@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 632,
+      "height": 295,
+      "type": "match"
+    },
+    {
+      "xpos": 183,
+      "ypos": 90,
+      "width": 465,
+      "height": 212,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-choose-product"
+  ]
+}

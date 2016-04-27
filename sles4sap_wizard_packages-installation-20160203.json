@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 582,
+      "height": 158,
+      "type": "match"
+    },
+    {
+      "xpos": 195,
+      "ypos": 86,
+      "width": 393,
+      "height": 73,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-packages-installation"
+  ]
+}

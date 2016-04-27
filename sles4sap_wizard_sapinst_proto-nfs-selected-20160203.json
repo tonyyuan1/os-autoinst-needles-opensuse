@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 227,
+      "ypos": 329,
+      "width": 120,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-sapinst-proto-nfs-selected"
+  ]
+}

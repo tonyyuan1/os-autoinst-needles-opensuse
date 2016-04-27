@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-product-nw-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 176,
+      "ypos": 192,
+      "width": 424,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 343,
+      "width": 303,
+      "height": 90,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-tuned-profile-applied"
+  ]
+}

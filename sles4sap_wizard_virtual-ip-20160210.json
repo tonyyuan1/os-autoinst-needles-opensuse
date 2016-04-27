@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "sles4sap-wizard-virtual-ip"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 223,
+      "ypos": 181,
+      "width": 578,
+      "height": 121,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

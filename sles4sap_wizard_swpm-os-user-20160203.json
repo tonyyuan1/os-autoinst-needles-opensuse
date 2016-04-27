@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "sles4sap-wizard-swpm-os-user"
+  ],
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 169,
+      "width": 782,
+      "height": 345,
+      "type": "match"
+    },
+    {
+      "xpos": 176,
+      "ypos": 284,
+      "width": 142,
+      "height": 24,
+      "type": "exclude"
+    },
+    {
+      "xpos": 349,
+      "ypos": 384,
+      "width": 197,
+      "height": 70,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
+}

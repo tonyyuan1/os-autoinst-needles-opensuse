@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-nw-swpm-skey-generation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 114,
+      "ypos": 53,
+      "width": 789,
+      "height": 425,
+      "type": "match"
+    }
+  ]
+}

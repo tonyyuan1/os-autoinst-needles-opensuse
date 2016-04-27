@@ -1,0 +1,22 @@
+{
+  "tags": [
+    " sles4sap-wizard-proto-smb-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 180,
+      "ypos": 325,
+      "width": 119,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
