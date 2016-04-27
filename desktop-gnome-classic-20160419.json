@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 2,
+      "width": 180,
+      "xpos": 5,
+      "height": 26
+    },
+    {
+      "height": 110,
+      "xpos": 846,
+      "width": 159,
+      "type": "match",
+      "ypos": 36
+    },
+    {
+      "type": "exclude",
+      "ypos": 1,
+      "width": 42,
+      "xpos": 979,
+      "height": 22
+    },
+    {
+      "type": "match",
+      "ypos": 276,
+      "height": 96,
+      "width": 85,
+      "xpos": 46
+    },
+    {
+      "ypos": 44,
+      "type": "match",
+      "height": 86,
+      "xpos": 53,
+      "width": 70
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-gnome-classic"
+  ]
+}
