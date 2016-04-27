@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "libreoffice-nautilus-window"
+  ],
+  "area": [
+    {
+      "height": 33,
+      "width": 24,
+      "type": "match",
+      "ypos": 388,
+      "xpos": 281
+    }
+  ],
+  "properties": []
+}

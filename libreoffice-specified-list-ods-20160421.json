@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 354,
+      "ypos": 480,
+      "width": 68,
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "libreoffice-specified-list-ods"
+  ]
+}

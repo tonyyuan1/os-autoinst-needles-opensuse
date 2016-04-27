@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "libreoffice-general-dialogs-disabled"
+  ],
+  "area": [
+    {
+      "xpos": 280,
+      "ypos": 127,
+      "width": 207,
+      "height": 48,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

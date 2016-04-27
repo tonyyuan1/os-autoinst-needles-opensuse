@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "libreoffice-gnome-dialogs"
+  ],
+  "area": [
+    {
+      "xpos": 464,
+      "ypos": 12,
+      "width": 105,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 94,
+      "ypos": 44,
+      "width": 74,
+      "height": 75,
+      "type": "match"
+    },
+    {
+      "xpos": 710,
+      "ypos": 669,
+      "width": 227,
+      "height": 63,
+      "type": "match"
+    },
+    {
+      "xpos": 253,
+      "ypos": 646,
+      "width": 116,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

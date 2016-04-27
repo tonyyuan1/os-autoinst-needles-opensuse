@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "libreoffice-test-pdf"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 394,
+      "ypos": 6,
+      "width": 235,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 5,
+      "ypos": 123,
+      "width": 215,
+      "height": 291,
+      "type": "match"
+    },
+    {
+      "xpos": 271,
+      "ypos": 150,
+      "width": 349,
+      "height": 439,
+      "type": "match"
+    }
+  ]
+}

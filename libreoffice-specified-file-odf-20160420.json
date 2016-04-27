@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "libreoffice-specified-file-odf"
+  ],
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "width": 83,
+      "xpos": 255,
+      "ypos": 543
+    },
+    {
+      "xpos": 740,
+      "ypos": 544,
+      "height": 21,
+      "type": "match",
+      "width": 67
+    }
+  ],
+  "properties": []
+}
