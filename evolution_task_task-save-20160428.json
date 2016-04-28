@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 48,
+      "ypos": 113,
+      "width": 25,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "task-save"
+  ],
+  "properties": []
+}
