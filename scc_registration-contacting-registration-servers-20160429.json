@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "contacting-registration-servers"
+  ],
+  "area": [
+    {
+      "xpos": 349,
+      "ypos": 365,
+      "width": 281,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}
