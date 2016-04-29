@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 83,
+      "type": "match",
+      "xpos": 376,
+      "height": 38,
+      "ypos": 575
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ok-button"
+  ],
+  "properties": []
+}
