@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "inst-overview"
+  ],
+  "area": [
+    {
+      "width": 305,
+      "height": 73,
+      "ypos": 196,
+      "type": "match",
+      "xpos": 22
+    },
+    {
+      "type": "match",
+      "xpos": 936,
+      "ypos": 725,
+      "height": 29,
+      "width": 74
+    }
+  ],
+  "properties": []
+}
