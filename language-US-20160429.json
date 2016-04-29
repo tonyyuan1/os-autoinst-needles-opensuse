@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "height": 55,
+      "ypos": 110,
+      "type": "match",
+      "xpos": 349,
+      "width": 105
+    },
+    {
+      "width": 300,
+      "type": "match",
+      "xpos": 24,
+      "height": 123,
+      "ypos": 193
+    }
+  ]
+}
