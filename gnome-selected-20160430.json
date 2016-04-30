@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-SP2ORLATER-1",
+    "gnome-selected"
+  ],
+  "area": [
+    {
+      "width": 259,
+      "xpos": 37,
+      "type": "match",
+      "height": 25,
+      "ypos": 536
+    }
+  ],
+  "properties": []
+}
