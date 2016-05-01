@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "installation-details-view"
+  ],
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 80,
+      "width": 111,
+      "height": 114,
+      "type": "match"
+    },
+    {
+      "xpos": 506,
+      "ypos": 77,
+      "width": 173,
+      "height": 56,
+      "type": "match"
+    }
+  ]
+}
