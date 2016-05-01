@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "filesystem-fat"
+  ],
+  "area": [
+    {
+      "width": 265,
+      "ypos": 269,
+      "height": 255,
+      "xpos": 277,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
