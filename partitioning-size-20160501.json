@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 195,
+      "xpos": 21,
+      "type": "match",
+      "ypos": 95,
+      "height": 32
+    },
+    {
+      "height": 15,
+      "ypos": 270,
+      "type": "match",
+      "xpos": 445,
+      "width": 81
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-SP2ORLATER-1",
+    "partitioning-size"
+  ],
+  "properties": []
+}
