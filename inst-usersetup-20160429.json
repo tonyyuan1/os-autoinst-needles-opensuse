@@ -1,25 +1,25 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "width": 196,
-      "xpos": 128,
-      "type": "match",
-      "height": 41,
-      "ypos": 189
-    },
-    {
-      "width": 135,
-      "xpos": 518,
-      "type": "match",
-      "ypos": 205,
-      "height": 31
-    }
-  ],
   "tags": [
     "ENV-INSTLANG-en_US",
     "ENV-SP2ORLATER-1",
     "inst-returned-to-yast",
     "inst-usersetup"
-  ]
+  ],
+  "area": [
+    {
+      "width": 149,
+      "ypos": 190,
+      "height": 41,
+      "xpos": 163,
+      "type": "match"
+    },
+    {
+      "height": 31,
+      "ypos": 205,
+      "xpos": 518,
+      "type": "match",
+      "width": 135
+    }
+  ],
+  "properties": []
 }
