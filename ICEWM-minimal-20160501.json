@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 0,
+      "height": 23,
+      "ypos": 745,
+      "width": 189
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "desktop-at-first-boot",
+    "generic-desktop"
+  ],
+  "properties": []
+}
