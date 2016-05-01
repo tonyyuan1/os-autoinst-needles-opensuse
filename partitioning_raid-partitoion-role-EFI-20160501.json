@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "partitoion-role-EFI"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 436,
+      "ypos": 421,
+      "height": 12,
+      "width": 131
+    }
+  ],
+  "properties": []
+}
