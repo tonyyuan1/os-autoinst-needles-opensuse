@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "registration-online-repos"
+  ],
+  "area": [
+    {
+      "width": 338,
+      "xpos": 341,
+      "type": "match",
+      "ypos": 321,
+      "height": 42
+    }
+  ],
+  "properties": []
+}
