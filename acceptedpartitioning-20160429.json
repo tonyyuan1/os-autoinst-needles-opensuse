@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "width": 574,
-      "height": 265,
-      "ypos": 111,
-      "xpos": 385,
-      "type": "match"
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "acceptedpartitioning"
   ],
-  "properties": []
+  "area": [
+    {
+      "width": 167,
+      "type": "match",
+      "xpos": 385,
+      "height": 267,
+      "ypos": 111
+    }
+  ]
 }
