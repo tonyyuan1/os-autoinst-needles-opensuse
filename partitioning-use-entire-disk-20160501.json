@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 131,
+      "height": 33,
+      "ypos": 402,
+      "xpos": 372,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "use-entire-disk"
+  ],
+  "properties": []
+}
