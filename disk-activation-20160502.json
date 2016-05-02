@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "disk-activation"
+  ],
+  "area": [
+    {
+      "height": 35,
+      "ypos": 194,
+      "type": "match",
+      "xpos": 90,
+      "width": 232
+    },
+    {
+      "width": 160,
+      "height": 48,
+      "ypos": 302,
+      "type": "match",
+      "xpos": 597
+    }
+  ]
+}
