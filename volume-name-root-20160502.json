@@ -24,6 +24,7 @@
     }
   ],
   "tags": [
-    "volume-name-root"
+    "volume-name-root",
+    "ENV-SP2ORLATER-1"
   ]
 }
