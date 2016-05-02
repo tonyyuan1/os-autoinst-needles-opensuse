@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 38,
+      "xpos": 359,
+      "type": "match",
+      "ypos": 135,
+      "height": 10
+    },
+    {
+      "xpos": 73,
+      "type": "match",
+      "height": 80,
+      "ypos": 186,
+      "width": 248
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-products-sdk"
+  ],
+  "properties": []
+}
