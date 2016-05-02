@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 95,
+      "height": 30,
+      "xpos": 23,
+      "type": "match",
+      "width": 163
+    },
+    {
+      "type": "match",
+      "xpos": 217,
+      "height": 48,
+      "ypos": 216,
+      "width": 325
+    },
+    {
+      "type": "exclude",
+      "xpos": 287,
+      "height": 18,
+      "ypos": 229,
+      "width": 50
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-betawarning-sdk"
+  ]
+}
