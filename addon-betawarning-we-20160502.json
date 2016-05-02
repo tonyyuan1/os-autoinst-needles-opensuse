@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-betawarning-we"
+  ],
+  "area": [
+    {
+      "ypos": 270,
+      "height": 268,
+      "type": "match",
+      "xpos": 215,
+      "width": 273
+    },
+    {
+      "width": 214,
+      "height": 36,
+      "ypos": 92,
+      "xpos": 23,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
