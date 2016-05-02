@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "autoyast-confirm"
+  ],
+  "area": [
+    {
+      "ypos": 716,
+      "height": 43,
+      "type": "match",
+      "xpos": 749,
+      "width": 268
+    }
+  ],
+  "properties": []
+}
