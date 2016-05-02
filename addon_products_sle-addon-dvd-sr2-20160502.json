@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "xpos": 489,
+      "type": "match",
+      "ypos": 398,
+      "height": 19,
+      "width": 47
+    }
+  ],
   "tags": [
     "ENV-SP2ORLATER-1",
     "addon-dvd-sr2"
-  ],
-  "area": [
-    {
-      "width": 39,
-      "ypos": 399,
-      "height": 19,
-      "xpos": 493,
-      "type": "match"
-    }
   ],
   "properties": []
 }
