@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 432,
+      "xpos": 39,
+      "height": 20,
+      "width": 176
+    }
+  ],
+  "tags": [
+    "liberoffice-options-menu-LiberOfficeWriter"
+  ],
+  "properties": []
+}

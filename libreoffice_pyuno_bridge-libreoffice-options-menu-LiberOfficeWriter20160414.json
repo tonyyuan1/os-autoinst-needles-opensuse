@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "libreoffice-options-menu"
+  ],
+  "area": [
+    {
+      "width": 10,
+      "height": 15,
+      "ypos": 395,
+      "xpos": 46,
+      "type": "match"
+    }
+  ]
+}

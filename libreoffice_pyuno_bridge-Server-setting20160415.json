@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "Server-setting"
+  ],
+  "area": [
+    {
+      "xpos": 427,
+      "ypos": 129,
+      "width": 177,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 216,
+      "ypos": 161,
+      "width": 398,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
