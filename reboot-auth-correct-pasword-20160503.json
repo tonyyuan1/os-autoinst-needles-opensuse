@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "reboot-auth-correct-password"
+  ],
+  "area": [
+    {
+      "ypos": 379,
+      "height": 22,
+      "type": "match",
+      "xpos": 368,
+      "width": 183
+    }
+  ],
+  "properties": []
+}
