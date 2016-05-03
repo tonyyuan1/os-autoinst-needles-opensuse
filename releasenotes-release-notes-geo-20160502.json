@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 461,
+      "type": "match",
+      "ypos": 160,
+      "height": 34,
+      "width": 121
+    },
+    {
+      "width": 500,
+      "xpos": 225,
+      "type": "match",
+      "ypos": 280,
+      "height": 54
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "release-notes-geo"
+  ],
+  "properties": []
+}

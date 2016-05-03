@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "sles4sap-wizard-nw-swpm-welcome"
+  ],
+  "area": [
+    {
+      "xpos": 114,
+      "ypos": 21,
+      "width": 795,
+      "height": 502,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

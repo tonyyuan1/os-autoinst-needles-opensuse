@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 950,
+      "ypos": 742,
+      "width": 71,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "system-indicator"
+  ]
+}

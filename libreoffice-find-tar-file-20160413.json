@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 321,
+      "ypos": 265,
+      "width": 161,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "libreoffice-find-tar-file"
+  ],
+  "properties": []
+}

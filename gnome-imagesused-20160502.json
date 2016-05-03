@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 194,
+      "xpos": 381,
+      "type": "match",
+      "height": 12,
+      "ypos": 489
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnome-imagesused"
+  ],
+  "properties": []
+}

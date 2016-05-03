@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "evolution_task-received-task-info"
+  ],
+  "area": [
+    {
+      "width": 601,
+      "xpos": 225,
+      "height": 25,
+      "type": "match",
+      "ypos": 181
+    },
+    {
+      "xpos": 227,
+      "ypos": 247,
+      "width": 531,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

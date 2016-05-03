@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "scc-registration"
+  ],
+  "area": [
+    {
+      "width": 357,
+      "ypos": 391,
+      "height": 317,
+      "xpos": 503,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

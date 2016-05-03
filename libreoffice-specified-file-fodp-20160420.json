@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "width": 89,
+      "type": "match",
+      "ypos": 534,
+      "xpos": 255
+    },
+    {
+      "type": "match",
+      "width": 64,
+      "height": 23,
+      "xpos": 748,
+      "ypos": 534
+    }
+  ],
+  "tags": [
+    "libreoffice-specified-file-fodp"
+  ],
+  "properties": []
+}

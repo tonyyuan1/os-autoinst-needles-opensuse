@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "disabledhome"
+  ],
+  "area": [
+    {
+      "xpos": 385,
+      "type": "match",
+      "height": 43,
+      "ypos": 415,
+      "width": 243
+    }
+  ],
+  "properties": []
+}

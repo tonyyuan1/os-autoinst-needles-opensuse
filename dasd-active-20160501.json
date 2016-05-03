@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dasd-active"
+  ],
+  "area": [
+    {
+      "width": 59,
+      "type": "match",
+      "xpos": 435,
+      "height": 13,
+      "ypos": 201
+    },
+    {
+      "height": 44,
+      "ypos": 171,
+      "type": "match",
+      "xpos": 766,
+      "width": 62
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "Policykit"
+  ],
+  "area": [
+    {
+      "width": 294,
+      "type": "match",
+      "xpos": 365,
+      "ypos": 303,
+      "height": 13
+    }
+  ],
+  "properties": []
+}

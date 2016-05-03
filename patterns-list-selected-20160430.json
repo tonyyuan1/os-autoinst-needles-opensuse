@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "patterns-list-selected"
+  ],
+  "area": [
+    {
+      "width": 96,
+      "match": 100,
+      "height": 48,
+      "ypos": 175,
+      "xpos": 157,
+      "type": "match"
+    }
+  ]
+}

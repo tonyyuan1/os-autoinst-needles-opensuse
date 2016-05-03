@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "libreoffice-specified-file-docx"
+  ],
+  "area": [
+    {
+      "xpos": 256,
+      "ypos": 472,
+      "type": "match",
+      "width": 93,
+      "height": 22
+    },
+    {
+      "xpos": 749,
+      "ypos": 474,
+      "height": 21,
+      "type": "match",
+      "width": 65
+    }
+  ]
+}

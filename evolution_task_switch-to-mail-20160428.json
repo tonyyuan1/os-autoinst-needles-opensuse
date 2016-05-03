@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "switch-to-mail"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 588,
+      "xpos": 6,
+      "width": 211,
+      "height": 29
+    }
+  ]
+}

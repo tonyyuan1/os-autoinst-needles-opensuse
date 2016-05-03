@@ -1,0 +1,15 @@
+{
+  "tags": [
+    " sles4sap-wizard-proto-usb-selected"
+  ],
+  "area": [
+    {
+      "xpos": 180,
+      "ypos": 324,
+      "width": 117,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

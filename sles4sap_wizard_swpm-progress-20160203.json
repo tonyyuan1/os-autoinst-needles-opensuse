@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 117,
+      "ypos": 65,
+      "width": 587,
+      "height": 141,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-swpm-progress"
+  ]
+}

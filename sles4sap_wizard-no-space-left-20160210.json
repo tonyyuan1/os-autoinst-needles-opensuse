@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 390,
+      "ypos": 322,
+      "width": 246,
+      "height": 126,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sles4sap-wizard-no-space-left"
+  ]
+}

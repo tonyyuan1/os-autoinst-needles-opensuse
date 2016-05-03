@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "specified-file-list"
+  ],
+  "area": [
+    {
+      "xpos": 378,
+      "ypos": 132,
+      "width": 314,
+      "height": 364,
+      "type": "match"
+    },
+    {
+      "xpos": 354,
+      "ypos": 50,
+      "width": 143,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

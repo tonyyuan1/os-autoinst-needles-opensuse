@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 259,
+      "type": "match",
+      "xpos": 381,
+      "ypos": 311,
+      "height": 65
+    },
+    {
+      "width": 39,
+      "type": "match",
+      "xpos": 320,
+      "ypos": 311,
+      "height": 63
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "raid-partition"
+  ]
+}

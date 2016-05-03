@@ -1,0 +1,43 @@
+{
+  "tags": [
+    "liberoffice-mailmerge-testAccount"
+  ],
+  "area": [
+    {
+      "xpos": 293,
+      "type": "match",
+      "ypos": 177,
+      "height": 28,
+      "width": 413
+    },
+    {
+      "xpos": 420,
+      "type": "match",
+      "ypos": 136,
+      "height": 32,
+      "width": 183
+    },
+    {
+      "height": 24,
+      "ypos": 271,
+      "width": 75,
+      "xpos": 290,
+      "type": "match"
+    },
+    {
+      "xpos": 528,
+      "type": "match",
+      "ypos": 208,
+      "height": 20,
+      "width": 75
+    },
+    {
+      "type": "match",
+      "xpos": 526,
+      "width": 75,
+      "ypos": 235,
+      "height": 20
+    }
+  ],
+  "properties": []
+}

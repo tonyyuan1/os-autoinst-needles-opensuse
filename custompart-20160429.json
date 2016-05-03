@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "custompart"
+  ],
+  "area": [
+    {
+      "width": 468,
+      "ypos": 130,
+      "height": 186,
+      "xpos": 309,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

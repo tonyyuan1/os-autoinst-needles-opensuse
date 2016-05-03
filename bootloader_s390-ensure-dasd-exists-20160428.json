@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "ensure-dasd-exists"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 70,
+      "xpos": 2,
+      "ypos": 209,
+      "height": 11
+    },
+    {
+      "height": 12,
+      "ypos": 208,
+      "xpos": 184,
+      "width": 40,
+      "type": "match"
+    }
+  ]
+}

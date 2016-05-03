@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "libreoffice-specified-file-pdf",
+    "specified-file-pdf"
+  ],
+  "area": [
+    {
+      "ypos": 541,
+      "xpos": 256,
+      "height": 27,
+      "width": 122,
+      "type": "match"
+    },
+    {
+      "height": 29,
+      "type": "match",
+      "width": 117,
+      "xpos": 705,
+      "ypos": 539
+    }
+  ],
+  "properties": []
+}

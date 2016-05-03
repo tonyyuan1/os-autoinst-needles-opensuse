@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "acceptedpartitioning"
+  ],
+  "area": [
+    {
+      "width": 167,
+      "type": "match",
+      "xpos": 385,
+      "height": 267,
+      "ypos": 111
+    }
+  ]
+}

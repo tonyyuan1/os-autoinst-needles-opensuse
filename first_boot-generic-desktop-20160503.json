@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 48,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 745,
+      "height": 23
+    },
+    {
+      "height": 18,
+      "ypos": 746,
+      "type": "match",
+      "xpos": 184,
+      "width": 68
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "generic-desktop"
+  ]
+}

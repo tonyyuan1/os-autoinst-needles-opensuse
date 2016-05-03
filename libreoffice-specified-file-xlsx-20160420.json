@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "libreoffice-specified-file-xlsx"
+  ],
+  "area": [
+    {
+      "xpos": 256,
+      "ypos": 542,
+      "width": 101,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 744,
+      "ypos": 544,
+      "width": 73,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

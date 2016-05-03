@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 233,
+      "height": 90,
+      "xpos": 270,
+      "type": "match",
+      "width": 265
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "rebootnow"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 328,
+      "width": 409,
+      "height": 118,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-installation-profile"
+  ]
+}

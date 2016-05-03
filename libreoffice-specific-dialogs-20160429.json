@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "libreoffice-specific-dialogs"
+  ],
+  "area": [
+    {
+      "width": 90,
+      "ypos": 116,
+      "height": 28,
+      "type": "match",
+      "xpos": 472
+    },
+    {
+      "xpos": 724,
+      "type": "match",
+      "ypos": 143,
+      "height": 56,
+      "width": 175
+    },
+    {
+      "xpos": 809,
+      "type": "match",
+      "height": 140,
+      "ypos": 438,
+      "width": 92
+    },
+    {
+      "width": 67,
+      "ypos": 443,
+      "height": 110,
+      "type": "match",
+      "xpos": 121
+    }
+  ],
+  "properties": []
+}

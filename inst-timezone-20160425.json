@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 990,
+      "height": 625,
+      "ypos": 65,
+      "type": "match",
+      "xpos": 15
+    },
+    {
+      "type": "match",
+      "xpos": 780,
+      "ypos": 681,
+      "height": 79,
+      "width": 233
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-12",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}

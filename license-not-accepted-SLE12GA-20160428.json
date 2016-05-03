@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12",
+    "license-not-accepted"
+  ],
+  "area": [
+    {
+      "height": 100,
+      "xpos": 324,
+      "ypos": 336,
+      "width": 376,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "libreoffice-find-no-tar-file"
+  ],
+  "area": [
+    {
+      "xpos": 166,
+      "ypos": 76,
+      "width": 66,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}

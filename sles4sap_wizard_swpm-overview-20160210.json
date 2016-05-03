@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 113,
+      "ypos": 57,
+      "width": 795,
+      "height": 194,
+      "type": "match"
+    },
+    {
+      "xpos": 116,
+      "ypos": 715,
+      "width": 180,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    " sles4sap-wizard-swpm-overview "
+  ]
+}

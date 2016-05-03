@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 289,
+      "ypos": 219,
+      "width": 575,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "added-test-task"
+  ],
+  "properties": []
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "preparing-disk-select-iscsi-disk"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 26,
+      "ypos": 95,
+      "height": 34,
+      "width": 292
+    },
+    {
+      "height": 10,
+      "ypos": 392,
+      "type": "match",
+      "xpos": 348,
+      "width": 112
+    }
+  ]
+}

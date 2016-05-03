@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "autoyast-error"
+  ],
+  "area": [
+    {
+      "ypos": 313,
+      "height": 18,
+      "xpos": 341,
+      "type": "match",
+      "width": 48
+    },
+    {
+      "ypos": 718,
+      "height": 42,
+      "xpos": 13,
+      "type": "match",
+      "width": 81
+    }
+  ],
+  "properties": []
+}

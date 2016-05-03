@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dm-sle-classic"
+  ],
+  "area": [
+    {
+      "xpos": 576,
+      "ypos": 635,
+      "width": 162,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

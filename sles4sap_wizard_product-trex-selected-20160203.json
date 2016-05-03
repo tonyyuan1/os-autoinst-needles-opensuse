@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 177,
+      "ypos": 178,
+      "width": 252,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-product-trex-selected"
+  ]
+}

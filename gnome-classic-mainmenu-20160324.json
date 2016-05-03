@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 39,
+      "width": 623,
+      "height": 453,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome-classic-mainmenu"
+  ]
+}

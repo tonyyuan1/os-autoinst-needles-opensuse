@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "switch-to-task"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 667,
+      "width": 101,
+      "height": 37,
+      "type": "match"
+    }
+  ]
+}

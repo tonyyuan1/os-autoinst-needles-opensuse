@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "license-not-accepted"
+  ],
+  "area": [
+    {
+      "width": 265,
+      "type": "match",
+      "xpos": 380,
+      "height": 86,
+      "ypos": 348
+    }
+  ],
+  "properties": []
+}
