@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 73,
+      "ypos": 188,
+      "width": 250,
+      "height": 84,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 183,
+      "width": 313,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "remove-repository"
+  ]
+}
