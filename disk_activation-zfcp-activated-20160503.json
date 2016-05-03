@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 52,
+      "type": "match",
+      "height": 71,
+      "xpos": 683,
+      "ypos": 167
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "zfcp-activated"
+  ]
+}
