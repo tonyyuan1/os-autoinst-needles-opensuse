@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 511,
+      "type": "match",
+      "ypos": 503,
+      "height": 22,
+      "width": 82
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "reboot-auth-showtext"
+  ]
+}
