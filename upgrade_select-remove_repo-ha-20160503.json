@@ -1,23 +1,23 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 73,
-      "ypos": 189,
       "width": 251,
       "height": 76,
-      "type": "match"
+      "ypos": 189,
+      "type": "match",
+      "xpos": 73
     },
     {
-      "xpos": 357,
       "ypos": 185,
-      "width": 158,
       "height": 11,
-      "type": "match"
+      "type": "match",
+      "xpos": 357,
+      "width": 136
     }
   ],
   "tags": [
     "ENV-SP2ORLATER-1",
     "remove-repository"
-  ]
+  ],
+  "properties": []
 }
