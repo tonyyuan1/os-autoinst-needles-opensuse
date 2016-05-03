@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 254,
+      "ypos": 101,
+      "height": 17,
+      "width": 494
+    },
+    {
+      "xpos": 364,
+      "type": "match",
+      "ypos": 525,
+      "height": 37,
+      "width": 85
+    }
+  ],
+  "tags": [
+    "3rdpartylicense",
+    "ENV-SP2ORLATER-1"
+  ]
+}
