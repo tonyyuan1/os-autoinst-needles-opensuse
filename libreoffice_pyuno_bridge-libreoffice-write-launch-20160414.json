@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 8,
+      "width": 258,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 5,
+      "ypos": 43,
+      "width": 518,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-write-launch"
+  ]
+}

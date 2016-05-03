@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "libreoffice-tool-droplist"
+  ],
+  "area": [
+    {
+      "xpos": 339,
+      "ypos": 557,
+      "width": 95,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}
