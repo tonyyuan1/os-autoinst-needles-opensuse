@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-betawarning-geo"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 27,
+      "height": 46,
+      "ypos": 87,
+      "width": 266
+    },
+    {
+      "width": 274,
+      "ypos": 294,
+      "height": 226,
+      "type": "match",
+      "xpos": 216
+    }
+  ],
+  "properties": []
+}
