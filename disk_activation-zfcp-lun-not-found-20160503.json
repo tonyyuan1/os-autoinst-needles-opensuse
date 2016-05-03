@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 514,
+      "ypos": 443,
+      "width": 43,
+      "height": 70,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-SP2ORLATER-1",
+    "zfcp-lun-not-found"
+  ]
+}
