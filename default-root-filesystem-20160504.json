@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "default-root-filesystem"
+  ],
+  "area": [
+    {
+      "height": 27,
+      "ypos": 326,
+      "type": "match",
+      "xpos": 404,
+      "width": 151
+    }
+  ]
+}
