@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "width": 538,
-      "xpos": 20,
-      "type": "match",
-      "ypos": 88,
-      "height": 362
-    }
-  ],
   "tags": [
     "preparing-disk-overview"
+  ],
+  "area": [
+    {
+      "width": 634,
+      "height": 414,
+      "ypos": 92,
+      "type": "match",
+      "xpos": 26
+    }
   ],
   "properties": []
 }
