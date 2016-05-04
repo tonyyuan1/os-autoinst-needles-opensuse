@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "partioning-edit-proposal-button"
+  ],
+  "area": [
+    {
+      "xpos": 605,
+      "type": "match",
+      "ypos": 407,
+      "height": 41,
+      "width": 150
+    }
+  ]
+}
