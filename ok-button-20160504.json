@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ok-button"
+  ],
+  "area": [
+    {
+      "width": 78,
+      "ypos": 560,
+      "height": 30,
+      "xpos": 376,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
