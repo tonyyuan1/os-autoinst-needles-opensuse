@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 514,
+      "ypos": 269,
+      "height": 95,
+      "type": "match",
+      "xpos": 278
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-SP2ORLATER-1",
+    "displaymanager",
+    "reboot-after-installation"
+  ],
+  "properties": []
+}
