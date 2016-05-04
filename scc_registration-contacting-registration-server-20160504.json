@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "contacting-registration-server"
+  ],
+  "area": [
+    {
+      "xpos": 344,
+      "ypos": 367,
+      "width": 305,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
