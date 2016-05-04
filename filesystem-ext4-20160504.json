@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "filesystem-ext4"
+  ],
+  "area": [
+    {
+      "height": 18,
+      "ypos": 356,
+      "type": "match",
+      "xpos": 406,
+      "width": 55
+    }
+  ]
+}
