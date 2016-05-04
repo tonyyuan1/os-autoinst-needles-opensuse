@@ -1,25 +1,25 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "width": 48,
-      "xpos": 0,
-      "type": "match",
-      "height": 23,
-      "ypos": 745
-    },
-    {
-      "xpos": 188,
-      "type": "match",
-      "height": 18,
-      "ypos": 746,
-      "width": 50
-    }
-  ],
   "tags": [
     "ENV-DESKTOP-minimalx",
     "ENV-SP2ORLATER-1",
     "desktop-at-first-boot",
     "generic-desktop"
-  ]
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "ypos": 745,
+      "height": 23,
+      "width": 48
+    },
+    {
+      "width": 50,
+      "xpos": 224,
+      "type": "match",
+      "ypos": 746,
+      "height": 18
+    }
+  ],
+  "properties": []
 }
