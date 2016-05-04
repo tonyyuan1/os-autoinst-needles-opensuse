@@ -1,17 +1,18 @@
 {
-  "area": [
-    {
-      "xpos": 82,
-      "ypos": 706,
-      "width": 412,
-      "height": 61,
-      "type": "match"
-    }
-  ],
-  "tags": [
-    "test-consoletest_finish-1",
-    "ENV-INSTLANG-en_US",
-    "ENV-UEFI-1",
-    "ENV-FLAVOR-Core-DVD"
-  ]
+   "tags" : [
+      "ENV-DESKTOP-minimalx",
+      "ENV-FLAVOR-Core-DVD",
+      "ENV-INSTLANG-en_US",
+      "ENV-UEFI-1",
+      "test-consoletest_finish-1"
+   ],
+   "area" : [
+      {
+         "height" : 61,
+         "width" : 412,
+         "ypos" : 706,
+         "type" : "match",
+         "xpos" : 82
+      }
+   ]
 }

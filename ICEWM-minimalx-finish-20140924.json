@@ -1,16 +1,17 @@
 {
-  "tags": [
-    "ENV-INSTLANG-en_US",
-    "ENV-UEFI-1",
-    "test-consoletest_finish-1"
-  ],
-  "area": [
-    {
-      "width": 412,
-      "height": 61,
-      "xpos": 82,
-      "type": "match",
-      "ypos": 706
-    }
-  ]
+   "area" : [
+      {
+         "width" : 412,
+         "xpos" : 82,
+         "ypos" : 706,
+         "type" : "match",
+         "height" : 61
+      }
+   ],
+   "tags" : [
+      "ENV-DESKTOP-minimalx",
+      "ENV-INSTLANG-en_US",
+      "ENV-UEFI-1",
+      "test-consoletest_finish-1"
+   ]
 }
