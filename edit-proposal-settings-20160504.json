@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "edit-proposal-settings"
+  ],
+  "area": [
+    {
+      "width": 138,
+      "height": 28,
+      "ypos": 413,
+      "xpos": 609,
+      "type": "match"
+    }
+  ]
+}
