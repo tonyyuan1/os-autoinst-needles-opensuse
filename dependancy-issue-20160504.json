@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 227,
+      "type": "match",
+      "height": 17,
+      "ypos": 100,
+      "width": 88
+    },
+    {
+      "xpos": 365,
+      "type": "match",
+      "height": 32,
+      "ypos": 529,
+      "width": 106
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dependancy-issue"
+  ]
+}
