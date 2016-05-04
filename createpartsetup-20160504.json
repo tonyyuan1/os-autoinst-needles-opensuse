@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "createpartsetup"
+  ],
+  "area": [
+    {
+      "width": 339,
+      "xpos": 367,
+      "type": "match",
+      "ypos": 331,
+      "height": 182
+    }
+  ]
+}
