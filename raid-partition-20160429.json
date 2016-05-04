@@ -6,17 +6,17 @@
   "area": [
     {
       "width": 259,
-      "xpos": 383,
-      "type": "match",
+      "ypos": 309,
       "height": 65,
-      "ypos": 289
+      "xpos": 380,
+      "type": "match"
     },
     {
       "width": 39,
-      "type": "match",
-      "xpos": 322,
-      "ypos": 290,
-      "height": 63
+      "height": 63,
+      "ypos": 312,
+      "xpos": 317,
+      "type": "match"
     }
   ],
   "properties": []
