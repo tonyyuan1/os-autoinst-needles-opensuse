@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 26,
+      "ypos": 95,
+      "height": 34,
+      "width": 292
+    },
+    {
+      "ypos": 398,
+      "height": 14,
+      "type": "match",
+      "xpos": 351,
+      "width": 112
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "preparing-disk-select-iscsi-disk"
+  ]
+}
