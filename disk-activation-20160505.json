@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "disk-activation"
+  ],
+  "area": [
+    {
+      "ypos": 194,
+      "height": 35,
+      "type": "match",
+      "xpos": 90,
+      "width": 232
+    },
+    {
+      "ypos": 304,
+      "height": 48,
+      "type": "match",
+      "xpos": 597,
+      "width": 160
+    }
+  ],
+  "properties": []
+}
