@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dasd-disk-management"
+  ],
+  "area": [
+    {
+      "width": 123,
+      "xpos": 354,
+      "type": "match",
+      "ypos": 90,
+      "height": 55
+    }
+  ],
+  "properties": []
+}
