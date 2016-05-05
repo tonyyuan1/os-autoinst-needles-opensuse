@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "prepare-hard-disk"
+  ],
+  "area": [
+    {
+      "xpos": 28,
+      "type": "match",
+      "height": 33,
+      "ypos": 93,
+      "width": 295
+    },
+    {
+      "width": 14,
+      "xpos": 384,
+      "type": "match",
+      "ypos": 396,
+      "height": 16
+    }
+  ],
+  "properties": []
+}
