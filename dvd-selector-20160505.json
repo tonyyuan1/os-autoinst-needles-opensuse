@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dvd-selector"
+  ],
+  "area": [
+    {
+      "width": 174,
+      "type": "match",
+      "xpos": 427,
+      "height": 26,
+      "ypos": 303
+    }
+  ],
+  "properties": []
+}
