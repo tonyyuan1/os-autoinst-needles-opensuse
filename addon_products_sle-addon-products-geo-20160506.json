@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 69,
+      "type": "match",
+      "height": 81,
+      "ypos": 187,
+      "width": 252
+    },
+    {
+      "width": 80,
+      "xpos": 357,
+      "type": "match",
+      "ypos": 146,
+      "height": 10
+    }
+  ],
+  "tags": [
+    "addon-products-geo"
+  ],
+  "properties": []
+}
