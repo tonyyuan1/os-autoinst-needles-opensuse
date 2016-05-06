@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 158,
+      "type": "match",
+      "xpos": 354,
+      "height": 21,
+      "ypos": 355
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "yast2_snapper-confirm_delete"
+  ]
+}
