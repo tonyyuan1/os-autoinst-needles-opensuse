@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-SP2ORLATER-1",
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "height": 19,
+      "ypos": 168,
+      "xpos": 227,
+      "type": "match",
+      "width": 145
+    },
+    {
+      "width": 392,
+      "ypos": 258,
+      "height": 17,
+      "xpos": 228,
+      "type": "match"
+    }
+  ]
+}
