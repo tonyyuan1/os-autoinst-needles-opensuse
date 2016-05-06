@@ -1,17 +1,17 @@
 {
   "properties": [],
-  "area": [
-    {
-      "width": 96,
-      "type": "match",
-      "xpos": 366,
-      "height": 15,
-      "ypos": 483
-    }
-  ],
   "tags": [
     "ENV-OFW-1",
     "ENV-SP2ORLATER-1",
     "filesystem-prep"
+  ],
+  "area": [
+    {
+      "width": 91,
+      "xpos": 366,
+      "type": "match",
+      "height": 15,
+      "ypos": 483
+    }
   ]
 }
