@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 50,
+      "type": "match",
+      "height": 45,
+      "ypos": 189,
+      "width": 273
+    },
+    {
+      "width": 161,
+      "ypos": 172,
+      "height": 17,
+      "type": "match",
+      "xpos": 359
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "select-for-update"
+  ],
+  "properties": []
+}
