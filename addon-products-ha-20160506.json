@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-products-ha"
+  ],
+  "area": [
+    {
+      "ypos": 185,
+      "height": 88,
+      "type": "match",
+      "xpos": 70,
+      "width": 251
+    },
+    {
+      "xpos": 357,
+      "type": "match",
+      "ypos": 129,
+      "height": 12,
+      "width": 77
+    }
+  ],
+  "properties": []
+}
