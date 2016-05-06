@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ssh-open"
+  ],
+  "area": [
+    {
+      "ypos": 456,
+      "height": 10,
+      "xpos": 400,
+      "type": "match",
+      "width": 106
+    },
+    {
+      "width": 139,
+      "xpos": 401,
+      "type": "match",
+      "ypos": 474,
+      "height": 10
+    }
+  ]
+}
