@@ -1,0 +1,32 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "after-partitioning",
+    "ENV-SP2ORLATER-1",
+    "inst-timezone"
+  ],
+  "area": [
+    {
+      "width": 960,
+      "type": "match",
+      "xpos": 35,
+      "ypos": 149,
+      "height": 470
+    },
+    {
+      "ypos": 716,
+      "height": 46,
+      "xpos": 772,
+      "type": "match",
+      "width": 233
+    },
+    {
+      "xpos": 23,
+      "ypos": 89,
+      "width": 320,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}
