@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "custompart-efi-boot"
+  ],
+  "area": [
+    {
+      "width": 424,
+      "type": "match",
+      "xpos": 367,
+      "ypos": 230,
+      "height": 19
+    }
+  ],
+  "properties": []
+}
