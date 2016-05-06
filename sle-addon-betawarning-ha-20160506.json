@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-betawarning-ha"
+  ],
+  "area": [
+    {
+      "width": 212,
+      "type": "match",
+      "xpos": 23,
+      "ypos": 94,
+      "height": 33
+    },
+    {
+      "ypos": 221,
+      "height": 39,
+      "type": "match",
+      "xpos": 214,
+      "width": 189
+    }
+  ]
+}
