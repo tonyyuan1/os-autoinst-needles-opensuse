@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "disk-activation-zfcp"
+  ],
+  "area": [
+    {
+      "width": 232,
+      "ypos": 194,
+      "height": 35,
+      "xpos": 90,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 609,
+      "height": 36,
+      "ypos": 388,
+      "width": 145
+    }
+  ]
+}
