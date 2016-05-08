@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "confirmlicense",
+    "license-popup"
+  ],
+  "area": [
+    {
+      "width": 209,
+      "xpos": 309,
+      "type": "match",
+      "height": 24,
+      "ypos": 164
+    },
+    {
+      "width": 171,
+      "type": "match",
+      "xpos": 661,
+      "height": 38,
+      "ypos": 589
+    }
+  ],
+  "properties": []
+}
