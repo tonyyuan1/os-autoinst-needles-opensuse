@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 473,
+      "ypos": 0,
+      "height": 109,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "test-rhythmbox-1"
+  ]
+}
