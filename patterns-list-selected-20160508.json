@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-SP2ORLATER-1",
+    "patterns-list-selected"
+  ],
+  "area": [
+    {
+      "xpos": 137,
+      "type": "match",
+      "height": 24,
+      "ypos": 177,
+      "width": 77
+    }
+  ]
+}
