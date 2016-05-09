@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "yast-still-running"
+  ],
+  "area": [
+    {
+      "width": 66,
+      "type": "match",
+      "xpos": 17,
+      "height": 45,
+      "ypos": 717
+    }
+  ],
+  "properties": []
+}
