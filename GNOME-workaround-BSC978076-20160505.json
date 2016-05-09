@@ -1,25 +1,28 @@
 {
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
-      "xpos": 846,
-      "type": "match",
-      "ypos": 42,
       "height": 83,
+      "ypos": 42,
+      "type": "match",
+      "xpos": 846,
       "width": 141
     },
     {
-      "height": 141,
-      "ypos": 32,
+      "width": 153,
       "type": "match",
       "xpos": 19,
-      "width": 153
+      "ypos": 32,
+      "height": 141
     },
     {
-      "xpos": 2,
-      "ypos": 721,
       "width": 139,
       "height": 44,
-      "type": "match"
+      "ypos": 721,
+      "type": "match",
+      "xpos": 2
     }
   ],
   "tags": [
@@ -30,6 +33,5 @@
     "desktop-at-first-boot",
     "generic-desktop",
     "test-consoletest_finish-1"
-  ],
-  "properties": []
+  ]
 }
