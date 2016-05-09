@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "scc-downloading-license"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 26,
+      "ypos": 729,
+      "height": 22,
+      "width": 388
+    },
+    {
+      "xpos": 343,
+      "ypos": 367,
+      "width": 227,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}
