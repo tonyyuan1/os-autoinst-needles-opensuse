@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "acceptedpartitioningraidlvm"
+  ],
+  "area": [
+    {
+      "width": 135,
+      "ypos": 109,
+      "height": 285,
+      "xpos": 397,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
