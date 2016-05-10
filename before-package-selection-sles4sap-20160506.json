@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "before-package-selection"
+  ],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 191,
+      "width": 308,
+      "height": 117,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
