@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "shotwell-export-prompt"
+  ],
+  "area": [
+    {
+      "xpos": 365,
+      "ypos": 268,
+      "width": 294,
+      "height": 230,
+      "type": "match"
+    }
+  ]
+}

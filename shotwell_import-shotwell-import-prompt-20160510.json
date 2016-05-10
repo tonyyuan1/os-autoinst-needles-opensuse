@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "shotwell-import-prompt"
+  ],
+  "area": [
+    {
+      "xpos": 246,
+      "ypos": 304,
+      "width": 535,
+      "height": 133,
+      "type": "match"
+    }
+  ]
+}

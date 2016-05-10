@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "shotwell-export-to-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 216,
+      "ypos": 153,
+      "width": 92,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
