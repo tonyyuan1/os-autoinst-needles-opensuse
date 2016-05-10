@@ -1,0 +1,41 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP2ORLATER-1",
+    "GNOME",
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "test-consoletest_finish-1"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "ypos": 746,
+      "type": "match",
+      "xpos": 5,
+      "width": 166
+    },
+    {
+      "width": 59,
+      "height": 72,
+      "ypos": 15,
+      "type": "match",
+      "xpos": 43
+    },
+    {
+      "ypos": 97,
+      "height": 63,
+      "type": "match",
+      "xpos": 57,
+      "width": 31
+    },
+    {
+      "width": 141,
+      "ypos": 42,
+      "height": 83,
+      "type": "match",
+      "xpos": 846
+    }
+  ]
+}
