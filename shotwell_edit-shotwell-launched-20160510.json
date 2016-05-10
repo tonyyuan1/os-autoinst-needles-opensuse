@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "shotwell-launched"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 2,
+      "width": 1021,
+      "height": 390,
+      "type": "match"
+    }
+  ]
+}
