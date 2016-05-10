@@ -1,22 +1,23 @@
 {
   "properties": [],
   "tags": [
+    "ENV-SP2ORLATER-1",
     "system-role-default-system"
   ],
   "area": [
     {
-      "xpos": 128,
-      "type": "match",
       "height": 34,
       "ypos": 193,
+      "type": "match",
+      "xpos": 128,
       "width": 191
     },
     {
       "width": 119,
-      "height": 36,
-      "ypos": 320,
       "type": "match",
-      "xpos": 340
+      "xpos": 340,
+      "ypos": 320,
+      "height": 36
     }
   ]
 }
