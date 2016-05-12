@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ssh-login-ok"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 254,
+      "width": 340,
+      "height": 49,
+      "type": "match"
+    }
+  ]
+}
