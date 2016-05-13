@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "shotwell-first-launch"
+  ],
+  "area": [
+    {
+      "ypos": 305,
+      "height": 200,
+      "type": "match",
+      "xpos": 312,
+      "width": 404
+    }
+  ],
+  "properties": []
+}
