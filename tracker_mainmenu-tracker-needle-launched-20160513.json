@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "tracker-needle-launched"
+  ],
+  "area": [
+    {
+      "xpos": 223,
+      "ypos": 105,
+      "width": 278,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
