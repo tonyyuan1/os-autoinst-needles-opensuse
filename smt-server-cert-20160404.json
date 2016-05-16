@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "type": "match",
+      "width": 232,
+      "ypos": 302,
+      "xpos": 188
+    }
+  ],
+  "tags": [
+    "smt-server-cert"
+  ],
+  "properties": []
+}
