@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 129,
+      "type": "match",
+      "ypos": 142,
+      "xpos": 69,
+      "height": 25
+    }
+  ],
+  "tags": [
+    "nautilus-launched"
+  ]
+}
