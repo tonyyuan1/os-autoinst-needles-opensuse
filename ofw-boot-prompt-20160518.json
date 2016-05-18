@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 120,
+      "height": 31,
+      "type": "match",
+      "xpos": 2,
+      "ypos": 463
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ofw-boot-prompt"
+  ]
+}
