@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 229,
+      "ypos": 336,
+      "width": 101,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "registration-error"
+  ]
+}

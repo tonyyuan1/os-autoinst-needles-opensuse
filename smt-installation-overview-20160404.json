@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 277,
+      "ypos": 99,
+      "xpos": 63,
+      "height": 194
+    }
+  ],
+  "tags": [
+    "smt-installation-overview"
+  ],
+  "properties": []
+}
