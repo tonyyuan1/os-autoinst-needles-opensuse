@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP2ORLATER-1",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "height": 55,
+      "width": 19,
+      "type": "match",
+      "xpos": 503,
+      "ypos": 285
+    }
+  ],
+  "properties": []
+}
