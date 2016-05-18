@@ -4,14 +4,14 @@
     "ENV-SP2ORLATER-1",
     "screenlock"
   ],
+  "properties": [],
   "area": [
     {
       "height": 55,
       "width": 19,
-      "type": "match",
+      "ypos": 285,
       "xpos": 503,
-      "ypos": 285
+      "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
