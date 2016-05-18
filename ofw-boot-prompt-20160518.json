@@ -1,15 +1,15 @@
 {
+  "tags": [
+    "ofw-boot-prompt"
+  ],
+  "properties": [],
   "area": [
     {
       "ypos": 463,
-      "type": "match",
       "xpos": 2,
-      "height": 32,
+      "type": "match",
+      "height": 33,
       "width": 120
     }
-  ],
-  "properties": [],
-  "tags": [
-    "ofw-boot-prompt"
   ]
 }
