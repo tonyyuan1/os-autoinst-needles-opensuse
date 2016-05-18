@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-SAP-DVD",
+    "ENV-VERSION-12-SP2",
+    "bootloader ",
+    "grub2"
+  ],
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 73,
+      "width": 220,
+      "height": 112,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 206,
+      "width": 192,
+      "height": 73,
+      "type": "match"
+    }
+  ]
+}

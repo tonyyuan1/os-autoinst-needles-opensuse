@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "sles4sap-product-selected"
+  ],
+  "area": [
+    {
+      "xpos": 327,
+      "ypos": 369,
+      "width": 222,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 351,
+      "ypos": 423,
+      "width": 118,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
