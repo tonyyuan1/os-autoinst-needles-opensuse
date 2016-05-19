@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "disable-repo"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 452,
+      "ypos": 126,
+      "width": 63,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

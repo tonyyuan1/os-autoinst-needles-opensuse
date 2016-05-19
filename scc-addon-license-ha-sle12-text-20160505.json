@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "scc-addon-license-ha"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 28,
+      "width": 420,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 37,
+      "ypos": 108,
+      "width": 447,
+      "height": 56,
+      "type": "match"
+    }
+  ]
+}

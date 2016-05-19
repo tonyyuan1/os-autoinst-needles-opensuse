@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-migration-updatesoverview"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 120,
+      "width": 63,
+      "xpos": 394,
+      "height": 29
+    }
+  ]
+}
