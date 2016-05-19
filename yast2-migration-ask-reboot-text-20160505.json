@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-ask-reboot"
+  ],
+  "area": [
+    {
+      "xpos": 278,
+      "ypos": 350,
+      "width": 461,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

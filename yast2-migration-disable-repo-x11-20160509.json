@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "xpos": 373,
+      "width": 63,
+      "ypos": 225,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disable-repo"
+  ]
+}

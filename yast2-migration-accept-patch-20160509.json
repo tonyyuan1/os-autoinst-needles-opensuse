@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-migration-accept-patch"
+  ],
+  "area": [
+    {
+      "xpos": 711,
+      "ypos": 642,
+      "width": 83,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

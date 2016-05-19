@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "recommend-to-disable"
+  ],
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 128,
+      "width": 398,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
