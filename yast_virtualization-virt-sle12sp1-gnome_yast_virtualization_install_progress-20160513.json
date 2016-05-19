@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "virt-sle12sp1-gnome_yast_virtualization_install_progress"
+  ],
+  "area": [
+    {
+      "xpos": 49,
+      "ypos": 81,
+      "width": 393,
+      "height": 110,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

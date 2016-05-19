@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 194,
+      "ypos": 212,
+      "width": 489,
+      "height": 288,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-SP2ORLATER-1",
+    "virt-sle-gnome_yast_virtualization_installed"
+  ]
+}
