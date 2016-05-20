@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 58,
+      "ypos": 230,
+      "width": 192,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dconf-org-gnome"
+  ]
+}

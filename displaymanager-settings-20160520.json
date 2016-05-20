@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "displaymanager-settings"
+  ],
+  "area": [
+    {
+      "height": 30,
+      "type": "match",
+      "width": 27,
+      "ypos": 467,
+      "xpos": 571
+    }
+  ],
+  "properties": []
+}

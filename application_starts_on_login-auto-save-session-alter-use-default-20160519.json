@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "auto-save-session-alter-use-default"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 428,
+      "xpos": 616,
+      "height": 27,
+      "type": "match",
+      "width": 46
+    }
+  ]
+}

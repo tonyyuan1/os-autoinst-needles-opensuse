@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 343,
+      "ypos": 298,
+      "width": 67,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 343,
+      "ypos": 249,
+      "width": 338,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "focused-on-search"
+  ]
+}

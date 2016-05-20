@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "settings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 600,
+      "ypos": 108,
+      "width": 141,
+      "height": 136,
+      "type": "match"
+    }
+  ]
+}

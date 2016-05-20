@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dm-gnome-classic"
+  ],
+  "area": [
+    {
+      "xpos": 571,
+      "ypos": 554,
+      "width": 164,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
