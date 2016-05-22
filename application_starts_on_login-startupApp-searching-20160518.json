@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 32,
+      "type": "match",
+      "width": 30,
+      "ypos": 252,
+      "xpos": 571
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "startupApp-searching"
+  ]
+}

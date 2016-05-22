@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 9,
+      "width": 605,
+      "height": 724,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "FAKE",
+    "generic-desktop"
+  ]
+}

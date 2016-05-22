@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 249,
+      "xpos": 620,
+      "height": 31,
+      "type": "match",
+      "width": 93
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "auto-save-session-apply"
+  ]
+}
