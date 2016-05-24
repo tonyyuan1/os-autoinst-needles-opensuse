@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "updates_available",
+    "ENV-SP2ORLATER-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 188,
+      "ypos": 56,
+      "width": 106,
+      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 410,
+      "ypos": 56,
+      "width": 71,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

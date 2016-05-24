@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 727,
+      "ypos": 708,
+      "width": 90,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "updates_click-install",
+    "ENV-SP2ORLATER-1"
+  ]
+}
