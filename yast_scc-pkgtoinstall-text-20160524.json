@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 353,
+      "width": 31,
+      "type": "match",
+      "ypos": 75,
+      "height": 53
+    }
+  ],
+  "tags": [
+    "yast_scc-pkgtoinstall"
+  ]
+}
