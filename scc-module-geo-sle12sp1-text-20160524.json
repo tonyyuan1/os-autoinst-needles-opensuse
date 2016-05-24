@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 289,
+      "width": 485,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-module-geo"
+  ]
+}
