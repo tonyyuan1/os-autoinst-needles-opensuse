@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 813,
+      "ypos": 267,
+      "width": 206,
+      "height": 472,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-repos-listed",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-Server-DVD"
+  ],
+  "properties": []
+}
