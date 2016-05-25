@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "gnome-terminal-second-tab"
+  ],
+  "area": [
+    {
+      "height": 93,
+      "xpos": 147,
+      "type": "match",
+      "width": 108,
+      "ypos": 118
+    }
+  ]
+}
