@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-jpgfile"
+  ],
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 120,
+      "type": "match",
+      "height": 101,
+      "width": 90
+    }
+  ],
+  "properties": []
+}

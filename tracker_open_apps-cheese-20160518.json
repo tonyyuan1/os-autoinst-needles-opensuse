@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "tracker-search-cheese"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 178,
+      "ypos": 196,
+      "width": 142,
+      "height": 37,
+      "type": "match"
+    }
+  ]
+}

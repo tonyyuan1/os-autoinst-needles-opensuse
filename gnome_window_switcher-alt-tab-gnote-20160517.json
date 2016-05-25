@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 303,
+      "width": 136,
+      "height": 133,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "alt-tab-gnote"
+  ]
+}
