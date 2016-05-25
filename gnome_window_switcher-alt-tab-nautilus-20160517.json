@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "alt-tab-nautilus"
+  ],
+  "area": [
+    {
+      "xpos": 596,
+      "ypos": 307,
+      "width": 139,
+      "height": 129,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

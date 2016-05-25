@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-gzfile"
+  ],
+  "area": [
+    {
+      "xpos": 640,
+      "ypos": 115,
+      "width": 74,
+      "height": 81,
+      "type": "match"
+    }
+  ]
+}

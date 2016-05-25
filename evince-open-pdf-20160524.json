@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 226,
+      "ypos": 236,
+      "width": 240,
+      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 625,
+      "ypos": 558,
+      "width": 120,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-open-pdf"
+  ]
+}

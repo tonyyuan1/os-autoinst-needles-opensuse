@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "alt-tab-gedit"
+  ],
+  "area": [
+    {
+      "xpos": 445,
+      "ypos": 303,
+      "width": 136,
+      "height": 131,
+      "type": "match"
+    }
+  ]
+}
