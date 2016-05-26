@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "aide_result"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 367,
+      "ypos": 15,
+      "height": 18,
+      "xpos": 142,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 0,
+      "height": 91,
+      "ypos": 41,
+      "width": 195
+    }
+  ]
+}
