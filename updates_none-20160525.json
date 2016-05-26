@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 252,
+      "ypos": 327,
+      "width": 531,
+      "height": 126,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "updates_none"
+  ]
+}
