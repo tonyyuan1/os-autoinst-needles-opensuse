@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 17,
+      "type": "match",
+      "width": 632,
+      "height": 217
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "ENV-VERSION-12",
+    "grub2"
+  ]
+}
