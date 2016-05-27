@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "scc-addon-license-geo"
+  ],
+  "area": [
+    {
+      "height": 24,
+      "ypos": 27,
+      "type": "match",
+      "width": 459,
+      "xpos": 10
+    },
+    {
+      "height": 35,
+      "xpos": 39,
+      "ypos": 112,
+      "type": "match",
+      "width": 602
+    }
+  ],
+  "properties": []
+}
