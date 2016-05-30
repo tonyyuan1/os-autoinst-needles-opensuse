@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 20,
+      "ypos": 364,
+      "width": 73,
+      "type": "match",
+      "xpos": 92
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-ftp-rightkey-menu"
+  ]
+}

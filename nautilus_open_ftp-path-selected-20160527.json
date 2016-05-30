@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ftp-path-selected"
+  ],
+  "area": [
+    {
+      "height": 29,
+      "ypos": 414,
+      "width": 171,
+      "xpos": 72,
+      "type": "match"
+    }
+  ]
+}
