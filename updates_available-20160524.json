@@ -3,21 +3,28 @@
     "updates_available",
     "ENV-SP2ORLATER-1"
   ],
-  "properties": [],
   "area": [
     {
-      "xpos": 188,
       "ypos": 56,
+      "type": "match",
       "width": 106,
-      "height": 48,
-      "type": "match"
+      "xpos": 188,
+      "height": 48
     },
     {
-      "xpos": 410,
-      "ypos": 56,
-      "width": 71,
       "height": 20,
-      "type": "match"
+      "xpos": 410,
+      "width": 71,
+      "type": "match",
+      "ypos": 56
+    },
+    {
+      "height": 17,
+      "xpos": 727,
+      "width": 99,
+      "type": "match",
+      "ypos": 707
     }
-  ]
+  ],
+  "properties": []
 }
