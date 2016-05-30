@@ -1,16 +1,16 @@
 {
   "properties": [],
+  "area": [
+    {
+      "height": 16,
+      "ypos": 255,
+      "width": 374,
+      "type": "match",
+      "xpos": 356
+    }
+  ],
   "tags": [
     "ENV-SP2ORLATER-1",
     "scc-module-ha"
-  ],
-  "area": [
-    {
-      "width": 381,
-      "height": 23,
-      "ypos": 255,
-      "xpos": 356,
-      "type": "match"
-    }
   ]
 }
