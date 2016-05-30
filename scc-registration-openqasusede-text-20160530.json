@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-registration"
+  ],
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 333,
+      "width": 297,
+      "height": 152,
+      "type": "match"
+    }
+  ]
+}
