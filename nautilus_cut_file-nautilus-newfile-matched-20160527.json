@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 739,
+      "width": 61,
+      "ypos": 101,
+      "height": 70
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-newfile-matched"
+  ]
+}
