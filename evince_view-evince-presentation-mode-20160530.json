@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 109,
+      "type": "match",
+      "width": 116,
+      "ypos": 244,
+      "height": 524
+    },
+    {
+      "xpos": 791,
+      "ypos": 255,
+      "type": "match",
+      "width": 111,
+      "height": 513
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-presentation-mode"
+  ]
+}
