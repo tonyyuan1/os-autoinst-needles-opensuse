@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 197,
+      "xpos": 9,
+      "ypos": 24,
+      "width": 653,
+      "type": "match"
+    },
+    {
+      "height": 194,
+      "xpos": 6,
+      "ypos": 253,
+      "width": 749,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-LVM-1",
+    "test-yast2_bootloader-1"
+  ],
+  "properties": []
+}
