@@ -1,6 +1,7 @@
 {
   "tags": [
-    "ENV-USBBOOT-1"
+    "ENV-USBBOOT-1",
+    "boot-menu-esc"
   ],
   "area": [
     {
