@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "journalctl-qr"
+  ],
+  "area": [
+    {
+      "width": 64,
+      "type": "match",
+      "height": 60,
+      "ypos": 376,
+      "xpos": 305
+    },
+    {
+      "height": 61,
+      "type": "match",
+      "width": 66,
+      "ypos": 384,
+      "xpos": 22
+    },
+    {
+      "ypos": 653,
+      "xpos": 22,
+      "height": 56,
+      "type": "match",
+      "width": 67
+    },
+    {
+      "xpos": 0,
+      "ypos": 285,
+      "width": 295,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
