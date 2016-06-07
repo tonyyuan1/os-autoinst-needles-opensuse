@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "sles4sap-wizard-welcome"
+  ],
+  "area": [
+    {
+      "xpos": 220,
+      "ypos": 128,
+      "width": 733,
+      "height": 79,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 715,
+      "width": 109,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 751,
+      "ypos": 710,
+      "width": 273,
+      "height": 58,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
