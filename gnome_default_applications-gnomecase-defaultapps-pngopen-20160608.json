@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 534,
+      "type": "match",
+      "xpos": 81,
+      "width": 862,
+      "ypos": 119
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-pngopen"
+  ]
+}
