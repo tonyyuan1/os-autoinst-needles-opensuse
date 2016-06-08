@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "w3m-connect-suse-webpage"
+  ],
+  "area": [
+    {
+      "width": 469,
+      "height": 77,
+      "match": 100,
+      "ypos": 463,
+      "type": "match",
+      "xpos": 64
+    }
+  ]
+}
