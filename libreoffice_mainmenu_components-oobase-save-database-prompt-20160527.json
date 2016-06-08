@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 288,
+      "ypos": 3,
+      "width": 321,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oobase-save-database-prompt"
+  ]
+}

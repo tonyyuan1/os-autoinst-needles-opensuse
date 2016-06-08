@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 374,
+      "xpos": 294,
+      "ypos": 217,
+      "height": 89,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "liberoffice-mailmerge-testAccount"
+  ]
+}
