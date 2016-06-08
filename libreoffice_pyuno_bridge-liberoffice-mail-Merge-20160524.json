@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "liberoffice-mail-Merge"
+  ],
+  "area": [
+    {
+      "xpos": 338,
+      "ypos": 15,
+      "width": 347,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 294,
+      "ypos": 233,
+      "width": 252,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 552,
+      "ypos": 620,
+      "width": 148,
+      "height": 50,
+      "type": "match"
+    }
+  ]
+}

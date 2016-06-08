@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ooffice-menus-tools"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 64,
+      "ypos": 72,
+      "width": 149,
+      "height": 92,
+      "type": "match"
+    }
+  ]
+}
