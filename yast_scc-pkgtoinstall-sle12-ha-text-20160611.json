@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 82,
+      "width": 10,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 82,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 82,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 82,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 82,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast_scc-pkgtoinstall"
+  ],
+  "properties": []
+}
