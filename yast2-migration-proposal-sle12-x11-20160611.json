@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-migration-proposal"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 79,
+      "ypos": 81,
+      "width": 232,
+      "xpos": 20
+    }
+  ]
+}
