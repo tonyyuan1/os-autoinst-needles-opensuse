@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 177,
+      "ypos": 229,
+      "width": 457,
+      "height": 107,
+      "type": "match"
+    },
+    {
+      "xpos": 127,
+      "ypos": 463,
+      "width": 542,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "virttest-bootloader"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "virttest-pxe-edit-prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 188,
+      "ypos": 31,
+      "width": 120,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 164,
+      "ypos": 256,
+      "width": 170,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 367,
+      "width": 38,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

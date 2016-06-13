@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 174,
+      "ypos": 256,
+      "type": "match",
+      "xpos": 160,
+      "height": 16
+    },
+    {
+      "width": 119,
+      "ypos": 30,
+      "type": "match",
+      "xpos": 188,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virttest-pxe-menu"
+  ]
+}
