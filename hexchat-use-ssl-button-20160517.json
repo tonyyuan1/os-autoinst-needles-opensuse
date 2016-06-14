@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 295,
+      "ypos": 300,
+      "width": 308,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "hexchat-use-ssl-button"
+  ],
+  "properties": []
+}
