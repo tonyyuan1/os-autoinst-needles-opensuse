@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 317,
+      "ypos": 234,
+      "width": 63,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "hexchat-join-openqa"
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "hexchat-close-button"
+  ],
+  "area": [
+    {
+      "xpos": 649,
+      "ypos": 647,
+      "width": 82,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "hexchat-quit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 277,
+      "ypos": 195,
+      "width": 128,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
