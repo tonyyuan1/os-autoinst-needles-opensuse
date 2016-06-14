@@ -1,16 +1,17 @@
 {
-  "tags": [
-    "ENV-USBBOOT-1",
-    "boot-menu-esc"
-  ],
-  "properties": [],
   "area": [
     {
-      "type": "match",
       "xpos": 2,
-      "width": 216,
       "ypos": 128,
-      "height": 14
+      "height": 14,
+      "width": 216,
+      "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-USBBOOT-1",
+    "boot-menu",
+    "boot-menu-esc"
   ]
 }
