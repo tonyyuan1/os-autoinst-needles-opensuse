@@ -1,0 +1,27 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "installation-details-view-remaining-time-gt2h",
+    "installation-details-view"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "xpos": 361,
+      "ypos": 334,
+      "width": 118,
+      "type": "match"
+    },
+    {
+      "xpos": 621,
+      "height": 54,
+      "ypos": 98,
+      "type": "match",
+      "width": 75
+    }
+  ]
+}
