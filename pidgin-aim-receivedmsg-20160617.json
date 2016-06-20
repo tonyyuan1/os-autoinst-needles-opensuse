@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 423,
+      "ypos": 69,
+      "width": 122,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 395,
+      "ypos": 144,
+      "width": 86,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-aim-receivedmsg"
+  ]
+}

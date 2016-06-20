@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "status-icons"
+  ],
+  "area": [
+    {
+      "xpos": 663,
+      "ypos": 328,
+      "width": 116,
+      "height": 118,
+      "type": "match"
+    }
+  ]
+}

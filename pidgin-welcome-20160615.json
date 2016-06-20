@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 298,
+      "ypos": 211,
+      "width": 268,
+      "height": 91,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-welcome"
+  ]
+}
