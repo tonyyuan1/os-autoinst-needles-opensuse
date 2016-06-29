@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 208,
+      "height": 48,
+      "width": 465,
+      "ypos": 271,
+      "type": "match"
+    },
+    {
+      "ypos": 176,
+      "type": "match",
+      "width": 83,
+      "xpos": 388,
+      "height": 13
+    },
+    {
+      "xpos": 208,
+      "ypos": 208,
+      "width": 105,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-geo"
+  ],
+  "properties": []
+}

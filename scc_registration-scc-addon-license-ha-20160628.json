@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 30,
+      "width": 417,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-addon-license-ha"
+  ]
+}
