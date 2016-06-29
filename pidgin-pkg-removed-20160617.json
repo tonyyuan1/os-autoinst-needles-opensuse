@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-pkg-removed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 48,
+      "width": 116,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

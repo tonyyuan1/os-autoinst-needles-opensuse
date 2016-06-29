@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "status-icons-pidgin"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 49,
+      "ypos": 708,
+      "width": 31,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

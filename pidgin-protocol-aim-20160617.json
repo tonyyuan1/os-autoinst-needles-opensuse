@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 24,
+      "ypos": 233,
+      "xpos": 500,
+      "width": 108
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pidgin-protocol-aim"
+  ]
+}
