@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ssh-keygen-ok"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 31,
+      "width": 270,
+      "xpos": 2,
+      "ypos": 32,
+      "type": "match"
+    }
+  ]
+}
