@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "on-pattern",
+    "on-pattern-kvmserver"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 169,
+      "height": 32,
+      "xpos": 103,
+      "ypos": 384
+    }
+  ]
+}
