@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "confirmlicense"
+  ],
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 237,
+      "width": 421,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

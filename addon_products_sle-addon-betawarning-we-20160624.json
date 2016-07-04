@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-betawarning-we"
+  ],
+  "area": [
+    {
+      "xpos": 326,
+      "ypos": 290,
+      "width": 57,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
