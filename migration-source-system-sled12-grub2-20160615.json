@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 260,
+      "width": 275,
+      "height": 175,
+      "ypos": 15,
+      "type": "match"
+    },
+    {
+      "ypos": 201,
+      "type": "match",
+      "xpos": 149,
+      "width": 86,
+      "height": 75
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "migration-source-system-grub2"
+  ]
+}
