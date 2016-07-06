@@ -1,0 +1,34 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-packageinstallationstarted",
+    "installation-details-view",
+    "installation-details-view-remaining-time-gt2h"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 65,
+      "type": "match",
+      "xpos": 6,
+      "ypos": 26,
+      "width": 129
+    },
+    {
+      "type": "match",
+      "height": 36,
+      "width": 67,
+      "ypos": 64,
+      "xpos": 233
+    },
+    {
+      "xpos": 210,
+      "ypos": 692,
+      "width": 798,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
