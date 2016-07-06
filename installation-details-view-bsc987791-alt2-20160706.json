@@ -1,18 +1,10 @@
 {
-  "tags": [
-    "ENV-INSTLANG-en_US",
-    "ENV-SP2ORLATER-1",
-    "installation-details-view"
-  ],
-  "properties": [
-    "workaround"
-  ],
   "area": [
     {
       "type": "match",
       "ypos": 77,
-      "width": 173,
       "height": 56,
+      "width": 173,
       "xpos": 506
     },
     {
@@ -23,18 +15,26 @@
       "xpos": 371
     },
     {
-      "xpos": 747,
+      "type": "match",
       "ypos": 652,
       "width": 269,
       "height": 59,
-      "type": "match"
+      "xpos": 747
     },
     {
       "xpos": 492,
-      "ypos": 660,
       "width": 130,
       "height": 14,
+      "ypos": 660,
       "type": "match"
     }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "installation-details-view"
+  ],
+  "properties": [
+    "workaround"
   ]
 }
