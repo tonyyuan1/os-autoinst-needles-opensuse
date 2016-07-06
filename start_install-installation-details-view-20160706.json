@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "installation-details-view"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 190,
+      "width": 287,
+      "height": 45,
+      "xpos": 37
+    },
+    {
+      "type": "match",
+      "ypos": 351,
+      "width": 170,
+      "height": 15,
+      "xpos": 361
+    }
+  ]
+}
