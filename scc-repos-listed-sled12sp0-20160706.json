@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "scc-repos-listed"
-  ],
   "area": [
     {
-      "xpos": 623,
+      "xpos": 624,
       "ypos": 560,
-      "width": 253,
-      "height": 176,
+      "width": 250,
+      "height": 174,
       "type": "match"
     }
   ],
-  "properties": []
+  "properties": [],
+  "tags": [
+    "scc-repos-listed"
+  ]
 }
