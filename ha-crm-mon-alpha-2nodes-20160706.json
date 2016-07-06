@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 130,
+      "xpos": 0,
+      "ypos": 624,
+      "width": 379
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "width": 140,
+      "ypos": 543,
+      "xpos": 0
+    },
+    {
+      "xpos": 138,
+      "ypos": 639,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ha-crm-mon-alpha"
+  ]
+}
