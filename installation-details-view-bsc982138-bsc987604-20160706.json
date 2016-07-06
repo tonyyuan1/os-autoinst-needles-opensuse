@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 31,
+      "height": 56,
+      "width": 173,
+      "ypos": 177,
+      "type": "match"
+    },
+    {
+      "ypos": 352,
+      "type": "match",
+      "xpos": 371,
+      "height": 17,
+      "width": 118
+    },
+    {
+      "ypos": 144,
+      "type": "match",
+      "xpos": 569,
+      "width": 75,
+      "height": 54
+    },
+    {
+      "xpos": 366,
+      "width": 48,
+      "height": 96,
+      "ypos": 135,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "installation-details-view",
+    "installation-details-view-remaining-time-gt2h"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
