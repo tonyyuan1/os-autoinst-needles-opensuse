@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "scc-addon-license-wsm",
+    "ENV-VIDOEMODE-text"
+  ],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 32,
+      "width": 225,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 33,
+      "ypos": 112,
+      "width": 271,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
