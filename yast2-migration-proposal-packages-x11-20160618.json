@@ -2,14 +2,14 @@
   "tags": [
     "migration-proposal-packages"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 31,
       "ypos": 304,
-      "width": 84,
+      "xpos": 31,
       "height": 33,
+      "width": 84,
       "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
