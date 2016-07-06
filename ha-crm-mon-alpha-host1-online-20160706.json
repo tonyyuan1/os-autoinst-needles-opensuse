@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "ha-crm-mon-alpha-host1-online"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 114,
+      "width": 429,
+      "ypos": 96,
+      "xpos": 0
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "width": 140,
+      "ypos": 31,
+      "xpos": 0
+    }
+  ],
+  "properties": []
+}
