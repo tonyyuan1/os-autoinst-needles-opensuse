@@ -1,16 +1,16 @@
 {
-  "tags": [
-    "scc-module-wsm",
-    "ENV-VIDOEMODE-text"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 555,
-      "ypos": 368,
-      "width": 246,
-      "height": 15,
-      "type": "match"
-    }
-  ]
+   "properties" : [],
+   "area" : [
+      {
+         "width" : 246,
+         "xpos" : 555,
+         "ypos" : 368,
+         "type" : "match",
+         "height" : 15
+      }
+   ],
+   "tags" : [
+      "ENV-VIDEOMODE-text",
+      "scc-module-wsm"
+   ]
 }

@@ -1,16 +1,16 @@
 {
-  "tags": [
-    "scc-module-certm",
-    "ENV-VIDOEMODE-text"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 555,
-      "ypos": 289,
-      "width": 222,
-      "height": 13,
-      "type": "match"
-    }
-  ]
+   "tags" : [
+      "ENV-VIDEOMODE-text",
+      "scc-module-certm"
+   ],
+   "area" : [
+      {
+         "width" : 222,
+         "xpos" : 555,
+         "ypos" : 289,
+         "height" : 13,
+         "type" : "match"
+      }
+   ],
+   "properties" : []
 }

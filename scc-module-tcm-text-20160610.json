@@ -1,16 +1,16 @@
 {
-  "properties": [],
-  "tags": [
-    "scc-module-tcm",
-    "ENV-VIDOEMODE-text"
-  ],
-  "area": [
-    {
-      "xpos": 553,
-      "ypos": 354,
-      "width": 184,
-      "height": 13,
-      "type": "match"
-    }
-  ]
+   "tags" : [
+      "ENV-VIDEOMODE-text",
+      "scc-module-tcm"
+   ],
+   "area" : [
+      {
+         "width" : 184,
+         "xpos" : 553,
+         "ypos" : 354,
+         "type" : "match",
+         "height" : 13
+      }
+   ],
+   "properties" : []
 }

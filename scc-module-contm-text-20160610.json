@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 556,
-      "ypos": 305,
-      "width": 188,
-      "height": 13,
-      "type": "match"
-    }
-  ],
-  "properties": [],
-  "tags": [
-    "scc-module-contm",
-    "ENV-VIDOEMODE-text"
-  ]
+   "area" : [
+      {
+         "type" : "match",
+         "height" : 13,
+         "ypos" : 305,
+         "xpos" : 556,
+         "width" : 188
+      }
+   ],
+   "properties" : [],
+   "tags" : [
+      "ENV-VIDEOMODE-text",
+      "scc-module-contm"
+   ]
 }
