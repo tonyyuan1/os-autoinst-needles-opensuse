@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 281,
+      "type": "match",
+      "xpos": 6,
+      "ypos": 45,
+      "height": 61
+    }
+  ],
+  "tags": [
+    "gedit-open-firefox"
+  ],
+  "properties": []
+}
