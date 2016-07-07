@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "scc-module-lgm",
+    "ENV-VIDOEMODE-text"
+  ],
+  "area": [
+    {
+      "xpos": 554,
+      "ypos": 321,
+      "width": 159,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

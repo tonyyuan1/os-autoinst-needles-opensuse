@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "scc-module-pcm",
+    "ENV-VIDOEMODE-text"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 555,
+      "ypos": 337,
+      "width": 206,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

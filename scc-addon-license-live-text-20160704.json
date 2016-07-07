@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "scc-addon-license-live",
+    "ENV-VIDOEMODE-text"
+  ],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 33,
+      "type": "match",
+      "width": 307,
+      "height": 14
+    },
+    {
+      "xpos": 41,
+      "type": "match",
+      "ypos": 129,
+      "height": 47,
+      "width": 328
+    }
+  ]
+}

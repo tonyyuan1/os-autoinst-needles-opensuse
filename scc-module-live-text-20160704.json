@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 304,
+      "width": 334,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-module-live",
+    "ENV-VIDOEMODE-text"
+  ],
+  "properties": []
+}
