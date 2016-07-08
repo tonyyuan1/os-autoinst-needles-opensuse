@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution_wizard-sending"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 187,
+      "ypos": 279,
+      "width": 136,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 434,
+      "ypos": 116,
+      "width": 151,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}

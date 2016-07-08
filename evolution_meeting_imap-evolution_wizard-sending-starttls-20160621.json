@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_wizard-sending-starttls"
+  ],
+  "area": [
+    {
+      "xpos": 500,
+      "ypos": 467,
+      "width": 205,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution_mail-save_meeting_dialog"
+  ],
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 283,
+      "width": 455,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 638,
+      "ypos": 356,
+      "width": 125,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

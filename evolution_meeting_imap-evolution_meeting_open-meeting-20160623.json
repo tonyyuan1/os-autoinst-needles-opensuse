@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 51,
+      "ypos": 251,
+      "width": 457,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 37,
+      "ypos": 71,
+      "width": 432,
+      "height": 72,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "evolution_meeting_open-meeting"
+  ]
+}

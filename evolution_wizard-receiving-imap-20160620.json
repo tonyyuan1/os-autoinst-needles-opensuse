@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evolution_wizard-receiving-imap"
+  ],
+  "area": [
+    {
+      "ypos": 166,
+      "type": "match",
+      "width": 103,
+      "xpos": 451,
+      "height": 31
+    }
+  ],
+  "properties": []
+}

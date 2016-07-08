@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 175,
+      "width": 447,
+      "height": 76,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "evolution_wizard-restore-backup"
+  ]
+}

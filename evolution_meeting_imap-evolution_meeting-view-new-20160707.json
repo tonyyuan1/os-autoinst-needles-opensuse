@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "evolution_meeting-view-new"
+  ],
+  "area": [
+    {
+      "xpos": 316,
+      "ypos": 176,
+      "width": 101,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 316,
+      "ypos": 176,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 316,
+      "ypos": 176,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 316,
+      "ypos": 176,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

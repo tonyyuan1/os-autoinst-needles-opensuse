@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution_mail-sendinvite_meeting"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 204,
+      "ypos": 288,
+      "width": 493,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 211,
+      "ypos": 327,
+      "width": 481,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
