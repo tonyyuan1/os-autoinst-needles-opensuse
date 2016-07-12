@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "evolution_mail-max-window"
+  ],
+  "area": [
+    {
+      "width": 561,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 2,
+      "height": 143
+    }
+  ]
+}

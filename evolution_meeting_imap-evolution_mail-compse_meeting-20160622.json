@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "evolution_mail-compse_meeting"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 43,
+      "type": "match",
+      "width": 494,
+      "height": 36,
+      "ypos": 148
+    },
+    {
+      "xpos": 429,
+      "width": 65,
+      "type": "match",
+      "ypos": 195,
+      "height": 25
+    },
+    {
+      "ypos": 321,
+      "height": 191,
+      "type": "match",
+      "width": 99,
+      "xpos": 59
+    },
+    {
+      "height": 24,
+      "ypos": 43,
+      "type": "match",
+      "width": 73,
+      "xpos": 287
+    }
+  ]
+}

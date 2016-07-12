@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 428,
+      "ypos": 293,
+      "width": 176,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 238,
+      "ypos": 354,
+      "width": 498,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_mail_sendingRecvice"
+  ]
+}

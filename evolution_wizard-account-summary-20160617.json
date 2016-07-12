@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution_wizard-account-summary"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 112,
+      "height": 41,
+      "xpos": 424,
+      "width": 176
+    },
+    {
+      "height": 33,
+      "xpos": 188,
+      "width": 138,
+      "type": "match",
+      "ypos": 310
+    }
+  ],
+  "properties": []
+}

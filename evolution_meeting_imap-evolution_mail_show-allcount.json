@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "evoltuon_mail_show-allcount"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 880,
+      "ypos": 170,
+      "width": 122,
+      "height": 45,
+      "type": "match"
+    }
+  ]
+}

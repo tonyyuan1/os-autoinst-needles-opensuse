@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "evolution_mail-ready"
+  ],
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 708,
+      "height": 25,
+      "width": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 309,
+      "ypos": 275,
+      "width": 456,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 633,
+      "ypos": 354,
+      "width": 135,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
