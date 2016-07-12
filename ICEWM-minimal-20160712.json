@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "ENV-INSTLANG-en_US",
+    "desktop-at-first-boot",
+    "generic-desktop"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "ypos": 745,
+      "height": 23,
+      "width": 170
+    }
+  ]
+}
