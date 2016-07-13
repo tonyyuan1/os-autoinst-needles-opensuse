@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oomath-prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 148,
+      "type": "match",
+      "ypos": 308,
+      "xpos": 269,
+      "width": 485
+    }
+  ]
+}
