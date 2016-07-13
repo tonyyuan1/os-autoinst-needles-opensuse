@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-options-menu"
+  ],
+  "area": [
+    {
+      "width": 239,
+      "height": 27,
+      "type": "match",
+      "xpos": 392,
+      "ypos": 14
+    }
+  ]
+}
