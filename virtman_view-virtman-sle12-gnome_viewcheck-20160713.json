@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "virtman-sle12-gnome_viewcheck"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 106,
+      "type": "match",
+      "xpos": 256,
+      "ypos": 119,
+      "width": 158
+    }
+  ]
+}
