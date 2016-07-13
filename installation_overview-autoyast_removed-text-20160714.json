@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 108,
+      "xpos": 25,
+      "width": 260,
+      "type": "match",
+      "ypos": 626
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "ENV-VIDEOMODE-text",
+    "autoyast_removed"
+  ]
+}

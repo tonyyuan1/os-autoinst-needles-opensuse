@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "autoyast_removed"
+  ],
+  "area": [
+    {
+      "width": 241,
+      "xpos": 359,
+      "height": 77,
+      "ypos": 661,
+      "type": "match"
+    }
+  ]
+}
