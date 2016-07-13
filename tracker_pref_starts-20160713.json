@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "tracker_pref_launched"
+  ],
+  "area": [
+    {
+      "height": 103,
+      "type": "match",
+      "ypos": 137,
+      "xpos": 263,
+      "width": 282
+    }
+  ]
+}
