@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-launched"
+  ],
+  "area": [
+    {
+      "height": 27,
+      "type": "match",
+      "xpos": 71,
+      "ypos": 140,
+      "width": 129
+    }
+  ]
+}
