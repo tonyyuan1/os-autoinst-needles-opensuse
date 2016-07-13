@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 122,
+      "height": 15,
+      "ypos": 59,
+      "type": "match",
+      "xpos": 388
+    },
+    {
+      "height": 22,
+      "type": "match",
+      "ypos": 103,
+      "xpos": 77,
+      "width": 97
+    },
+    {
+      "height": 30,
+      "type": "match",
+      "xpos": 58,
+      "ypos": 643,
+      "width": 87
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "yast2_snapper-snapshots"
+  ]
+}
