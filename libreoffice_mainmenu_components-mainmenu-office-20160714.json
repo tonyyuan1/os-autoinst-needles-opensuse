@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 417,
+      "xpos": 34,
+      "height": 30,
+      "width": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "mainmenu-office"
+  ]
+}
