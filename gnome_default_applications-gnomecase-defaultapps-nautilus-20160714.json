@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-nautilus"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 265,
+      "ypos": 96,
+      "height": 121,
+      "width": 463
+    }
+  ]
+}
