@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-addon-license-live"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 307,
+      "height": 14,
+      "xpos": 15,
+      "type": "match",
+      "ypos": 33
+    },
+    {
+      "height": 47,
+      "type": "match",
+      "xpos": 41,
+      "ypos": 129,
+      "width": 328
+    }
+  ]
+}
