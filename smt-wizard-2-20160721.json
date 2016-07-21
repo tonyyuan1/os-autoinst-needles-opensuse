@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "smt-wizard-2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 70,
+      "ypos": 97,
+      "width": 352,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
