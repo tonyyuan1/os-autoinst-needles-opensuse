@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 383,
+      "width": 76,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 700,
+      "ypos": 351,
+      "width": 21,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 367,
+      "width": 48,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "qa-net-typed"
+  ]
+}
