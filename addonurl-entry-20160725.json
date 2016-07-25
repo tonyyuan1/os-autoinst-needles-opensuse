@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addonurl-entry"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 190,
+      "width": 247,
+      "type": "match",
+      "xpos": 74,
+      "height": 359
+    },
+    {
+      "xpos": 350,
+      "ypos": 344,
+      "width": 172,
+      "height": 64,
+      "type": "match"
+    }
+  ]
+}
