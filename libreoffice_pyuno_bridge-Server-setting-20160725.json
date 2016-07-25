@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "Server-setting"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 432,
+      "width": 161,
+      "ypos": 134,
+      "height": 26
+    },
+    {
+      "width": 385,
+      "ypos": 165,
+      "type": "match",
+      "xpos": 221,
+      "height": 34
+    }
+  ]
+}
