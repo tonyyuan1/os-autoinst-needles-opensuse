@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "updates_available",
+    "ENV-VERSION-12-SP1"
+  ],
+  "area": [
+    {
+      "width": 106,
+      "ypos": 69,
+      "type": "match",
+      "height": 48,
+      "xpos": 181
+    },
+    {
+      "type": "match",
+      "xpos": 387,
+      "height": 20,
+      "width": 71,
+      "ypos": 69
+    },
+    {
+      "xpos": 747,
+      "height": 17,
+      "type": "match",
+      "ypos": 702,
+      "width": 99
+    }
+  ]
+}
