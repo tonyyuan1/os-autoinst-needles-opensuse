@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "xpos": 766,
+      "type": "match",
+      "width": 91,
+      "ypos": 162
+    },
+    {
+      "xpos": 127,
+      "type": "match",
+      "width": 429,
+      "ypos": 259,
+      "height": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12",
+    "release-notes-sdk"
+  ]
+}
