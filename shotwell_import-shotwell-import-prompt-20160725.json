@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "shotwell-import-prompt"
+  ],
+  "area": [
+    {
+      "height": 133,
+      "ypos": 303,
+      "width": 535,
+      "xpos": 246,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
