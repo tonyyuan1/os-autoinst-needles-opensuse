@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "test-ooffice-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 226,
+      "ypos": 45,
+      "width": 526,
+      "xpos": 9,
+      "type": "match"
+    }
+  ]
+}
