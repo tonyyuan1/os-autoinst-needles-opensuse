@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "shotwell-remove-prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 513,
+      "ypos": 278,
+      "type": "match",
+      "xpos": 256,
+      "height": 184
+    }
+  ]
+}
