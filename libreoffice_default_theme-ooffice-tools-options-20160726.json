@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 184,
+      "ypos": 14,
+      "type": "match",
+      "xpos": 36,
+      "height": 261
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ooffice-tools-options"
+  ]
+}
