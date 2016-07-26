@@ -1,29 +1,29 @@
 {
-  "properties": [],
-  "tags": [
-    "updates_available"
-  ],
   "area": [
     {
-      "width": 106,
-      "ypos": 69,
-      "type": "match",
       "height": 48,
-      "xpos": 181
+      "type": "match",
+      "xpos": 181,
+      "ypos": 69,
+      "width": 106
     },
     {
-      "type": "match",
-      "xpos": 387,
       "height": 20,
+      "xpos": 409,
+      "type": "match",
       "width": 71,
       "ypos": 69
     },
     {
-      "xpos": 747,
-      "height": 17,
+      "xpos": 740,
       "type": "match",
+      "width": 89,
       "ypos": 702,
-      "width": 99
+      "height": 17
     }
+  ],
+  "properties": [],
+  "tags": [
+    "updates_available"
   ]
 }
