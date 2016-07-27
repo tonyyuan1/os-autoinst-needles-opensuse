@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-pdffile"
+  ],
+  "area": [
+    {
+      "ypos": 95,
+      "width": 74,
+      "type": "match",
+      "xpos": 453,
+      "height": 100
+    }
+  ],
+  "properties": []
+}
