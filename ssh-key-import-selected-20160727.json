@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ssh-key-import-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 599,
+      "width": 259,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
