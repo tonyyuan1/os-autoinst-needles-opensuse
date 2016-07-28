@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "virt-sle-gnome_yast_virtualization"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 152,
+      "type": "match",
+      "xpos": 352,
+      "width": 323,
+      "ypos": 309
+    }
+  ]
+}
