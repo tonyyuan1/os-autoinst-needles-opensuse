@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-receiving-opts"
+  ],
+  "area": [
+    {
+      "xpos": 439,
+      "ypos": 116,
+      "width": 151,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 363,
+      "ypos": 325,
+      "width": 301,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
