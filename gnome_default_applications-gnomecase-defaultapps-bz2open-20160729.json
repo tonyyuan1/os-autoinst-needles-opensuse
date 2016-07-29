@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-bz2open"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 33,
+      "xpos": 297,
+      "type": "match",
+      "width": 99,
+      "ypos": 57
+    },
+    {
+      "height": 54,
+      "ypos": 149,
+      "width": 88,
+      "xpos": 53,
+      "type": "match"
+    }
+  ]
+}
