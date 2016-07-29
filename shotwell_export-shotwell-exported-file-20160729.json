@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 96,
+      "width": 101,
+      "xpos": 260,
+      "type": "match",
+      "height": 101
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "shotwell-exported-file"
+  ]
+}
