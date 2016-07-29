@@ -1,7 +1,4 @@
 {
-  "properties": [
-    "workaround"
-  ],
   "area": [
     {
       "width": 379,
@@ -20,6 +17,7 @@
   ],
   "tags": [
     "displaymanager",
-    "reboot-after-installation"
+    "reboot-after-installation",
+    "ENV-SP2ORLATER-0"
   ]
 }

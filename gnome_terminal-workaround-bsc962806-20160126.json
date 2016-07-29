@@ -1,9 +1,7 @@
 {
   "tags": [
-    "test-gnome_terminal-1"
-  ],
-  "properties": [
-    "workaround"
+    "test-gnome_terminal-1",
+    "ENV-SP2ORLATER-0"
   ],
   "area": [
     {
