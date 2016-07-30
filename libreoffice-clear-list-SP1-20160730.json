@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "libreoffice-clear-list"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 263,
+      "ypos": 186,
+      "width": 129,
+      "height": 17
+    }
+  ],
+  "properties": []
+}
