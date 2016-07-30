@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "favorites-list-libreoffice"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 210,
+      "width": 141,
+      "ypos": 466,
+      "height": 37
+    },
+    {
+      "width": 119,
+      "ypos": 550,
+      "xpos": 19,
+      "type": "match",
+      "height": 37
+    },
+    {
+      "height": 27,
+      "ypos": 739,
+      "width": 97,
+      "xpos": 4,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
