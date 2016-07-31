@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "type": "match",
+      "xpos": 409,
+      "width": 225,
+      "ypos": 8
+    },
+    {
+      "height": 302,
+      "type": "match",
+      "xpos": 63,
+      "ypos": 122,
+      "width": 218
+    },
+    {
+      "height": 391,
+      "ypos": 168,
+      "width": 272,
+      "xpos": 334,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-test-odg"
+  ]
+}
