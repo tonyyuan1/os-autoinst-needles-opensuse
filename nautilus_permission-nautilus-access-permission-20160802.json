@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-access-permission"
+  ],
+  "area": [
+    {
+      "ypos": 299,
+      "xpos": 295,
+      "type": "match",
+      "width": 72,
+      "height": 58
+    }
+  ],
+  "properties": []
+}
