@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 85,
+      "height": 114,
+      "xpos": 726,
+      "ypos": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-htmlfile"
+  ]
+}
