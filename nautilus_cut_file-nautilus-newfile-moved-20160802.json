@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 270,
+      "ypos": 103,
+      "type": "match",
+      "height": 67,
+      "width": 66
+    },
+    {
+      "xpos": 99,
+      "ypos": 219,
+      "height": 22,
+      "type": "match",
+      "width": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-newfile-moved"
+  ]
+}
