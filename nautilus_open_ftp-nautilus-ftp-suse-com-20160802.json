@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "width": 118,
+      "ypos": 61,
+      "xpos": 223
+    },
+    {
+      "xpos": 272,
+      "ypos": 104,
+      "width": 63,
+      "type": "match",
+      "height": 69
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-ftp-suse-com"
+  ]
+}
