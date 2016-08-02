@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-rightkey-menu"
+  ],
+  "area": [
+    {
+      "width": 56,
+      "ypos": 485,
+      "type": "match",
+      "xpos": 745,
+      "height": 51
+    }
+  ],
+  "properties": []
+}
