@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "tweak-startapp"
+  ],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 299,
+      "width": 151,
+      "type": "match",
+      "height": 26
+    }
+  ],
+  "properties": []
+}
