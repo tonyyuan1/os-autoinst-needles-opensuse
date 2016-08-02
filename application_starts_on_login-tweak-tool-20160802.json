@@ -1,0 +1,51 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "xpos": 92,
+      "height": 95,
+      "type": "match",
+      "width": 685
+    },
+    {
+      "xpos": 409,
+      "ypos": 56,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 890,
+      "ypos": 52,
+      "width": 73,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 198,
+      "ypos": 33,
+      "width": 126,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 314,
+      "ypos": 95,
+      "width": 37,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 364,
+      "ypos": 47,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "tweak-tool"
+  ]
+}
