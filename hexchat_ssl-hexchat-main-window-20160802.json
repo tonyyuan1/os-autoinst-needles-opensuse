@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-main-window"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 91,
+      "width": 126,
+      "type": "match",
+      "xpos": 195,
+      "ypos": 171
+    },
+    {
+      "height": 26,
+      "width": 218,
+      "type": "match",
+      "xpos": 515,
+      "ypos": 106
+    }
+  ]
+}
