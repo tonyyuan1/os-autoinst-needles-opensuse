@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 464,
+      "type": "match",
+      "ypos": 313,
+      "height": 22,
+      "width": 128
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-quit"
+  ],
+  "properties": []
+}

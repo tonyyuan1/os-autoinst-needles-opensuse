@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-connect-button"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 608,
+      "type": "match",
+      "xpos": 603,
+      "width": 89,
+      "height": 39
+    }
+  ]
+}

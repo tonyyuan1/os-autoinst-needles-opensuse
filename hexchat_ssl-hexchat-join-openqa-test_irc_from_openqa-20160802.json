@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-join-openqa-test_irc_from_openqa"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 327,
+      "type": "match",
+      "xpos": 507,
+      "width": 220,
+      "height": 26
+    }
+  ]
+}
