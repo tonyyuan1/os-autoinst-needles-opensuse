@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-aim-account1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 283,
+      "width": 300,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
