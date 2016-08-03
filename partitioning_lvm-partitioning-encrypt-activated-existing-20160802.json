@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 398,
+      "ypos": 110,
+      "width": 358,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning-encrypt-activated-existing"
+  ]
+}
