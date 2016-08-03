@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-irc-msgsent"
+  ],
+  "area": [
+    {
+      "xpos": 354,
+      "ypos": 158,
+      "width": 90,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 264,
+      "ypos": 180,
+      "width": 131,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
