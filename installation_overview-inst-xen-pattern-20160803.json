@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "inst-xen-pattern"
+  ],
+  "area": [
+    {
+      "width": 206,
+      "xpos": 413,
+      "type": "match",
+      "ypos": 192,
+      "height": 13
+    },
+    {
+      "type": "match",
+      "width": 203,
+      "xpos": 412,
+      "height": 13,
+      "ypos": 263
+    }
+  ],
+  "properties": []
+}
