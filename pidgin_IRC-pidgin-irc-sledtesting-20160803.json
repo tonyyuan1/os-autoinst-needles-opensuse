@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-irc-sledtesting"
+  ],
+  "area": [
+    {
+      "xpos": 257,
+      "ypos": 6,
+      "width": 231,
+      "height": 98,
+      "type": "match"
+    }
+  ]
+}
