@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 444,
+      "ypos": 237,
+      "width": 133,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 195,
+      "ypos": 281,
+      "width": 60,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "evolution_mail_meeting_trust_ca"
+  ]
+}
