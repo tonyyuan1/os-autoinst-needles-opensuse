@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 134,
+      "ypos": 220,
+      "width": 534,
+      "height": 289,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "virt-sle-gnome_yast_virtualization_installed"
+  ],
+  "properties": []
+}
