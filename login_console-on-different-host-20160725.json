@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "on_host_lower_than_sles_12_sp2"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 13,
+      "width": 330,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
