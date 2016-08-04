@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-aim-sentmsg"
+  ],
+  "area": [
+    {
+      "ypos": 69,
+      "xpos": 252,
+      "height": 31,
+      "width": 148,
+      "type": "match"
+    },
+    {
+      "ypos": 143,
+      "height": 25,
+      "xpos": 451,
+      "width": 88,
+      "type": "match"
+    }
+  ]
+}
