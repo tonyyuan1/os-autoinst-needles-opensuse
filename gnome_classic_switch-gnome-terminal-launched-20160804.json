@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "gnome-terminal-launched"
+  ],
+  "area": [
+    {
+      "ypos": 146,
+      "xpos": 305,
+      "height": 74,
+      "type": "match",
+      "width": 166
+    }
+  ]
+}
