@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "ypos": 497,
+      "xpos": 517,
+      "height": 38,
+      "type": "match",
+      "width": 240
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "authenticate"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 517,
-      "ypos": 498,
-      "width": 240,
-      "height": 38,
-      "type": "match"
-    }
   ]
 }
