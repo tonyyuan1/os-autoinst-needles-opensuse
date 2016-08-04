@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-cryptfile-creation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 29,
+      "width": 236,
+      "height": 51,
+      "type": "match"
+    }
+  ]
+}
