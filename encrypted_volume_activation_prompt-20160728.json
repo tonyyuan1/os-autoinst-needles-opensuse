@@ -1,7 +1,8 @@
 {
   "properties": [],
   "tags": [
-    "encrypted_volume_activation_prompt"
+      "encrypted_volume_activation_prompt",
+      "ENV-SP2ORLATER-1"
   ],
   "area": [
     {

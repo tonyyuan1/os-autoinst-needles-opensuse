@@ -1,6 +1,7 @@
 {
   "tags": [
-    "import-user-data-selection"
+      "import-user-data-selection",
+      "ENV-SP2ORLATER-1"
   ],
   "properties": [],
   "area": [
