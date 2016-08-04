@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+      "encrypted_volume_activation_prompt",
+      "ENV-SP2ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 295,
+      "ypos": 465,
+      "width": 428,
+      "height": 76,
+      "type": "match",
+      "match": 96
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+      "import-user-data-selected-user",
+      "ENV-SP2ORLATER-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 309,
+      "ypos": 473,
+      "width": 140,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

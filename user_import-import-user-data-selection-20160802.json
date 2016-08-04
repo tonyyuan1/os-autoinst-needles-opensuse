@@ -1,0 +1,23 @@
+{
+  "tags": [
+      "import-user-data-selection",
+      "ENV-SP2ORLATER-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 300,
+      "ypos": 472,
+      "width": 153,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 308,
+      "ypos": 253,
+      "width": 121,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
