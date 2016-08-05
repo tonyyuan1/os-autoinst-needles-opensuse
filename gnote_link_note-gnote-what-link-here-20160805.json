@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnote-what-link-here"
+  ],
+  "area": [
+    {
+      "ypos": 174,
+      "height": 46,
+      "xpos": 504,
+      "type": "match",
+      "width": 124
+    },
+    {
+      "width": 128,
+      "xpos": 55,
+      "type": "match",
+      "height": 77,
+      "ypos": 164
+    }
+  ],
+  "properties": []
+}
