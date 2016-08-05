@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 219,
+      "width": 179,
+      "height": 44,
+      "ypos": 555
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "mainmenu-office-impress"
+  ]
+}
