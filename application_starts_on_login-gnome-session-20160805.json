@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 90,
+      "ypos": 360,
+      "width": 141,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnome-session"
+  ],
+  "properties": []
+}
