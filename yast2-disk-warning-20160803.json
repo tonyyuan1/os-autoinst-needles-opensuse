@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-disk-warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 221,
+      "ypos": 285,
+      "width": 571,
+      "height": 180,
+      "type": "match"
+    }
+  ]
+}

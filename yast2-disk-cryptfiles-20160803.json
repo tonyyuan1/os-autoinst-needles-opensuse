@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "width": 95,
+      "type": "match",
+      "xpos": 61,
+      "ypos": 145
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-disk-cryptfiles"
+  ]
+}

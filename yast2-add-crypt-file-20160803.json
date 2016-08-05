@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-add-crypt-file"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 31,
+      "width": 120,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 396,
+      "ypos": 313,
+      "width": 221,
+      "height": 131,
+      "type": "match"
+    }
+  ]
+}
