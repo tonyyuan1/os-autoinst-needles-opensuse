@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oodraw-launched"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 215,
+      "type": "match",
+      "xpos": 403,
+      "height": 27,
+      "ypos": 4
+    },
+    {
+      "height": 161,
+      "ypos": 44,
+      "width": 243,
+      "xpos": 5,
+      "type": "match"
+    }
+  ]
+}
