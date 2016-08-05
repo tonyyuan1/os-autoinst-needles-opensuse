@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-aim-receivedmsg"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 423,
+      "width": 122,
+      "height": 25,
+      "ypos": 69
+    },
+    {
+      "ypos": 143,
+      "height": 26,
+      "width": 86,
+      "type": "match",
+      "xpos": 395
+    }
+  ],
+  "properties": []
+}
