@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 141,
+      "type": "match",
+      "width": 250,
+      "ypos": 119,
+      "height": 35
+    },
+    {
+      "xpos": 195,
+      "type": "match",
+      "width": 416,
+      "height": 34,
+      "ypos": 296
+    }
+  ],
+  "tags": [
+    "firefox-urls_protocols-smb"
+  ]
+}
