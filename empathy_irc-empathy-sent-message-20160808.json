@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 476,
+      "width": 221,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 244,
+      "ypos": 492,
+      "width": 63,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "empathy-sent-message"
+  ],
+  "properties": []
+}
