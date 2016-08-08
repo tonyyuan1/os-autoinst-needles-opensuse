@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 273,
+      "width": 282,
+      "height": 48,
+      "ypos": 198
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-zoom-out"
+  ]
+}
