@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail-compose-message"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 210,
+      "type": "match",
+      "height": 127,
+      "xpos": 41,
+      "ypos": 187
+    },
+    {
+      "xpos": 331,
+      "type": "match",
+      "height": 33,
+      "ypos": 40,
+      "width": 153
+    }
+  ]
+}

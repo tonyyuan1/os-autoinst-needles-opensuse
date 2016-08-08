@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail-auth"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 143,
+      "type": "match",
+      "height": 35,
+      "xpos": 245,
+      "width": 244
+    },
+    {
+      "width": 82,
+      "ypos": 279,
+      "type": "match",
+      "height": 30,
+      "xpos": 163
+    }
+  ]
+}

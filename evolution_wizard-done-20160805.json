@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-done"
+  ],
+  "area": [
+    {
+      "height": 119,
+      "type": "match",
+      "xpos": 347,
+      "ypos": 355,
+      "width": 407
+    }
+  ]
+}

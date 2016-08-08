@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "evolution_mail_open_mail"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 457,
+      "ypos": 260,
+      "xpos": 9,
+      "type": "match",
+      "height": 31
+    },
+    {
+      "height": 72,
+      "type": "match",
+      "xpos": 3,
+      "ypos": 76,
+      "width": 323
+    }
+  ]
+}
