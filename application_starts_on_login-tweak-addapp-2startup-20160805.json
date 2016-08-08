@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "tweak-addapp-2startup"
+  ],
+  "area": [
+    {
+      "xpos": 612,
+      "ypos": 256,
+      "width": 65,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}

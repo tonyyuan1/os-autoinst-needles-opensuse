@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "startapp-delete"
+  ],
+  "area": [
+    {
+      "xpos": 919,
+      "ypos": 79,
+      "width": 79,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
