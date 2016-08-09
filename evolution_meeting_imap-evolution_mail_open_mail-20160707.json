@@ -1,0 +1,50 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 82,
+      "width": 352,
+      "height": 60,
+      "type": "match"
+    },
+    {
+      "xpos": 117,
+      "ypos": 259,
+      "width": 333,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 82,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 258,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 258,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 258,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_mail_open-mail"
+  ]
+}

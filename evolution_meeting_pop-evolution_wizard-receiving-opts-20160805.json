@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 332,
+      "type": "match",
+      "height": 10,
+      "xpos": 592,
+      "width": 12
+    },
+    {
+      "width": 301,
+      "xpos": 361,
+      "type": "match",
+      "height": 25,
+      "ypos": 328
+    },
+    {
+      "xpos": 594,
+      "ypos": 332,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-receiving-opts"
+  ],
+  "properties": []
+}

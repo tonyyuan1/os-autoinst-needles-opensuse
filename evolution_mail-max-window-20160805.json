@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail-max-window"
+  ],
+  "area": [
+    {
+      "width": 509,
+      "type": "match",
+      "height": 143,
+      "xpos": 1,
+      "ypos": 3
+    },
+    {
+      "width": 10,
+      "type": "match",
+      "xpos": 30,
+      "height": 10,
+      "ypos": 38
+    }
+  ]
+}

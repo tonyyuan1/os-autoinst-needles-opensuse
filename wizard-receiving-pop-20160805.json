@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 196,
+      "type": "match",
+      "height": 29,
+      "xpos": 454,
+      "width": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-receiving-pop"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "type": "match",
+      "xpos": 186,
+      "ypos": 280,
+      "width": 154
+    },
+    {
+      "xpos": 442,
+      "type": "match",
+      "height": 22,
+      "ypos": 119,
+      "width": 136
+    },
+    {
+      "width": 154,
+      "type": "match",
+      "xpos": 186,
+      "height": 29,
+      "ypos": 280
+    },
+    {
+      "width": 136,
+      "xpos": 442,
+      "type": "match",
+      "height": 22,
+      "ypos": 119
+    },
+    {
+      "ypos": 119,
+      "xpos": 442,
+      "type": "match",
+      "height": 10,
+      "width": 10
+    },
+    {
+      "width": 10,
+      "ypos": 119,
+      "type": "match",
+      "xpos": 442,
+      "height": 10
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-sending"
+  ],
+  "properties": []
+}
