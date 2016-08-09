@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 260,
+      "type": "match",
+      "width": 92,
+      "height": 95,
+      "ypos": 100
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-specified-file-directory"
+  ]
+}
