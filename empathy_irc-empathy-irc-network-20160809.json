@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 356,
+      "height": 34,
+      "type": "match",
+      "xpos": 413,
+      "width": 83
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-irc-network"
+  ]
+}
