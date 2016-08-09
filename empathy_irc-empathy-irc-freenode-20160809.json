@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-irc-freenode"
+  ],
+  "area": [
+    {
+      "xpos": 338,
+      "type": "match",
+      "width": 76,
+      "height": 35,
+      "ypos": 309
+    }
+  ],
+  "properties": []
+}
