@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-message-sent-to-channel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 214,
+      "height": 30,
+      "width": 209,
+      "xpos": 298,
+      "type": "match"
+    }
+  ]
+}
