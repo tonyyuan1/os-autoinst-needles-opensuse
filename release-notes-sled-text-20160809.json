@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 225,
+      "height": 46,
+      "width": 609,
+      "type": "match",
+      "xpos": 200
+    },
+    {
+      "xpos": 200,
+      "type": "match",
+      "width": 104,
+      "ypos": 224,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "release-notes-sle"
+  ]
+}
