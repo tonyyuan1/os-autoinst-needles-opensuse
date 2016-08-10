@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 286,
+      "ypos": 271,
+      "width": 427,
+      "height": 221,
+      "type": "match"
+    },
+    {
+      "xpos": 352,
+      "ypos": 577,
+      "width": 308,
+      "height": 161,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "virttest-displaymanager"
+  ],
+  "properties": []
+}
