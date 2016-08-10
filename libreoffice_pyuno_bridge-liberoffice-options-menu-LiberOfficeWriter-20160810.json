@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 413,
+      "height": 23,
+      "width": 146,
+      "xpos": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "liberoffice-options-menu-LiberOfficeWriter"
+  ]
+}
