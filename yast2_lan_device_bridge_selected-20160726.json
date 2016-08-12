@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_lan_device_bridge_selected"
+  ],
+  "area": [
+    {
+      "xpos": 63,
+      "ypos": 217,
+      "width": 101,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

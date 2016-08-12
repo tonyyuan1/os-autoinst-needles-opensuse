@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 304,
+      "width": 244,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_packages_need_to_be_installed"
+  ]
+}
