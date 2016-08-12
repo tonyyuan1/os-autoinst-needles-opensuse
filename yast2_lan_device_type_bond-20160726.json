@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 205,
+      "ypos": 199,
+      "width": 89,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_device_type_bond"
+  ]
+}
