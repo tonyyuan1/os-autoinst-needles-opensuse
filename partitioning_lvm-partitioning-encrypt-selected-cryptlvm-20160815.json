@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 389,
+      "ypos": 263,
+      "width": 191,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "partitioning-encrypt-selected-cryptlvm"
+  ]
+}
