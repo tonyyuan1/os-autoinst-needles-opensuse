@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 304,
-      "height": 381,
-      "ypos": 273,
-      "type": "match",
-      "width": 29
-    }
-  ],
+  "properties": [],
   "tags": [
     "pattern-too-low",
     "ENV-VERSION-12"
   ],
-  "properties": []
+  "area": [
+    {
+      "width": 32,
+      "type": "match",
+      "ypos": 437,
+      "height": 227,
+      "xpos": 301
+    }
+  ]
 }
