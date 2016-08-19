@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-irc-account-added"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 82,
+      "ypos": 193,
+      "height": 23,
+      "xpos": 202
+    },
+    {
+      "xpos": 581,
+      "height": 25,
+      "ypos": 222,
+      "type": "match",
+      "width": 103
+    }
+  ],
+  "properties": []
+}
