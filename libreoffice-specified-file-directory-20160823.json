@@ -1,0 +1,16 @@
+{
+  "tags": [
+    " libreoffice-specified-file-directory",
+    "ENV-SP2ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 263,
+      "ypos": 96,
+      "width": 92,
+      "height": 106,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
