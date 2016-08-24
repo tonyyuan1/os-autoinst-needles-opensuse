@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "ENV-SP2ORLATER-1",
+    "sles4sap-product-installation-mode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 343,
+      "ypos": 339,
+      "width": 470,
+      "height": 119,
+      "type": "match"
+    }
+  ]
+}
