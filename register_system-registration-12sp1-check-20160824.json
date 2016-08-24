@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "registration-12sp1-check"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 445,
+      "ypos": 284,
+      "width": 53,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
