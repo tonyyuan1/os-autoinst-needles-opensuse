@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-test-fods"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 410,
+      "ypos": 7,
+      "width": 207,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 7,
+      "ypos": 197,
+      "width": 132,
+      "height": 199,
+      "type": "match"
+    }
+  ]
+}

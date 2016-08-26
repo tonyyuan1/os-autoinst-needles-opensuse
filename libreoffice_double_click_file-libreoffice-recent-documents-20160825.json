@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-recent-documents"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 147,
+      "width": 165,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 538,
+      "ypos": 391,
+      "width": 28,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-nautilus-window"
+  ]
+}
