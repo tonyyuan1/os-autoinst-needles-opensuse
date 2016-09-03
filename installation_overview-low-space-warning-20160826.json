@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "low-space-warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 356,
+      "width": 45,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 522,
+      "ypos": 356,
+      "width": 90,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
