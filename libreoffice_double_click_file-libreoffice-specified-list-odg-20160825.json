@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-specified-list-odg"
+  ],
+  "area": [
+    {
+      "xpos": 639,
+      "ypos": 304,
+      "width": 74,
+      "height": 98,
+      "type": "match"
+    }
+  ]
+}

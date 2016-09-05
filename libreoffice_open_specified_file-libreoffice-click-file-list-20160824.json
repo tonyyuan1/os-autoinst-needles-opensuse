@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-click-file-list"
+  ],
+  "area": [
+    {
+      "xpos": 349,
+      "ypos": 172,
+      "width": 133,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

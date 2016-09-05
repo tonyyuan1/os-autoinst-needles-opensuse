@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 257,
+      "ypos": 543,
+      "width": 84,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-specified-file-odf"
+  ],
+  "properties": []
+}

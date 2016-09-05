@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "specified-file-list"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 455,
+      "ypos": 173,
+      "type": "match",
+      "width": 310,
+      "height": 364
+    },
+    {
+      "height": 34,
+      "width": 143,
+      "type": "match",
+      "xpos": 365,
+      "ypos": 51
+    }
+  ]
+}

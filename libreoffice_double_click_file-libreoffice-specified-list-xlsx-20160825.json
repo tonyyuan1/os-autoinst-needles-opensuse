@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 735,
+      "ypos": 497,
+      "width": 74,
+      "height": 78,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-specified-list-xlsx"
+  ],
+  "properties": []
+}
