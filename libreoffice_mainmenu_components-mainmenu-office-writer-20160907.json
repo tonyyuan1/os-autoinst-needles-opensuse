@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 43,
+      "ypos": 640,
+      "xpos": 215,
+      "type": "match",
+      "width": 175
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "mainmenu-office-writer"
+  ],
+  "properties": []
+}
