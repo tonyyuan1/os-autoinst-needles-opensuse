@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 173,
+      "height": 22,
+      "type": "match",
+      "ypos": 420,
+      "width": 54
+    },
+    {
+      "xpos": 550,
+      "height": 22,
+      "ypos": 420,
+      "type": "match",
+      "width": 81
+    }
+  ],
+  "tags": [
+    "snap-before-migration"
+  ],
+  "properties": []
+}
