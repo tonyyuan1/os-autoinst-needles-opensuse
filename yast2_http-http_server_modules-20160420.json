@@ -8,9 +8,6 @@
       "type": "match"
     }
   ],
-  "properties": [
-    "workaround"
-  ],
   "tags": [
     "http_server_modules"
   ]
