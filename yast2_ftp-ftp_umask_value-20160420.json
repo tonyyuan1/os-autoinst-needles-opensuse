@@ -1,7 +1,4 @@
 {
-  "properties": [
-    "workaround"
-  ],
   "tags": [
     "ftp_umask_value"
   ],
