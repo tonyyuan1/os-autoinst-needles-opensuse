@@ -10,8 +10,5 @@
   ],
   "tags": [
     "http_default_host"
-  ],
-  "properties": [
-    "workaround"
   ]
 }
