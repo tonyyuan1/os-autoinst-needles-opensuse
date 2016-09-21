@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-menu-quit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 115,
+      "ypos": 385,
+      "width": 118,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}

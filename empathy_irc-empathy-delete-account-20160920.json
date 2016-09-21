@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 249,
+      "ypos": 554,
+      "width": 39,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-delete-account"
+  ]
+}
