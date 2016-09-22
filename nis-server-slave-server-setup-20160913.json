@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "nis-server-slave-server-setup"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 60,
+      "ypos": 87,
+      "width": 184,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 266,
+      "ypos": 224,
+      "width": 124,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 267,
+      "ypos": 301,
+      "width": 121,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
