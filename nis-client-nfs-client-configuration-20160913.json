@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "nis-client-nfs-client-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 77,
+      "ypos": 98,
+      "width": 235,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
