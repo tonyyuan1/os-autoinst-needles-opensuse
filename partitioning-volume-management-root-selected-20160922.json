@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "volume-management-root-selected"
+  ],
+  "area": [
+    {
+      "xpos": 323,
+      "ypos": 232,
+      "width": 92,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 316,
+      "ypos": 149,
+      "width": 160,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

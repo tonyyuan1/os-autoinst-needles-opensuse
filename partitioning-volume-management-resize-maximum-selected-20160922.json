@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "volume-management-resize-maximum-selected"
+  ],
+  "area": [
+    {
+      "xpos": 432,
+      "ypos": 300,
+      "width": 92,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 371,
+      "ypos": 253,
+      "width": 141,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
