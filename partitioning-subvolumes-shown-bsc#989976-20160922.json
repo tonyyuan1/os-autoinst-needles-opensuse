@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 406,
+      "ypos": 146,
+      "width": 110,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "partitioning-subvolumes-shown"
+  ]
+}
