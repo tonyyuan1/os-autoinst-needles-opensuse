@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 148,
+      "width": 594,
+      "type": "match",
+      "height": 40,
+      "ypos": 300
+    },
+    {
+      "xpos": 523,
+      "ypos": 203,
+      "width": 213,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-extcontent-pageloaded"
+  ]
+}
