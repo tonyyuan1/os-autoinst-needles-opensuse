@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 786,
+      "ypos": 120,
+      "width": 115,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-module-lgm"
+  ],
+  "properties": []
+}
