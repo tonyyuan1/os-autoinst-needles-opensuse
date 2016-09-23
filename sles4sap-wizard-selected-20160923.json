@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SLES4SAP-1"
+  ],
+  "area": [
+    {
+      "xpos": 337,
+      "ypos": 318,
+      "width": 492,
+      "height": 124,
+      "type": "match"
+    },
+    {
+      "xpos": 741,
+      "ypos": 712,
+      "width": 274,
+      "height": 46,
+      "type": "match"
+    }
+  ]
+}
