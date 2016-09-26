@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-downloading-openwith"
+  ],
+  "area": [
+    {
+      "xpos": 301,
+      "width": 98,
+      "type": "match",
+      "height": 30,
+      "ypos": 314
+    }
+  ]
+}
