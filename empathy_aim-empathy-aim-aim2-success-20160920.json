@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 579,
+      "ypos": 222,
+      "width": 91,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 769,
+      "ypos": 203,
+      "width": 105,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 103,
+      "ypos": 106,
+      "width": 90,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-aim-aim2-success"
+  ]
+}

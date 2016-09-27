@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 106,
+      "ypos": 207,
+      "width": 94,
+      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 330,
+      "ypos": 208,
+      "width": 44,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-contact-test4"
+  ]
+}

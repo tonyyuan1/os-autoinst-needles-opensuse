@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-menu-accounts"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 274,
+      "width": 114,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

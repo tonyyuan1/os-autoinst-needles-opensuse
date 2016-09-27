@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-sent-message"
+  ],
+  "area": [
+    {
+      "xpos": 339,
+      "ypos": 105,
+      "width": 98,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 418,
+      "ypos": 485,
+      "width": 257,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

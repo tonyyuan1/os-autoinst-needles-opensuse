@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-dialog-window"
+  ],
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 73,
+      "width": 356,
+      "height": 57,
+      "type": "match"
+    },
+    {
+      "xpos": 392,
+      "ypos": 431,
+      "width": 268,
+      "height": 77,
+      "type": "match"
+    }
+  ]
+}
