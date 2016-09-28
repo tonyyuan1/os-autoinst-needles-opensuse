@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 305,
+      "xpos": 297,
+      "width": 302,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 309,
+      "ypos": 412,
+      "width": 471,
+      "height": 52,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-confirm-deletion"
+  ],
+  "properties": []
+}
