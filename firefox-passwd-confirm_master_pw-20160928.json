@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-passwd-confirm_master_pw"
+  ],
+  "area": [
+    {
+      "ypos": 256,
+      "height": 21,
+      "xpos": 444,
+      "width": 134,
+      "type": "match"
+    }
+  ]
+}
