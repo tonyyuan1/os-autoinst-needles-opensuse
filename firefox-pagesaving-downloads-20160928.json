@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-pagesaving-downloads"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 29,
+      "width": 284,
+      "height": 24,
+      "ypos": 89
+    }
+  ]
+}
