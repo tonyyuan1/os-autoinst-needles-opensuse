@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 319,
+      "width": 443,
+      "height": 35,
+      "ypos": 383
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-pdf-actual_size"
+  ]
+}
