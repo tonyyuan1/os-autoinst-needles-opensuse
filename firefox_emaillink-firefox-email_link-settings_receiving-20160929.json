@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 353,
+      "ypos": 163,
+      "width": 92,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 190,
+      "ypos": 251,
+      "width": 124,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-email_link-settings_receiving"
+  ],
+  "properties": []
+}
