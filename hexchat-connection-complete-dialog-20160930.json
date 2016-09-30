@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-connection-complete-dialog"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 118,
+      "width": 226,
+      "height": 27,
+      "xpos": 399
+    }
+  ]
+}
