@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-account-deleted"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 140,
+      "height": 36,
+      "width": 225,
+      "xpos": 436
+    },
+    {
+      "xpos": 208,
+      "ypos": 198,
+      "width": 185,
+      "height": 259,
+      "type": "match"
+    }
+  ]
+}
