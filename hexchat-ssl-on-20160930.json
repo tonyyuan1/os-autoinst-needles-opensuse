@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-ssl-on"
+  ],
+  "area": [
+    {
+      "xpos": 299,
+      "ypos": 301,
+      "width": 303,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
