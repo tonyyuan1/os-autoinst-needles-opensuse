@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 48,
+      "type": "match",
+      "width": 120,
+      "ypos": 49,
+      "height": 78
+    },
+    {
+      "xpos": 312,
+      "type": "match",
+      "width": 192,
+      "height": 14,
+      "ypos": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ftp_performance-tab"
+  ]
+}
