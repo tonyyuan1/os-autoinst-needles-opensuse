@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 110,
+      "height": 14,
+      "width": 358,
+      "xpos": 398,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "partitioning-encrypt-activated-existing"
+  ]
+}
