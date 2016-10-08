@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-downloading-paused"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 180,
+      "width": 50,
+      "xpos": 310,
+      "height": 21
+    },
+    {
+      "type": "match",
+      "height": 26,
+      "xpos": 309,
+      "width": 77,
+      "ypos": 134
+    }
+  ]
+}
