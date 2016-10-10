@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP2ORLATER-1",
+    "reboot-cancel-button"
+  ],
+  "area": [
+    {
+      "xpos": 337,
+      "ypos": 509,
+      "width": 101,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
