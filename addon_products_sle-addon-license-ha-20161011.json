@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-license-ha"
+  ],
+  "area": [
+    {
+      "xpos": 382,
+      "ypos": 193,
+      "width": 372,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 201,
+      "ypos": 235,
+      "width": 114,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 273,
+      "width": 166,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
