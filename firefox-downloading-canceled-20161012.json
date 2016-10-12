@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 76,
+      "type": "match",
+      "height": 49,
+      "xpos": 308,
+      "ypos": 141
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-downloading-canceled"
+  ],
+  "properties": []
+}
