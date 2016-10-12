@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-extcontent-reader"
+  ],
+  "area": [
+    {
+      "xpos": 488,
+      "ypos": 125,
+      "width": 84,
+      "height": 86,
+      "type": "match"
+    }
+  ]
+}
