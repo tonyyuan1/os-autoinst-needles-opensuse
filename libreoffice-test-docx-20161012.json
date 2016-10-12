@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 240,
+      "ypos": 9,
+      "xpos": 395,
+      "height": 26
+    },
+    {
+      "ypos": 226,
+      "xpos": 215,
+      "height": 432,
+      "type": "match",
+      "width": 532
+    },
+    {
+      "xpos": 565,
+      "ypos": 309,
+      "width": 109,
+      "height": 21,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "libreoffice-test-docx"
+  ],
+  "properties": []
+}
