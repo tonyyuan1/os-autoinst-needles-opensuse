@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 90,
+      "xpos": 28,
+      "height": 24,
+      "width": 285
+    }
+  ],
+  "tags": [
+    "firefox-pagesaving-downloads"
+  ]
+}

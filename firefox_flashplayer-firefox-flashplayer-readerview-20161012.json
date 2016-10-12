@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-flashplayer-readerview"
+  ],
+  "area": [
+    {
+      "xpos": 488,
+      "ypos": 130,
+      "width": 84,
+      "height": 76,
+      "type": "match"
+    }
+  ]
+}
