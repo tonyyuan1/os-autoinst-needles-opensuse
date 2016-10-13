@@ -1,18 +1,17 @@
 {
-  "area": [
-    {
-      "xpos": 9,
-      "height": 438,
-      "ypos": 22,
-      "type": "match",
-      "width": 387
-    }
-  ],
+  "properties": [],
   "tags": [
-    "ENV-INSTLANG-en_US",
     "ENV-VIDEOMODE-text",
     "after-partitioning",
     "inst-timezone"
   ],
-  "properties": []
+  "area": [
+    {
+      "ypos": 24,
+      "height": 595,
+      "xpos": 0,
+      "width": 279,
+      "type": "match"
+    }
+  ]
 }
