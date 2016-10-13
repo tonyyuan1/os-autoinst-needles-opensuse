@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-click-scrollbar"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 19,
+      "ypos": 373,
+      "xpos": 444,
+      "height": 28
+    }
+  ],
+  "properties": []
+}
