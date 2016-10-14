@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "yast2_lan"
+  ],
+  "area": [
+    {
+      "ypos": 0,
+      "xpos": 0,
+      "height": 711,
+      "type": "match",
+      "width": 1010
+    }
+  ]
+}
