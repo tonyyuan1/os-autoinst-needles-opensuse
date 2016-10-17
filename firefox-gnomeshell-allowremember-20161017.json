@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-gnomeshell-allowremember"
+  ],
+  "area": [
+    {
+      "height": 19,
+      "xpos": 376,
+      "ypos": 250,
+      "width": 146,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
