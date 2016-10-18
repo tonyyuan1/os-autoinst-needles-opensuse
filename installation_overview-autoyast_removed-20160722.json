@@ -1,86 +1,23 @@
 {
-  "area": [
-    {
-      "xpos": 6,
-      "ypos": 705,
-      "width": 406,
-      "height": 62,
-      "type": "match"
-    },
-    {
-      "xpos": 699,
-      "ypos": 22,
-      "width": 317,
-      "height": 45,
-      "type": "match"
-    },
-    {
-      "xpos": 6,
-      "ypos": 705,
-      "width": 10,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 6,
-      "ypos": 705,
-      "width": 406,
-      "height": 62,
-      "type": "match"
-    },
-    {
-      "xpos": 977,
-      "ypos": 48,
-      "width": 10,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 713,
-      "ypos": 40,
-      "width": 13,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 696,
-      "ypos": 19,
-      "width": 317,
-      "height": 45,
-      "type": "match"
-    },
-    {
-      "xpos": 696,
-      "ypos": 25,
-      "width": 10,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 696,
-      "ypos": 25,
-      "width": 10,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 977,
-      "ypos": 48,
-      "width": 10,
-      "height": 10,
-      "type": "match"
-    },
-    {
-      "xpos": 716,
-      "ypos": 40,
-      "width": 10,
-      "height": 10,
-      "type": "match"
-    }
-  ],
-  "properties": [],
   "tags": [
     "ENV-VIDEOMODE-text",
     "autoyast_removed"
-  ]
+  ],
+  "area": [
+    {
+      "ypos": 705,
+      "height": 62,
+      "xpos": 6,
+      "width": 406,
+      "type": "match"
+    },
+    {
+      "width": 317,
+      "type": "match",
+      "ypos": 22,
+      "height": 45,
+      "xpos": 699
+    }
+  ],
+  "properties": []
 }
