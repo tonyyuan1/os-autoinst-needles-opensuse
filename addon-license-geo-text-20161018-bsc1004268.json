@@ -1,0 +1,35 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 315,
+      "xpos": 15,
+      "height": 16,
+      "ypos": 32
+    },
+    {
+      "width": 558,
+      "type": "match",
+      "ypos": 102,
+      "height": 72,
+      "xpos": 34
+    },
+    {
+      "xpos": 40,
+      "ypos": 128,
+      "width": 116,
+      "height": 15,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-license-geo"
+  ]
+}
