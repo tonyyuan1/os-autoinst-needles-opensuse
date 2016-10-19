@@ -2,7 +2,7 @@
   "properties": [],
   "tags": [
     "import-untrusted-gpg-key",
-    "import-untrusted-gpg-key-F5113243C66B6EAE"
+    "import-trusted-gpg-key-nvidia-F5113243C66B6EAE",
   ],
   "area": [
     {
