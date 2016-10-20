@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 228,
+      "ypos": 269,
+      "width": 284,
+      "height": 105,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "inst-welcome-confirm-self-update-server"
+  ]
+}

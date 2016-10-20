@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome-confirm-self-update-server"
+  ],
+  "area": [
+    {
+      "width": 409,
+      "height": 97,
+      "ypos": 301,
+      "xpos": 118,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
