@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 261,
+      "xpos": 122,
+      "height": 44,
+      "ypos": 379
+    },
+    {
+      "ypos": 457,
+      "xpos": 122,
+      "height": 43,
+      "type": "match",
+      "width": 302
+    },
+    {
+      "width": 322,
+      "type": "match",
+      "height": 43,
+      "xpos": 122,
+      "ypos": 536
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-gnomeshell-installed"
+  ],
+  "properties": []
+}
