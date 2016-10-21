@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "input-yes"
+  ],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 84,
+      "width": 418,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
