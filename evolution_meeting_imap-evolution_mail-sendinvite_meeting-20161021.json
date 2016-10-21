@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail-sendinvite_meeting"
+  ],
+  "area": [
+    {
+      "width": 493,
+      "type": "match",
+      "height": 34,
+      "xpos": 204,
+      "ypos": 288
+    },
+    {
+      "ypos": 326,
+      "height": 28,
+      "xpos": 211,
+      "width": 481,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
