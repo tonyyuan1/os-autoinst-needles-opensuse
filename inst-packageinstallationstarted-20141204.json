@@ -17,6 +17,7 @@
   ],
   "tags": [
     "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-0",
     "inst-packageinstallationstarted",
     "installation-details-view"
   ]
