@@ -2,21 +2,22 @@
   "properties": [],
   "area": [
     {
-      "xpos": 174,
+      "ypos": 127,
+      "xpos": 92,
       "type": "match",
-      "width": 262,
-      "ypos": 126,
-      "height": 23
+      "height": 23,
+      "width": 262
     },
     {
-      "width": 219,
-      "xpos": 133,
+      "ypos": 285,
+      "xpos": 52,
       "type": "match",
       "height": 29,
-      "ypos": 272
+      "width": 219
     }
   ],
   "tags": [
+    "ENV-SP2ORLATER-1",
     "firefox-fullscreen-page"
   ]
 }
