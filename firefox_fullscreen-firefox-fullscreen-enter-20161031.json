@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-fullscreen-enter"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 3,
+      "width": 342,
+      "height": 118,
+      "type": "match"
+    }
+  ]
+}
