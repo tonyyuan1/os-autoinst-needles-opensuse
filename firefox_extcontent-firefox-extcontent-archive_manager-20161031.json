@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 217,
+      "width": 122,
+      "height": 51,
+      "type": "match"
+    },
+    {
+      "xpos": 292,
+      "ypos": 102,
+      "width": 104,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-extcontent-archive_manager"
+  ]
+}
