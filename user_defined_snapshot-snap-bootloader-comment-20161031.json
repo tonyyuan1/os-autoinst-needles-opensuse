@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 72,
+      "width": 176,
+      "height": 93,
+      "type": "match"
+    },
+    {
+      "xpos": 274,
+      "ypos": 254,
+      "width": 168,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "snap-bootloader-comment"
+  ]
+}
