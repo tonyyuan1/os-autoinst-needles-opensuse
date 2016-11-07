@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-extensions-flagfox_installed"
+  ],
+  "area": [
+    {
+      "xpos": 657,
+      "ypos": 364,
+      "width": 90,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

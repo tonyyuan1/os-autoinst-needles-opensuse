@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-mhtml-unmht_installed"
+  ],
+  "area": [
+    {
+      "xpos": 632,
+      "ypos": 360,
+      "width": 87,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-mhtml-unmht_installed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 668,
+      "ypos": 363,
+      "width": 92,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

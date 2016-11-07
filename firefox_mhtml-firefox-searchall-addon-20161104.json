@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-searchall-addon"
+  ],
+  "area": [
+    {
+      "xpos": 450,
+      "ypos": 222,
+      "width": 137,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
