@@ -33,6 +33,7 @@
     "workaround"
   ],
   "tags": [
+    "ENV-VERSION-12-SP3",
     "release-notes-sdk"
   ]
 }
