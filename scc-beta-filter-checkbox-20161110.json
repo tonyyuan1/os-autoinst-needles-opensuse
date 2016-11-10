@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-beta-filter-checkbox"
+  ],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 66,
+      "width": 224,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
