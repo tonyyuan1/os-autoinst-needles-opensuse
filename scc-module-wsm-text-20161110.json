@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 246,
+      "type": "match",
+      "ypos": 270,
+      "height": 15,
+      "xpos": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-module-wsm"
+  ]
+}
