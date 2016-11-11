@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 101,
+      "type": "match",
+      "ypos": 6,
+      "height": 24,
+      "xpos": 460
+    },
+    {
+      "xpos": 460,
+      "height": 353,
+      "ypos": 219,
+      "type": "match",
+      "width": 354
+    },
+    {
+      "xpos": 5,
+      "height": 326,
+      "ypos": 288,
+      "type": "match",
+      "width": 239
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "welcome-to-libreoffice"
+  ],
+  "properties": []
+}
