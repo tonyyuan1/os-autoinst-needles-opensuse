@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "asia-shanghai-timezone-setup"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 145,
+      "type": "match",
+      "ypos": 503,
+      "height": 70,
+      "xpos": 215
+    }
+  ]
+}
