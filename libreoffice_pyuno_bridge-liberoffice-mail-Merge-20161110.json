@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 378,
+      "type": "match",
+      "ypos": 8,
+      "height": 38,
+      "xpos": 333
+    },
+    {
+      "width": 262,
+      "type": "match",
+      "ypos": 235,
+      "height": 30,
+      "xpos": 270
+    },
+    {
+      "width": 137,
+      "type": "match",
+      "ypos": 615,
+      "xpos": 849,
+      "height": 58
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "liberoffice-mail-Merge"
+  ]
+}
