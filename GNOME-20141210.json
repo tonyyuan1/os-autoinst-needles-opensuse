@@ -19,6 +19,7 @@
     "ENV-DESKTOP-gnome",
     "GNOME",
     "generic-desktop",
+    "desktop-sle-classic",
     "desktop-at-first-boot",
     "test-consoletest_finish-1"
   ]
