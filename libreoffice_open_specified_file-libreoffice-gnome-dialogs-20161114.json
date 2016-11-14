@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-gnome-dialogs"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 87,
+      "xpos": 90,
+      "ypos": 5,
+      "type": "match",
+      "width": 468
+    }
+  ]
+}
