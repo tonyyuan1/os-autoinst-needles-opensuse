@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "oodraw-launched"
+  ],
+  "area": [
+    {
+      "width": 223,
+      "type": "match",
+      "ypos": 7,
+      "height": 27,
+      "xpos": 400
+    },
+    {
+      "xpos": 0,
+      "height": 166,
+      "ypos": 38,
+      "type": "match",
+      "width": 256
+    }
+  ]
+}
