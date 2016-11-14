@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ooffice-tools-options-view"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 144,
+      "height": 107,
+      "xpos": 42,
+      "ypos": 53
+    },
+    {
+      "width": 271,
+      "type": "match",
+      "ypos": 123,
+      "xpos": 272,
+      "height": 69
+    },
+    {
+      "type": "match",
+      "width": 217,
+      "xpos": 405,
+      "height": 31,
+      "ypos": 12
+    }
+  ]
+}
