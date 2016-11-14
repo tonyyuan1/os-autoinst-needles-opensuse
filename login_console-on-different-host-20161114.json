@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "on_host_sles_12_sp2_or_above"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 16,
+      "width": 350,
+      "height": 47,
+      "type": "match"
+    }
+  ]
+}
