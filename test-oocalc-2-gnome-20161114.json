@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "test-oocalc-2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 13,
+      "height": 185,
+      "ypos": 79,
+      "type": "match",
+      "width": 129
+    }
+  ]
+}
