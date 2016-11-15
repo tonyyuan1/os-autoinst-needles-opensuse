@@ -1,16 +1,15 @@
 {
   "tags": [
-    "ENV-ARCH-s390x",
     "yast2_console-finished"
   ],
+  "properties": [],
   "area": [
     {
-      "ypos": 546,
-      "height": 34,
-      "xpos": 0,
-      "type": "match",
-      "width": 136
+      "xpos": -1,
+      "ypos": 417,
+      "width": 62,
+      "height": 30,
+      "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
