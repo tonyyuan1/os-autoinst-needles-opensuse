@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "yast2_lan"
+  ],
+  "area": [
+    {
+      "width": 1010,
+      "xpos": 0,
+      "type": "match",
+      "height": 711,
+      "ypos": 0
+    }
+  ],
+  "properties": []
+}
