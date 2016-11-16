@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP3",
+    "addon-products-ha"
+  ],
+  "area": [
+    {
+      "xpos": 70,
+      "height": 88,
+      "ypos": 185,
+      "type": "match",
+      "width": 251
+    },
+    {
+      "width": 77,
+      "xpos": 357,
+      "height": 12,
+      "ypos": 129,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
