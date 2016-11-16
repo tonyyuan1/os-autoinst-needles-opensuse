@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 107,
+      "ypos": 159,
+      "width": 80,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "wireshark-interfaces-start",
+    "ENV-VERSION-12-SP1"
+  ]
+}

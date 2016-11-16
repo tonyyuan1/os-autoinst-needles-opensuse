@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "wireshark-preferences",
+    "ENV-VERSION-12-SP1"
+  ],
+  "area": [
+    {
+      "xpos": 456,
+      "ypos": 10,
+      "width": 168,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}

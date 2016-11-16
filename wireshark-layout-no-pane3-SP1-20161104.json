@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 161,
+      "width": 1014,
+      "height": 543,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "wireshark-layout-no-pane3",
+    "ENV-VERSION-12-SP1"
+  ]
+}

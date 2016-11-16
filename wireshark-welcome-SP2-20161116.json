@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 63,
+      "ypos": 23,
+      "width": 235,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "wireshark-welcome"
+  ],
+  "properties": []
+}

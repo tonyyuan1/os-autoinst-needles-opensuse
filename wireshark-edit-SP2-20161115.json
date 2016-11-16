@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "wireshark-edit"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 39,
+      "xpos": 46,
+      "height": 22,
+      "width": 26
+    }
+  ]
+}
