@@ -25,7 +25,7 @@
   "tags": [
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
-    "ENV-SP2ORLATER-1",
+    "ENV-VERSION-12-SP2",
     "addon-license-geo"
   ],
   "properties": [
