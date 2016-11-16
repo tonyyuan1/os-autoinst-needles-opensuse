@@ -24,8 +24,7 @@
     }
   ],
   "tags": [
-    "ENV-SP2ORLATER-1",
-    "ENV-VERSION-12-SP3-HA",
-    "release-notes-ha"
+    "ENV-SP3ORLATER-1",
+    "release-notes-geo"
   ]
 }
