@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 310,
+      "height": 178,
+      "xpos": 300,
+      "width": 430,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP3ORLATER-1",
+    "linuxrc-install-fail"
+  ]
+}
