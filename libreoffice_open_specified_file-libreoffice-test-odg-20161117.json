@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-test-odg"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 410,
+      "ypos": 6,
+      "width": 213,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 91,
+      "ypos": 170,
+      "width": 157,
+      "height": 229,
+      "type": "match"
+    }
+  ]
+}
