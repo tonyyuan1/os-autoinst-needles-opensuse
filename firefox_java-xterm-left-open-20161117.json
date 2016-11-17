@@ -10,6 +10,13 @@
       "width": 68,
       "height": 19,
       "type": "match"
+    },
+    {
+      "xpos": 177,
+      "ypos": 14,
+      "width": 172,
+      "height": 29,
+      "type": "match"
     }
   ],
   "properties": []
