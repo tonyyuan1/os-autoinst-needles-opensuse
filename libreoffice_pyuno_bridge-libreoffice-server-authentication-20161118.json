@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 398,
+      "width": 172,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-server-authentication"
+  ],
+  "properties": []
+}
