@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 868,
+      "ypos": 631,
+      "width": 105,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-mail-testsettings"
+  ]
+}
