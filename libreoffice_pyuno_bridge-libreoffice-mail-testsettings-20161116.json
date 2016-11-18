@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-mail-testsettings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 871,
+      "ypos": 629,
+      "width": 104,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}
