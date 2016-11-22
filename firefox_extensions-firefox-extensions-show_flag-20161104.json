@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "ypos": 128,
+      "xpos": 396,
+      "width": 75
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "firefox-extensions-show_flag"
-  ],
-  "area": [
-    {
-      "xpos": 126,
-      "ypos": 128,
-      "width": 312,
-      "height": 20,
-      "type": "match"
-    }
-  ],
-  "properties": []
+  ]
 }
