@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 69,
+      "ypos": 23,
+      "xpos": 10,
+      "type": "match",
+      "height": 34
+    },
+    {
+      "height": 44,
+      "type": "match",
+      "width": 298,
+      "xpos": 324,
+      "ypos": 281
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD-HA",
+    "ENV-VIDEOMODE-text",
+    "addon-betawarning-geo"
+  ]
+}
