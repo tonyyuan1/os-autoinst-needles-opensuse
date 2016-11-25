@@ -2,8 +2,6 @@
   "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
-    "ENV-FLAVOR-DVD",
-    "ENV-INSTLANG-en_US",
     "ENV-SP2ORLATER-1",
     "test-gedit-1"
   ],
