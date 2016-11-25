@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "test-gedit-1"
+  ],
+  "area": [
+    {
+      "ypos": 418,
+      "xpos": 234,
+      "width": 367,
+      "type": "match",
+      "height": 16
+    }
+  ]
+}
