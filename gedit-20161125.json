@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "test-gedit-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "ENV-FLAVOR-DVD"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 14,
+      "ypos": 254,
+      "xpos": 48,
+      "width": 381
+    }
+  ]
+}
