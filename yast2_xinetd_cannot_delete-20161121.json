@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_xinetd_cannot_delete"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 314,
+      "ypos": 352,
+      "width": 63,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

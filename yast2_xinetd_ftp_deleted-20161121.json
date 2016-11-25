@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_xinetd_ftp_deleted"
+  ],
+  "area": [
+    {
+      "xpos": 513,
+      "ypos": 403,
+      "width": 177,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
