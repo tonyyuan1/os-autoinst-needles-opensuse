@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 437,
+      "ypos": 252,
+      "width": 62,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-gnomeshell-check_installed"
+  ]
+}
