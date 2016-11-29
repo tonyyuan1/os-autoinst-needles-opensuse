@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 108,
+      "height": 101,
+      "type": "match",
+      "ypos": 647,
+      "xpos": 875
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "action-list"
+  ]
+}
