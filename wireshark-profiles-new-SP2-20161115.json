@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "wireshark-profiles-new"
+  ],
+  "area": [
+    {
+      "height": 23,
+      "width": 47,
+      "type": "match",
+      "ypos": 131,
+      "xpos": 57
+    }
+  ],
+  "properties": []
+}

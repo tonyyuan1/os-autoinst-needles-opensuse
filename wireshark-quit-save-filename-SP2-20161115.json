@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 289,
+      "ypos": 10,
+      "height": 24,
+      "width": 334
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "wireshark-quit-save-filename"
+  ]
+}

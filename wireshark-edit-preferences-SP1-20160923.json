@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 19,
+      "width": 79,
+      "ypos": 706,
+      "xpos": 59
+    }
+  ],
+  "tags": [
+    "wireshark-edit-preferences",
+    "ENV-VERSION-12-SP1"
+  ],
+  "properties": []
+}

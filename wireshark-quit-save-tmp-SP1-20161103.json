@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "wireshark-quit-save-tmp",
+    "ENV-VERSION-12-SP1"
+  ],
+  "area": [
+    {
+      "xpos": 79,
+      "ypos": 214,
+      "width": 107,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

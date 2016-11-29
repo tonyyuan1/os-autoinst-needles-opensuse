@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 54,
+      "ypos": 109,
+      "width": 159,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "wireshark-file-set-lists",
+    "ENV-VERSION-12-SP1"
+  ]
+}

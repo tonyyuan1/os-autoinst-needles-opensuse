@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-close-capture"
+  ],
+  "area": [
+    {
+      "xpos": 255,
+      "ypos": 72,
+      "width": 37,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
