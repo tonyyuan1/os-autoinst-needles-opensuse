@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnomecase-defaultapps-firefoxopen"
+  ],
+  "area": [
+    {
+      "width": 268,
+      "type": "match",
+      "height": 32,
+      "xpos": 300,
+      "ypos": 52
+    },
+    {
+      "xpos": 215,
+      "type": "match",
+      "height": 25,
+      "width": 215,
+      "ypos": 204
+    }
+  ]
+}
