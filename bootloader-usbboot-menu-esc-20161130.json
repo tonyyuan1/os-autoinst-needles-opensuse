@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-USBBOOT-1",
+    "boot-menu-usb"
+  ],
+  "area": [
+    {
+      "ypos": 130,
+      "height": 48,
+      "type": "match",
+      "xpos": 0,
+      "width": 218
+    }
+  ]
+}
