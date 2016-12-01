@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "scc-registration"
+  ],
+  "area": [
+    {
+      "width": 194,
+      "ypos": 335,
+      "height": 113,
+      "type": "match",
+      "xpos": 345
+    }
+  ]
+}
