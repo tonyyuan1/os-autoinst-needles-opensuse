@@ -1,0 +1,25 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 99,
+      "xpos": 10,
+      "ypos": 27,
+      "height": 25
+    },
+    {
+      "type": "match",
+      "xpos": 255,
+      "width": 150,
+      "height": 20,
+      "ypos": 286
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-default-system"
+  ]
+}
