@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "wireshark-dns-response-list",
+    "ENV-VERSION-12-SP1"
+  ],
+  "area": [
+    {
+      "xpos": 655,
+      "ypos": 185,
+      "width": 187,
+      "type": "match",
+      "height": 11
+    },
+    {
+      "height": 12,
+      "type": "match",
+      "width": 25,
+      "ypos": 185,
+      "xpos": 524
+    }
+  ]
+}

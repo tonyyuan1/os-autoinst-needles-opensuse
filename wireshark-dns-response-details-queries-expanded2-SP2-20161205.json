@@ -3,14 +3,14 @@
     "ENV-VERSION-12-SP2",
     "wireshark-dns-response-details-queries-expanded2"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 72,
-      "ypos": 499,
-      "width": 182,
       "height": 88,
-      "type": "match"
+      "type": "match",
+      "ypos": 498,
+      "width": 180,
+      "xpos": 74
     }
-  ],
-  "properties": []
+  ]
 }

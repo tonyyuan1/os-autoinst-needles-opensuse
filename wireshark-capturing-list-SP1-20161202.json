@@ -1,14 +1,14 @@
 {
   "tags": [
-    "wireshark-dns-response-details",
+    "wireshark-capturing-list",
     "ENV-VERSION-12-SP1"
   ],
   "properties": [],
   "area": [
     {
-      "xpos": 5,
-      "ypos": 292,
-      "width": 247,
+      "ypos": 165,
+      "width": 160,
+      "xpos": 69,
       "height": 15,
       "type": "match"
     }

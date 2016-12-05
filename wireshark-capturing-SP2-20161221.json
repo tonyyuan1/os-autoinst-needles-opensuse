@@ -1,16 +1,16 @@
 {
+  "properties": [],
   "tags": [
     "ENV-VERSION-12-SP2",
     "wireshark-capturing"
   ],
-  "properties": [],
   "area": [
     {
-      "ypos": 7,
-      "type": "match",
       "height": 21,
-      "width": 147,
-      "xpos": 249
+      "width": 106,
+      "type": "match",
+      "ypos": 7,
+      "xpos": 250
     }
   ]
 }
