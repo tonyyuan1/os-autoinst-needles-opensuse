@@ -1,29 +1,22 @@
 {
-  "area": [
-    {
-      "width": 20,
-      "height": 19,
-      "xpos": 34,
-      "type": "match",
-      "ypos": 94
-    },
-    {
-      "xpos": 84,
-      "ypos": 118,
-      "type": "match",
-      "width": 164,
-      "height": 32
-    },
-    {
-      "xpos": 26,
-      "ypos": 200,
-      "width": 148,
-      "height": 35,
-      "type": "match"
-    }
-  ],
   "tags": [
     "firefox-pagesaving-load"
+  ],
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 89,
+      "width": 28,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 67,
+      "ypos": 125,
+      "width": 184,
+      "height": 24,
+      "type": "match"
+    }
   ],
   "properties": []
 }
