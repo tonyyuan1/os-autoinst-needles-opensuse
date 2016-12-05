@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-ssl-addexception"
+  ],
+  "area": [
+    {
+      "xpos": 309,
+      "ypos": 95,
+      "width": 175,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 154,
+      "ypos": 513,
+      "width": 274,
+      "height": 86,
+      "type": "match"
+    }
+  ]
+}
