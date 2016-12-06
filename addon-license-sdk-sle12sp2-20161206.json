@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 84,
+      "height": 30,
+      "type": "match",
+      "xpos": 319,
+      "width": 178
+    },
+    {
+      "height": 18,
+      "ypos": 208,
+      "type": "match",
+      "xpos": 249,
+      "width": 373
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "addon-license-sdk"
+  ],
+  "properties": []
+}
