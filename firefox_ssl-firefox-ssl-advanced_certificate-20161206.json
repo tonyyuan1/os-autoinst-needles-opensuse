@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-ssl-advanced_certificate"
+  ],
+  "area": [
+    {
+      "xpos": 599,
+      "ypos": 296,
+      "width": 105,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}
