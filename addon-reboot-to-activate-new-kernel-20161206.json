@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 181,
+      "xpos": 420,
+      "ypos": 322,
+      "height": 38
+    }
+  ],
+  "tags": [
+    "addon-installation-pop-up"
+  ]
+}
