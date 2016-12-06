@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 106,
+      "width": 83,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-yast2-view-selected"
+  ],
+  "properties": []
+}
