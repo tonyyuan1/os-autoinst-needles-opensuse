@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-ssl-connection_untrusted"
+  ],
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 90,
+      "width": 165,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 48,
+      "ypos": 193,
+      "width": 602,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
