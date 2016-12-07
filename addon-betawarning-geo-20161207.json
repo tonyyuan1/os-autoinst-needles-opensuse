@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 143,
+      "type": "match",
+      "xpos": 47,
+      "ypos": 196,
+      "height": 27
+    },
+    {
+      "xpos": 215,
+      "height": 226,
+      "ypos": 268,
+      "width": 274,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-betawarning-geo"
+  ]
+}
