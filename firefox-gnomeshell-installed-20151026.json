@@ -1,29 +1,29 @@
 {
+  "tags": [
+    "firefox-gnomeshell-installed"
+  ],
   "area": [
     {
       "type": "match",
-      "height": 44,
       "width": 261,
-      "ypos": 383,
-      "xpos": 199
+      "xpos": 79,
+      "height": 42,
+      "ypos": 382
     },
     {
+      "ypos": 478,
+      "height": 43,
       "type": "match",
       "width": 302,
-      "height": 43,
-      "xpos": 199,
-      "ypos": 461
+      "xpos": 79
     },
     {
       "type": "match",
-      "xpos": 199,
-      "ypos": 540,
-      "height": 43,
-      "width": 322
+      "xpos": 79,
+      "width": 322,
+      "height": 41,
+      "ypos": 574
     }
   ],
-  "properties": [],
-  "tags": [
-    "firefox-gnomeshell-installed"
-  ]
+  "properties": []
 }
