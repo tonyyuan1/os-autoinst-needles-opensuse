@@ -1,21 +1,21 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 300,
-      "ypos": 383,
-      "width": 315,
       "height": 81,
-      "type": "match"
+      "ypos": 338,
+      "xpos": 141,
+      "type": "match",
+      "width": 315
     },
     {
-      "xpos": 300,
-      "ypos": 309,
-      "width": 429,
       "height": 24,
-      "type": "match"
+      "ypos": 231,
+      "type": "match",
+      "width": 226,
+      "xpos": 284
     }
   ],
-  "properties": [],
   "tags": [
     "firefox-ssl-edit_ca_trust"
   ]
