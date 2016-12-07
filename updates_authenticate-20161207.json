@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "updates_authenticate",
+    "ENV-SP2ORLATER-1"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 352,
+      "xpos": 356,
+      "height": 159,
+      "ypos": 258
+    }
+  ],
+  "properties": []
+}
