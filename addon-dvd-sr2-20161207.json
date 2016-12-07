@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "addon-dvd-sr2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 500,
+      "ypos": 387,
+      "width": 52,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
