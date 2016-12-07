@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "addon-yast2-repo-sdk"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 45,
+      "xpos": 166,
+      "ypos": 217,
+      "height": 15
+    },
+    {
+      "height": 26,
+      "ypos": 100,
+      "xpos": 488,
+      "width": 100,
+      "type": "match"
+    }
+  ]
+}
