@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 166,
+      "ypos": 34,
+      "width": 106,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 145,
+      "ypos": 259,
+      "width": 151,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "proxy_virttest-pxe"
+  ],
+  "properties": []
+}

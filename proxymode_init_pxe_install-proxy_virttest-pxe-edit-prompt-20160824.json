@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 90,
+      "ypos": 29,
+      "width": 390,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 83,
+      "ypos": 254,
+      "width": 215,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 3,
+      "ypos": 368,
+      "width": 35,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "proxy_virttest-pxe-edit-prompt"
+  ],
+  "properties": []
+}

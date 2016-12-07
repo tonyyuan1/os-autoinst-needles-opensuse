@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "text-logged-in-root"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 82,
+      "ypos": 529,
+      "width": 30,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
