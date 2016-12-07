@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "addon-yast2-patterns"
+  ],
+  "area": [
+    {
+      "width": 80,
+      "type": "match",
+      "xpos": 257,
+      "ypos": 98,
+      "height": 30
+    }
+  ],
+  "properties": []
+}
