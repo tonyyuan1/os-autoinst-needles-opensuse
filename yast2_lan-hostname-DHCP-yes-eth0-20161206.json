@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_lan-hostname-DHCP-yes-eth0"
+  ],
+  "area": [
+    {
+      "xpos": 201,
+      "ypos": 147,
+      "width": 70,
+      "height": 45,
+      "type": "match"
+    }
+  ]
+}
