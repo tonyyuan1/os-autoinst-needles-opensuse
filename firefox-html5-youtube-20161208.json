@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-html5-youtube"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 123,
+      "xpos": 37,
+      "height": 36,
+      "ypos": 198
+    }
+  ],
+  "properties": []
+}
