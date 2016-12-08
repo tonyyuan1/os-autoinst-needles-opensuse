@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted"
+  ],
+  "area": [
+    {
+      "ypos": 188,
+      "type": "match",
+      "xpos": 20,
+      "height": 46,
+      "width": 308
+    },
+    {
+      "xpos": 350,
+      "height": 115,
+      "width": 130,
+      "ypos": 73,
+      "type": "match"
+    }
+  ]
+}

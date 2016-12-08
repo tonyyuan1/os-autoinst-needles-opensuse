@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 382,
+      "ypos": 373,
+      "width": 179,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "zfcp-popup"
+  ],
+  "properties": []
+}
