@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "image-copied"
+  ],
+  "area": [
+    {
+      "ypos": 737,
+      "type": "match",
+      "xpos": 0,
+      "height": 25,
+      "width": 82
+    }
+  ]
+}
