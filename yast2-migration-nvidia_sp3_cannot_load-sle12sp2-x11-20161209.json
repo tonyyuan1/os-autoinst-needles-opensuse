@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 280,
+      "ypos": 347,
+      "width": 342,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-nvidia_sp3_cannot_load"
+  ]
+}
