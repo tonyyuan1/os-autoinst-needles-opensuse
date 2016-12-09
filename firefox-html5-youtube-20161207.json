@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "xpos": 77,
+      "ypos": 203,
+      "height": 36,
+      "type": "match",
+      "width": 112
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "firefox-html5-youtube"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "width": 112,
-      "type": "match",
-      "xpos": 76,
-      "ypos": 203,
-      "height": 36
-    }
   ]
 }
