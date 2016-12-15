@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "grub2",
+    "ENV-DISTRI-CASP"
+  ],
+  "area": [
+    {
+      "height": 105,
+      "type": "match",
+      "xpos": 301,
+      "width": 194,
+      "ypos": 72
+    },
+    {
+      "width": 164,
+      "ypos": 208,
+      "xpos": 157,
+      "type": "match",
+      "height": 68
+    }
+  ]
+}
