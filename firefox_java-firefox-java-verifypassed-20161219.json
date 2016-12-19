@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 218,
+      "ypos": 435,
+      "width": 107,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-java-verifypassed"
+  ]
+}
