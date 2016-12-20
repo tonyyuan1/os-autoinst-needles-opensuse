@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 192,
+      "width": 68,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "empathy-menu-rooms"
+  ],
+  "properties": []
+}
