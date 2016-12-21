@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "wireshark-dns-response-details-queries-expanded2",
+    "ENV-VERSION-12-SP1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 175,
+      "ypos": 480,
+      "xpos": 58,
+      "height": 81,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "wireshark-capturing-list",
+    "ENV-VERSION-12-SP1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 165,
+      "width": 160,
+      "xpos": 69,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
