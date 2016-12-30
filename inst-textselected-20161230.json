@@ -2,15 +2,16 @@
   "properties": [],
   "area": [
     {
-      "height": 30,
-      "ypos": 466,
       "width": 90,
       "xpos": 252,
-      "type": "match"
+      "type": "match",
+      "ypos": 466,
+      "height": 30
     }
   ],
   "tags": [
     "ENV-VERSION-12-SP3",
-    "inst-textselected"
+    "inst-textselected",
+    "inst-textselected-with_colormenu"
   ]
 }
