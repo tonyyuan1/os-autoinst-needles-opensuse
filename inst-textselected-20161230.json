@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-textselected"
+  ],
+  "area": [
+    {
+      "height": 30,
+      "ypos": 466,
+      "xpos": 252,
+      "type": "match",
+      "width": 90
+    }
+  ],
+  "properties": []
+}
