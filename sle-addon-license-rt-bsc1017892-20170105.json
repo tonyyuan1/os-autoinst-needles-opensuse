@@ -1,0 +1,31 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 124,
+      "type": "match",
+      "xpos": 27,
+      "ypos": 195,
+      "height": 30
+    },
+    {
+      "xpos": 384,
+      "ypos": 191,
+      "height": 16,
+      "width": 315,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 233,
+      "height": 32,
+      "width": 294,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-license-rt"
+  ]
+}
