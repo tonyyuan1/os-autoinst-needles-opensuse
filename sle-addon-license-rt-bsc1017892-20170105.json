@@ -1,31 +1,31 @@
 {
+  "tags": [
+    "addon-license-rt"
+  ],
   "properties": [
     "workaround"
   ],
   "area": [
     {
-      "width": 124,
       "type": "match",
-      "xpos": 27,
-      "ypos": 195,
-      "height": 30
+      "width": 124,
+      "height": 30,
+      "ypos": 95,
+      "xpos": 26
     },
     {
-      "xpos": 384,
-      "ypos": 191,
       "height": 16,
-      "width": 315,
-      "type": "match"
+      "ypos": 234,
+      "xpos": 72,
+      "type": "match",
+      "width": 315
     },
     {
-      "xpos": 24,
-      "ypos": 233,
+      "type": "match",
+      "width": 302,
       "height": 32,
-      "width": 294,
-      "type": "match"
+      "xpos": 316,
+      "ypos": 95
     }
-  ],
-  "tags": [
-    "addon-license-rt"
   ]
 }
