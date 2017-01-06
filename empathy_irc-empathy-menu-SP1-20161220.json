@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "empathy-menu"
+  ],
+  "area": [
+    {
+      "xpos": 25,
+      "ypos": 77,
+      "width": 64,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

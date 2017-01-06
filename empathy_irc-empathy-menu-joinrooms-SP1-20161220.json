@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 283,
+      "ypos": 191,
+      "width": 55,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "empathy-menu-joinrooms"
+  ]
+}

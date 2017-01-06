@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "empathy-irc-network-choose"
+  ],
+  "area": [
+    {
+      "xpos": 430,
+      "ypos": 206,
+      "width": 165,
+      "height": 24,
+      "type": "match"
+    }
+  ]
+}
