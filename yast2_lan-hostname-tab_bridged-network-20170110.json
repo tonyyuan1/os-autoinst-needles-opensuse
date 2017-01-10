@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "yast2_lan-hostname-tab_bridged-network"
+  ],
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 26,
+      "width": 996,
+      "height": 300,
+      "type": "match"
+    },
+    {
+      "xpos": 31,
+      "ypos": 95,
+      "width": 47,
+      "height": 17,
+      "type": "exclude"
+    },
+    {
+      "xpos": 239,
+      "ypos": 374,
+      "width": 10,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
