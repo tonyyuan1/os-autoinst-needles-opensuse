@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 269,
+      "width": 197,
+      "height": 62,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "bios-boot"
+  ]
+}
