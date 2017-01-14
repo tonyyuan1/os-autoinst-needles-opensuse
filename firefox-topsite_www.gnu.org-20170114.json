@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-topsite_www.gnu.org"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 137,
+      "height": 43,
+      "ypos": 117,
+      "width": 234,
+      "type": "match"
+    },
+    {
+      "width": 73,
+      "ypos": 299,
+      "height": 70,
+      "xpos": 271,
+      "type": "match"
+    }
+  ]
+}
