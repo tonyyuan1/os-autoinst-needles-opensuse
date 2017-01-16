@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "console-visible"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 755,
+      "width": 25,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
