@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-video-typed"
+  ],
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 477,
+      "height": 23,
+      "width": 519,
+      "type": "match"
+    }
+  ]
+}
