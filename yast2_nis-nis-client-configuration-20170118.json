@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "nis-client-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 28,
+      "width": 221,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 197,
+      "ypos": 320,
+      "width": 183,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}
