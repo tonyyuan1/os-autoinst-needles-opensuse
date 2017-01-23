@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-TEXT",
+    "inst-partition-radio-buttons"
+  ],
+  "area": [
+    {
+      "xpos": 387,
+      "ypos": 260,
+      "width": 18,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 259,
+      "width": 32,
+      "height": 38,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-TEXT",
+    "disabledhome"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "ypos": 383,
+      "width": 281,
+      "type": "match",
+      "xpos": 382
+    }
+  ]
+}
