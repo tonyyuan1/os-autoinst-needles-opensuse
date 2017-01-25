@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 153,
+      "width": 336,
+      "ypos": 215,
+      "height": 165,
+      "type": "match"
+    },
+    {
+      "xpos": 225,
+      "width": 311,
+      "ypos": 34,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-UEFI-1",
+    "bootloader-grub2"
+  ],
+  "properties": []
+}
