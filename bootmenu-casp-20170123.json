@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "bootloader-grub2"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 105,
+      "width": 194,
+      "ypos": 72,
+      "xpos": 301
+    },
+    {
+      "xpos": 157,
+      "ypos": 208,
+      "width": 165,
+      "height": 68,
+      "type": "match"
+    }
+  ]
+}
