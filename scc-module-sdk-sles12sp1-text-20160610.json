@@ -2,14 +2,14 @@
   "tags": [
     "scc-module-sdk"
   ],
+  "properties": [],
   "area": [
     {
-      "type": "match",
       "height": 13,
-      "ypos": 274,
+      "type": "match",
       "xpos": 553,
+      "ypos": 274,
       "width": 423
     }
-  ],
-  "properties": []
+  ]
 }
