@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "width": 423,
-      "height": 13,
-      "type": "match",
-      "ypos": 258,
-      "xpos": 553
-    }
-  ],
   "tags": [
     "scc-module-sdk"
   ],
-  "properties": []
+  "properties": [],
+  "area": [
+    {
+      "ypos": 274,
+      "xpos": 553,
+      "width": 423,
+      "height": 13,
+      "type": "match"
+    }
+  ]
 }
