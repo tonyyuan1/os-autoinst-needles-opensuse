@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-lv-type"
+  ],
+  "area": [
+    {
+      "xpos": 416,
+      "ypos": 318,
+      "width": 88,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

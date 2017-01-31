@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "xpos": 416,
+      "height": 11,
+      "type": "match",
+      "ypos": 111,
+      "width": 192
+    },
+    {
+      "xpos": 416,
+      "ypos": 128,
+      "width": 131,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 143,
+      "width": 167,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 160,
+      "width": 102,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 175,
+      "width": 144,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "partitioning-full-lvm-encrypt"
+  ]
+}

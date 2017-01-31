@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-create-new-table"
+  ],
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 356,
+      "width": 402,
+      "height": 70,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
