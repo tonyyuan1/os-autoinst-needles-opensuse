@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 41,
+      "type": "match",
+      "xpos": 221,
+      "width": 202,
+      "ypos": 51
+    }
+  ],
+  "tags": [
+    "yast2_apparmor_enabled"
+  ],
+  "properties": []
+}
