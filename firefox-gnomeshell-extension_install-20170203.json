@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-gnomeshell-extension_install"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 284,
+      "type": "match",
+      "xpos": 830,
+      "width": 90,
+      "height": 39
+    }
+  ]
+}
