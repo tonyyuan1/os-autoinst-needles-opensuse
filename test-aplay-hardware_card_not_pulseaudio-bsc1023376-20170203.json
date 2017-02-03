@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "test-aplay-2"
+  ],
+  "area": [
+    {
+      "width": 1006,
+      "height": 749,
+      "type": "match",
+      "xpos": 2,
+      "ypos": 6
+    }
+  ]
+}
