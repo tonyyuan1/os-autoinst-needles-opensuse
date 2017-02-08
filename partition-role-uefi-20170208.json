@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-UEFI-1",
+    "partition-role-uefi"
+  ],
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 421,
+      "width": 112,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

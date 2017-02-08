@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 365,
+      "width": 60,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-UEFI-1",
+    "partition-efi-fat"
+  ]
+}

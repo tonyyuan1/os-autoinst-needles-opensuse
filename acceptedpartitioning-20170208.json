@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 111,
+      "width": 164,
+      "type": "match",
+      "height": 269
+    }
+  ],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioning"
+  ],
+  "properties": []
+}

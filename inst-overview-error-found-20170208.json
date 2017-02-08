@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 318,
+      "ypos": 328,
+      "width": 387,
+      "height": 91,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-UEFI-1",
+    "inst-overview-error-found"
+  ],
+  "properties": []
+}
