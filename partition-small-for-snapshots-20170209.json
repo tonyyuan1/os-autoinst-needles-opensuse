@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-small-for-snapshots"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 307,
+      "width": 304,
+      "height": 81,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
