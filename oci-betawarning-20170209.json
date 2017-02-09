@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "oci-betawarning"
+  ],
+  "area": [
+    {
+      "xpos": 217,
+      "ypos": 222,
+      "width": 110,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 213,
+      "ypos": 256,
+      "width": 406,
+      "height": 127,
+      "type": "match"
+    }
+  ]
+}
