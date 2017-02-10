@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "libreoffice-test-xlsx"
+  ],
+  "area": [
+    {
+      "width": 214,
+      "type": "match",
+      "height": 28,
+      "xpos": 406,
+      "ypos": 8
+    },
+    {
+      "type": "match",
+      "height": 484,
+      "width": 305,
+      "xpos": 65,
+      "ypos": 189
+    },
+    {
+      "width": 226,
+      "type": "match",
+      "height": 200,
+      "xpos": 416,
+      "ypos": 226
+    },
+    {
+      "width": 236,
+      "height": 51,
+      "type": "match",
+      "xpos": 487,
+      "ypos": 670
+    }
+  ],
+  "properties": []
+}
