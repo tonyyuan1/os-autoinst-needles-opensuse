@@ -1,16 +1,16 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 353,
       "ypos": 603,
+      "xpos": 353,
       "width": 377,
-      "height": 53,
-      "type": "match"
+      "type": "match",
+      "height": 53
     }
   ],
   "tags": [
     "ENV-DISTRI-CASP",
     "dashboard-url"
-  ],
-  "properties": []
+  ]
 }
