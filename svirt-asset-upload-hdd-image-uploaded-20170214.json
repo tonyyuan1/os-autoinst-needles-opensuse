@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "svirt-asset-upload-hdd-image-uploaded"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 95,
+      "width": 162,
+      "type": "match",
+      "height": 17
+    },
+    {
+      "ypos": 127,
+      "xpos": 0,
+      "height": 15,
+      "type": "match",
+      "width": 25
+    }
+  ],
+  "properties": []
+}
