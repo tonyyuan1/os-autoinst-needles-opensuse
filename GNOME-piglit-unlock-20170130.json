@@ -1,0 +1,38 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "GNOME",
+    "generic-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 848,
+      "ypos": 31,
+      "width": 141,
+      "height": 112,
+      "type": "match"
+    },
+    {
+      "xpos": 4,
+      "ypos": 743,
+      "width": 149,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 180,
+      "ypos": 16,
+      "width": 170,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 168,
+      "width": 174,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
