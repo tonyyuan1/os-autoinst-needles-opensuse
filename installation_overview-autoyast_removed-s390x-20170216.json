@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 434,
+      "height": 46,
+      "ypos": 709,
+      "type": "match",
+      "width": 495
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "autoyast_removed"
+  ]
+}
