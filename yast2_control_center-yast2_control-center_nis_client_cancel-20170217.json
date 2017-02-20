@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 554,
+      "ypos": 632,
+      "width": 90,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_nis_client_cancel"
+  ]
+}

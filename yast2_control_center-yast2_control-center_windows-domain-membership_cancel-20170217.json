@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 649,
+      "ypos": 632,
+      "width": 89,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_windows-domain-membership_cancel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 570,
+      "ypos": 409,
+      "width": 97,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_printer_cups-daemon-restart_ok"
+  ]
+}

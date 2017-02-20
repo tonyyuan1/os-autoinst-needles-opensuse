@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_nis_server_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 552,
+      "ypos": 631,
+      "width": 90,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

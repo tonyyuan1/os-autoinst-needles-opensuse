@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 140,
+      "ypos": 595,
+      "width": 104,
+      "height": 128,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_relocation-server-configuration"
+  ]
+}

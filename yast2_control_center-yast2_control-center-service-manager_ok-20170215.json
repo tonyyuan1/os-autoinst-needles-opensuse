@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 736,
+      "ypos": 628,
+      "width": 95,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center-service-manager_ok"
+  ]
+}

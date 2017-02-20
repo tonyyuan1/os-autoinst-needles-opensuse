@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_firewall_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 551,
+      "ypos": 632,
+      "width": 95,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

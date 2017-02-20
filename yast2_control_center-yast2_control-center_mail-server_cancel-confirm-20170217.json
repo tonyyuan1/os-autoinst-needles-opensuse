@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 551,
+      "ypos": 631,
+      "width": 95,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_mail-server_cancel-confirm"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_laf_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 238,
+      "ypos": 433,
+      "width": 135,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}

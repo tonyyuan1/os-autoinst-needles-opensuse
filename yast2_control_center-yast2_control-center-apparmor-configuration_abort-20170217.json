@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center-apparmor-configuration_abort"
+  ],
+  "area": [
+    {
+      "xpos": 551,
+      "ypos": 633,
+      "width": 94,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

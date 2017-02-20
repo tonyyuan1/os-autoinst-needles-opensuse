@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 60,
+      "ypos": 84,
+      "width": 220,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_clock-and-time-zone"
+  ]
+}

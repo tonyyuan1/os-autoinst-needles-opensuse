@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_network-settings-warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 736,
+      "ypos": 628,
+      "width": 96,
+      "height": 39,
+      "type": "match"
+    }
+  ]
+}

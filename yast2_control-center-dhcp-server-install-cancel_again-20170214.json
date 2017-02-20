@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 383,
+      "ypos": 396,
+      "width": 96,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center-dhcp-server-install-cancel_again"
+  ]
+}

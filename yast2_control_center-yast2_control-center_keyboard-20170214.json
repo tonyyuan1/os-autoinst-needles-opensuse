@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 267,
+      "ypos": 260,
+      "width": 81,
+      "height": 118,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_keyboard"
+  ]
+}

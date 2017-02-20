@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_nfs_client_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 631,
+      "ypos": 631,
+      "width": 102,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

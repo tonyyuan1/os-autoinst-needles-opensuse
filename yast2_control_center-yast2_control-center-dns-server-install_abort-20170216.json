@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center-dns-server-install_abort"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 398,
+      "width": 96,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

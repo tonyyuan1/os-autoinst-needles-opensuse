@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 482,
+      "ypos": 405,
+      "width": 95,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_wake-on-lan_install_error"
+  ]
+}

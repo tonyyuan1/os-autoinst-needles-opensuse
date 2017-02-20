@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_common-server-certificate_abort"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 549,
+      "ypos": 631,
+      "width": 96,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

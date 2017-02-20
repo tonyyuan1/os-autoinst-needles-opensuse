@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_relocation-server-configuration_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 522,
+      "ypos": 528,
+      "width": 97,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

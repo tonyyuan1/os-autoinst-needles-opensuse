@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 439,
+      "ypos": 376,
+      "width": 95,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_laf_abort_really"
+  ]
+}

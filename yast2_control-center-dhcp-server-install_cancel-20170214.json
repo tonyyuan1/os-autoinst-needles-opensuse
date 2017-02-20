@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center-dhcp-server-install_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 432,
+      "width": 97,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}
