@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-VIDEOMODE-TEXT",
+    "disabledhome"
+  ],
+  "area": [
+    {
+      "xpos": 384,
+      "ypos": 385,
+      "width": 282,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
