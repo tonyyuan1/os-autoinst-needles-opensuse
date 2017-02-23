@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-gnomeshell-installed_02"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 40,
+      "type": "match",
+      "width": 142,
+      "xpos": 29,
+      "ypos": 197
+    },
+    {
+      "width": 145,
+      "xpos": 30,
+      "ypos": 329,
+      "type": "match",
+      "height": 40
+    }
+  ]
+}
