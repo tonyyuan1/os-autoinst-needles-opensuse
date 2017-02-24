@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "autoyast-error"
+  ],
+  "area": [
+    {
+      "xpos": 142,
+      "ypos": 350,
+      "width": 49,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
