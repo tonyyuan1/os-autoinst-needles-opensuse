@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 574,
+      "ypos": 365,
+      "width": 65,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-UEFI-1",
+    "mountpoint-boot-efi"
+  ]
+}
