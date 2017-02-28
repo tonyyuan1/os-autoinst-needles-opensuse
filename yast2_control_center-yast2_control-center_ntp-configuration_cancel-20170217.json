@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 638,
+      "ypos": 631,
+      "width": 89,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_ntp-configuration_cancel"
+  ]
+}

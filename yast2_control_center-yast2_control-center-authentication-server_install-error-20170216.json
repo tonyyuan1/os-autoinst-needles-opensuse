@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center-authentication-server_install-error"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 299,
+      "ypos": 314,
+      "width": 79,
+      "height": 35,
+      "type": "match"
+    }
+  ]
+}

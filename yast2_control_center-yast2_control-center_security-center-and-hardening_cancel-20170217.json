@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_security-center-and-hardening_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 636,
+      "ypos": 631,
+      "width": 97,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

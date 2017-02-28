@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_samba-server-installation_abort"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 552,
+      "ypos": 631,
+      "width": 94,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

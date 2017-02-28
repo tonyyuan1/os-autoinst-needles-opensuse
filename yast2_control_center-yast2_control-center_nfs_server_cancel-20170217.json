@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 551,
+      "ypos": 631,
+      "width": 92,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_nfs_server_cancel"
+  ]
+}

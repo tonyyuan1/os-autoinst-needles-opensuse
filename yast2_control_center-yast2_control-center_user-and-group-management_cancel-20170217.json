@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_user-and-group-management_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 637,
+      "ypos": 632,
+      "width": 91,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

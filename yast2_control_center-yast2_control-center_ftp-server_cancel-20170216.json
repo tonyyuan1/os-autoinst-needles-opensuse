@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_ftp-server_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 635,
+      "ypos": 629,
+      "width": 97,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

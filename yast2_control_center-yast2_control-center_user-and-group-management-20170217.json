@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 848,
+      "ypos": 616,
+      "width": 98,
+      "height": 115,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_user-and-group-management"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 472,
+      "ypos": 470,
+      "width": 97,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center-partitioner_abort"
+  ]
+}

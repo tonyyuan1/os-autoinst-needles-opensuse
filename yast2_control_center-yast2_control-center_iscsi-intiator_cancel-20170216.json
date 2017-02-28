@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_iscsi-intiator_cancel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 627,
+      "ypos": 630,
+      "width": 108,
+      "height": 37,
+      "type": "match"
+    }
+  ]
+}

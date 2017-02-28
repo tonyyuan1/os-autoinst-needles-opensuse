@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 364,
+      "ypos": 397,
+      "width": 99,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center-online-migration_cancel"
+  ]
+}
