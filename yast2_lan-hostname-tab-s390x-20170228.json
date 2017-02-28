@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 1006,
+      "height": 402,
+      "xpos": 9,
+      "ypos": 28
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "yast2_lan-hostname-tab"
+  ]
+}
