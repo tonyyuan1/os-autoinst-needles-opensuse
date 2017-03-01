@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 1010,
+      "type": "match",
+      "xpos": 0,
+      "height": 711,
+      "ypos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-aarch64",
+    "ENV-HACLUSTER",
+    "yast2_lan"
+  ]
+}
