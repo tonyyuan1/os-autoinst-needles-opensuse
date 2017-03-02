@@ -2,7 +2,8 @@
   "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
-    "test-eog-1"
+    "test-eog-1",
+    "test-eog-started"
   ],
   "area": [
     {
