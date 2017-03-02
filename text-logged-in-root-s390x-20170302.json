@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 144,
+      "width": 36,
+      "type": "match",
+      "height": 18,
+      "xpos": 71
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "text-logged-in-root"
+  ]
+}
