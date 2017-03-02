@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 706,
+      "ypos": 202,
+      "width": 80,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 54,
+      "ypos": 255,
+      "width": 221,
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-gnomeshell-frontpage"
+  ]
+}
