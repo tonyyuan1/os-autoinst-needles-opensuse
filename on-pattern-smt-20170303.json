@@ -1,0 +1,17 @@
+{
+  "tags": [
+    " pattern-smt",
+    "ENV-SP2ORLATER-0",
+    "on-pattern"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 96,
+      "ypos": 600,
+      "width": 200,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
