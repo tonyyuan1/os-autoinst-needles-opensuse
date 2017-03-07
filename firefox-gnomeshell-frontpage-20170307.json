@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "firefox-gnomeshell-frontpage"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 253,
+      "width": 222,
+      "xpos": 15,
+      "height": 83
+    },
+    {
+      "xpos": 670,
+      "ypos": 196,
+      "width": 66,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "height": 18,
+      "type": "match",
+      "width": 592,
+      "ypos": 363,
+      "xpos": 79
+    }
+  ]
+}
