@@ -3,6 +3,7 @@
   "tags": [
     "ENV-OFW-1",
     "ENV-VERSION-12",
+    "bootloader",
     "bootloader-ofw",
     "inst-bootmenu"
   ],

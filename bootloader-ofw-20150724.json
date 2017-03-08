@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
+    "bootloader",
     "bootloader-ofw",
     "ENV-OFW-1",
     "inst-bootmenu"

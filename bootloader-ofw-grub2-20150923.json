@@ -11,6 +11,7 @@
   "properties": [],
   "tags": [
     "ENV-OFW-1",
+    "bootloader",
     "bootloader-ofw",
     "inst-bootmenu"
   ]
