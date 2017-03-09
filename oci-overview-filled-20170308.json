@@ -1,16 +1,16 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "xpos": 152,
-      "ypos": 190,
-      "width": 497,
-      "height": 59,
-      "type": "match"
-    }
-  ],
   "tags": [
     "ENV-DISTRI-casp",
     "oci-overview-filled"
-  ]
+  ],
+  "area": [
+    {
+      "xpos": 153,
+      "ypos": 193,
+      "width": 470,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "properties": []
 }
