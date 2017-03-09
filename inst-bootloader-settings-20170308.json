@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-bootloader-settings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 94,
+      "xpos": 23,
+      "type": "match",
+      "height": 34,
+      "width": 314
+    }
+  ]
+}
