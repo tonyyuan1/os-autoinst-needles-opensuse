@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 105,
+      "xpos": 301,
+      "ypos": 72,
+      "width": 194,
+      "type": "match"
+    },
+    {
+      "width": 112,
+      "ypos": 208,
+      "xpos": 157,
+      "type": "match",
+      "height": 68
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "bootloader-grub2"
+  ]
+}
