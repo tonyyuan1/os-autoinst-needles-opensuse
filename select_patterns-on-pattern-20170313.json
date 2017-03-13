@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 70,
+      "ypos": 242,
+      "width": 224,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATE-1",
+    "on-pattern",
+    "pattern-Yast2-conf"
+  ]
+}
