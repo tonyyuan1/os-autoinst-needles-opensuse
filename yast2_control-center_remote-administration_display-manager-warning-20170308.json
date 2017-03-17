@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 239,
+      "ypos": 304,
+      "width": 97,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_remote-administration_display-manager-warning"
+  ]
+}

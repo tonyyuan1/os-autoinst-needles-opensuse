@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_wake-on-lan_install_finish"
+  ],
+  "area": [
+    {
+      "xpos": 737,
+      "ypos": 629,
+      "width": 93,
+      "height": 38,
+      "type": "match"
+    }
+  ]
+}

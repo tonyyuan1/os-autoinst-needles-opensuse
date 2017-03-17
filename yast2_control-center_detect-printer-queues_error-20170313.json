@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_detect-printer-queues_error"
+  ],
+  "area": [
+    {
+      "xpos": 334,
+      "ypos": 327,
+      "width": 68,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
