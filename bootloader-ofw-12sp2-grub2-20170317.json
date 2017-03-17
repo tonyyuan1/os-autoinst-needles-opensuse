@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 217,
+      "ypos": 28,
+      "width": 84,
+      "type": "match",
+      "height": 21
+    },
+    {
+      "xpos": 26,
+      "ypos": 75,
+      "width": 98,
+      "type": "match",
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-OFW-1",
+    "bootloader",
+    "bootloader-ofw"
+  ]
+}
