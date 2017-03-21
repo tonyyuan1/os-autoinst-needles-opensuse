@@ -2,6 +2,7 @@
   "tags": [
     "ENV-VIDEOMODE-text",
     "before-package-selection",
+    "installation",
     "inst-returned-to-yast",
     "inst-usersetup"
   ],

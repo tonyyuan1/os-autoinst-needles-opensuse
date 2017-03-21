@@ -1,6 +1,7 @@
 {
   "properties": [],
   "tags": [
+    "install-shell",
     "inst-console",
     "inst-console-stage2"
   ],

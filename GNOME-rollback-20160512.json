@@ -4,6 +4,7 @@
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
     "GNOME",
+    "x11",
     "desktop-at-first-boot",
     "generic-desktop",
     "test-consoletest_finish-1"

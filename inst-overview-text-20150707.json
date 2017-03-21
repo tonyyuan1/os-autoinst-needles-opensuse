@@ -18,6 +18,7 @@
   ],
   "tags": [
     "ENV-VIDEOMODE-text",
+    "installation",
     "inst-returned-to-yast",
     "inst-overview",
     "before-package-selection"

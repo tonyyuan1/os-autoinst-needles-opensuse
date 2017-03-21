@@ -4,6 +4,7 @@
     "ENV-INSTLANG-en_US",
     "ENV-SP2ORLATER-1",
     "import-user-data",
+    "installation",
     "inst-returned-to-yast"
   ],
   "properties": [],

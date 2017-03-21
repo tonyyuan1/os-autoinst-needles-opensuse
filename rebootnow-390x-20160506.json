@@ -12,6 +12,7 @@
   "tags": [
     "ENV-ARCH-s390x",
     "ENV-SP2ORLATER-1",
+    "installation",
     "rebootnow"
   ]
 }

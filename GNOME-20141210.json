@@ -18,6 +18,7 @@
   "tags": [
     "ENV-DESKTOP-gnome",
     "GNOME",
+    "x11",
     "generic-desktop",
     "desktop-sle-classic",
     "desktop-at-first-boot",

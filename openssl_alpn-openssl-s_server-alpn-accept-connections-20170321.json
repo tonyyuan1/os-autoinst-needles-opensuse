@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "openssl-s_server-alpn-accept-connections"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 3,
+      "height": 12,
+      "xpos": 2,
+      "type": "match",
+      "width": 142
+    },
+    {
+      "height": 15,
+      "xpos": 2,
+      "ypos": 31,
+      "width": 47,
+      "type": "match"
+    }
+  ]
+}

@@ -5,6 +5,7 @@
     "ENV-SP2ORLATER-1",
     "GNOME",
     "desktop-at-first-boot",
+    "x11",
     "generic-desktop",
     "test-consoletest_finish-1"
   ],
