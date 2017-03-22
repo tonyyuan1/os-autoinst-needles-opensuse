@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 340,
+      "width": 467,
+      "height": 110,
+      "type": "match",
+      "xpos": 279
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "error-small-disk"
+  ],
+  "properties": []
+}
