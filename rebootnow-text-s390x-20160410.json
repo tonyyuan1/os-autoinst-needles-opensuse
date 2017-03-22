@@ -2,6 +2,7 @@
   "tags": [
     "ENV-ARCH-s390x",
     "ENV-VIDEOMODE-text",
+    "installation",
     "rebootnow"
   ],
   "properties": [],

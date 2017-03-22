@@ -12,6 +12,7 @@
   "tags": [
     "ENV-DESKTOP-gnome",
     "GNOME",
+    "x11",
     "desktop-at-first-boot",
     "generic-desktop",
     "test-consoletest_finish-1"

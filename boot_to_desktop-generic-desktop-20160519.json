@@ -12,6 +12,7 @@
   "tags": [
     "ENV-SP2ORLATER-1",
     "desktop-sle-classic",
+    "x11",
     "FAKE",
     "generic-desktop"
   ]

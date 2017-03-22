@@ -13,6 +13,7 @@
     "ENV-INSTLANG-en_US",
     "GNOME",
     "generic-desktop",
+    "x11",
     "desktop-at-first-boot",
     "test-consoletest_finish-1"
   ]

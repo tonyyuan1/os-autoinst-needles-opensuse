@@ -29,6 +29,7 @@
     "GNOME",
     "desktop-at-first-boot",
     "generic-desktop",
+    "x11",
     "test-consoletest_finish-1"
   ],
   "properties": [

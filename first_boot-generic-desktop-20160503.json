@@ -18,6 +18,7 @@
   ],
   "tags": [
     "ENV-SP2ORLATER-1",
+    "x11",
     "generic-desktop"
   ]
 }

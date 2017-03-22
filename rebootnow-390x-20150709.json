@@ -11,6 +11,7 @@
   ],
   "tags": [
     "ENV-ARCH-s390x",
+    "installation",
     "rebootnow"
   ]
 }
