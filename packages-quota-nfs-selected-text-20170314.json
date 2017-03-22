@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "packages-quota-nfs-selected"
+  ],
+  "area": [
+    {
+      "xpos": 394,
+      "ypos": 82,
+      "width": 82,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
