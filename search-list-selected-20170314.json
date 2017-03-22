@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "search-list-selected"
+  ],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 63,
+      "width": 195,
+      "height": 85,
+      "type": "match"
+    }
+  ]
+}

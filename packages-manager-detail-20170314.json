@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 11,
+      "width": 315,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "packages-manager-detail"
+  ],
+  "properties": []
+}
