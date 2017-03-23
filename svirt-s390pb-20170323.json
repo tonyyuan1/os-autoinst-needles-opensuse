@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
+    "ENV-ARCH-s390x",
     "svirt"
   ],
   "properties": []
