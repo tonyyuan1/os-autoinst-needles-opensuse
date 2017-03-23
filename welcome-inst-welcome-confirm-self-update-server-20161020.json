@@ -13,6 +13,7 @@
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "ENV-SP2ORLATER-1",
+    "installation",
     "inst-welcome-confirm-self-update-server"
   ]
 }

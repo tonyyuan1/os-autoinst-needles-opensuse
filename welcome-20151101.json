@@ -3,6 +3,7 @@
     "ENV-DISTRI-sle",
     "ENV-FLAVOR-Desktop-DVD",
     "ENV-INSTLANG-en_US",
+    "installation",
     "inst-welcome"
   ],
   "area": [
