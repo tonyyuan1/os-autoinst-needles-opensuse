@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 305,
+      "type": "match",
+      "height": 11,
+      "xpos": -1,
+      "width": 33
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "svirt"
+  ],
+  "properties": []
+}
