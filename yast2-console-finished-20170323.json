@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 83,
+      "type": "match",
+      "width": 56,
+      "height": 27,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "yast2_console-finished"
+  ],
+  "properties": []
+}
