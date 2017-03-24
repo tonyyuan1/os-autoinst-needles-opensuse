@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_windows-domain-membership_verifying-membership"
+  ],
+  "area": [
+    {
+      "xpos": 57,
+      "ypos": 83,
+      "width": 310,
+      "height": 38,
+      "type": "match"
+    }
+  ]
+}

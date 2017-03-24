@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 370,
+      "ypos": 296,
+      "width": 138,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_samba-server_rename-share"
+  ]
+}

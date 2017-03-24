@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_mail-server_really-abort"
+  ],
+  "area": [
+    {
+      "xpos": 386,
+      "ypos": 337,
+      "width": 110,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
