@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 438,
+      "ypos": 388,
+      "width": 96,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center-authentication-server_configuration_abort"
+  ]
+}
