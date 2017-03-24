@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-s390x",
+    "ENV-VIDEOMODE-text",
+    "installation"
+  ],
+  "area": [
+    {
+      "width": 29,
+      "xpos": 170,
+      "height": 15,
+      "type": "match",
+      "ypos": 126
+    }
+  ]
+}
