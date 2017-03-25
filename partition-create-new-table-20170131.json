@@ -1,15 +1,15 @@
 {
+  "properties": [],
   "tags": [
     "partition-create-new-table"
   ],
   "area": [
     {
-      "xpos": 310,
+      "type": "match",
+      "xpos": 312,
+      "height": 14,
       "ypos": 356,
-      "width": 402,
-      "height": 70,
-      "type": "match"
+      "width": 185
     }
-  ],
-  "properties": []
+  ]
 }
