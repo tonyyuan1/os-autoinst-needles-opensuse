@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 262,
+      "height": 42,
+      "xpos": 48,
+      "width": 266,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-gnomeshell-extension"
+  ],
+  "properties": []
+}
