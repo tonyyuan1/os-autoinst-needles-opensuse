@@ -1,15 +1,22 @@
 {
-  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "inst-overview"
   ],
+  "properties": [],
   "area": [
     {
       "xpos": 20,
+      "height": 39,
       "ypos": 191,
       "width": 304,
-      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 604,
+      "ypos": 691,
+      "width": 409,
+      "height": 36,
       "type": "match"
     }
   ]
