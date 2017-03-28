@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "ypos": 51,
+      "xpos": 142,
+      "width": 17
+    }
+  ],
+  "tags": [
+    "firefox-changesaving-diffresult"
+  ],
+  "properties": []
+}
