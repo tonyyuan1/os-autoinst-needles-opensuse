@@ -1,14 +1,14 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 505,
-      "ypos": 464,
-      "width": 79,
-      "height": 90,
+      "xpos": 501,
+      "ypos": 457,
+      "width": 92,
+      "height": 130,
       "type": "match"
     }
   ],
+  "properties": [],
   "tags": [
     "yast2_control-center_squid-server-configuration"
   ]

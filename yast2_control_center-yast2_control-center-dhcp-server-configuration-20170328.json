@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center-dhcp-server-configuration"
+  ],
+  "area": [
+    {
+      "xpos": 343,
+      "ypos": 82,
+      "width": 139,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}

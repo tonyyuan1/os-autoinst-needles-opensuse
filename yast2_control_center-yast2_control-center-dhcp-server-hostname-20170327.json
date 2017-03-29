@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center-dhcp-server-hostname"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 531,
+      "ypos": 400,
+      "width": 98,
+      "height": 45,
+      "type": "match"
+    }
+  ]
+}
