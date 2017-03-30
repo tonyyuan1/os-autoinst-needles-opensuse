@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 128,
+      "type": "match",
+      "width": 429,
+      "xpos": 0,
+      "height": 114
+    },
+    {
+      "xpos": 0,
+      "height": 16,
+      "width": 140,
+      "type": "match",
+      "ypos": 31
+    }
+  ],
+  "tags": [
+    "ha-crm-mon-alpha-host1-online"
+  ]
+}
