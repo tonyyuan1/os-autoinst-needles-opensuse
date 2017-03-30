@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-iscsi-client-target-startup"
+  ],
+  "area": [
+    {
+      "height": 200,
+      "xpos": 246,
+      "width": 508,
+      "type": "match",
+      "ypos": 265
+    }
+  ]
+}
