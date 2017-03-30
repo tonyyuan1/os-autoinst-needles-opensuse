@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "updates_installed-restart"
+  ],
+  "area": [
+    {
+      "xpos": 296,
+      "ypos": 314,
+      "width": 429,
+      "height": 71,
+      "type": "match"
+    }
+  ]
+}
