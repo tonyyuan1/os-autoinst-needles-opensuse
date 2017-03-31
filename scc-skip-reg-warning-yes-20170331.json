@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12",
+    "scc-skip-reg-warning-yes"
+  ],
+  "area": [
+    {
+      "height": 77,
+      "xpos": 351,
+      "width": 160,
+      "type": "match",
+      "ypos": 399
+    }
+  ]
+}
