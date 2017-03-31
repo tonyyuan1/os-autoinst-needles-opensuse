@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 319,
+      "type": "match",
+      "xpos": 2,
+      "height": 45,
+      "ypos": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub1",
+    "on_host_lower_than_sles_12_sp2"
+  ]
+}

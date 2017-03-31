@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 117,
+      "width": 310,
+      "xpos": 245,
+      "height": 58,
+      "type": "match"
+    },
+    {
+      "ypos": 221,
+      "height": 54,
+      "xpos": 217,
+      "width": 82,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "displaymanager-sle11",
+    "reboot-after-installation"
+  ]
+}
