@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-account-irc"
+  ],
+  "area": [
+    {
+      "width": 145,
+      "xpos": 570,
+      "height": 27,
+      "ypos": 402,
+      "type": "match"
+    }
+  ]
+}
