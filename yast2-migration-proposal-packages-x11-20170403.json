@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "migration-proposal-packages"
+  ],
+  "area": [
+    {
+      "ypos": 277,
+      "type": "match",
+      "width": 84,
+      "xpos": 70,
+      "height": 33
+    }
+  ]
+}
