@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 99,
+      "xpos": 295,
+      "width": 200,
+      "type": "match",
+      "ypos": 69
+    },
+    {
+      "xpos": 157,
+      "height": 30,
+      "width": 102,
+      "type": "match",
+      "ypos": 214
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "ENV-VERSION-12-SP3",
+    "grub2"
+  ]
+}
