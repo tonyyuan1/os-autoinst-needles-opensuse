@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "pidgin-protocol-irc"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 401,
+      "xpos": 516,
+      "height": 25,
+      "width": 98
+    }
+  ],
+  "properties": []
+}
