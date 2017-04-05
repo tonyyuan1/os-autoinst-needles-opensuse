@@ -1,27 +1,25 @@
 {
-  "area": [
-    {
-      "xpos": 381,
-      "height": 143,
-      "width": 270,
-      "type": "match",
-      "ypos": 86
-    },
-    {
-      "xpos": 198,
-      "height": 30,
-      "width": 103,
-      "type": "match",
-      "ypos": 267
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-textmode",
     "ENV-JEOS-1",
     "ENV-VERSION-12-SP3",
     "grub2"
   ],
-  "properties": [
-    "workaround"
+  "area": [
+    {
+      "ypos": 86,
+      "type": "match",
+      "width": 270,
+      "height": 143,
+      "xpos": 381
+    },
+    {
+      "ypos": 267,
+      "type": "match",
+      "width": 103,
+      "height": 30,
+      "xpos": 198
+    }
   ]
 }
