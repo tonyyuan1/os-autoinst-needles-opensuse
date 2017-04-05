@@ -1,0 +1,26 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Desktop-DVD",
+    "ENV-REMOTE_MASTER=vnc",
+    "ENV-TEST=remote_vnc_controller_sled",
+    "bootloader",
+    "grub2"
+  ],
+  "area": [
+    {
+      "ypos": 15,
+      "type": "match",
+      "width": 275,
+      "height": 175,
+      "xpos": 260
+    },
+    {
+      "xpos": 153,
+      "height": 37,
+      "width": 117,
+      "type": "match",
+      "ypos": 209
+    }
+  ]
+}
