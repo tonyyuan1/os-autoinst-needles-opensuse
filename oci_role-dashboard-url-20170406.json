@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 353,
+      "height": 53,
+      "width": 377,
+      "type": "match",
+      "ypos": 489
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "dashboard-url"
+  ]
+}
