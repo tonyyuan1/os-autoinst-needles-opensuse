@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 115,
+      "xpos": 287,
+      "width": 452,
+      "type": "match",
+      "ypos": 338
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "controller-node-invalid"
+  ],
+  "properties": []
+}
