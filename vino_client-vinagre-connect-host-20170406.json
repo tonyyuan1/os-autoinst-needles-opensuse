@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vinagre-connect-host"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 391,
+      "ypos": 227,
+      "height": 39,
+      "xpos": 325
+    }
+  ]
+}

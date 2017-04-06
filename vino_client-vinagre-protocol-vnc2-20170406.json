@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vinagre-protocol-vnc"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 156,
+      "ypos": 185,
+      "height": 44,
+      "xpos": 257
+    }
+  ]
+}

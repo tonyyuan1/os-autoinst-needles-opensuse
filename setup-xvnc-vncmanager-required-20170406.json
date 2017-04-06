@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc-vncmanager-required"
+  ],
+  "area": [
+    {
+      "height": 166,
+      "xpos": 354,
+      "type": "match",
+      "ypos": 302,
+      "width": 318
+    }
+  ]
+}

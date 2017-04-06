@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 516,
+      "width": 176,
+      "type": "match",
+      "xpos": 614,
+      "height": 172
+    },
+    {
+      "width": 105,
+      "ypos": 3,
+      "type": "match",
+      "xpos": 323,
+      "height": 28
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xdmcp-login-gdm"
+  ],
+  "properties": []
+}

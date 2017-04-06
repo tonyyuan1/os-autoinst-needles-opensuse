@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 29,
+      "height": 14,
+      "width": 71,
+      "ypos": 166,
+      "type": "match"
+    },
+    {
+      "xpos": 30,
+      "height": 17,
+      "width": 74,
+      "ypos": 192,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ssh-login-ok"
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gcc-sharing-on"
+  ],
+  "area": [
+    {
+      "height": 37,
+      "xpos": 693,
+      "type": "match",
+      "width": 96,
+      "ypos": 38
+    }
+  ],
+  "properties": []
+}
