@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "system-role-admin"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 428,
+      "xpos": 352,
+      "height": 54,
+      "width": 378
+    }
+  ]
+}
