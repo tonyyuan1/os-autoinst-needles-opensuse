@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-12",
+    "top-load-decreased"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 1,
+      "height": 13,
+      "xpos": 290,
+      "width": 141
+    }
+  ],
+  "properties": []
+}
