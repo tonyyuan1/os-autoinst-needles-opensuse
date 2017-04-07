@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 94,
+      "width": 160,
+      "height": 172,
+      "xpos": 547
+    },
+    {
+      "xpos": 405,
+      "height": 24,
+      "width": 307,
+      "ypos": 427,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "x11-forwarding-gccinfo"
+  ]
+}

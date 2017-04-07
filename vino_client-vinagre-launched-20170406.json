@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 408,
+      "height": 26,
+      "width": 196,
+      "ypos": 71,
+      "type": "match"
+    },
+    {
+      "width": 274,
+      "ypos": 105,
+      "type": "match",
+      "xpos": 189,
+      "height": 65
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vinagre-launched"
+  ],
+  "properties": []
+}

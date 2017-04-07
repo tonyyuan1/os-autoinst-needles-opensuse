@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 84,
+      "xpos": 366,
+      "type": "match",
+      "ypos": 258,
+      "width": 240
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vinagre-auth"
+  ]
+}

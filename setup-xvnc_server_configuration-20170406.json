@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 171,
+      "height": 94,
+      "width": 677,
+      "ypos": 296,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc_server_configuration"
+  ],
+  "properties": []
+}

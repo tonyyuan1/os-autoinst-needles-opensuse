@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 74,
+      "type": "match",
+      "ypos": 199,
+      "width": 95
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncmanager-controller-visibility"
+  ],
+  "properties": []
+}

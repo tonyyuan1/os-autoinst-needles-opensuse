@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ssh-login"
+  ],
+  "area": [
+    {
+      "height": 10,
+      "xpos": 30,
+      "type": "match",
+      "width": 324,
+      "ypos": 130
+    }
+  ]
+}

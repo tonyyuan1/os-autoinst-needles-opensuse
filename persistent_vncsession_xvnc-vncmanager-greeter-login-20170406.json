@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncmanager-greeter-login"
+  ],
+  "area": [
+    {
+      "ypos": 331,
+      "width": 252,
+      "type": "match",
+      "xpos": 386,
+      "height": 111
+    }
+  ],
+  "properties": []
+}

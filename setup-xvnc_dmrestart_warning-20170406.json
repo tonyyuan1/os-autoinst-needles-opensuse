@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc_dmrestart_warning"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 483,
+      "ypos": 334,
+      "height": 101,
+      "xpos": 265
+    }
+  ],
+  "properties": []
+}

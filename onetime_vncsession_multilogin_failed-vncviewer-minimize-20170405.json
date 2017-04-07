@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncviewer-minimize"
+  ],
+  "area": [
+    {
+      "ypos": 306,
+      "width": 134,
+      "type": "match",
+      "xpos": 445,
+      "height": 127
+    }
+  ]
+}

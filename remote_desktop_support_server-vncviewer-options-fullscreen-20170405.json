@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncviewer-options-fullscreen"
+  ],
+  "area": [
+    {
+      "xpos": 83,
+      "height": 13,
+      "width": 115,
+      "ypos": 171,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

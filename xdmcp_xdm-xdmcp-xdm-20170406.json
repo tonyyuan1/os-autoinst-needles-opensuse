@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xdmcp-xdm"
+  ],
+  "area": [
+    {
+      "xpos": 168,
+      "height": 24,
+      "ypos": 55,
+      "width": 119,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 518,
+      "ypos": 117,
+      "height": 437,
+      "xpos": 118
+    }
+  ],
+  "properties": []
+}

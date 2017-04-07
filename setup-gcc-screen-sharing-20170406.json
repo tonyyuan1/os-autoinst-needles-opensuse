@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 2,
+      "width": 309,
+      "type": "match",
+      "xpos": 357,
+      "height": 170
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gcc-screen-sharing"
+  ]
+}

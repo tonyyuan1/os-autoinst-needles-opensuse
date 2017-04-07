@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncmanager-controller"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 400,
+      "ypos": 92,
+      "height": 194,
+      "xpos": 55
+    }
+  ],
+  "properties": []
+}

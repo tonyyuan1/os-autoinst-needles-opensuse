@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc-firefox-login-dm"
+  ],
+  "area": [
+    {
+      "ypos": 400,
+      "width": 190,
+      "type": "match",
+      "xpos": 319,
+      "height": 261
+    },
+    {
+      "width": 254,
+      "ypos": 4,
+      "type": "match",
+      "xpos": 385,
+      "height": 29
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc-firefox-certification-warning"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 505,
+      "ypos": 157,
+      "height": 165,
+      "xpos": 216
+    }
+  ],
+  "properties": []
+}

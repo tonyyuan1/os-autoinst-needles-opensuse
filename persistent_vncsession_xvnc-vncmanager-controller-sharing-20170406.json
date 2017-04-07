@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncmanager-controller-sharing"
+  ],
+  "area": [
+    {
+      "xpos": 73,
+      "height": 28,
+      "ypos": 567,
+      "width": 223,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

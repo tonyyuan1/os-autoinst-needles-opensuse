@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "xpos": 597,
+      "type": "match",
+      "ypos": 179,
+      "width": 134
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vinagre-enable-shortcut1"
+  ],
+  "properties": []
+}

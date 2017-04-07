@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 334,
+      "height": 44,
+      "width": 338,
+      "ypos": 438,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc-multilogin-refused"
+  ],
+  "properties": []
+}

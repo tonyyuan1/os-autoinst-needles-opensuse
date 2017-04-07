@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc-firefox-activate-IcedTea"
+  ],
+  "area": [
+    {
+      "height": 23,
+      "xpos": 508,
+      "type": "match",
+      "width": 124,
+      "ypos": 605
+    }
+  ],
+  "properties": []
+}

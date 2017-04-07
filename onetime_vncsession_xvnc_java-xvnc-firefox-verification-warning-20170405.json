@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 317,
+      "height": 150,
+      "ypos": 299,
+      "width": 384,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "xvnc-firefox-verification-warning"
+  ],
+  "properties": []
+}
