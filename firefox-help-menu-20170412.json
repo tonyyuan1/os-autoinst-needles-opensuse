@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-help-menu"
+  ],
+  "area": [
+    {
+      "ypos": 91,
+      "type": "match",
+      "width": 256,
+      "height": 52,
+      "xpos": 454
+    }
+  ]
+}
