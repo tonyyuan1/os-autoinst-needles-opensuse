@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "root-console"
+    "root-console",
+    "log-console"
   ]
 }

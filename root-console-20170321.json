@@ -9,7 +9,8 @@
     }
   ],
   "tags": [
-    "root-console"
+    "root-console",
+    "log-console"
   ],
   "properties": []
 }
