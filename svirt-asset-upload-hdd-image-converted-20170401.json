@@ -1,5 +1,7 @@
 {
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "svirt-asset-upload-hdd-image-converted"
   ],
