@@ -2,7 +2,8 @@
   "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
-    "root-console"
+    "root-console",
+    "log-console"
   ],
   "area": [
     {
