@@ -1,4 +1,7 @@
 {
+  "tags": [
+    "scc-module-pcm"
+  ],
   "area": [
     {
       "type": "match",
@@ -7,9 +10,6 @@
       "height": 18,
       "width": 192
     }
-  ],
-  "tags": [
-    "scc-module-pcm"
   ],
   "properties": []
 }
