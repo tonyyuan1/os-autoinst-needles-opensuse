@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 404,
+      "xpos": 7,
+      "ypos": 124,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "wireshark-filter-selected"
+  ],
+  "properties": []
+}

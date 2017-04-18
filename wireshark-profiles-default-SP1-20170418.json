@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "wireshark-profiles-default",
+    "ENV-VERSION-12-SP1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 85,
+      "ypos": 142,
+      "width": 286,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
