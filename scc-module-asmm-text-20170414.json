@@ -1,15 +1,15 @@
 {
-  "properties": [],
+  "area": [
+    {
+      "xpos": 550,
+      "ypos": 287,
+      "width": 311,
+      "height": 18,
+      "type": "match"
+    }
+  ],
   "tags": [
     "scc-module-asmm"
   ],
-  "area": [
-    {
-      "ypos": 290,
-      "type": "match",
-      "width": 303,
-      "xpos": 552,
-      "height": 14
-    }
-  ]
+  "properties": []
 }
