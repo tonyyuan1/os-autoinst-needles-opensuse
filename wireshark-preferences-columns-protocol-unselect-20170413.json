@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "wireshark-preferences-columns-protocol-unselect"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 199,
+      "ypos": 220,
+      "width": 117,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

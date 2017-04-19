@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 719,
+      "xpos": 78,
+      "width": 172,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "wireshark-capturing"
+  ]
+}

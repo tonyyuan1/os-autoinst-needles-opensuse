@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "wireshark-preferences-columns-protocol-unselect",
+    "ENV-VERSION-12-SP1"
+  ],
+  "area": [
+    {
+      "height": 25,
+      "type": "match",
+      "width": 111,
+      "ypos": 231,
+      "xpos": 193
+    }
+  ]
+}
