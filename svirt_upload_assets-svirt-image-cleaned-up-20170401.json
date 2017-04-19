@@ -11,5 +11,7 @@
   "tags": [
     "svirt-image-cleaned-up"
   ],
-  "properties": []
+  "properties": [
+    "workaround"
+  ]
 }
