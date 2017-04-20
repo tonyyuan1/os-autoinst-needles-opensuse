@@ -1,15 +1,22 @@
 {
   "properties": [],
-  "tags": [
-    "scc-addon-license-lgm"
-  ],
   "area": [
     {
+      "height": 23,
       "xpos": 6,
       "ypos": 30,
-      "width": 353,
-      "height": 23,
+      "type": "match",
+      "width": 117
+    },
+    {
+      "xpos": 205,
+      "ypos": 28,
+      "width": 146,
+      "height": 25,
       "type": "match"
     }
+  ],
+  "tags": [
+    "scc-addon-license-lgm"
   ]
 }
