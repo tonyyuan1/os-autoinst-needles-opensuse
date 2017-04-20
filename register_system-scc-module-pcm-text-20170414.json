@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "scc-module-pcm"
-  ],
+  "properties": [],
   "area": [
     {
-      "type": "match",
-      "ypos": 350,
-      "xpos": 548,
-      "height": 18,
-      "width": 192
+      "ypos": 353,
+      "xpos": 551,
+      "height": 13,
+      "width": 189,
+      "type": "match"
     }
   ],
-  "properties": []
+  "tags": [
+    "scc-module-pcm"
+  ]
 }
