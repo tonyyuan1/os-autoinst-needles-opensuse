@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 315,
+      "type": "match",
+      "xpos": 37,
+      "ypos": 66,
+      "height": 20
+    },
+    {
+      "height": 30,
+      "ypos": 16,
+      "xpos": 35,
+      "type": "match",
+      "width": 87
+    }
+  ],
+  "tags": [
+    "grub1"
+  ]
+}
