@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-SP2ORLATER-1",
+    "scc-registration"
+  ],
+  "area": [
+    {
+      "height": 113,
+      "xpos": 345,
+      "ypos": 335,
+      "type": "match",
+      "width": 194
+    }
+  ],
+  "properties": []
+}
