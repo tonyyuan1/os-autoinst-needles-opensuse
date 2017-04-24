@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 349,
+      "height": 37,
+      "xpos": 95,
+      "ypos": 90
+    },
+    {
+      "ypos": 295,
+      "xpos": 365,
+      "height": 48,
+      "width": 143,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vnc_certificate_warning-2"
+  ],
+  "properties": []
+}
