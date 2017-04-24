@@ -1,16 +1,16 @@
 {
-  "properties": [],
   "tags": [
     "ENV-VIDEOMODE-text",
     "scc-module-ltss"
   ],
   "area": [
     {
-      "type": "match",
-      "width": 269,
-      "height": 17,
-      "ypos": 319,
-      "xpos": 60
+      "xpos": 30,
+      "ypos": 323,
+      "width": 298,
+      "height": 10,
+      "type": "match"
     }
-  ]
+  ],
+  "properties": []
 }
