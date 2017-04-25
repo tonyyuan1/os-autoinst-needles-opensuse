@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-topsite_www.opensuse.org"
+  ],
+  "area": [
+    {
+      "ypos": 116,
+      "type": "match",
+      "height": 42,
+      "xpos": 54,
+      "width": 263
+    },
+    {
+      "type": "match",
+      "ypos": 199,
+      "height": 42,
+      "xpos": 52,
+      "width": 59
+    }
+  ]
+}
