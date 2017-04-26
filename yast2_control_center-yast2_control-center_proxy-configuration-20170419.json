@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_proxy-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 93,
+      "width": 134,
+      "height": 56,
+      "type": "match"
+    }
+  ]
+}

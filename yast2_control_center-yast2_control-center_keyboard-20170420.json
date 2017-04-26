@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_keyboard"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 91,
+      "width": 250,
+      "height": 57,
+      "type": "match"
+    }
+  ]
+}

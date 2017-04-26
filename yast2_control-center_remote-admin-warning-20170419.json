@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_remote-admin-warning"
+  ],
+  "area": [
+    {
+      "xpos": 236,
+      "ypos": 305,
+      "width": 101,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

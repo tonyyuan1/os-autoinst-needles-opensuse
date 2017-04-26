@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 17,
+      "ypos": 90,
+      "width": 283,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_security-center-and-hardening"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 161,
+      "width": 194,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_network-settings"
+  ]
+}

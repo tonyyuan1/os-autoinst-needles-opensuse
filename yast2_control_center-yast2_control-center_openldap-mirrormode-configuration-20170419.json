@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_openldap-mirrormode-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 90,
+      "width": 237,
+      "height": 63,
+      "type": "match"
+    }
+  ]
+}

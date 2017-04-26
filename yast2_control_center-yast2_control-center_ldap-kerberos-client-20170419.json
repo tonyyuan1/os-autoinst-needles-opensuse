@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_ldap-kerberos-client"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 89,
+      "width": 247,
+      "height": 58,
+      "type": "match"
+    }
+  ]
+}
