@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "tianocore-mainmenu"
+  ],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 173,
+      "width": 210,
+      "height": 56,
+      "type": "match"
+    }
+  ]
+}
