@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 214,
+      "width": 213,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "tianocore-boot_maintenance_manager"
+  ]
+}
