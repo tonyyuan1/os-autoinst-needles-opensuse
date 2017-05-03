@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_squid-server-install"
+  ],
+  "area": [
+    {
+      "xpos": 285,
+      "ypos": 324,
+      "width": 53,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

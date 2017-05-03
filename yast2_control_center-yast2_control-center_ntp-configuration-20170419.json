@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_ntp-configuration"
+  ],
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 87,
+      "width": 212,
+      "height": 69,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

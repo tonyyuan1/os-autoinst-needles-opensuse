@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ast2_control-center_install-hypervisor-and-tools"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 86,
+      "width": 258,
+      "height": 68,
+      "type": "match"
+    }
+  ]
+}

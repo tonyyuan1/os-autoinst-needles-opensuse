@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 312,
+      "width": 70,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_openldap-mirrormode-configuration_error"
+  ],
+  "properties": []
+}

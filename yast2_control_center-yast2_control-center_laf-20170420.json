@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_laf"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 89,
+      "width": 291,
+      "height": 54,
+      "type": "match"
+    }
+  ]
+}

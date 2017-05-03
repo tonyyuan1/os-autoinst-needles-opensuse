@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_samba-server_samba-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 59,
+      "ypos": 87,
+      "width": 309,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

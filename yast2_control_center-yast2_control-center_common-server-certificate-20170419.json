@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_common-server-certificate"
+  ],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 229,
+      "width": 258,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

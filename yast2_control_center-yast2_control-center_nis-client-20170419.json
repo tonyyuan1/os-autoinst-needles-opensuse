@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_nis-client"
+  ],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 90,
+      "width": 166,
+      "height": 64,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

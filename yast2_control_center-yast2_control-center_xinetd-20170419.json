@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center_xinetd"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 89,
+      "width": 255,
+      "height": 66,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
