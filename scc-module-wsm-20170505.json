@@ -3,12 +3,14 @@
     {
       "ypos": 311,
       "type": "match",
-      "height": 16,
       "width": 183,
+      "height": 16,
       "xpos": 788
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "scc-module-wsm"
   ]
