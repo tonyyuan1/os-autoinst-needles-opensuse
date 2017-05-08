@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 286,
+      "type": "match",
+      "height": 16,
+      "ypos": 449,
+      "xpos": 443
+    }
+  ],
+  "tags": [
+    "scc-code-field-geo"
+  ],
+  "properties": []
+}
