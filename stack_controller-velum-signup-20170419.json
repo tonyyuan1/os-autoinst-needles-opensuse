@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-signup"
+  ],
+  "area": [
+    {
+      "xpos": 599,
+      "ypos": 301,
+      "width": 298,
+      "height": 250,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

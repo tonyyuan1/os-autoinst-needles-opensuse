@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-certificates-page"
+  ],
+  "area": [
+    {
+      "xpos": 35,
+      "ypos": 364,
+      "width": 288,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
