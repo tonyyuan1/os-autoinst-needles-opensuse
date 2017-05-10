@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "scc-code-field-ltss"
+  ],
+  "area": [
+    {
+      "xpos": 183,
+      "ypos": 465,
+      "width": 264,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 184,
+      "ypos": 481,
+      "width": 266,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
