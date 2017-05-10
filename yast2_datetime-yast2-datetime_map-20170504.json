@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-datetime_map"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 533,
+      "ypos": 198,
+      "width": 45,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}

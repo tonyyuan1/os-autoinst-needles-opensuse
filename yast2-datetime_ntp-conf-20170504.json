@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 573,
+      "ypos": 385,
+      "width": 94,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-datetime_ntp-conf"
+  ]
+}
