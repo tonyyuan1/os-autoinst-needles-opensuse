@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 193,
+      "width": 241,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 275,
+      "width": 292,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-addon-license-idu"
+  ],
+  "properties": []
+}
