@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "inst-slof"
+  ],
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 96,
+      "width": 542,
+      "height": 142,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": []
+}
