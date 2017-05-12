@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "import-trusted-gpg-key-hpc-27FA41BD8A7C64F9",
+    "import-untrusted-gpg-key"
+  ],
+  "area": [
+    {
+      "width": 49,
+      "height": 13,
+      "ypos": 525,
+      "xpos": 640,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 31,
+      "width": 135,
+      "ypos": 334,
+      "xpos": 457
+    },
+    {
+      "xpos": 530,
+      "width": 188,
+      "height": 21,
+      "ypos": 238,
+      "type": "match"
+    }
+  ]
+}
