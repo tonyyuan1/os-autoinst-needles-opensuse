@@ -1,23 +1,23 @@
 {
   "area": [
     {
-      "type": "match",
-      "ypos": 30,
-      "xpos": 214,
+      "width": 84,
+      "xpos": 209,
       "height": 21,
-      "width": 81
+      "type": "match",
+      "ypos": 28
     },
     {
-      "xpos": 25,
-      "height": 18,
-      "width": 96,
+      "ypos": 75,
       "type": "match",
-      "ypos": 95
+      "height": 22,
+      "xpos": 26,
+      "width": 98
     }
   ],
   "tags": [
+    "ENV-FLAVOR-Server-DVD",
     "ENV-OFW-1",
-    "ENV-VERSION-12-SP3",
     "bootloader",
     "bootloader-ofw",
     "grub2"
