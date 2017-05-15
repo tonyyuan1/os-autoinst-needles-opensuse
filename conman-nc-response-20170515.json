@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "nc-response"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "type": "match",
+      "height": 27,
+      "ypos": 739,
+      "width": 219
+    }
+  ],
+  "properties": []
+}
