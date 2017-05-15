@@ -3,7 +3,8 @@
   "tags": [
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
-    "autoyast-boot"
+    "autoyast-boot",
+    "grub2"
   ],
   "area": [
     {

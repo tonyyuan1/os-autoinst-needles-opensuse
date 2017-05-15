@@ -2,6 +2,7 @@
   "properties": [],
   "tags": [
     "autoyast-boot",
+    "grub2",
     "ENV-OFW-1"
   ],
   "area": [

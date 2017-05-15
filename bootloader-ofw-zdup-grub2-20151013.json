@@ -5,7 +5,7 @@
     "ENV-ZDUP-1",
     "bootloader",
     "bootloader-ofw",
-    "inst-bootmenu"
+    "grub2"
   ],
   "area": [
     {

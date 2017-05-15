@@ -20,6 +20,7 @@
     "ENV-FLAVOR-Server-DVD",
     "ENV-OFW-1",
     "bootloader",
-    "bootloader-ofw"
+    "bootloader-ofw",
+    "grub2"
   ]
 }
