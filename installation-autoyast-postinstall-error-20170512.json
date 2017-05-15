@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "autoyast-error",
+    "autoyast-postinstall-error"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 412,
+      "width": 48,
+      "height": 18,
+      "ypos": 333
+    },
+    {
+      "type": "match",
+      "xpos": 13,
+      "height": 42,
+      "width": 81,
+      "ypos": 718
+    },
+    {
+      "xpos": 412,
+      "ypos": 364,
+      "width": 198,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
