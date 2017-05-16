@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 158,
+      "ypos": 208,
+      "width": 151,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 288,
+      "ypos": 62,
+      "width": 215,
+      "height": 114,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sles4sap-wizard-network"
+  ],
+  "properties": []
+}
