@@ -1,15 +1,15 @@
 {
-  "properties": [],
   "area": [
     {
+      "width": 585,
+      "height": 351,
       "type": "match",
-      "height": 345,
       "ypos": 62,
-      "width": 243,
-      "xpos": 357
+      "xpos": 15
     }
   ],
   "tags": [
     "yast-scc-emptypkg"
-  ]
+  ],
+  "properties": []
 }
