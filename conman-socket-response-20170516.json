@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "height": 31,
+      "width": 385,
+      "ypos": 719,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 579,
+      "width": 286,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "socket-response"
+  ]
+}
