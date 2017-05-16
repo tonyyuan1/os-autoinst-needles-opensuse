@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 226,
+      "ypos": 166,
+      "width": 124,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 514,
+      "ypos": 260,
+      "width": 138,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 229,
+      "ypos": 278,
+      "width": 194,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "release-notes-ha"
+  ]
+}
