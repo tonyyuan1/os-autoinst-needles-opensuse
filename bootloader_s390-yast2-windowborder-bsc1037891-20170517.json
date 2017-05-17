@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 14,
+      "width": 38,
+      "ypos": 110,
+      "type": "match",
+      "xpos": 94
+    }
+  ],
+  "tags": [
+    "yast2-windowborder"
+  ]
+}
