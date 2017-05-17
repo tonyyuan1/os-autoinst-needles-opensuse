@@ -1,8 +1,7 @@
 {
   "tags": [
     "ENV-SP2ORLATER-1",
-    "on_host_sles_12_sp2_or_above",
-    "grub2"
+    "on_host_sles_12_sp2_or_above"
   ],
   "area": [
     {
