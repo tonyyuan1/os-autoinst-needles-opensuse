@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 327,
+      "width": 44,
+      "height": 55,
+      "xpos": 296
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-target-LUN-path-selected"
+  ],
+  "properties": []
+}
