@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evince-search-toolbar"
+  ],
+  "area": [
+    {
+      "xpos": 322,
+      "height": 37,
+      "width": 369,
+      "ypos": 50,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
