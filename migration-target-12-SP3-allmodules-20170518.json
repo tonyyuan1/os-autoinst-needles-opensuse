@@ -1,16 +1,35 @@
 {
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "migration-target-12-SP3"
   ],
   "area": [
     {
-      "xpos": 692,
-      "ypos": 439,
-      "width": 51,
-      "height": 19,
+      "xpos": 162,
+      "ypos": 187,
+      "width": 50,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 325,
+      "ypos": 187,
+      "width": 49,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 514,
+      "ypos": 185,
+      "width": 48,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 693,
+      "ypos": 440,
+      "width": 47,
+      "height": 16,
       "type": "match"
     }
   ]
