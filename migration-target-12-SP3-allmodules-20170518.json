@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "migration-target-12-SP3"
+  ],
+  "area": [
+    {
+      "xpos": 692,
+      "ypos": 439,
+      "width": 51,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
