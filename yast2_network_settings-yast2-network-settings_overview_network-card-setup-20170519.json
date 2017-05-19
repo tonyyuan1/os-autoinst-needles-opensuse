@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-network-settings_overview_network-card-setup"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 136,
+      "ypos": 82,
+      "width": 196,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}
