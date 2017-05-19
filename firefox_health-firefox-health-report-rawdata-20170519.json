@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-health-report-rawdata"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 201,
+      "type": "match",
+      "height": 43,
+      "xpos": 359,
+      "width": 118
+    },
+    {
+      "xpos": 88,
+      "ypos": 206,
+      "width": 244,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}
