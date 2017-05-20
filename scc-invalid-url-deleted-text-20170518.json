@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-invalid-url-deleted"
+  ],
+  "area": [
+    {
+      "xpos": 270,
+      "type": "match",
+      "width": 74,
+      "ypos": 396,
+      "height": 39
+    }
+  ],
+  "properties": []
+}
