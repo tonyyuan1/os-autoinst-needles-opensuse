@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "warning-pop-up"
+  ],
+  "area": [
+    {
+      "xpos": 412,
+      "ypos": 410,
+      "width": 104,
+      "height": 57,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 399,
+      "ypos": 332,
+      "width": 224,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-invalid-url"
+  ]
+}
