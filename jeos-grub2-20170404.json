@@ -19,6 +19,7 @@
     "ENV-DESKTOP-textmode",
     "ENV-JEOS-1",
     "ENV-VERSION-12-SP3",
+    "ENV-OFW-0",
     "grub2"
   ],
   "properties": []

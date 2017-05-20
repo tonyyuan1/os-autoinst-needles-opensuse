@@ -3,6 +3,7 @@
   "tags": [
     "ENV-FLAVOR-SAP-DVD",
     "ENV-VERSION-12-SP2",
+    "ENV-OFW-0",
     "bootloader ",
     "grub2"
   ],

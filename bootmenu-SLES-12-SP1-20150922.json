@@ -19,6 +19,7 @@
     "bootloader",
     "ENV-VERSION-12-SP1",
     "ENV-FLAVOR-Server-DVD",
+    "ENV-OFW-0",
     "grub2"
   ],
   "properties": []
