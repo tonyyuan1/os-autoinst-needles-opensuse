@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-network-settings_hostname-dns_set-via-dhcp"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 274,
+      "width": 15,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

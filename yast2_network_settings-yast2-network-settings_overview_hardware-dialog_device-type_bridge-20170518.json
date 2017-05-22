@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-network-settings_overview_hardware-dialog_device-type_bridge"
+  ],
+  "area": [
+    {
+      "xpos": 284,
+      "ypos": 308,
+      "width": 55,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
