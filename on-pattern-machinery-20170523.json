@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 96,
+      "ypos": 599,
+      "height": 22,
+      "width": 59
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-asmm",
+    "pattern-machinery"
+  ],
+  "properties": []
+}

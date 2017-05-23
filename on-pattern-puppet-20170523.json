@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "on-pattern",
+    "pattern-asmm",
+    "pattern-puppet"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 94,
+      "ypos": 601,
+      "height": 18,
+      "width": 46
+    }
+  ]
+}
