@@ -2,6 +2,7 @@
   "properties": [],
   "tags": [
     "ENV-FLAVOR-Desktop-DVD",
+    "ENV-OFW-0",
     "bootloader",
     "grub2"
   ],

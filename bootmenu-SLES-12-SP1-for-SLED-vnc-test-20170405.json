@@ -4,6 +4,7 @@
     "ENV-FLAVOR-Desktop-DVD",
     "ENV-REMOTE_MASTER=vnc",
     "ENV-TEST=remote_vnc_controller_sled",
+    "ENV-OFW-0",
     "bootloader",
     "grub2"
   ],

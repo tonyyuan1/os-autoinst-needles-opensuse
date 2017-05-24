@@ -1,6 +1,7 @@
 {
    "properties" : [],
    "tags" : [
+      "ENV-OFW-0",
       "ENV-FLAVOR-JeOS-for-kvm",
       "bootloader-grub2"
    ],

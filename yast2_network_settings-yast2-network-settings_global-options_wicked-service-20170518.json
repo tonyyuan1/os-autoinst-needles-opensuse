@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 862,
+      "ypos": 217,
+      "width": 15,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-network-settings_global-options_wicked-service"
+  ]
+}
