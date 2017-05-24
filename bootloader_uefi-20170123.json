@@ -18,6 +18,7 @@
   "tags": [
     "ENV-DISTRI-CASP",
     "ENV-UEFI-1",
+    "ENV-OFW-0",
     "bootloader-grub2"
   ],
   "properties": []

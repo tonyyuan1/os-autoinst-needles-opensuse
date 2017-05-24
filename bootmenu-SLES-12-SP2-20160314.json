@@ -12,6 +12,7 @@
   "tags": [
     "ENV-VERSION-12-SP2",
     "ENV-FLAVOR-Server-DVD",
+    "ENV-OFW-0",
     "bootloader",
     "grub2"
   ]

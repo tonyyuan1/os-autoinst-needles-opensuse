@@ -1,6 +1,7 @@
 {
   "tags": [
     "ENV-DISTRI-CASP",
+    "ENV-OFW-0",
     "bootloader",
     "inst-bootmenu"
   ],

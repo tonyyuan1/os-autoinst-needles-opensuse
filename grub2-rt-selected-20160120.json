@@ -17,6 +17,7 @@
     }
   ],
   "tags": [
+    "ENV-OFW-0",
     "grub2-rt-selected"
   ]
 }

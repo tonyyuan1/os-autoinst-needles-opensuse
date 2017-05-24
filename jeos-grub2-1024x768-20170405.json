@@ -1,7 +1,7 @@
 {
   "properties": [],
   "tags": [
-    "ENV-DESKTOP-textmode",
+    "ENV-OFW-0",
     "ENV-JEOS-1",
     "ENV-VERSION-12-SP3",
     "grub2"

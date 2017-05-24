@@ -1,6 +1,7 @@
 {
   "tags": [
     "bootloader",
+    "ENV-OFW-0",
     "inst-bootmenu"
   ],
   "area": [
