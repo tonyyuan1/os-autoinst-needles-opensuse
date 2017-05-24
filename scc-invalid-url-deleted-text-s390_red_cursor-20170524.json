@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-VIDEOMODE-text",
+    "scc-invalid-url-deleted"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 270,
+      "height": 39,
+      "width": 74,
+      "ypos": 396,
+      "type": "match"
+    }
+  ]
+}
