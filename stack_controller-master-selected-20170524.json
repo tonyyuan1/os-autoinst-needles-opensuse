@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-selected"
+  ],
+  "area": [
+    {
+      "xpos": 163,
+      "ypos": 333,
+      "width": 709,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
