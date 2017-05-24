@@ -1,15 +1,15 @@
 {
+  "properties": [],
   "area": [
     {
-      "width": 286,
       "type": "match",
-      "height": 16,
+      "width": 306,
       "ypos": 449,
-      "xpos": 443
+      "xpos": 443,
+      "height": 52
     }
   ],
   "tags": [
     "scc-code-field-geo"
-  ],
-  "properties": []
+  ]
 }
