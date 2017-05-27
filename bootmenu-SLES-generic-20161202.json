@@ -16,7 +16,7 @@
     }
   ],
   "tags": [
-    "ENV-FLAVOR-Server-DVD",
+    "also_used_for_supportserver_in_sled",
     "ENV-OFW-0",
     "bootloader",
     "grub2"
