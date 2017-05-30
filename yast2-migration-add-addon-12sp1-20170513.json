@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-HDDVERSION-12-SP1",
+    "yast2-migration-add-addon"
+  ],
+  "area": [
+    {
+      "ypos": 395,
+      "height": 36,
+      "width": 188,
+      "type": "match",
+      "xpos": 41
+    }
+  ],
+  "properties": []
+}

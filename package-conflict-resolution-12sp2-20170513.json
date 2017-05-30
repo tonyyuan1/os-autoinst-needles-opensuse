@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 131,
+      "ypos": 237,
+      "xpos": 187,
+      "height": 17
+    },
+    {
+      "width": 60,
+      "type": "match",
+      "height": 21,
+      "xpos": 421,
+      "ypos": 133
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-HDDVERSION-12-SP2",
+    "package-conflict-resolution"
+  ]
+}

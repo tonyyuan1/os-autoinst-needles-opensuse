@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 54,
+      "ypos": 400,
+      "width": 209,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-remove-warning"
+  ]
+}

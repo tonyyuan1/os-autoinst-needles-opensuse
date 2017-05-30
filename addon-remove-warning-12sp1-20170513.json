@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 9,
+      "ypos": 397,
+      "height": 31,
+      "width": 225
+    }
+  ],
+  "tags": [
+    "ENV-HDDVERSION-12-SP1",
+    "addon-remove-warning"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 397,
+      "ypos": 82,
+      "width": 212,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast_scc-license-dialog"
+  ]
+}

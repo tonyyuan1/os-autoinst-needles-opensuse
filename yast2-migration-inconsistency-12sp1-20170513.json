@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 536,
+      "height": 47,
+      "ypos": 506,
+      "xpos": 188,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-HDDVERSION-12-SP1",
+    "yast2-migration-inconsistency"
+  ]
+}

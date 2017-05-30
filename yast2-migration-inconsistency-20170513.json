@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 191,
+      "ypos": 506,
+      "width": 533,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-migration-inconsistency"
+  ],
+  "properties": []
+}
