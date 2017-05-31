@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-HDDVERSION-12-SP1",
+    "addon-sdk-selected-to-remove"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 330,
+      "type": "match",
+      "height": 12,
+      "ypos": 174,
+      "xpos": 30
+    }
+  ]
+}

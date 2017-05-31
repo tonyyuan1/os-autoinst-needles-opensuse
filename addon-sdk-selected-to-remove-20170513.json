@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 166,
+      "width": 330,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-sdk-selected-to-remove"
+  ],
+  "properties": []
+}

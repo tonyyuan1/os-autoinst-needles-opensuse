@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 18,
+      "height": 17,
+      "ypos": 270,
+      "xpos": 171,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "radio-button-selected"
+  ]
+}

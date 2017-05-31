@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-HDDVERSION-12-SP1",
+    "yast2-migration-addon-not-installed"
+  ],
+  "area": [
+    {
+      "width": 222,
+      "ypos": 317,
+      "height": 53,
+      "xpos": 300,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

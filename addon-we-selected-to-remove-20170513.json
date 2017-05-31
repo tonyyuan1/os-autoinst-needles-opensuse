@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "addon-we-selected-to-remove"
+  ],
+  "area": [
+    {
+      "xpos": 34,
+      "ypos": 188,
+      "width": 300,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 317,
+      "width": 222,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-migration-addon-not-installed"
+  ]
+}

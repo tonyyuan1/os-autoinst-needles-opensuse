@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "addon-ha-selected-to-remove"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 71,
+      "ypos": 171,
+      "width": 323,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
