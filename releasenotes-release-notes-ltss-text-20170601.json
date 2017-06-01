@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "ENV-VIDEOMODE-text",
+    "release-notes-ltss"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 299,
+      "ypos": 172,
+      "width": 121,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 209,
+      "ypos": 208,
+      "width": 115,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
