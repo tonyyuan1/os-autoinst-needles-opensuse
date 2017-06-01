@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-products"
+  ],
+  "area": [
+    {
+      "ypos": 85,
+      "height": 51,
+      "width": 251,
+      "xpos": 18,
+      "type": "match"
+    }
+  ]
+}
