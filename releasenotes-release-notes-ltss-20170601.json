@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP1",
+    "release-notes-ltss"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 35,
+      "type": "match",
+      "xpos": 254,
+      "width": 118,
+      "height": 32
+    },
+    {
+      "ypos": 84,
+      "xpos": 18,
+      "type": "match",
+      "width": 144,
+      "height": 38
+    }
+  ]
+}
