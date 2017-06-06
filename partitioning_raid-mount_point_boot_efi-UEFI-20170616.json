@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 569,
+      "ypos": 311,
+      "width": 142,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-mount_point_boot_efi"
+  ],
+  "properties": []
+}

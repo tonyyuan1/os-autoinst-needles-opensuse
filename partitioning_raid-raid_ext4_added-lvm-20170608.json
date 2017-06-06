@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "partitioning_raid-raid_ext4_added-lvm"
+  ],
+  "area": [
+    {
+      "width": 55,
+      "type": "match",
+      "xpos": 319,
+      "height": 118,
+      "ypos": 146
+    },
+    {
+      "width": 125,
+      "type": "match",
+      "height": 77,
+      "ypos": 187,
+      "xpos": 517
+    }
+  ]
+}

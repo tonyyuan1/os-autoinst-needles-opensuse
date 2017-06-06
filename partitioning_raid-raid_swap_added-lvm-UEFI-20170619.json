@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 321,
+      "ypos": 183,
+      "width": 123,
+      "height": 79,
+      "type": "match"
+    },
+    {
+      "xpos": 516,
+      "ypos": 185,
+      "width": 127,
+      "height": 77,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-raid_swap_added-lvm-UEFI"
+  ],
+  "properties": []
+}

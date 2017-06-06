@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 311,
+      "width": 108,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-format_fat_UEFI"
+  ],
+  "properties": []
+}

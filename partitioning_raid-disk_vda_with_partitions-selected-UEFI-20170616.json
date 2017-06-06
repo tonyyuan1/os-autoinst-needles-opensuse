@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 85,
+      "xpos": 516,
+      "ypos": 268,
+      "type": "match",
+      "height": 101
+    },
+    {
+      "height": 101,
+      "type": "match",
+      "ypos": 268,
+      "xpos": 324,
+      "width": 55
+    },
+    {
+      "xpos": 67,
+      "ypos": 196,
+      "width": 39,
+      "height": 80,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "partitioning_raid-disk_vda_with_partitions-selected"
+  ],
+  "properties": []
+}
