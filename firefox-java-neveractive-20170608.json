@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 359,
+      "xpos": 598,
+      "width": 165,
+      "height": 39
+    },
+    {
+      "ypos": 353,
+      "type": "match",
+      "xpos": 212,
+      "width": 84,
+      "height": 28
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-java-neveractive"
+  ],
+  "properties": []
+}
