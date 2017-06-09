@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 48,
+      "ypos": 169,
+      "width": 874,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-certificates-ca-info"
+  ]
+}
