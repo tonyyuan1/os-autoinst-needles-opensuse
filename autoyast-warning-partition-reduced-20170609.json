@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "autoyast-known-warning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 335,
+      "xpos": 260,
+      "width": 146,
+      "height": 55
+    },
+    {
+      "ypos": 360,
+      "type": "match",
+      "xpos": 649,
+      "height": 30,
+      "width": 114
+    }
+  ]
+}
