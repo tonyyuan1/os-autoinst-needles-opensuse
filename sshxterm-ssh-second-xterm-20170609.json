@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 209,
+      "width": 170,
+      "xpos": 17,
+      "type": "match",
+      "ypos": 381
+    },
+    {
+      "xpos": 25,
+      "ypos": 394,
+      "width": 134,
+      "height": 40,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BRIDGED_NETWORKING-1",
+    "ssh-second-xterm"
+  ]
+}
