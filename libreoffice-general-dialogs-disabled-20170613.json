@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 48,
+      "width": 207,
+      "ypos": 155,
+      "xpos": 302,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-general-dialogs-disabled"
+  ]
+}
