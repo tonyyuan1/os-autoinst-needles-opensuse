@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oowriter-menus-file"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 37,
+      "height": 396,
+      "width": 244,
+      "type": "match"
+    }
+  ]
+}
