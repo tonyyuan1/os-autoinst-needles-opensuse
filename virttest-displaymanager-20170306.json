@@ -1,23 +1,24 @@
 {
-  "properties": [],
   "area": [
     {
-      "ypos": 173,
       "width": 310,
-      "xpos": 357,
       "height": 58,
+      "ypos": 173,
+      "xpos": 357,
       "type": "match"
     },
     {
-      "ypos": 277,
-      "xpos": 329,
-      "width": 82,
+      "type": "match",
       "height": 54,
-      "type": "match"
+      "width": 82,
+      "ypos": 277,
+      "xpos": 329
     }
   ],
+  "properties": [],
   "tags": [
     "displaymanager-sle11",
-    "reboot-after-installation"
+    "reboot-after-installation",
+    "virttest-displaymanager"
   ]
 }
