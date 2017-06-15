@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 300,
+      "height": 10,
+      "xpos": 72,
+      "ypos": 195,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-HDDVERSION-12-SP2",
+    "addon-we-selected-to-remove"
+  ]
+}
