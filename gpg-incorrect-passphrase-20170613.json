@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gpg-incorrect-passphrase"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 601,
+      "ypos": 397,
+      "width": 174,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
