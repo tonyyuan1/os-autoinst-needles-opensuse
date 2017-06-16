@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 240,
+      "xpos": 234,
+      "width": 144,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "warning-pop-up"
+  ]
+}
