@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-TEXTMODE-1",
+    "scc-beta-filter-checkbox"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 68,
+      "width": 170,
+      "height": 10,
+      "type": "match",
+      "match": 80
+    }
+  ]
+}
