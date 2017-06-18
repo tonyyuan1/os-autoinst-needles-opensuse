@@ -1,15 +1,17 @@
 {
+  "tags": [
+    "sles4sap_wizard-welcome"
+  ],
   "area": [
     {
-      "xpos": 186,
-      "ypos": 19,
-      "width": 139,
-      "height": 36,
+      "xpos": 177,
+      "ypos": 16,
+      "width": 152,
+      "height": 45,
       "type": "match"
     }
   ],
-  "properties": [],
-  "tags": [
-    "sles4sap_wizard_welcome"
+  "properties": [
+    "workaround"
   ]
 }
