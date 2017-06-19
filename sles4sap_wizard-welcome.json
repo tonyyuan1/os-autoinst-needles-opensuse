@@ -1,17 +1,22 @@
 {
-  "tags": [
-    "sles4sap_wizard-welcome"
-  ],
+  "properties": [],
   "area": [
     {
-      "xpos": 177,
-      "ypos": 16,
-      "width": 152,
-      "height": 45,
+      "xpos": 181,
+      "ypos": 21,
+      "width": 146,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 738,
+      "ypos": 709,
+      "width": 278,
+      "height": 53,
       "type": "match"
     }
   ],
-  "properties": [
-    "workaround"
+  "tags": [
+    "sles4sap_installation_wizard_welcome"
   ]
 }
