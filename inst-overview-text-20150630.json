@@ -21,6 +21,7 @@
     "installation",
     "inst-returned-to-yast",
     "inst-overview",
-    "before-package-selection"
+    "before-package-selection",
+    "installation-settings-overview-loaded"
   ]
 }
