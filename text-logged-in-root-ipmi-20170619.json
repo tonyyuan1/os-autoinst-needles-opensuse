@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 281,
+      "ypos": 145,
+      "width": 32,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "text-logged-in-root"
+  ]
+}
