@@ -3,14 +3,21 @@
     "qa-net-selection",
     "qa-net-selection-ipmitool"
   ],
-  "properties": [],
   "area": [
     {
+      "height": 48,
+      "width": 250,
       "xpos": 91,
       "ypos": 14,
-      "width": 250,
-      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 71,
+      "ypos": 12,
+      "width": 17,
+      "height": 218,
       "type": "match"
     }
-  ]
+  ],
+  "properties": []
 }
