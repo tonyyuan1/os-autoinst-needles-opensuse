@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 198,
+      "width": 294,
+      "height": 54,
+      "type": "match"
+    },
+    {
+      "xpos": 940,
+      "ypos": 722,
+      "width": 68,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VER-12-SP1",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": []
+}
