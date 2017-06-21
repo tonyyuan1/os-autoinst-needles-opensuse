@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-skip-reg-warning-yes"
+  ],
+  "area": [
+    {
+      "ypos": 391,
+      "xpos": 290,
+      "height": 60,
+      "width": 279,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
