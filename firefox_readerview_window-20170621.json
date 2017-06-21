@@ -1,18 +1,25 @@
 {
   "area": [
     {
-      "height": 98,
-      "ypos": 110,
-      "xpos": 249,
       "type": "match",
-      "width": 286
+      "width": 286,
+      "xpos": 251,
+      "height": 94,
+      "ypos": 111
     },
     {
-      "width": 31,
-      "type": "match",
-      "xpos": 535,
-      "ypos": 111,
-      "height": 22
+      "ypos": 112,
+      "height": 22,
+      "xpos": 540,
+      "width": 19,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "width": 262,
+      "xpos": 7,
+      "height": 56,
+      "ypos": 26
     }
   ],
   "tags": [
