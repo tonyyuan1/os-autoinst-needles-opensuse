@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "on-pattern",
+    "pattern-xenserver"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 203,
+      "height": 21,
+      "ypos": 556,
+      "xpos": 352,
+      "type": "match"
+    }
+  ]
+}
