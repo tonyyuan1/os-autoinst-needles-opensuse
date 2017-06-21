@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 13,
+      "width": 206,
+      "ypos": 5,
+      "xpos": 17
+    },
+    {
+      "height": 13,
+      "width": 203,
+      "xpos": 67,
+      "ypos": 176,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-xen-pattern"
+  ]
+}
