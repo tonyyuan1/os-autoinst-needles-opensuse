@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox_readerview_window"
+  ],
+  "area": [
+    {
+      "xpos": 251,
+      "height": 94,
+      "ypos": 111,
+      "width": 286,
+      "type": "match"
+    },
+    {
+      "xpos": 540,
+      "ypos": 112,
+      "height": 22,
+      "width": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 7,
+      "height": 56,
+      "ypos": 26,
+      "type": "exclude",
+      "width": 262
+    }
+  ]
+}
