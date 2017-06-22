@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 399,
+      "xpos": 16,
+      "ypos": 87,
+      "height": 70
+    }
+  ],
+  "tags": [
+    "ENV-HDDVERSION-12-SP1",
+    "addon-yast2-patterns"
+  ],
+  "properties": []
+}
