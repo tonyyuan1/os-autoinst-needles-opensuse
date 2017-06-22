@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-html5test"
+  ],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 34,
+      "height": 71,
+      "type": "match",
+      "width": 595
+    },
+    {
+      "xpos": 103,
+      "height": 37,
+      "ypos": 310,
+      "type": "match",
+      "width": 254
+    },
+    {
+      "ypos": 310,
+      "height": 38,
+      "xpos": 548,
+      "type": "match",
+      "width": 206
+    }
+  ]
+}
