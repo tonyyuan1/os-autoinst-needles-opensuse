@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-OFW-0",
+    "ENV-VERSION-12-SP3",
+    "ENV-VIDEOMODE-text",
+    "bootloader",
+    "grub2"
+  ],
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 49,
+      "height": 34,
+      "width": 109,
+      "type": "match"
+    }
+  ]
+}
