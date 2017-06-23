@@ -1,9 +1,4 @@
 {
-  "properties": [],
-  "tags": [
-    "ENV-DISTRI-CASP",
-    "velum-select-nodes"
-  ],
   "area": [
     {
       "xpos": 39,
@@ -12,5 +7,10 @@
       "height": 44,
       "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "select-all-nodes"
   ]
 }
