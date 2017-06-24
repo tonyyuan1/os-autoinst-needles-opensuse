@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 226,
+      "ypos": 701,
+      "height": 19,
+      "xpos": 88
+    },
+    {
+      "ypos": 747,
+      "height": 21,
+      "xpos": 88,
+      "type": "match",
+      "width": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-system-login-console",
+    "linux-login",
+    "reboot-after-installation"
+  ]
+}
