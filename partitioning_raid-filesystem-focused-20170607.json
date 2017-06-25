@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 73,
+      "xpos": 353,
+      "width": 49,
+      "ypos": 343,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-filesystem-focused"
+  ]
+}

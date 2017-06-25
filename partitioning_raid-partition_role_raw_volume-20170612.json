@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 436,
+      "ypos": 447,
+      "width": 162,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-partition_role_raw_volume"
+  ],
+  "properties": []
+}
