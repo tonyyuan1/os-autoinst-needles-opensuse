@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oobase-launched"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 262,
+      "ypos": 4,
+      "height": 26,
+      "xpos": 380
+    },
+    {
+      "type": "match",
+      "width": 402,
+      "xpos": 14,
+      "ypos": 132,
+      "height": 99
+    }
+  ]
+}
