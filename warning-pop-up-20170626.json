@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "warning-pop-up"
+  ],
+  "area": [
+    {
+      "xpos": 258,
+      "ypos": 346,
+      "width": 69,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 479,
+      "ypos": 414,
+      "width": 66,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

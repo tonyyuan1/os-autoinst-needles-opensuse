@@ -1,6 +1,7 @@
 {
   "tags": [
-    "autoyast-known-warning"
+    "autoyast-known-warning",
+    "warning-partition-reduced"
   ],
   "properties": [],
   "area": [
