@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 848,
+      "ypos": 370,
+      "width": 118,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "select-all-nodes"
+  ],
+  "properties": []
+}
