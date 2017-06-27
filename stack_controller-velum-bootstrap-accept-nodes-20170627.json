@@ -10,7 +10,7 @@
   ],
   "tags": [
     "ENV-DISTRI-CASP",
-    "select-all-nodes"
+    "velum-bootstrap-accept-nodes"
   ],
   "properties": []
 }
