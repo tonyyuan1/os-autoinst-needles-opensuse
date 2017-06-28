@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-ssl-connection_untrusted",
+    "firefox-ssl-untrusted"
+  ],
+  "area": [
+    {
+      "width": 159,
+      "height": 24,
+      "type": "match",
+      "ypos": 42,
+      "xpos": 23
+    },
+    {
+      "xpos": 32,
+      "type": "match",
+      "ypos": 291,
+      "height": 61,
+      "width": 590
+    }
+  ]
+}
