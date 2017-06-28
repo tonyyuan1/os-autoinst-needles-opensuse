@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 309,
+      "type": "match",
+      "xpos": 168,
+      "width": 126,
+      "height": 83
+    }
+  ],
+  "tags": [
+    "partitioning_raid-devices_second_partition"
+  ]
+}
