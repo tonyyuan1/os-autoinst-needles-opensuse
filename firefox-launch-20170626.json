@@ -6,17 +6,17 @@
   ],
   "area": [
     {
-      "type": "match",
-      "width": 517,
       "height": 28,
-      "ypos": 87,
-      "xpos": 145
+      "width": 202,
+      "xpos": 68,
+      "type": "match",
+      "ypos": 88
     },
     {
       "height": 40,
-      "ypos": 480,
-      "xpos": 330,
       "width": 346,
+      "xpos": 253,
+      "ypos": 481,
       "type": "match"
     }
   ]
