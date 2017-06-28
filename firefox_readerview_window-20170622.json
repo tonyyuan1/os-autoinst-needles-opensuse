@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "firefox_readerview_window"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 113,
+      "height": 97,
+      "xpos": 250,
+      "width": 288
+    },
+    {
+      "xpos": 539,
+      "width": 19,
+      "ypos": 110,
+      "type": "match",
+      "height": 22
+    },
+    {
+      "width": 262,
+      "xpos": 5,
+      "height": 56,
+      "ypos": 24,
+      "type": "exclude"
+    }
+  ]
+}

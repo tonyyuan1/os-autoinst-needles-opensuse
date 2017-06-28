@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-help-menu"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 52,
+      "width": 247,
+      "xpos": 344,
+      "ypos": 41
+    }
+  ],
+  "properties": []
+}
