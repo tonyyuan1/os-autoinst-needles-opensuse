@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 183,
+      "type": "match",
+      "ypos": 160,
+      "height": 49,
+      "xpos": 662
+    },
+    {
+      "ypos": 412,
+      "type": "match",
+      "width": 96,
+      "xpos": 744,
+      "height": 134
+    },
+    {
+      "ypos": 423,
+      "type": "match",
+      "width": 74,
+      "xpos": 183,
+      "height": 124
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-specific-dialogs"
+  ]
+}
