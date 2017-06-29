@@ -1,6 +1,7 @@
 {
   "tags": [
-    "partitioning_raid-hard_disks-unfolded"
+    "partitioning_raid-hard_disks-unfolded",
+    "ENV-SP2ORLATER-0"
   ],
   "area": [
     {

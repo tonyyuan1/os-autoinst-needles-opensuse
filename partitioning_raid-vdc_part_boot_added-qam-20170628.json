@@ -1,6 +1,7 @@
 {
   "tags": [
-    "partitioning_raid-part_boot_added"
+    "partitioning_raid-part_boot_added",
+    "ENV-SP2ORLATER-0"
   ],
   "area": [
     {

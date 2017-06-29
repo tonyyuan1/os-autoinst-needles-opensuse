@@ -1,6 +1,7 @@
 {
   "tags": [
-    "partitioning_raid-raid_swap_added"
+    "partitioning_raid-raid_swap_added",
+    "ENV-SP2ORLATER-0"
   ],
   "properties": [],
   "area": [

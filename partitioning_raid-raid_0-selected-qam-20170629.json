@@ -1,6 +1,7 @@
 {
   "tags": [
-    "partitioning_raid-raid_0-selected"
+    "partitioning_raid-raid_0-selected",
+    "ENV-SP2ORLATER-0"
   ],
   "area": [
     {

@@ -10,6 +10,7 @@
     }
   ],
   "tags": [
-    "partitioning_raid-raid-selected"
+    "partitioning_raid-raid-selected",
+    "ENV-SP2ORLATER-0"
   ]
 }
