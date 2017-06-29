@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partitioning_raid-disk_vdc-selected"
+  ],
+  "area": [
+    {
+      "xpos": 68,
+      "width": 39,
+      "type": "match",
+      "ypos": 192,
+      "height": 73
+    }
+  ],
+  "properties": []
+}

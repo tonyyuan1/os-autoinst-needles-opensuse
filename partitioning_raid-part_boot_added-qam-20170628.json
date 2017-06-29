@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "partitioning_raid-part_boot_added"
+  ],
+  "area": [
+    {
+      "xpos": 324,
+      "width": 135,
+      "type": "match",
+      "ypos": 260,
+      "height": 63
+    },
+    {
+      "ypos": 260,
+      "height": 64,
+      "xpos": 534,
+      "width": 91,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
