@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "import-trusted-gpg-key-phub-9C214D4065176565",
+    "import-untrusted-gpg-key"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 669,
+      "height": 13,
+      "type": "match",
+      "ypos": 549,
+      "width": 49
+    },
+    {
+      "width": 135,
+      "type": "match",
+      "ypos": 359,
+      "height": 31,
+      "xpos": 447
+    },
+    {
+      "height": 21,
+      "xpos": 554,
+      "width": 182,
+      "ypos": 214,
+      "type": "match"
+    }
+  ]
+}
