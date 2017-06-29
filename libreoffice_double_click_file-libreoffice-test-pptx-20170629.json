@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-test-pptx"
+  ],
+  "area": [
+    {
+      "xpos": 399,
+      "height": 26,
+      "width": 225,
+      "ypos": 5,
+      "type": "match"
+    },
+    {
+      "xpos": 307,
+      "height": 147,
+      "ypos": 341,
+      "type": "match",
+      "width": 270
+    },
+    {
+      "width": 134,
+      "ypos": 207,
+      "type": "match",
+      "xpos": 32,
+      "height": 102
+    }
+  ],
+  "properties": []
+}
