@@ -1,6 +1,7 @@
 {
   "tags": [
-    "partitioning_raid-disk_vdd-selected"
+    "partitioning_raid-disk_vdd-selected",
+    "ENV-SP2ORLATER-0"
   ],
   "properties": [],
   "area": [

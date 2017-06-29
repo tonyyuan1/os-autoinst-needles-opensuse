@@ -17,6 +17,7 @@
   ],
   "properties": [],
   "tags": [
-    "partitioning_raid-raid_ext4_added"
+    "partitioning_raid-raid_ext4_added",
+    "ENV-SP2ORLATER-0"
   ]
 }

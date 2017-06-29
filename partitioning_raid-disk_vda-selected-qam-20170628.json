@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "partitioning_raid-disk_vda-selected"
+    "partitioning_raid-disk_vda-selected",
+    "ENV-SP2ORLATER-0"
   ]
 }
