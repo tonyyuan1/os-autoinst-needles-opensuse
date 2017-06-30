@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 441,
+      "ypos": 51,
+      "width": 137,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooimpress-select-a-template",
+    "ENV-SP2ORLATER-1"
+  ]
+}
