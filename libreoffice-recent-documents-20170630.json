@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "height": 23,
+      "ypos": 140,
+      "type": "match",
+      "width": 192
+    },
+    {
+      "height": 44,
+      "xpos": 446,
+      "type": "match",
+      "ypos": 3,
+      "width": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-recent-documents"
+  ]
+}
