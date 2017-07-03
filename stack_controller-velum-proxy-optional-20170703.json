@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-proxy-optional"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 847,
+      "ypos": 515,
+      "width": 121,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}
