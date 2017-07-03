@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ooimpress-launched"
+  ],
+  "area": [
+    {
+      "ypos": 6,
+      "xpos": 397,
+      "type": "match",
+      "width": 228,
+      "height": 26
+    },
+    {
+      "xpos": 7,
+      "type": "match",
+      "width": 181,
+      "height": 111,
+      "ypos": 45
+    }
+  ],
+  "properties": []
+}
