@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-bootstrap"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 823,
+      "width": 138,
+      "height": 36,
+      "ypos": 519
+    }
+  ]
+}
