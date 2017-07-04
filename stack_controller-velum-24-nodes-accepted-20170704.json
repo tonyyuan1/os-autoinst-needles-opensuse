@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-24-nodes-accepted"
+  ],
+  "area": [
+    {
+      "width": 114,
+      "height": 16,
+      "ypos": 238,
+      "xpos": 51,
+      "type": "match"
+    }
+  ]
+}
