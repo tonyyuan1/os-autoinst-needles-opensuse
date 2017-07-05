@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-confirm-fips_enabled"
+  ],
+  "area": [
+    {
+      "xpos": 285,
+      "ypos": 722,
+      "type": "match",
+      "height": 18,
+      "width": 192
+    },
+    {
+      "type": "match",
+      "width": 243,
+      "height": 19,
+      "xpos": 65,
+      "ypos": 259
+    },
+    {
+      "xpos": 806,
+      "ypos": 391,
+      "width": 168,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}
