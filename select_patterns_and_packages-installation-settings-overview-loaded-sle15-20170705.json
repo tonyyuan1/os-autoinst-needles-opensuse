@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "height": 53,
+      "width": 307,
+      "ypos": 180,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "installation-settings-overview-loaded",
+    "inst-overview-after-depfix"
+  ],
+  "properties": []
+}

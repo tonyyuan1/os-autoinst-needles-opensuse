@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "width": 78,
+      "xpos": 376,
+      "type": "match",
+      "ypos": 558
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VERSION-15",
+    "ok-button"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "sle-15-unsupported-packages"
+  ],
+  "area": [
+    {
+      "xpos": 156,
+      "ypos": 97,
+      "width": 143,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 340,
+      "ypos": 558,
+      "width": 59,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
