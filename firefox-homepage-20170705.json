@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 43,
+      "xpos": 10,
+      "height": 52,
+      "width": 212,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-homepage"
+  ]
+}
