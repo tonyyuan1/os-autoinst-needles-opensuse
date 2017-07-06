@@ -1,0 +1,34 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "installation",
+    "inst-returned-to-yast",
+    "inst-overview",
+    "before-package-selection",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 44,
+      "xpos": 0,
+      "ypos": 21,
+      "width": 581
+    },
+    {
+      "height": 34,
+      "type": "match",
+      "ypos": 709,
+      "xpos": 920,
+      "width": 94
+    },
+    {
+      "xpos": 854,
+      "ypos": 29,
+      "width": 151,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
