@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 719,
+      "type": "match",
+      "width": 314,
+      "height": 16,
+      "xpos": 1
+    },
+    {
+      "width": 274,
+      "height": 16,
+      "ypos": 752,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "mrlogin"
+  ],
+  "properties": []
+}
