@@ -1,26 +1,27 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "ypos": 20,
-      "xpos": 5,
-      "width": 1019,
-      "height": 725,
-      "type": "match"
-    },
-    {
-      "xpos": 24,
-      "ypos": 226,
-      "width": 437,
-      "height": 39,
-      "type": "exclude"
-    }
-  ],
   "tags": [
     "ENV-VIDEOMODE-text",
-    "installation",
-    "inst-returned-to-yast",
+    "before-package-selection",
     "inst-overview",
-    "before-package-selection"
-  ]
+    "inst-returned-to-yast",
+    "installation",
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 725,
+      "width": 1019,
+      "xpos": 5,
+      "ypos": 20
+    },
+    {
+      "height": 39,
+      "type": "exclude",
+      "width": 437,
+      "ypos": 226,
+      "xpos": 24
+    }
+  ],
+  "properties": []
 }
