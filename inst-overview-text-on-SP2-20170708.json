@@ -1,0 +1,26 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 20,
+      "xpos": 5,
+      "width": 1019,
+      "height": 725,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 226,
+      "width": 437,
+      "height": 39,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "installation",
+    "inst-returned-to-yast",
+    "inst-overview",
+    "before-package-selection"
+  ]
+}
