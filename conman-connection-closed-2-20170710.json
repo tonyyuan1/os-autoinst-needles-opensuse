@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "connection-closed"
+  ],
+  "area": [
+    {
+      "ypos": 688,
+      "xpos": 329,
+      "width": 56,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "height": 26,
+      "type": "match",
+      "width": 155,
+      "ypos": 674,
+      "xpos": 0
+    }
+  ],
+  "properties": []
+}
