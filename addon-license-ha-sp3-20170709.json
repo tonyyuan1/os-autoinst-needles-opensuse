@@ -1,22 +1,36 @@
 {
-  "area": [
-    {
-      "height": 16,
-      "type": "match",
-      "width": 476,
-      "ypos": 179,
-      "xpos": 383
-    },
-    {
-      "xpos": 106,
-      "ypos": 190,
-      "width": 114,
-      "height": 40,
-      "type": "match"
-    }
-  ],
   "tags": [
     "addon-license-ha"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 35,
+      "width": 114,
+      "xpos": 105,
+      "ypos": 191
+    },
+    {
+      "width": 476,
+      "ypos": 179,
+      "xpos": 383,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 197,
+      "ypos": 234,
+      "width": 123,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 127,
+      "ypos": 275,
+      "width": 194,
+      "height": 29,
+      "type": "match"
+    }
   ],
   "properties": []
 }
