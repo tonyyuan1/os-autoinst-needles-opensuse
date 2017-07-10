@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 329,
+      "width": 528,
+      "xpos": 242,
+      "ypos": 225
+    }
+  ],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "reboot-auth"
+  ]
+}
