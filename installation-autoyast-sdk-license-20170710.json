@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "autoyast-license"
+  ],
+  "area": [
+    {
+      "xpos": 149,
+      "ypos": 273,
+      "width": 167,
+      "type": "match",
+      "height": 28
+    },
+    {
+      "height": 17,
+      "type": "match",
+      "width": 177,
+      "ypos": 697,
+      "xpos": 372
+    },
+    {
+      "height": 13,
+      "type": "match",
+      "width": 365,
+      "ypos": 180,
+      "xpos": 383
+    }
+  ],
+  "properties": []
+}
