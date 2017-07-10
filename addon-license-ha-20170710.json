@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 35,
+      "xpos": 317,
+      "ypos": 725,
+      "width": 591
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "ypos": 177,
+      "xpos": 383,
+      "width": 476
+    }
+  ],
+  "tags": [
+    "addon-license-ha"
+  ],
+  "properties": []
+}
