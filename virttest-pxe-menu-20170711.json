@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 30,
+      "type": "match",
+      "width": 235,
+      "xpos": 163,
+      "height": 21
+    }
+  ],
+  "tags": [
+    "virttest-pxe-menu"
+  ]
+}
