@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-ssl-untrusted-advanced"
+  ],
+  "area": [
+    {
+      "xpos": 781,
+      "ypos": 471,
+      "width": 84,
+      "height": 24,
+      "type": "match"
+    }
+  ]
+}
