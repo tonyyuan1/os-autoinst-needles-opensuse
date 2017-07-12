@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 351,
+      "width": 1018,
+      "height": 353,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "syscontainer-repos"
+  ]
+}
