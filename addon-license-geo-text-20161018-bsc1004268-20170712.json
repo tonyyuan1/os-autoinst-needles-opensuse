@@ -1,0 +1,33 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 16,
+      "type": "match",
+      "ypos": 32,
+      "width": 315,
+      "xpos": 15
+    },
+    {
+      "xpos": 34,
+      "width": 558,
+      "ypos": 102,
+      "type": "match",
+      "height": 72
+    },
+    {
+      "width": 116,
+      "xpos": 40,
+      "type": "exclude",
+      "ypos": 128,
+      "height": 15
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-license-geo"
+  ]
+}
