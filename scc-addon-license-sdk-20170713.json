@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "scc-addon-license-sdk"
+  ],
+  "area": [
+    {
+      "width": 252,
+      "height": 26,
+      "ypos": 312,
+      "type": "match",
+      "xpos": 28
+    },
+    {
+      "type": "match",
+      "xpos": 383,
+      "ypos": 179,
+      "height": 29,
+      "width": 367
+    }
+  ],
+  "properties": []
+}
