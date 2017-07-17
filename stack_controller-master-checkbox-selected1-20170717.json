@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-checkbox-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 896,
+      "type": "match",
+      "ypos": 367,
+      "width": 19,
+      "height": 19
+    }
+  ]
+}
