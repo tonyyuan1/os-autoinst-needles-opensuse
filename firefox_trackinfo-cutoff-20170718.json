@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "firefox_trackinfo"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 80,
+      "xpos": 1,
+      "type": "match",
+      "height": 254,
+      "width": 78
+    },
+    {
+      "ypos": 114,
+      "xpos": 59,
+      "type": "match",
+      "height": 18,
+      "width": 19
+    },
+    {
+      "height": 55,
+      "width": 1008,
+      "type": "exclude",
+      "xpos": 8,
+      "ypos": 8
+    }
+  ]
+}
