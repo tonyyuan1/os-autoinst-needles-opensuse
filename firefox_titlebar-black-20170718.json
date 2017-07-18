@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 51,
+      "xpos": 655,
+      "type": "match",
+      "width": 127,
+      "height": 39
+    }
+  ],
+  "tags": [
+    "firefox_titlebar"
+  ]
+}
