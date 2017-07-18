@@ -2,6 +2,7 @@
   "tags": [
     "ENV-UEFI-1",
     "ENV-OFW-0",
+    "inst-bootmenu",
     "bootloader-grub2"
   ],
   "area": [
