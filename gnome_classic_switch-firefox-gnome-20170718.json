@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 54,
+      "width": 109,
+      "type": "match",
+      "xpos": 2,
+      "ypos": 111
+    },
+    {
+      "height": 64,
+      "width": 332,
+      "xpos": 5,
+      "type": "match",
+      "ypos": 36
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-gnome"
+  ]
+}
