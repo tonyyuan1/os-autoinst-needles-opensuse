@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_tftp_anon_create_dir_disabled"
+  ],
+  "area": [
+    {
+      "xpos": 345,
+      "ypos": 194,
+      "width": 287,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
