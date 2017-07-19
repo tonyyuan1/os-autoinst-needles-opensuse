@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 29,
+      "ypos": 339,
+      "width": 123,
+      "xpos": 345
+    }
+  ],
+  "tags": [
+    "yast2_proxy_store_log_dir_empty"
+  ]
+}

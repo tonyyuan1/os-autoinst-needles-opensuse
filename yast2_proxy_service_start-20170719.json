@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 242,
+      "type": "match",
+      "height": 12,
+      "width": 101,
+      "xpos": 346
+    },
+    {
+      "width": 125,
+      "xpos": 346,
+      "ypos": 257,
+      "type": "match",
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_proxy_service_start"
+  ]
+}
