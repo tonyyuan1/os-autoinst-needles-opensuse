@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-extensions-flagfox"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 86,
+      "ypos": 264,
+      "xpos": 309,
+      "height": 32
+    }
+  ]
+}

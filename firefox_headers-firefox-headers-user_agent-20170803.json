@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 301,
+      "xpos": 561,
+      "ypos": 623,
+      "height": 67
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-headers-user_agent"
+  ]
+}

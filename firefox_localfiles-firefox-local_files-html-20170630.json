@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 316,
+      "ypos": 73,
+      "type": "match",
+      "height": 29,
+      "xpos": 58
+    },
+    {
+      "width": 198,
+      "type": "match",
+      "height": 36,
+      "xpos": 6,
+      "ypos": 193
+    }
+  ],
+  "tags": [
+    "firefox-local_files-html"
+  ]
+}

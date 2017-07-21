@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 223,
+      "ypos": 42,
+      "xpos": 796,
+      "height": 63
+    }
+  ],
+  "tags": [
+    "firefox-appearance-installed"
+  ]
+}

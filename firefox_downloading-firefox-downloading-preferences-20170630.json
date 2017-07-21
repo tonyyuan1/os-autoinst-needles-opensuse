@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 140,
+      "type": "match",
+      "xpos": 207,
+      "height": 44,
+      "ypos": 147
+    },
+    {
+      "xpos": 11,
+      "height": 33,
+      "type": "match",
+      "ypos": 150,
+      "width": 34
+    }
+  ],
+  "tags": [
+    "firefox-downloading-preferences"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-flashplayer-dropped"
+  ],
+  "area": [
+    {
+      "xpos": 512,
+      "ypos": 101,
+      "width": 286,
+      "height": 181,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

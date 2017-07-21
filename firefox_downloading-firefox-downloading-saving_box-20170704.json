@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-downloading-saving_box"
+  ],
+  "area": [
+    {
+      "width": 286,
+      "type": "match",
+      "height": 38,
+      "xpos": 295,
+      "ypos": 10
+    }
+  ],
+  "properties": []
+}

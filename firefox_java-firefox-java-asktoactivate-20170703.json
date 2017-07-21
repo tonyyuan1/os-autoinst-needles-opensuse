@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-java-asktoactivate"
+  ],
+  "area": [
+    {
+      "width": 150,
+      "type": "match",
+      "height": 26,
+      "ypos": 282,
+      "xpos": 811
+    }
+  ],
+  "properties": []
+}

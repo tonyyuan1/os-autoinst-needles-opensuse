@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-extensions-show_flag"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 20,
+      "xpos": 520,
+      "ypos": 77,
+      "width": 75,
+      "type": "match"
+    }
+  ]
+}

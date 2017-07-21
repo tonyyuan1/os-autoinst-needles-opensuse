@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-pagesaving-load"
+  ],
+  "area": [
+    {
+      "width": 22,
+      "ypos": 93,
+      "height": 21,
+      "xpos": 71,
+      "type": "match"
+    },
+    {
+      "width": 184,
+      "height": 20,
+      "xpos": 125,
+      "type": "match",
+      "ypos": 127
+    }
+  ]
+}

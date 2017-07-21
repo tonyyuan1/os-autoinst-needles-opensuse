@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-urls_protocols-https"
+  ],
+  "area": [
+    {
+      "height": 31,
+      "ypos": 71,
+      "xpos": 5,
+      "width": 191,
+      "type": "match"
+    },
+    {
+      "height": 63,
+      "xpos": 242,
+      "ypos": 418,
+      "width": 67,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

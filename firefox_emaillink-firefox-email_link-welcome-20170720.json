@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-email_link-welcome"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 154,
+      "xpos": 351,
+      "height": 22,
+      "ypos": 329
+    },
+    {
+      "ypos": 7,
+      "height": 35,
+      "type": "match",
+      "width": 114,
+      "xpos": 557
+    }
+  ]
+}

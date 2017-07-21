@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 39,
+      "xpos": 62,
+      "ypos": 142,
+      "width": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 515,
+      "ypos": 291,
+      "height": 38,
+      "type": "match",
+      "width": 156
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-rss-page"
+  ]
+}

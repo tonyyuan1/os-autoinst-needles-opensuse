@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 15,
+      "xpos": 586,
+      "ypos": 384,
+      "height": 16
+    }
+  ],
+  "tags": [
+    "firefox-rss-close_hint"
+  ]
+}
