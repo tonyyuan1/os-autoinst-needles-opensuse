@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 370,
+      "height": 30,
+      "type": "match",
+      "width": 167,
+      "xpos": 322
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_proxy_admin_email_empty"
+  ]
+}
