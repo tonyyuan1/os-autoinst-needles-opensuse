@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 417,
+      "ypos": 85,
+      "width": 348,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 438,
+      "ypos": 599,
+      "width": 43,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_firewall_custom-rules-loaded"
+  ]
+}
