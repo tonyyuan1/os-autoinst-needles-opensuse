@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 94,
+      "xpos": 18,
+      "width": 33,
+      "height": 18
+    },
+    {
+      "xpos": 25,
+      "width": 83,
+      "ypos": 8,
+      "type": "match",
+      "height": 26
+    },
+    {
+      "xpos": 76,
+      "ypos": 96,
+      "width": 253,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "virttest-bootmenu-xen-kernel"
+  ]
+}
