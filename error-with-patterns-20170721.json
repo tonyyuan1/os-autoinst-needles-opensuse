@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 385,
+      "ypos": 309,
+      "width": 217,
+      "height": 149,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "error-with-patterns"
+  ]
+}

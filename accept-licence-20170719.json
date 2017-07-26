@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "accept-licence"
+  ],
+  "area": [
+    {
+      "xpos": 270,
+      "ypos": 484,
+      "width": 222,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 358,
+      "ypos": 520,
+      "width": 289,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

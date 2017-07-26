@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 200,
+      "ypos": 92,
+      "width": 137,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "automatic-changes"
+  ]
+}
