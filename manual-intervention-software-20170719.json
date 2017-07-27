@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "manual-intervention-software"
+  ],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 120,
+      "width": 406,
+      "height": 52,
+      "type": "match"
+    }
+  ]
+}
