@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 605,
+      "width": 150,
+      "height": 41,
+      "ypos": 407,
+      "type": "match"
+    },
+    {
+      "xpos": 497,
+      "ypos": 109,
+      "width": 52,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "install-from-iso-wrong-hdd",
+    "partitioning-edit-proposal-button"
+  ]
+}
