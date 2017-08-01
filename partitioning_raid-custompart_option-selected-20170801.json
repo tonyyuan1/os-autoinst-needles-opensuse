@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-15",
+    "custompart_option-selected"
+  ],
+  "area": [
+    {
+      "width": 125,
+      "xpos": 419,
+      "ypos": 460,
+      "type": "match",
+      "height": 10
+    }
+  ],
+  "properties": []
+}
