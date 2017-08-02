@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15",
+    "inst-partition-radio-buttons"
+  ],
+  "area": [
+    {
+      "height": 68,
+      "xpos": 409,
+      "ypos": 212,
+      "width": 38,
+      "type": "match"
+    },
+    {
+      "ypos": 219,
+      "width": 14,
+      "xpos": 388,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

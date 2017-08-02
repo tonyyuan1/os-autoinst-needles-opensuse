@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 29,
+      "width": 593,
+      "ypos": 90,
+      "height": 46
+    },
+    {
+      "height": 34,
+      "xpos": 102,
+      "ypos": 147,
+      "width": 145,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "pattern_selector"
+  ],
+  "properties": []
+}

@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 137,
+      "xpos": 413,
+      "ypos": 326,
+      "width": 197,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-15",
+    "inst-userpasswdtoosimple"
+  ]
+}

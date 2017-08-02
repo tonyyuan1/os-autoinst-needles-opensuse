@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 35,
+      "type": "match",
+      "width": 960,
+      "ypos": 143,
+      "height": 470
+    },
+    {
+      "type": "match",
+      "xpos": 772,
+      "height": 46,
+      "ypos": 716,
+      "width": 233
+    },
+    {
+      "height": 36,
+      "ypos": 89,
+      "width": 320,
+      "xpos": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
