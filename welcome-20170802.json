@@ -1,0 +1,27 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-15",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "ypos": 104,
+      "height": 55,
+      "width": 105,
+      "type": "match",
+      "xpos": 349
+    },
+    {
+      "type": "match",
+      "xpos": 24,
+      "ypos": 193,
+      "height": 123,
+      "width": 300
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 466,
+      "ypos": 256,
+      "width": 89,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 446,
+      "ypos": 503,
+      "width": 43,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 340,
+      "ypos": 291,
+      "width": 111,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "sle-15-unsigned-file",
+    "workaround_no_checksum_found"
+  ]
+}
