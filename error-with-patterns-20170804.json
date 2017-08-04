@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 337,
+      "width": 135,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 312,
+      "ypos": 371,
+      "width": 217,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 500,
+      "ypos": 401,
+      "width": 24,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "error-with-patterns"
+  ]
+}

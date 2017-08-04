@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 81,
+      "width": 35,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "addon-list-selected"
+  ]
+}
