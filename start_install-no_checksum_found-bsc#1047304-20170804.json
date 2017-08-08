@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "xpos": 441,
+      "width": 137,
+      "ypos": 270
+    },
+    {
+      "xpos": 473,
+      "ypos": 480,
+      "width": 38,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 160,
+      "ypos": 307,
+      "width": 162,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "workaround_no_checksum_found"
+  ],
+  "properties": []
+}

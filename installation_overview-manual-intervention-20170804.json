@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-15",
+    "manual-intervention"
+  ],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 111,
+      "width": 587,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

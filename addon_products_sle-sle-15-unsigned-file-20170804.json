@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "sle-15-unsigned-file"
+  ],
+  "area": [
+    {
+      "xpos": 453,
+      "ypos": 258,
+      "width": 118,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 233,
+      "ypos": 287,
+      "width": 141,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 462,
+      "ypos": 477,
+      "width": 44,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

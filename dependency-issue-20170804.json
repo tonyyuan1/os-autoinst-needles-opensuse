@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VERSION-15",
+    "dependency-issue"
+  ],
+  "area": [
+    {
+      "xpos": 431,
+      "ypos": 79,
+      "width": 162,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "ypos": 641,
+      "width": 132,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 42,
+      "ypos": 111,
+      "width": 65,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

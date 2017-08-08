@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15",
+    "sle-15-failed-to-select-pattern"
+  ],
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 336,
+      "width": 131,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 493,
+      "ypos": 398,
+      "width": 35,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 311,
+      "ypos": 371,
+      "width": 217,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
