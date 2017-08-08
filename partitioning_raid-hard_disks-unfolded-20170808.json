@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-15",
+    "partitioning_raid-hard_disks-unfolded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 85,
+      "xpos": 351,
+      "ypos": 205,
+      "width": 19
+    }
+  ]
+}
