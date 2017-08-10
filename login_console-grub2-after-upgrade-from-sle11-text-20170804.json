@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "type": "match",
+      "xpos": 219,
+      "ypos": 9,
+      "width": 83
+    },
+    {
+      "xpos": 17,
+      "ypos": 64,
+      "width": 39,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-VIDEOMODE-text",
+    "grub2"
+  ],
+  "properties": []
+}
