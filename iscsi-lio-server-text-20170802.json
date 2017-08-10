@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 29,
+      "width": 134,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-lio-server"
+  ]
+}
