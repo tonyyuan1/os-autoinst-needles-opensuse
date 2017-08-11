@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "reboot-after-installation",
+    "autoyast-system-login-console",
+    "linux-login",
+    "ENV-BACKEND-ipmi"
+  ],
+  "area": [
+    {
+      "height": 13,
+      "ypos": 705,
+      "type": "match",
+      "xpos": 85,
+      "width": 258
+    },
+    {
+      "ypos": 754,
+      "type": "match",
+      "width": 61,
+      "xpos": 67,
+      "height": 12
+    }
+  ],
+  "properties": []
+}
