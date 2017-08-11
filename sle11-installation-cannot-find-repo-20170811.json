@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "ypos": 319,
+      "width": 116,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 367,
+      "ypos": 350,
+      "width": 259,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-DISTRI-sle",
+    "scc-invalid-url"
+  ]
+}
