@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "grub1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 12,
+      "width": 68,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 63,
+      "width": 226,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
