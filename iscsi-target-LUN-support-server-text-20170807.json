@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "width": 129,
+      "height": 16,
+      "ypos": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 384,
+      "width": 40,
+      "height": 32,
+      "ypos": 353,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-LUN-support-server"
+  ]
+}
