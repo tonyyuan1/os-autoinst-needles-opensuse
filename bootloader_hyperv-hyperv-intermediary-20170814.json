@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "hyperv-intermediary"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 80,
+      "width": 240,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
