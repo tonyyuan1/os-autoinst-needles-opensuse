@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 226,
+      "xpos": 394,
+      "height": 114,
+      "ypos": 352,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-role"
+  ]
+}
