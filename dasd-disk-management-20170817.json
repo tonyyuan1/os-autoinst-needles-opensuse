@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dasd-disk-management"
+  ],
+  "area": [
+    {
+      "height": 55,
+      "width": 123,
+      "ypos": 88,
+      "type": "match",
+      "xpos": 354
+    }
+  ],
+  "properties": []
+}
