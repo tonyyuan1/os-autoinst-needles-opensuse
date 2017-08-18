@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "scc-skip-reg-warning-ok"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 40,
+      "xpos": 470,
+      "type": "match",
+      "ypos": 434,
+      "width": 85
+    }
+  ]
+}
