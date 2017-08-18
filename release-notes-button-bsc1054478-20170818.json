@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 727,
+      "width": 178,
+      "height": 28,
+      "xpos": 29
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "release-notes-button"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
