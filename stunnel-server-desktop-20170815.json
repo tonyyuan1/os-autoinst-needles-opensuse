@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "stunnel-server-desktop"
+  ],
+  "area": [
+    {
+      "xpos": 241,
+      "ypos": 4,
+      "type": "match",
+      "width": 777,
+      "height": 712
+    }
+  ]
+}

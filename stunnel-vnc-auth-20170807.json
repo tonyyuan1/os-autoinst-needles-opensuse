@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "stunnel-vnc-auth"
+  ],
+  "area": [
+    {
+      "xpos": 78,
+      "ypos": 370,
+      "width": 110,
+      "height": 110,
+      "type": "match"
+    }
+  ]
+}
