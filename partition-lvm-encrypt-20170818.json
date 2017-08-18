@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 320,
+      "height": 113,
+      "width": 152,
+      "ypos": 423,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-lvm-encrypt"
+  ],
+  "properties": []
+}
