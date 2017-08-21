@@ -2,15 +2,15 @@
   "properties": [],
   "area": [
     {
-      "height": 218,
+      "height": 122,
       "width": 51,
-      "ypos": 222,
-      "type": "match",
-      "xpos": 167
+      "xpos": 61,
+      "ypos": 402,
+      "type": "match"
     }
   ],
   "tags": [
     "ENV-DISTRI-CASP",
-    "velum-botstrap-done"
+    "velum-bootstrap-done"
   ]
 }
