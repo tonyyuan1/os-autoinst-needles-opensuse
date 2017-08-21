@@ -10,7 +10,8 @@
   ],
   "tags": [
     "ENV-SP2ORLATER-1",
-    "release-notes-button"
+    "release-notes-button",
+    "bsc#1054478"
   ],
   "properties": [
     "workaround"
