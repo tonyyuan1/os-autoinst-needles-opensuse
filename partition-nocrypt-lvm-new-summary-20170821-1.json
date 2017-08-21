@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "ypos": 149,
+      "width": 151,
+      "xpos": 416,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "partition-lvm-new-summary"
+  ]
+}
