@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "select-product"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 27,
+      "width": 150,
+      "height": 27,
+      "type": "match",
+      "xpos": 11
+    },
+    {
+      "ypos": 334,
+      "width": 147,
+      "height": 14,
+      "type": "match",
+      "xpos": 21
+    },
+    {
+      "xpos": 59,
+      "type": "match",
+      "ypos": 353,
+      "width": 230,
+      "height": 12
+    },
+    {
+      "ypos": 386,
+      "width": 197,
+      "height": 12,
+      "type": "match",
+      "xpos": 61
+    },
+    {
+      "type": "match",
+      "xpos": 949,
+      "width": 55,
+      "ypos": 715,
+      "height": 22
+    }
+  ]
+}
