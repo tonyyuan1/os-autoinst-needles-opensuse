@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-disk_vdb-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 79,
+      "ypos": 196,
+      "width": 19,
+      "type": "match",
+      "xpos": 85
+    }
+  ]
+}
