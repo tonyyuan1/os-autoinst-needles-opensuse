@@ -1,0 +1,33 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "GNOME",
+    "desktop-sle-classic",
+    "generic-desktop",
+    "x11"
+  ],
+  "area": [
+    {
+      "height": 697,
+      "ypos": 36,
+      "width": 605,
+      "type": "match",
+      "xpos": 401
+    },
+    {
+      "xpos": 4,
+      "ypos": 8,
+      "width": 120,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 943,
+      "ypos": 3,
+      "width": 79,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
