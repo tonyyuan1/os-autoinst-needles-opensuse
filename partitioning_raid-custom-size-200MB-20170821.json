@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-custom-size-200MB"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 436,
+      "type": "match",
+      "width": 90,
+      "ypos": 329,
+      "height": 63
+    }
+  ]
+}
