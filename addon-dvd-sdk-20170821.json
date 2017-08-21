@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 478,
+      "type": "match",
+      "ypos": 362,
+      "width": 54,
+      "height": 28
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-dvd-sdk",
+    "addon-dvd-sr1"
+  ],
+  "properties": []
+}
