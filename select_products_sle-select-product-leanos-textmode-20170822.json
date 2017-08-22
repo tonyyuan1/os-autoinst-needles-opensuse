@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "select-product-leanos"
+  ],
+  "area": [
+    {
+      "ypos": 383,
+      "height": 15,
+      "type": "match",
+      "width": 222,
+      "xpos": 35
+    }
+  ]
+}
