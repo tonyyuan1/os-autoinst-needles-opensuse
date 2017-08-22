@@ -8,7 +8,9 @@
       "xpos": 34
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "boot-menu-snapshot"
   ]
