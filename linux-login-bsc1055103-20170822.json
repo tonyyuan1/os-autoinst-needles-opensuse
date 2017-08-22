@@ -1,5 +1,7 @@
 {
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "linux-login"
   ],
