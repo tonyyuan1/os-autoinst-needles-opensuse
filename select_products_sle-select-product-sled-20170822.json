@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "select-product-sled"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 372,
+      "ypos": 407,
+      "width": 177,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
