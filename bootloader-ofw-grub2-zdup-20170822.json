@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "width": 632,
+      "ypos": 17,
+      "height": 217,
+      "type": "match",
+      "xpos": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-OFW-1",
+    "ENV-ZDUP-1",
+    "bootloader",
+    "bootloader-ofw",
+    "grub2"
+  ]
+}
