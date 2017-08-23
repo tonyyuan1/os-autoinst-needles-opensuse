@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 74,
+      "ypos": 312,
+      "width": 108,
+      "xpos": 320,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-format_fat_UEFI"
+  ]
+}
