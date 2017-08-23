@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-filesystem_ext4"
+  ],
+  "area": [
+    {
+      "ypos": 344,
+      "width": 137,
+      "height": 71,
+      "type": "match",
+      "xpos": 355
+    }
+  ]
+}
