@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-part_root_added"
+  ],
+  "area": [
+    {
+      "height": 92,
+      "width": 122,
+      "ypos": 256,
+      "xpos": 324,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 519,
+      "height": 94,
+      "width": 87,
+      "ypos": 257
+    }
+  ]
+}
