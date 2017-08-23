@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-devices_second_partition"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 151,
+      "type": "match",
+      "height": 93,
+      "width": 129,
+      "ypos": 304
+    }
+  ]
+}
