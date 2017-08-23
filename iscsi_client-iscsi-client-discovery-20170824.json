@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-client-discovery"
+  ],
+  "area": [
+    {
+      "height": 18,
+      "xpos": 17,
+      "width": 202,
+      "ypos": 31,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 231,
+      "width": 489,
+      "xpos": 258,
+      "ypos": 249
+    }
+  ],
+  "properties": []
+}

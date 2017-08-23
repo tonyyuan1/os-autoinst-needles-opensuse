@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 168,
+      "xpos": 0,
+      "height": 32,
+      "ypos": 96,
+      "type": "match"
+    },
+    {
+      "height": 14,
+      "xpos": 8,
+      "width": 89,
+      "type": "match",
+      "ypos": 208
+    },
+    {
+      "type": "match",
+      "ypos": 209,
+      "height": 14,
+      "xpos": 318,
+      "width": 59
+    }
+  ],
+  "tags": [
+    "ha-crm-mon-sbd-started"
+  ]
+}

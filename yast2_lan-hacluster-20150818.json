@@ -1,6 +1,6 @@
 {
   "tags": [
-    "ENV-HACLUSTER",
+    "ENV-HA_CLUSTER",
     "yast2_lan"
   ],
   "properties": [],
