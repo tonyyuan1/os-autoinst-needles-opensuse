@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-filesystem-focused"
+  ],
+  "area": [
+    {
+      "xpos": 342,
+      "type": "match",
+      "width": 49,
+      "ypos": 351,
+      "height": 73
+    }
+  ]
+}
