@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-mount_point-focused"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 72,
+      "width": 46,
+      "ypos": 344,
+      "type": "match",
+      "xpos": 538
+    }
+  ]
+}
