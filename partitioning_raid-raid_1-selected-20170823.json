@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-raid_1-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 115,
+      "ypos": 175,
+      "height": 11,
+      "xpos": 37,
+      "type": "match"
+    }
+  ]
+}
