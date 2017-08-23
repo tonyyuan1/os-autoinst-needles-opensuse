@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 316,
+      "height": 85,
+      "width": 61,
+      "ypos": 144
+    },
+    {
+      "ypos": 99,
+      "width": 253,
+      "height": 25,
+      "type": "match",
+      "xpos": 31
+    },
+    {
+      "type": "match",
+      "xpos": 509,
+      "height": 50,
+      "ypos": 177,
+      "width": 130
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-raid_btrfs_added"
+  ],
+  "properties": []
+}
