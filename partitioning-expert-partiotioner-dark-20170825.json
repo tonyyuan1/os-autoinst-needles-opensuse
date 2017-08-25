@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 670,
+      "height": 18,
+      "xpos": 630,
+      "type": "match",
+      "width": 102
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "partitioning-edit-proposal-button"
+  ]
+}
