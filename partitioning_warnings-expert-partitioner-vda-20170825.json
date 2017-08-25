@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 145,
+      "xpos": 313,
+      "type": "match",
+      "height": 21,
+      "width": 151
+    },
+    {
+      "height": 10,
+      "type": "match",
+      "xpos": 87,
+      "ypos": 217,
+      "width": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "expert-partitioner-vda",
+    "storage-ng"
+  ]
+}

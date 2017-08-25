@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "createpartsetup",
+    "custompart"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 491,
+      "ypos": 329,
+      "width": 337,
+      "height": 187,
+      "type": "match"
+    },
+    {
+      "xpos": 46,
+      "ypos": 168,
+      "width": 66,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
