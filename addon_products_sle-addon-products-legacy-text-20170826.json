@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 85,
+      "width": 47,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15",
+    "ENV-VIDEOMODE-text",
+    "addon-products-legacy"
+  ]
+}
