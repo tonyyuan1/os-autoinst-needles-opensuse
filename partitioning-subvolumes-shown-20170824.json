@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 417,
+      "ypos": 165,
+      "width": 94,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning-subvolumes-shown"
+  ]
+}
