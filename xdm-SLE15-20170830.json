@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-minimalx",
+    "displaymanager",
+    "reboot-after-installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 312,
+      "width": 477,
+      "ypos": 263,
+      "type": "match",
+      "height": 95
+    }
+  ]
+}
