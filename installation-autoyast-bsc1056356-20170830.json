@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 420,
+      "ypos": 339,
+      "width": 57,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 420,
+      "ypos": 369,
+      "width": 119,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 451,
+      "ypos": 428,
+      "width": 33,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "bsc#1056356",
+    "warning-pop-up"
+  ]
+}
