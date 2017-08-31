@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 327,
+      "ypos": 32,
+      "width": 135,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 953,
+      "ypos": 721,
+      "width": 45,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 15,
+      "ypos": 706,
+      "width": 264,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "license-agreement"
+  ]
+}
