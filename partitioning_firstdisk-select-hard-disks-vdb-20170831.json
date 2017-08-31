@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "hard-disk-dev-sdb-selected",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 10,
+      "type": "match",
+      "xpos": 574,
+      "width": 68,
+      "ypos": 425
+    }
+  ]
+}
