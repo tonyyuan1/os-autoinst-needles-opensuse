@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "xpos": 216,
+      "ypos": 249,
+      "width": 268,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 214,
+      "ypos": 220,
+      "width": 32,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 219,
+      "ypos": 321,
+      "width": 228,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 489,
+      "ypos": 556,
+      "width": 44,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-betawarning",
+    "installation"
+  ]
+}
