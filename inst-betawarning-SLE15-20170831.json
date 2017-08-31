@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 122,
+      "type": "match",
+      "ypos": 247,
+      "width": 414,
+      "xpos": 217
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-betawarning",
+    "installation"
+  ]
+}
