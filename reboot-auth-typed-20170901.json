@@ -1,17 +1,17 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "type": "match",
-      "width": 98,
-      "ypos": 500,
-      "xpos": 584,
-      "height": 25
-    }
-  ],
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-SP2ORLATER-1",
     "reboot-auth-typed"
-  ]
+  ],
+  "area": [
+    {
+      "ypos": 509,
+      "width": 73,
+      "xpos": 600,
+      "type": "match",
+      "height": 13
+    }
+  ],
+  "properties": []
 }
