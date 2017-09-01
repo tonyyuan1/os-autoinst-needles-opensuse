@@ -4,14 +4,14 @@
     "ENV-SP2ORLATER-1",
     "reboot-auth-showtext"
   ],
-  "properties": [],
   "area": [
     {
+      "height": 22,
       "type": "match",
       "width": 82,
       "ypos": 499,
-      "xpos": 507,
-      "height": 22
+      "xpos": 507
     }
-  ]
+  ],
+  "properties": []
 }
