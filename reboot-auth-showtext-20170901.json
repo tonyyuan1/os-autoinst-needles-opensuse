@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "reboot-auth-showtext"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 82,
+      "ypos": 499,
+      "xpos": 507,
+      "height": 22
+    }
+  ]
+}
