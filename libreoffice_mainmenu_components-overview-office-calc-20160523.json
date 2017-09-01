@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 324,
-      "ypos": 39,
-      "width": 377,
-      "height": 220,
-      "type": "match"
-    }
-  ],
-  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "overview-office-calc"
-  ]
+  ],
+  "area": [
+    {
+      "height": 55,
+      "xpos": 396,
+      "ypos": 150,
+      "type": "match",
+      "width": 59
+    }
+  ],
+  "properties": []
 }
