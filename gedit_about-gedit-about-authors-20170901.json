@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 393,
+      "ypos": 425,
+      "width": 70,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gedit-about-authors"
+  ]
+}

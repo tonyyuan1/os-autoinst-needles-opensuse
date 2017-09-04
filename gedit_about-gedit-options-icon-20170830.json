@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "gedit-options-icon"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 860,
+      "ypos": 9,
+      "width": 27,
+      "height": 28,
+      "type": "match"
+    }
+  ]
+}
