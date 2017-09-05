@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 153,
+      "width": 99,
+      "xpos": 740,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15",
+    "addon-products-serverapp"
+  ]
+}

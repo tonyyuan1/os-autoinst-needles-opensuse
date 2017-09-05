@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oowriter-menus-file-recentDocuments"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 107,
+      "height": 22,
+      "xpos": 265,
+      "ypos": 140
+    }
+  ],
+  "properties": []
+}

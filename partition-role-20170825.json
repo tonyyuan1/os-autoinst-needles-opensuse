@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-role",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 226,
+      "type": "match",
+      "height": 114,
+      "ypos": 364,
+      "xpos": 394
+    }
+  ]
+}

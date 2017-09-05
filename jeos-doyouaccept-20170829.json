@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 335,
+      "height": 68,
+      "type": "match",
+      "width": 211,
+      "xpos": 395
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-MS-HyperV",
+    "jeos-doyouaccept"
+  ],
+  "properties": []
+}

@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "expert-partitioner-unpartitioned",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 144,
+      "width": 86,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 316,
+      "ypos": 210,
+      "width": 36,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 618,
+      "ypos": 213,
+      "width": 82,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 971,
+      "ypos": 211,
+      "width": 35,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 324,
+      "ypos": 283,
+      "width": 33,
+      "height": 376,
+      "type": "match"
+    }
+  ]
+}

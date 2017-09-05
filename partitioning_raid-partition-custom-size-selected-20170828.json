@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-custom-size-selected",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 401,
+      "ypos": 336,
+      "width": 87,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}

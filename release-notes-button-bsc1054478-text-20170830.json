@@ -1,0 +1,20 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 516,
+      "ypos": 9,
+      "width": 504,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "bsc#1054478",
+    "release-notes-button"
+  ]
+}

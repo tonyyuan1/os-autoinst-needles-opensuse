@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "ENV-VERSION-15",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "ypos": 350,
+      "width": 105,
+      "xpos": 12,
+      "type": "match",
+      "height": 55
+    },
+    {
+      "type": "match",
+      "width": 334,
+      "ypos": 28,
+      "xpos": 8,
+      "height": 60
+    },
+    {
+      "xpos": 944,
+      "ypos": 709,
+      "width": 62,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

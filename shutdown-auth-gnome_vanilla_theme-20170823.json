@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP2ORLATER-1",
+    "shutdown-auth"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 270,
+      "width": 489,
+      "ypos": 347,
+      "height": 195
+    },
+    {
+      "height": 25,
+      "width": 182,
+      "ypos": 252,
+      "type": "match",
+      "xpos": 365
+    }
+  ]
+}

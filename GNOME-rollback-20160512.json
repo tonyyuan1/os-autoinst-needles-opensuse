@@ -1,4 +1,13 @@
 {
+  "area": [
+    {
+      "xpos": 0,
+      "height": 741,
+      "ypos": 4,
+      "width": 1024,
+      "type": "match"
+    }
+  ],
   "tags": [
     "ENV-BOOT_TO_SNAPSHOT-1",
     "ENV-DESKTOP-gnome",
@@ -9,16 +18,5 @@
     "generic-desktop",
     "test-consoletest_finish-1"
   ],
-  "area": [
-    {
-      "width": 1024,
-      "xpos": 0,
-      "type": "match",
-      "height": 741,
-      "ypos": 4
-    }
-  ],
-  "properties": [
-    "workaround"
-  ]
+  "properties": []
 }

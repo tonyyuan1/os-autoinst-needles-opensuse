@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "partitioning-edit-proposal-button",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "width": 109,
+      "type": "match",
+      "xpos": 457,
+      "height": 11,
+      "ypos": 674
+    }
+  ]
+}

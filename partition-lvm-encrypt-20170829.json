@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 113,
+      "type": "match",
+      "xpos": 281,
+      "width": 152,
+      "ypos": 429
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-lvm-encrypt",
+    "storage-ng"
+  ],
+  "properties": []
+}

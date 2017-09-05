@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "edit-proposal-settings",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 642,
+      "ypos": 630,
+      "height": 21,
+      "type": "match",
+      "width": 77
+    }
+  ]
+}

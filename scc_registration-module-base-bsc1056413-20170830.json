@@ -1,0 +1,17 @@
+{
+  "properties": [
+      "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 182,
+      "height": 14,
+      "xpos": 360,
+      "type": "match",
+      "width": 121
+    }
+  ],
+  "tags": [
+    "scc-module-base"
+  ]
+}
