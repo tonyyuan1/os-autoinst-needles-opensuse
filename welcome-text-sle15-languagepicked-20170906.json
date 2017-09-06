@@ -1,0 +1,27 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 10,
+      "ypos": 33,
+      "width": 136,
+      "xpos": 18,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 15,
+      "width": 65,
+      "height": 32,
+      "ypos": 305
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}
