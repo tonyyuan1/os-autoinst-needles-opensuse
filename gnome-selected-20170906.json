@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnome-selected"
+  ],
+  "area": [
+    {
+      "ypos": 279,
+      "height": 29,
+      "width": 226,
+      "type": "match",
+      "xpos": 36
+    }
+  ],
+  "properties": []
+}
