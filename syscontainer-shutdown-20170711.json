@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "syscontainer-shutdown"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 671,
+      "width": 390,
+      "height": 96,
+      "type": "match"
+    }
+  ]
+}

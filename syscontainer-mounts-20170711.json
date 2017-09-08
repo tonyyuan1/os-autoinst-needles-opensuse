@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "syscontainer-mounts"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 1,
+      "width": 1021,
+      "ypos": 175,
+      "height": 589
+    }
+  ]
+}
