@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "install-susefirewall2"
+  ],
+  "area": [
+    {
+      "xpos": 364,
+      "ypos": 322,
+      "width": 99,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
