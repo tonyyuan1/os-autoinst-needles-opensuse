@@ -11,7 +11,7 @@
   "properties": [],
   "tags": [
     "ENV-ARCH-aarch64",
-    "ENV-HACLUSTER",
+    "ENV-HA_CLUSTER",
     "yast2_lan"
   ]
 }

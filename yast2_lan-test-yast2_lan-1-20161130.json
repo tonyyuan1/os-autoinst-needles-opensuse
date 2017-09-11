@@ -10,7 +10,7 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-HACLUSTER",
+    "ENV-HA_CLUSTER",
     "test-yast2_lan-1"
   ]
 }
