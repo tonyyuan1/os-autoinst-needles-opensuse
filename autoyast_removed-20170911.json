@@ -1,0 +1,43 @@
+{
+  "properties": [],
+  "tags": [
+    "autoyast_removed"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 275,
+      "height": 48,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 81,
+      "width": 192,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 561,
+      "width": 172,
+      "height": 129,
+      "type": "match"
+    },
+    {
+      "xpos": 894,
+      "ypos": 704,
+      "width": 118,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 352,
+      "width": 130,
+      "height": 146,
+      "type": "match"
+    }
+  ]
+}
