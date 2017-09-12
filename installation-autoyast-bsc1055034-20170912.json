@@ -1,0 +1,26 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "bsc#1055034",
+    "warning-pop-up"
+  ],
+  "area": [
+    {
+      "xpos": 340,
+      "ypos": 334,
+      "width": 338,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 450,
+      "ypos": 459,
+      "width": 36,
+      "height": 24,
+      "type": "match"
+    }
+  ]
+}
