@@ -1,28 +1,30 @@
 {
   "area": [
     {
-      "xpos": 434,
-      "width": 57,
       "type": "match",
       "height": 15,
-      "ypos": 350
+      "ypos": 254,
+      "width": 57,
+      "xpos": 274
     },
     {
+      "xpos": 455,
+      "width": 119,
       "type": "match",
       "height": 11,
-      "ypos": 380,
-      "width": 119,
-      "xpos": 434
+      "ypos": 289
     },
     {
-      "ypos": 417,
-      "height": 17,
+      "width": 33,
+      "xpos": 451,
       "type": "match",
-      "xpos": 495,
-      "width": 33
+      "height": 17,
+      "ypos": 513
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "ENV-15ORLATER-1",
     "bsc#1056356",
