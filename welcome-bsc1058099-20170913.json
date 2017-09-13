@@ -1,0 +1,39 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "no-product-found-on-scc"
+  ],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 334,
+      "width": 44,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "ypos": 364,
+      "width": 216,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 364,
+      "ypos": 390,
+      "width": 253,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 490,
+      "ypos": 432,
+      "width": 40,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
