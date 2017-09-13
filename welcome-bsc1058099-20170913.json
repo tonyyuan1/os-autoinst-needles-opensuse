@@ -1,39 +1,46 @@
 {
-  "properties": [
-    "workaround"
-  ],
   "tags": [
     "ENV-15ORLATER-1",
     "no-product-found-on-scc"
   ],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
-      "xpos": 357,
       "ypos": 334,
-      "width": 44,
       "height": 21,
-      "type": "match"
+      "type": "match",
+      "width": 44,
+      "xpos": 355
     },
     {
-      "xpos": 360,
-      "ypos": 364,
+      "xpos": 358,
       "width": 216,
-      "height": 17,
-      "type": "match"
+      "ypos": 364,
+      "type": "match",
+      "height": 17
     },
     {
-      "xpos": 364,
       "ypos": 390,
-      "width": 253,
       "height": 17,
-      "type": "match"
+      "type": "match",
+      "xpos": 362,
+      "width": 253
     },
     {
-      "xpos": 490,
       "ypos": 432,
-      "width": 40,
+      "type": "match",
       "height": 15,
-      "type": "match"
+      "xpos": 490,
+      "width": 40
+    },
+    {
+      "xpos": 501,
+      "ypos": 376,
+      "width": 25,
+      "height": 32,
+      "type": "exclude"
     }
   ]
 }
