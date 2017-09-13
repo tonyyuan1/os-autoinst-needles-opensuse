@@ -1,0 +1,48 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "ypos": 334,
+      "xpos": 357,
+      "width": 44
+    },
+    {
+      "ypos": 364,
+      "height": 17,
+      "type": "match",
+      "xpos": 360,
+      "width": 216,
+      "match": 78
+    },
+    {
+      "height": 17,
+      "type": "match",
+      "ypos": 390,
+      "xpos": 364,
+      "width": 235,
+      "match": 70
+    },
+    {
+      "xpos": 490,
+      "width": 40,
+      "height": 15,
+      "type": "match",
+      "ypos": 432
+    },
+    {
+      "xpos": 501,
+      "width": 25,
+      "ypos": 376,
+      "height": 32,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "no-product-found-on-scc"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
