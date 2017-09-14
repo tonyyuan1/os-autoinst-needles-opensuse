@@ -1,18 +1,16 @@
 {
+  "properties": [],
   "tags": [
     "bsc#1056413",
     "modules-preselected-sles"
   ],
-  "properties": [
-    "workaround"
-  ],
   "area": [
     {
-      "xpos": 34,
-      "ypos": 80,
-      "width": 321,
+      "ypos": 112,
       "height": 16,
-      "type": "match"
+      "type": "match",
+      "xpos": 34,
+      "width": 169
     }
   ]
 }
