@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "type": "match",
+      "ypos": 32,
+      "width": 318,
+      "xpos": 16
+    },
+    {
+      "xpos": 15,
+      "width": 264,
+      "ypos": 706,
+      "type": "match",
+      "height": 11
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-ARCH-s390x",
+    "license-agreement"
+  ]
+}
