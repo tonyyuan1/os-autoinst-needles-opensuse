@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "scc-module-serverapp"
+  ],
+  "area": [
+    {
+      "height": 10,
+      "ypos": 749,
+      "type": "match",
+      "xpos": 256,
+      "width": 156
+    },
+    {
+      "xpos": 68,
+      "ypos": 196,
+      "width": 240,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
