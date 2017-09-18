@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 80,
+      "ypos": 0,
+      "width": 572,
+      "xpos": 0
+    },
+    {
+      "width": 28,
+      "xpos": 266,
+      "type": "exclude",
+      "height": 20,
+      "ypos": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "emergency-shell"
+  ]
+}
