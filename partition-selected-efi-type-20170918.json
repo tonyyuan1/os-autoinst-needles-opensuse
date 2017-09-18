@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "partition-selected-efi-type"
+  ],
+  "area": [
+    {
+      "height": 56,
+      "type": "match",
+      "ypos": 453,
+      "width": 109,
+      "xpos": 321
+    }
+  ]
+}
