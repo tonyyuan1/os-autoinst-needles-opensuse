@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-next"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 38,
+      "width": 60,
+      "ypos": 563,
+      "xpos": 924
+    }
+  ],
+  "properties": []
+}

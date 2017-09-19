@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "create-an-account"
+  ],
+  "area": [
+    {
+      "xpos": 218,
+      "ypos": 470,
+      "width": 143,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "oci-overview"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 463,
+      "ypos": 22,
+      "width": 589,
+      "xpos": 10
+    }
+  ]
+}

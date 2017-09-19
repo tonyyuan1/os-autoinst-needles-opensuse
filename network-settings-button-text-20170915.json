@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 89,
+      "xpos": 471,
+      "ypos": 419,
+      "height": 73,
+      "type": "match"
+    },
+    {
+      "xpos": 798,
+      "ypos": 50,
+      "width": 215,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "network-settings-button"
+  ]
+}

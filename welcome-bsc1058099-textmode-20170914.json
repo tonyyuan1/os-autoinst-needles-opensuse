@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "ypos": 753,
+      "type": "match",
+      "height": 15,
+      "width": 40,
+      "xpos": 490
+    },
+    {
+      "xpos": 296,
+      "ypos": 339,
+      "width": 320,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 296,
+      "ypos": 384,
+      "width": 253,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 497,
+      "ypos": 414,
+      "width": 32,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "no-product-found-on-scc"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "installation-settings-overview-loaded"
+  ],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 21,
+      "width": 182,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 74,
+      "width": 330,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 901,
+      "ypos": 704,
+      "width": 113,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

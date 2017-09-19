@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-sw_shows_summary"
+  ],
+  "area": [
+    {
+      "height": 176,
+      "type": "match",
+      "ypos": 26,
+      "width": 916,
+      "xpos": 11
+    }
+  ]
+}

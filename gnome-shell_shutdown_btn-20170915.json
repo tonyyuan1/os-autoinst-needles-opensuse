@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 594,
+      "ypos": 487,
+      "width": 177,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome-shell_shutdown_btn"
+  ],
+  "properties": []
+}

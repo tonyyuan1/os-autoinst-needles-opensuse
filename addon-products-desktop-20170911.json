@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 261,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 456,
+      "ypos": 95,
+      "width": 168,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-products-desktop"
+  ]
+}
