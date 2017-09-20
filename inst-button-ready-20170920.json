@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 719,
+      "height": 17,
+      "type": "match",
+      "width": 73,
+      "xpos": 928
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "inst-button-ready",
+    "inst-overview-options"
+  ]
+}
