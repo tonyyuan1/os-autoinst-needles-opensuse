@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox_clean"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 113,
+      "xpos": 507,
+      "type": "match",
+      "height": 40,
+      "ypos": 3
+    },
+    {
+      "ypos": 73,
+      "height": 29,
+      "type": "match",
+      "xpos": 545,
+      "width": 54
+    },
+    {
+      "ypos": 71,
+      "type": "match",
+      "height": 32,
+      "xpos": 31,
+      "width": 35
+    }
+  ]
+}
