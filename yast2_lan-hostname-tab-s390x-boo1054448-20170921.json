@@ -1,25 +1,26 @@
 {
-  "area": [
-    {
-      "ypos": 28,
-      "type": "match",
-      "height": 402,
-      "width": 1006,
-      "xpos": 9
-    },
-    {
-      "xpos": 104,
-      "ypos": 96,
-      "width": 300,
-      "height": 17,
-      "type": "exclude"
-    }
+  "tags": [
+    "ENV-ARCH-s390x",
+    "boo#1054448",
+    "yast2_lan-hostname-tab"
   ],
   "properties": [
     "workaround"
   ],
-  "tags": [
-    "ENV-ARCH-s390x",
-    "yast2_lan-hostname-tab"
+  "area": [
+    {
+      "xpos": 9,
+      "width": 1006,
+      "ypos": 28,
+      "height": 402,
+      "type": "match"
+    },
+    {
+      "xpos": 104,
+      "ypos": 89,
+      "width": 305,
+      "height": 27,
+      "type": "exclude"
+    }
   ]
 }
