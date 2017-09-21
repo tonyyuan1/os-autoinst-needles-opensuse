@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 147,
+      "xpos": 424,
+      "type": "match",
+      "height": 27,
+      "ypos": 204
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-control-center"
+  ]
+}
