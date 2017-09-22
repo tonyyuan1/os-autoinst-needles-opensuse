@@ -2,24 +2,24 @@
   "properties": [
     "workaround"
   ],
+  "tags": [
+    "boo#1054448",
+    "ncurses-simple-dialog"
+  ],
   "area": [
     {
-      "xpos": 428,
-      "ypos": 353,
-      "width": 140,
-      "height": 53,
-      "type": "match"
+      "type": "match",
+      "width": 189,
+      "height": 80,
+      "xpos": 422,
+      "ypos": 347
     },
     {
-      "xpos": 509,
       "ypos": 381,
+      "xpos": 509,
       "width": 19,
       "height": 26,
       "type": "exclude"
     }
-  ],
-  "tags": [
-    "boo#1054448",
-    "ncurses-simple-dialog"
   ]
 }
