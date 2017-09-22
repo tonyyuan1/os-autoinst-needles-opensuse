@@ -1,0 +1,25 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 428,
+      "ypos": 353,
+      "width": 140,
+      "height": 53,
+      "type": "match"
+    },
+    {
+      "xpos": 509,
+      "ypos": 381,
+      "width": 19,
+      "height": 26,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "boo#1054448",
+    "ncurses-simple-dialog"
+  ]
+}
