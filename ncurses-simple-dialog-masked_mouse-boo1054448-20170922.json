@@ -5,7 +5,8 @@
       "height": 53,
       "type": "match",
       "ypos": 353,
-      "xpos": 428
+      "xpos": 428,
+      "match": 92
     },
     {
       "ypos": 381,
@@ -15,11 +16,11 @@
       "type": "exclude"
     }
   ],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "boo#1054448",
     "ncurses-simple-dialog"
-  ],
-  "properties": [
-    "workaround"
   ]
 }
