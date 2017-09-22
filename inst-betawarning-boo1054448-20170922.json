@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 141,
+      "ypos": 311,
+      "width": 367,
+      "xpos": 325
+    },
+    {
+      "xpos": 289,
+      "ypos": 245,
+      "width": 74,
+      "height": 60,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "bsc#1058099",
+    "inst-betawarning",
+    "installation"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
