@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "alt-tab-totem"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 285,
+      "ypos": 293,
+      "width": 150,
+      "height": 150,
+      "type": "match"
+    },
+    {
+      "xpos": 485,
+      "ypos": 453,
+      "width": 53,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
