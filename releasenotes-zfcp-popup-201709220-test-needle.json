@@ -1,16 +1,15 @@
 {
-  "properties": [],
-  "tags": [
-    "test-needle",
-    "zfcp-popup"
-  ],
   "area": [
     {
-      "xpos": 459,
-      "ypos": 620,
-      "width": 326,
-      "height": 64,
+      "xpos": 142,
+      "ypos": 619,
+      "width": 317,
+      "height": 68,
       "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "zfcp-popup"
   ]
 }
