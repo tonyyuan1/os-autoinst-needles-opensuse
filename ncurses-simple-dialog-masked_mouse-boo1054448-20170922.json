@@ -1,25 +1,25 @@
 {
-  "properties": [
-    "workaround"
+  "area": [
+    {
+      "width": 140,
+      "height": 53,
+      "type": "match",
+      "ypos": 353,
+      "xpos": 428
+    },
+    {
+      "ypos": 381,
+      "xpos": 509,
+      "width": 26,
+      "height": 26,
+      "type": "exclude"
+    }
   ],
   "tags": [
     "boo#1054448",
     "ncurses-simple-dialog"
   ],
-  "area": [
-    {
-      "type": "match",
-      "width": 189,
-      "height": 80,
-      "xpos": 422,
-      "ypos": 347
-    },
-    {
-      "ypos": 381,
-      "xpos": 509,
-      "width": 19,
-      "height": 26,
-      "type": "exclude"
-    }
+  "properties": [
+    "workaround"
   ]
 }
