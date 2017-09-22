@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 147,
+      "ypos": 613,
+      "width": 309,
+      "height": 98,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-needle-sync-caching-interactive",
+    "zfcp-popup"
+  ]
+}
