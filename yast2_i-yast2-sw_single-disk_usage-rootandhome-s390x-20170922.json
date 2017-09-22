@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 184,
+      "ypos": 316,
+      "type": "match",
+      "width": 72,
+      "height": 141
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "yast2-sw_single-disk_usage"
+  ]
+}
