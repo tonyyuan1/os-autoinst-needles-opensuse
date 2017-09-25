@@ -1,29 +1,32 @@
 {
-  "properties": [],
-  "tags": [
-    "modules-preselected-sled"
-  ],
   "area": [
     {
       "xpos": 361,
       "ypos": 126,
       "width": 127,
-      "height": 14,
-      "type": "match"
+      "type": "match",
+      "height": 14
     },
     {
       "xpos": 381,
-      "ypos": 151,
       "width": 174,
-      "height": 18,
-      "type": "match"
+      "ypos": 151,
+      "type": "match",
+      "height": 18
     },
     {
-      "xpos": 382,
-      "ypos": 214,
       "width": 168,
-      "height": 10,
-      "type": "match"
+      "ypos": 214,
+      "xpos": 382,
+      "type": "match",
+      "height": 10
     }
+  ],
+  "tags": [
+    "bsc#1056413",
+    "modules-preselected-sled"
+  ],
+  "properties": [
+    "workaround"
   ]
 }
