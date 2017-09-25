@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 26,
+      "type": "match",
+      "height": 176,
+      "width": 916
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-ARCH-s390x",
+    "yast2-sw_shows_summary"
+  ]
+}
