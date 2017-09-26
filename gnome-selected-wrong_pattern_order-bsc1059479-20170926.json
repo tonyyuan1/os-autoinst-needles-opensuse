@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnome-selected"
+  ],
+  "area": [
+    {
+      "ypos": 280,
+      "xpos": 91,
+      "height": 58,
+      "width": 208,
+      "type": "match"
+    }
+  ]
+}
