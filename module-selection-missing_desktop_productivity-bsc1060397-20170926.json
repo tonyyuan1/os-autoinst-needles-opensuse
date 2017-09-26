@@ -1,0 +1,25 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "module-selection"
+  ],
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 183,
+      "type": "match",
+      "height": 94,
+      "width": 295
+    },
+    {
+      "xpos": 357,
+      "ypos": 128,
+      "width": 130,
+      "height": 258,
+      "type": "match"
+    }
+  ]
+}
