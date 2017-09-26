@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 369,
+      "ypos": 455,
+      "width": 278,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "select-product-sles4sap"
+  ],
+  "properties": []
+}
