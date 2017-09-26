@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 223,
+      "ypos": 166,
+      "width": 154,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 41,
+      "xpos": 226,
+      "ypos": 224,
+      "width": 370
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "release-notes-sle"
+  ]
+}
