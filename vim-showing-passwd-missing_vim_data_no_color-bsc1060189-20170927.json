@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "vim-showing-passwd"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 163,
+      "type": "match",
+      "height": 10,
+      "width": 163
+    },
+    {
+      "ypos": 755,
+      "xpos": 10,
+      "height": 10,
+      "width": 85,
+      "type": "match"
+    }
+  ]
+}
