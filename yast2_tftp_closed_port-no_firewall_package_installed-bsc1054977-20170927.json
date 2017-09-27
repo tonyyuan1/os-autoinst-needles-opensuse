@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "yast2_tftp_closed_port"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 16,
+      "xpos": 320,
+      "ypos": 384,
+      "width": 203
+    },
+    {
+      "width": 260,
+      "ypos": 401,
+      "xpos": 323,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
