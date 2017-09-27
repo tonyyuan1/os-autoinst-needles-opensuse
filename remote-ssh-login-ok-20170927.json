@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "remote-ssh-login-ok"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 138,
+      "width": 329,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}
