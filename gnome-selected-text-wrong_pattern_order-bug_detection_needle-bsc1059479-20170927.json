@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 163,
+      "width": 231,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "gnome-selected"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
