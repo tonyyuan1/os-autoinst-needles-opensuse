@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-ssl-edit_ca_trust"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 238,
+      "xpos": 393,
+      "ypos": 252,
+      "height": 25
+    },
+    {
+      "height": 80,
+      "ypos": 366,
+      "xpos": 260,
+      "width": 310,
+      "type": "match"
+    }
+  ]
+}

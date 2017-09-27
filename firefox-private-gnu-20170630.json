@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-private-gnu"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 3,
+      "height": 24,
+      "ypos": 40,
+      "width": 144
+    },
+    {
+      "ypos": 201,
+      "height": 64,
+      "xpos": 25,
+      "type": "match",
+      "width": 66
+    }
+  ]
+}

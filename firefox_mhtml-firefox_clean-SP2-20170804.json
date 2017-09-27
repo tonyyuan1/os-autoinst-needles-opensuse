@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox_clean"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 682,
+      "width": 115,
+      "ypos": 5,
+      "height": 40
+    },
+    {
+      "xpos": 516,
+      "width": 54,
+      "type": "match",
+      "height": 29,
+      "ypos": 73
+    },
+    {
+      "ypos": 71,
+      "height": 32,
+      "type": "match",
+      "width": 35,
+      "xpos": 31
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-java-addonsmanager"
+  ],
+  "area": [
+    {
+      "width": 40,
+      "ypos": 149,
+      "type": "match",
+      "xpos": 6,
+      "height": 37
+    },
+    {
+      "ypos": 3,
+      "xpos": 391,
+      "height": 28,
+      "type": "match",
+      "width": 242
+    }
+  ]
+}

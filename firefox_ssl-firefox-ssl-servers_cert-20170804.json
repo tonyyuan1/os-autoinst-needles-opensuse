@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 24,
+      "ypos": 438,
+      "type": "match",
+      "xpos": 97,
+      "width": 499
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-ssl-servers_cert"
+  ]
+}

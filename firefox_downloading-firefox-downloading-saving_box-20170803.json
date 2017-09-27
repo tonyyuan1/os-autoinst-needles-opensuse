@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-downloading-saving_box"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 318,
+      "xpos": 295,
+      "height": 38,
+      "ypos": 10
+    }
+  ],
+  "properties": []
+}

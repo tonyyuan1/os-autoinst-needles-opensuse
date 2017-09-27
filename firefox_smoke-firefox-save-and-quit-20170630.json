@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-save-and-quit"
+  ],
+  "area": [
+    {
+      "width": 504,
+      "type": "match",
+      "height": 36,
+      "xpos": 261,
+      "ypos": 286
+    },
+    {
+      "type": "match",
+      "height": 35,
+      "xpos": 655,
+      "ypos": 414,
+      "width": 96
+    }
+  ],
+  "properties": []
+}

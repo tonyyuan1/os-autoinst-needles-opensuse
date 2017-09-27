@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 542,
+      "ypos": 79,
+      "height": 18,
+      "type": "match",
+      "width": 48
+    }
+  ],
+  "tags": [
+    "firefox-extensions-no_flag"
+  ]
+}

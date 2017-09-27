@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-private-checktoday"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 80,
+      "type": "match",
+      "height": 20,
+      "ypos": 173,
+      "xpos": 8
+    }
+  ]
+}

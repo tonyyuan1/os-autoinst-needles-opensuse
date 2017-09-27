@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "unmht_restart_now"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 30,
+      "ypos": 289,
+      "xpos": 313,
+      "width": 75,
+      "type": "match"
+    },
+    {
+      "xpos": 685,
+      "ypos": 264,
+      "width": 97,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}
