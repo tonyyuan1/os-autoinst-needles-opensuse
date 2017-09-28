@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-language-ui"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 361,
+      "xpos": 131,
+      "ypos": 79,
+      "type": "match",
+      "height": 119
+    }
+  ]
+}
