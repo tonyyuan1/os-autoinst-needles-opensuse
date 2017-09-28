@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 213,
+      "xpos": 117,
+      "height": 56,
+      "type": "match",
+      "ypos": 79
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-users-ui"
+  ]
+}
