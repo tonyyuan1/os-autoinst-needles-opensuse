@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_vnc_warning_text"
+  ],
+  "area": [
+    {
+      "xpos": 271,
+      "ypos": 336,
+      "width": 309,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 488,
+      "ypos": 414,
+      "width": 31,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}

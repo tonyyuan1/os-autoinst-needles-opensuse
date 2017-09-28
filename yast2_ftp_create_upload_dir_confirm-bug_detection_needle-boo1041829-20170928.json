@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "yast2_ftp_create_upload_dir_confirm"
+  ],
+  "area": [
+    {
+      "width": 141,
+      "ypos": 44,
+      "xpos": 25,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 364,
+      "ypos": 336,
+      "width": 296,
+      "height": 81,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
