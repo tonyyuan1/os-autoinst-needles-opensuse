@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "yast2_apparmor_failed_to_change_bsc1058981"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 49,
+      "xpos": 429,
+      "ypos": 31,
+      "width": 158
+    },
+    {
+      "xpos": 139,
+      "ypos": 370,
+      "width": 262,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
