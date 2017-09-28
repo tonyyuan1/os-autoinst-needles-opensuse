@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 182,
+      "ypos": 448,
+      "width": 206,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "open_port_in_firewall"
+  ]
+}
