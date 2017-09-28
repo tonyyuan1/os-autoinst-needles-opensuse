@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "nis-client"
+  ],
+  "area": [
+    {
+      "height": 75,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 21,
+      "width": 287
+    },
+    {
+      "height": 50,
+      "type": "match",
+      "ypos": 394,
+      "width": 430,
+      "xpos": 246
+    }
+  ],
+  "properties": []
+}
