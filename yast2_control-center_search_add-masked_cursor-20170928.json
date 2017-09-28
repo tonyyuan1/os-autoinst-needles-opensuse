@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 103,
+      "ypos": 258,
+      "type": "match",
+      "height": 32,
+      "xpos": 205
+    },
+    {
+      "xpos": 273,
+      "ypos": 265,
+      "width": 10,
+      "height": 25,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_search_add"
+  ],
+  "properties": []
+}
