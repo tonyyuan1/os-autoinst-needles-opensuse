@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 629,
+      "ypos": 465,
+      "width": 180,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-automounter-enabled"
+  ]
+}
