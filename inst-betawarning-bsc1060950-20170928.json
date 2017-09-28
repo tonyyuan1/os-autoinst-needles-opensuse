@@ -1,0 +1,40 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-betawarning",
+    "installation"
+  ],
+  "area": [
+    {
+      "width": 268,
+      "height": 15,
+      "type": "match",
+      "ypos": 249,
+      "xpos": 216
+    },
+    {
+      "xpos": 214,
+      "type": "match",
+      "height": 15,
+      "ypos": 219,
+      "width": 122
+    },
+    {
+      "type": "match",
+      "ypos": 321,
+      "height": 12,
+      "xpos": 219,
+      "width": 228
+    },
+    {
+      "width": 44,
+      "xpos": 489,
+      "height": 19,
+      "type": "match",
+      "ypos": 556
+    }
+  ]
+}
