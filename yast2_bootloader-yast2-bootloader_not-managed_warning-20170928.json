@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 460,
+      "width": 76,
+      "ypos": 412
+    },
+    {
+      "xpos": 382,
+      "ypos": 361,
+      "width": 62,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-bootloader_not-managed_warning"
+  ]
+}
