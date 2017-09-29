@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "oracle-cookies-handling"
+  ],
+  "area": [
+    {
+      "width": 104,
+      "height": 46,
+      "type": "match",
+      "ypos": 278,
+      "xpos": 114
+    },
+    {
+      "xpos": 778,
+      "ypos": 283,
+      "width": 129,
+      "height": 38,
+      "type": "match"
+    }
+  ]
+}
