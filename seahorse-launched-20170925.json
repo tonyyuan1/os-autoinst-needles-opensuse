@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "seahorse-launched"
+  ],
+  "area": [
+    {
+      "xpos": 434,
+      "ypos": 77,
+      "width": 151,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 202,
+      "ypos": 150,
+      "width": 94,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 200,
+      "ypos": 296,
+      "width": 93,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 202,
+      "ypos": 356,
+      "width": 71,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
