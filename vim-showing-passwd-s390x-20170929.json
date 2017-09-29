@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "vim-showing-passwd"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "height": 10,
+      "type": "match",
+      "ypos": 179,
+      "width": 163
+    },
+    {
+      "width": 85,
+      "xpos": 10,
+      "ypos": 755,
+      "type": "match",
+      "height": 10
+    }
+  ]
+}
