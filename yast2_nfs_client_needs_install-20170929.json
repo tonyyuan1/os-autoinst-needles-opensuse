@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_nfs_client_needs_install"
+  ],
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 323,
+      "width": 290,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 442,
+      "ypos": 448,
+      "width": 70,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
