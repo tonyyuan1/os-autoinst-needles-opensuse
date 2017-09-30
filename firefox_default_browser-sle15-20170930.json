@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox_default_browser"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 607,
+      "ypos": 416,
+      "width": 252,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}
