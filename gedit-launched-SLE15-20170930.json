@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "type": "match",
+      "height": 70,
+      "ypos": 2,
+      "width": 141
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "gedit-launched"
+  ],
+  "properties": []
+}
