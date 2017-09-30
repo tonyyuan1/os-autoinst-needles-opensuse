@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "wireshark-welcome"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 28,
+      "type": "match",
+      "ypos": 23,
+      "xpos": 277,
+      "width": 235
+    }
+  ]
+}
