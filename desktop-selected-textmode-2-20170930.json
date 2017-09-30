@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-textmode",
+    "desktop-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 200,
+      "type": "match",
+      "height": 88,
+      "xpos": 36,
+      "width": 225
+    }
+  ]
+}
