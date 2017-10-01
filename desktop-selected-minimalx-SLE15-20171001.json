@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-minimalx",
+    "desktop-selected"
+  ],
+  "area": [
+    {
+      "height": 91,
+      "type": "match",
+      "ypos": 199,
+      "xpos": 35,
+      "width": 257
+    }
+  ]
+}
