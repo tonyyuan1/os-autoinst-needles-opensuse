@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "netweaver-instance-started"
+  ],
+  "area": [
+    {
+      "xpos": 144,
+      "ypos": 49,
+      "width": 122,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 29,
+      "ypos": 72,
+      "width": 44,
+      "height": 31,
+      "type": "match"
+    }
+  ]
+}

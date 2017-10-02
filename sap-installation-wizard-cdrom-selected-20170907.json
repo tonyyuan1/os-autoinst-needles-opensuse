@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 130,
+      "ypos": 330,
+      "width": 84,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 226,
+      "ypos": 333,
+      "width": 13,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 220,
+      "ypos": 304,
+      "width": 222,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sap-installation-wizard-cdrom-selected"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 483,
+      "ypos": 175,
+      "width": 218,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 405,
+      "ypos": 227,
+      "width": 145,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 404,
+      "ypos": 308,
+      "width": 148,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 403,
+      "ypos": 392,
+      "width": 156,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sap-installation-wizard-sysparams"
+  ]
+}

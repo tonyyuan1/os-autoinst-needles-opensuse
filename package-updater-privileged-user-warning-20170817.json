@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 263,
+      "ypos": 300,
+      "width": 499,
+      "height": 122,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "package-updater-privileged-user-warning"
+  ],
+  "properties": []
+}

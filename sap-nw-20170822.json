@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-nw",
+    "sap-pattern"
+  ],
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 128,
+      "width": 326,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}

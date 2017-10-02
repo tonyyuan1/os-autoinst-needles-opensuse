@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 146,
+      "ypos": 48,
+      "width": 123,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 26,
+      "ypos": 74,
+      "width": 48,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "netweaver-service-started"
+  ],
+  "properties": []
+}

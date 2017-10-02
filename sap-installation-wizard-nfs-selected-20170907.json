@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-installation-wizard-nfs-selected"
+  ],
+  "area": [
+    {
+      "xpos": 131,
+      "ypos": 331,
+      "width": 82,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 225,
+      "ypos": 333,
+      "width": 178,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 221,
+      "ypos": 300,
+      "width": 212,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}

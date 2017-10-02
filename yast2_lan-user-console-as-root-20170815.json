@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "user-console"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 76,
+      "width": 166,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 161,
+      "width": 43,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 71,
+      "ypos": 128,
+      "width": 27,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

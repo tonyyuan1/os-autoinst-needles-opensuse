@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 40,
+      "ypos": 61,
+      "width": 345,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sap-hana",
+    "sap-pattern"
+  ]
+}
