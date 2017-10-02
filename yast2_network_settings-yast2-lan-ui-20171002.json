@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 307,
+      "width": 85,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_still_susefirewall2"
+  ],
+  "properties": []
+}

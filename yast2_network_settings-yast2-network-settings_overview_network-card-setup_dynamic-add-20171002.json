@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 121,
+      "ypos": 212,
+      "width": 128,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 260,
+      "ypos": 213,
+      "width": 136,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-network-settings_overview_network-card-setup_dynamic-add"
+  ],
+  "properties": []
+}
