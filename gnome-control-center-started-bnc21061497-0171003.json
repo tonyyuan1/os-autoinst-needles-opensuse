@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 279,
+      "ypos": 276,
+      "width": 570,
+      "height": 256,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnome-control-center-started"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
