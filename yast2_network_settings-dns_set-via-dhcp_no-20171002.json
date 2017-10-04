@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 347,
+      "ypos": 236,
+      "width": 14,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "dns_set-via-dhcp_no",
+    "yast2-network-settings_hostname-dns_set-via-dhcp"
+  ],
+  "properties": []
+}
