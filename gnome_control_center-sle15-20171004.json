@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-gnome_control_center-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 84,
+      "type": "match",
+      "ypos": 79,
+      "xpos": 3,
+      "width": 193
+    },
+    {
+      "xpos": 515,
+      "height": 178,
+      "type": "match",
+      "ypos": 166,
+      "width": 280
+    },
+    {
+      "xpos": 473,
+      "ypos": 427,
+      "width": 82,
+      "height": 104,
+      "type": "match"
+    }
+  ]
+}
