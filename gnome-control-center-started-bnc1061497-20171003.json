@@ -10,7 +10,7 @@
   ],
   "tags": [
     "ENV-15ORLATER-1",
-    "gnome-control-center-started"
+    "gnome-control-center-started", "gnome-control-center-new-layout"
   ],
   "properties": [
     "workaround"
