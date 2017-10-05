@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "inst-textselected",
+    "inst-textselected-with_colormenu"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 22,
+      "type": "match",
+      "xpos": 256,
+      "width": 93,
+      "ypos": 472
+    }
+  ]
+}
