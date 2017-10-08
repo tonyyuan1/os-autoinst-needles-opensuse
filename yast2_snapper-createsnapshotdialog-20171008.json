@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
+    "ENV-15ORLATER-1",
     "yast2_snapper-createsnapshotdialog"
   ],
   "properties": []
