@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 174,
+      "height": 13,
+      "xpos": 80,
+      "width": 65
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_snapper-collapsed_testdata"
+  ],
+  "properties": []
+}
