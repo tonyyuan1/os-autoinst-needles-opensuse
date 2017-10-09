@@ -2,6 +2,7 @@
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-SP2ORLATER-1",
+    "gedit",
     "gedit-launched"
   ],
   "properties": [],
