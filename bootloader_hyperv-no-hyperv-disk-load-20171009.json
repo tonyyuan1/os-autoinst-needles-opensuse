@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 159,
+      "xpos": 192,
+      "ypos": 464,
+      "type": "match",
+      "width": 47
+    }
+  ],
+  "tags": [
+    "no-hyperv-disk-load"
+  ],
+  "properties": []
+}
