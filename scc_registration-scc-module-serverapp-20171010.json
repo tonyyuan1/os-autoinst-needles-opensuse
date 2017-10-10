@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "scc-module-serverapp"
+  ],
+  "area": [
+    {
+      "ypos": 301,
+      "type": "match",
+      "height": 10,
+      "xpos": 361,
+      "width": 156
+    }
+  ],
+  "properties": []
+}
