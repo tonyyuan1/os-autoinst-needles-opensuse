@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "grub1",
+    "virttest-bootmenu-xen-kernel"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 83,
+      "xpos": 25,
+      "height": 26,
+      "ypos": 8,
+      "type": "match"
+    },
+    {
+      "width": 30,
+      "xpos": 21,
+      "height": 19,
+      "ypos": 95,
+      "type": "match"
+    },
+    {
+      "xpos": 79,
+      "ypos": 94,
+      "width": 169,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
