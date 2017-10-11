@@ -26,6 +26,7 @@
   "tags": [
     "ENV-15ORLATER-1",
     "bsc#1056356",
+    "bsc#1047327",
     "warning-pop-up"
   ]
 }
