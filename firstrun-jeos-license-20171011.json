@@ -1,0 +1,32 @@
+{
+  "tags": [
+    "ENV-BETA-1",
+    "ENV-JEOS-1",
+    "ENV-VERSION-15",
+    "jeos-license"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 24,
+      "ypos": 46,
+      "width": 434,
+      "xpos": 171
+    },
+    {
+      "type": "match",
+      "width": 552,
+      "xpos": 171,
+      "height": 82,
+      "ypos": 207
+    },
+    {
+      "type": "match",
+      "ypos": 2,
+      "height": 16,
+      "xpos": 8,
+      "width": 249
+    }
+  ],
+  "properties": []
+}
