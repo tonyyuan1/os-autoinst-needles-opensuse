@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 202,
+      "xpos": 41,
+      "height": 30,
+      "ypos": 92,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 245,
+      "ypos": 157,
+      "width": 265,
+      "xpos": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "velum-confirm-bootstrap"
+  ]
+}
