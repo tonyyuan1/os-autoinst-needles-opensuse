@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 362,
+      "width": 69,
+      "ypos": 348,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 27,
+      "ypos": 410,
+      "width": 66,
+      "xpos": 479
+    },
+    {
+      "ypos": 379,
+      "height": 13,
+      "xpos": 367,
+      "width": 115,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bsc#1047327",
+    "bsc#1056356",
+    "warning-pop-up"
+  ]
+}
