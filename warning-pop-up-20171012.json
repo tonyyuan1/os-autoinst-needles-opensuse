@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "bsc#1047327",
+    "bsc#1056356",
+    "warning-pop-up"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 277,
+      "width": 69,
+      "ypos": 346,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 27,
+      "ypos": 410,
+      "width": 66,
+      "xpos": 479
+    }
+  ]
+}
