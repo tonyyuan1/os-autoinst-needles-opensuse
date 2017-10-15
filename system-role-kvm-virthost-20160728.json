@@ -17,6 +17,7 @@
   ],
   "properties": [],
   "tags": [
-    "system-role-kvm-virthost"
+    "system-role-kvm-virthost",
+    "system-role-kvm-selected"
   ]
 }

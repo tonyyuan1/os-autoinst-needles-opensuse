@@ -9,7 +9,8 @@
     }
   ],
   "tags": [
-    "system-role-xen-virthost"
+    "system-role-xen-virthost",
+    "system-role-xen-selected"
   ],
   "properties": []
 }
