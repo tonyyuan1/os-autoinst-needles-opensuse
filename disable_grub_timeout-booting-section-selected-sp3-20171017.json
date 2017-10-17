@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 54,
+      "height": 23,
+      "ypos": 359,
+      "xpos": 357,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "booting-section-selected"
+  ]
+}
