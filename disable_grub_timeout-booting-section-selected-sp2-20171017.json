@@ -1,4 +1,8 @@
 {
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "booting-section-selected"
+  ],
   "properties": [],
   "area": [
     {
@@ -8,9 +12,5 @@
       "height": 23,
       "ypos": 359
     }
-  ],
-  "tags": [
-    "ENV-SP2ORLATER-1",
-    "booting-section-selected"
   ]
 }
