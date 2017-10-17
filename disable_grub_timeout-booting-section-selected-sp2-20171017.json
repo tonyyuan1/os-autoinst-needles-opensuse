@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 357,
+      "type": "match",
+      "width": 54,
+      "height": 23,
+      "ypos": 359
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "booting-section-selected"
+  ]
+}
