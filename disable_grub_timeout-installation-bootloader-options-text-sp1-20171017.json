@@ -1,17 +1,17 @@
 {
-  "area": [
-    {
-      "ypos": 44,
-      "width": 75,
-      "height": 22,
-      "xpos": 322,
-      "type": "match"
-    }
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-SP2ORLATER-0",
+    "installation-bootloader-options"
   ],
   "properties": [],
-  "tags": [
-    "ENV-SP2ORLATER-0",
-    "ENV-textmode",
-    "installation-bootloader-options"
+  "area": [
+    {
+      "xpos": 332,
+      "ypos": 51,
+      "width": 142,
+      "height": 12,
+      "type": "match"
+    }
   ]
 }
