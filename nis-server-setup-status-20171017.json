@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "nis-server-setup-status"
+  ],
+  "area": [
+    {
+      "xpos": 69,
+      "ypos": 96,
+      "width": 455,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
