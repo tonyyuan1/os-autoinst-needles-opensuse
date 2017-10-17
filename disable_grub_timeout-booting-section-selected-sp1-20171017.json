@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-0",
+    "booting-section-selected"
+  ],
+  "area": [
+    {
+      "ypos": 343,
+      "height": 23,
+      "width": 54,
+      "type": "match",
+      "xpos": 359
+    }
+  ],
+  "properties": []
+}
