@@ -2,14 +2,21 @@
   "tags": [
     "nis-server-setup-status"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 69,
-      "ypos": 96,
-      "width": 455,
-      "height": 36,
+      "xpos": 74,
+      "ypos": 95,
+      "width": 453,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 328,
+      "ypos": 375,
+      "width": 89,
+      "height": 23,
       "type": "match"
     }
-  ],
-  "properties": []
+  ]
 }
