@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 321,
+      "ypos": 181,
+      "height": 80,
+      "width": 54,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 126,
+      "height": 72,
+      "ypos": 186,
+      "xpos": 517
+    }
+  ],
+  "tags": [
+    "partitioning_raid-raid_swap_added"
+  ]
+}
