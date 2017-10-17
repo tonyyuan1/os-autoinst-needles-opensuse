@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "need_firewall"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 300,
+      "width": 207,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 64,
+      "ypos": 92,
+      "width": 218,
+      "height": 43,
+      "type": "match"
+    }
+  ]
+}
