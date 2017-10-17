@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "partitioning_raid-filesystem_ext4"
+  ],
+  "area": [
+    {
+      "height": 61,
+      "ypos": 344,
+      "width": 65,
+      "type": "match",
+      "xpos": 361
+    },
+    {
+      "ypos": 392,
+      "width": 24,
+      "type": "match",
+      "height": 10,
+      "xpos": 403
+    }
+  ]
+}
