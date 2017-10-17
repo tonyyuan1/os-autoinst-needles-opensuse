@@ -1,16 +1,15 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 357,
       "type": "match",
-      "width": 54,
+      "xpos": 357,
       "height": 23,
-      "ypos": 342
+      "width": 54,
+      "ypos": 580
     }
   ],
+  "properties": [],
   "tags": [
-    "ENV-SP1ORLATER-1",
     "booting-section-selected"
   ]
 }
