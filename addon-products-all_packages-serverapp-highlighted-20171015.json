@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-serverapp-highlighted"
+  ],
+  "area": [
+    {
+      "xpos": 279,
+      "ypos": 540,
+      "width": 123,
+      "height": 10,
+      "match": 100,
+      "type": "match"
+    }
+  ]
+}
