@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 332,
+      "type": "match",
+      "width": 142,
+      "height": 10,
+      "ypos": 53
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-VERSION-12",
+    "installation-bootloader-options"
+  ]
+}
