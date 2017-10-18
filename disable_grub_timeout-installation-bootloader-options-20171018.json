@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "installation-bootloader-options"
+  ],
+  "area": [
+    {
+      "xpos": 323,
+      "ypos": 42,
+      "width": 163,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
