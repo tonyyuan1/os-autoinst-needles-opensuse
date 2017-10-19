@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "width": 196,
+      "xpos": 36,
+      "ypos": 203,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-raid_6-selected"
+  ]
+}
