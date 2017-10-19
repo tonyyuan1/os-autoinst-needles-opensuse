@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "ENV-SP2ORLATER-1",
+    "filesystem-prep"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 337,
+      "ypos": 481,
+      "width": 54,
+      "height": 11
+    }
+  ],
+  "properties": []
+}
