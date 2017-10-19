@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "installation-settings-overview-loaded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 191,
+      "width": 299,
+      "height": 41,
+      "type": "match"
+    },
+    {
+      "xpos": 939,
+      "ypos": 727,
+      "width": 66,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
