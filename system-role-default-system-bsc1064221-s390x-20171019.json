@@ -1,0 +1,27 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 193,
+      "width": 191,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "height": 200,
+      "width": 339,
+      "ypos": 302,
+      "xpos": 496,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-ARCH-s390x",
+    "bsc#1064221",
+    "system-role-default-system"
+  ]
+}
