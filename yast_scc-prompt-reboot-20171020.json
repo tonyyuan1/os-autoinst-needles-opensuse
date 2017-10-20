@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 325,
+      "width": 142,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast_scc-prompt-reboot"
+  ]
+}

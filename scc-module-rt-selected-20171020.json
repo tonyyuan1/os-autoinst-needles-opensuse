@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "scc-module-rt-selected"
+  ],
+  "area": [
+    {
+      "xpos": 59,
+      "ypos": 315,
+      "width": 240,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
