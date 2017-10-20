@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 307,
+      "height": 54,
+      "width": 189,
+      "xpos": 555
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "btrfs-selected",
+    "storage-ng"
+  ]
+}
