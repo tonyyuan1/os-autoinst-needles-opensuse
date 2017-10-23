@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-15",
+    "inst-addon"
+  ],
+  "area": [
+    {
+      "xpos": 483,
+      "ypos": 267,
+      "width": 249,
+      "height": 298,
+      "type": "match"
+    }
+  ]
+}
