@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 263,
+      "ypos": 493,
+      "width": 219,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 627,
+      "ypos": 508,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "system-role-xen-selected"
+  ]
+}
