@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 486,
+      "xpos": 288,
+      "ypos": 1,
+      "height": 363,
+      "type": "match"
+    },
+    {
+      "xpos": 315,
+      "ypos": 180,
+      "width": 388,
+      "height": 48,
+      "type": "exclude"
+    },
+    {
+      "xpos": 376,
+      "ypos": 289,
+      "width": 15,
+      "height": 49,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "displaymanager"
+  ]
+}
