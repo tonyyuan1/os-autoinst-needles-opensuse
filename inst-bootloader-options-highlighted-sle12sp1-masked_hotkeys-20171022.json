@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "inst-bootloader-options-highlighted"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 30,
+      "ypos": 140,
+      "xpos": 528,
+      "width": 227
+    },
+    {
+      "xpos": 610,
+      "ypos": 143,
+      "width": 12,
+      "height": 22,
+      "type": "exclude"
+    },
+    {
+      "xpos": 566,
+      "ypos": 143,
+      "width": 10,
+      "height": 19,
+      "type": "exclude"
+    }
+  ]
+}
