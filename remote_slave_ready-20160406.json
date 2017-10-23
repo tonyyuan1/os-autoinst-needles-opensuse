@@ -9,7 +9,8 @@
     }
   ],
   "tags": [
-    "remote_slave_ready"
+    "remote_slave_ready",
+    "vnc-server-started"
   ],
   "properties": []
 }
