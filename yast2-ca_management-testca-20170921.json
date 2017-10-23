@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-ca_management-testca"
+  ],
+  "area": [
+    {
+      "xpos": 61,
+      "ypos": 95,
+      "width": 137,
+      "height": 85,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 82,
+      "ypos": 233,
+      "width": 209,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-ca_management-description-for-testca"
+  ]
+}

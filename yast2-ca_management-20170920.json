@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 56,
+      "width": 200,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 605,
+      "ypos": 575,
+      "width": 231,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 183,
+      "ypos": 456,
+      "width": 264,
+      "height": 125,
+      "type": "match"
+    },
+    {
+      "xpos": 73,
+      "ypos": 97,
+      "width": 141,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-ca-management"
+  ]
+}

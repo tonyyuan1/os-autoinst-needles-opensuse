@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2-ca_management-certificate-revocation-list"
+  ],
+  "area": [
+    {
+      "xpos": 79,
+      "ypos": 232,
+      "width": 278,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 66,
+      "ypos": 95,
+      "width": 270,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
