@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 55,
+      "width": 51,
+      "height": 122,
+      "ypos": 479,
+      "type": "match"
+    },
+    {
+      "xpos": 47,
+      "ypos": 86,
+      "width": 481,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-api-disconnected"
+  ]
+}
