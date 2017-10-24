@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 80,
+      "ypos": 279,
+      "width": 187,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2-ca_management-clientca-created"
+  ]
+}

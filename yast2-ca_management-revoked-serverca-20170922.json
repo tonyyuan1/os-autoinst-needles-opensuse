@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-ca_management-revoked-serverca"
+  ],
+  "area": [
+    {
+      "xpos": 80,
+      "ypos": 258,
+      "width": 212,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
