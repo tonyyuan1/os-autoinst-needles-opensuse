@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 129,
+      "xpos": 360,
+      "ypos": 182,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "width": 175,
+      "xpos": 361,
+      "ypos": 212,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "ypos": 357,
+      "xpos": 359,
+      "height": 16,
+      "type": "match",
+      "width": 162
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bsc#1056413",
+    "modules-preselected-sles"
+  ]
+}
