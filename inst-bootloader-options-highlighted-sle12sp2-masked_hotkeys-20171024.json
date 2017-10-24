@@ -1,0 +1,37 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "inst-bootloader-options-highlighted"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 227,
+      "xpos": 528,
+      "ypos": 141,
+      "height": 30
+    },
+    {
+      "width": 12,
+      "xpos": 610,
+      "ypos": 143,
+      "height": 22,
+      "type": "exclude"
+    },
+    {
+      "type": "exclude",
+      "height": 19,
+      "ypos": 143,
+      "xpos": 566,
+      "width": 10
+    },
+    {
+      "xpos": 639,
+      "ypos": 145,
+      "width": 10,
+      "height": 20,
+      "type": "exclude"
+    }
+  ]
+}
