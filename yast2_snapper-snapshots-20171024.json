@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_snapper-snapshots"
+  ],
+  "area": [
+    {
+      "xpos": 389,
+      "width": 122,
+      "height": 20,
+      "ypos": 59,
+      "type": "match"
+    },
+    {
+      "height": 25,
+      "ypos": 103,
+      "xpos": 75,
+      "width": 97,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 650,
+      "height": 20,
+      "width": 63,
+      "xpos": 68
+    }
+  ],
+  "properties": []
+}
