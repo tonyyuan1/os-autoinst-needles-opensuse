@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 68,
+      "ypos": 578,
+      "xpos": 500,
+      "width": 219,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "system-role-xen-virthost",
+    "system-role-xen-selected"
+  ]
+}
