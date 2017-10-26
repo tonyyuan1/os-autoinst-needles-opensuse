@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "filesystem-btrfs"
+  ],
+  "area": [
+    {
+      "height": 18,
+      "ypos": 414,
+      "xpos": 360,
+      "width": 55,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
