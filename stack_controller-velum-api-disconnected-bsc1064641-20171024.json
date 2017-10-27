@@ -1,18 +1,16 @@
 {
-  "properties": [
-    "workaround"
+  "area": [
+    {
+      "xpos": 47,
+      "width": 481,
+      "height": 43,
+      "ypos": 86,
+      "type": "match"
+    }
   ],
   "tags": [
     "ENV-DISTRI-CASP",
     "velum-api-disconnected"
   ],
-  "area": [
-    {
-      "type": "match",
-      "height": 43,
-      "ypos": 86,
-      "xpos": 47,
-      "width": 481
-    }
-  ]
+  "properties": []
 }
