@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "hide-beta-version-selected"
+  ],
+  "area": [
+    {
+      "xpos": 351,
+      "ypos": 123,
+      "width": 118,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 57,
+      "ypos": 196,
+      "width": 259,
+      "height": 66,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
