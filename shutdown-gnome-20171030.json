@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "logoutdialog"
+  ],
+  "area": [
+    {
+      "ypos": 497,
+      "height": 39,
+      "width": 489,
+      "xpos": 274,
+      "type": "match"
+    },
+    {
+      "width": 340,
+      "xpos": 257,
+      "ypos": 236,
+      "height": 73,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
