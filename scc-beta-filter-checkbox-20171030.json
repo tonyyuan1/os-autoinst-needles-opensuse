@@ -19,6 +19,6 @@
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-TEXTMODE-1",
-    "hide-beta-version-selected"
+    "scc-beta-filter-checkbox"
   ]
 }
