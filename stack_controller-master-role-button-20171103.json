@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 342,
+      "type": "match",
+      "xpos": 739,
+      "height": 34,
+      "width": 69
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-role-button"
+  ],
+  "properties": []
+}
