@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 68,
+      "ypos": 94,
+      "width": 331,
+      "height": 46,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_configured-software-repositories"
+  ]
+}
