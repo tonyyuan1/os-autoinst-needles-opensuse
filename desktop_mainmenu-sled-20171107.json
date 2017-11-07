@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-FLAVOR-Desktop-DVD",
+    "test-desktop_mainmenu-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 177,
+      "height": 25,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 740
+    },
+    {
+      "xpos": 212,
+      "ypos": 248,
+      "width": 190,
+      "height": 349,
+      "type": "match"
+    },
+    {
+      "ypos": 675,
+      "xpos": 33,
+      "type": "match",
+      "height": 30,
+      "width": 141
+    }
+  ]
+}
