@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-dvd-list",
+    "ENV-VIDEOMODE-text"
+  ],
+  "area": [
+    {
+      "height": 36,
+      "type": "match",
+      "xpos": 391,
+      "ypos": 332,
+      "width": 168
+    }
+  ]
+}

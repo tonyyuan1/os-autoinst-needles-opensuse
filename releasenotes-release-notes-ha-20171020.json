@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "release-notes-ha"
+  ],
+  "area": [
+    {
+      "xpos": 209,
+      "type": "match",
+      "ypos": 239,
+      "width": 105,
+      "height": 19
+    },
+    {
+      "xpos": 199,
+      "type": "match",
+      "height": 19,
+      "width": 72,
+      "ypos": 174
+    }
+  ],
+  "properties": []
+}
