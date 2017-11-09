@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ssh-blocked-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 172,
+      "height": 15,
+      "type": "match",
+      "xpos": 398,
+      "ypos": 467
+    }
+  ]
+}
