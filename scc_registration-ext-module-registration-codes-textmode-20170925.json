@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 33,
+      "width": 312,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "ext-module-registration-codes"
+  ],
+  "properties": []
+}
