@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 380,
+      "width": 459,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 934,
+      "ypos": 721,
+      "width": 79,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "installation",
+    "sles4sap-wizard-option-selected"
+  ]
+}
