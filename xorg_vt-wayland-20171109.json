@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 16,
+      "xpos": 238,
+      "type": "match",
+      "height": 14,
+      "width": 37
+    },
+    {
+      "type": "match",
+      "width": 140,
+      "height": 14,
+      "ypos": 16,
+      "xpos": 382
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "xorg-tty7"
+  ]
+}
