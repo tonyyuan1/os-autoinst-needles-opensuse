@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "acceptedpartitioning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 150,
+      "type": "match",
+      "height": 320,
+      "ypos": 121,
+      "xpos": 410
+    }
+  ]
+}

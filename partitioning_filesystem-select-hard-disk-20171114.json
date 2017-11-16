@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "select-hard-disk"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 286,
+      "ypos": 184,
+      "height": 48,
+      "xpos": 37
+    },
+    {
+      "xpos": 573,
+      "height": 18,
+      "ypos": 398,
+      "width": 78,
+      "type": "match"
+    }
+  ]
+}

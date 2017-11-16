@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "acceptedpartitioning"
+  ],
+  "area": [
+    {
+      "xpos": 410,
+      "ypos": 121,
+      "height": 320,
+      "type": "match",
+      "width": 150
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 73,
+      "xpos": 82,
+      "height": 117,
+      "type": "match",
+      "ypos": 193
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-15",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "partitioning_raid-hard_disks-unfolded"
+  ]
+}
