@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 312,
+      "ypos": 143,
+      "width": 154,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 85,
+      "ypos": 272,
+      "width": 19,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partitioning_raid-disk_sdb-selected"
+  ]
+}
