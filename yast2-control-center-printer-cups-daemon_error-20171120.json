@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 76,
+      "type": "match",
+      "xpos": 190,
+      "height": 30,
+      "ypos": 308
+    },
+    {
+      "xpos": 258,
+      "ypos": 347,
+      "width": 216,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_control-center_printer_running-cups-daemon_error"
+  ]
+}

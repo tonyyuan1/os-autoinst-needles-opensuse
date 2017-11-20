@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_control-center_printer"
+  ],
+  "area": [
+    {
+      "xpos": 438,
+      "ypos": 276,
+      "width": 83,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

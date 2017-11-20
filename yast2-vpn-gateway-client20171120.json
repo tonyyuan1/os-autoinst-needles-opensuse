@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-vpn-gateway-client"
+  ],
+  "area": [
+    {
+      "xpos": 85,
+      "ypos": 91,
+      "width": 210,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 683,
+      "ypos": 657,
+      "width": 53,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

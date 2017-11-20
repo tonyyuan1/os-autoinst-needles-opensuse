@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_control-center_add-system-extensions-or-modules"
+  ],
+  "area": [
+    {
+      "xpos": 437,
+      "ypos": 274,
+      "width": 267,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}
