@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-update-reboot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 579,
+      "ypos": 310,
+      "width": 136,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}

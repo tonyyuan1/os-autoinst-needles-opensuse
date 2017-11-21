@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 805,
+      "ypos": 329,
+      "width": 146,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-update-admin"
+  ],
+  "properties": []
+}
