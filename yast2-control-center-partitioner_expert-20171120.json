@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center-partitioner_expert",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "height": 41,
+      "ypos": 97,
+      "width": 181,
+      "xpos": 67,
+      "type": "match"
+    }
+  ]
+}

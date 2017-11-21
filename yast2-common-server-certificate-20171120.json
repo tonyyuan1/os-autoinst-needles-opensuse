@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "yast2-common-server-certificate",
+    "ENV-15ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 76,
+      "ypos": 105,
+      "width": 257,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 770,
+      "ypos": 651,
+      "width": 55,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "yast2-install-hypervisor-and-tools",
+    "ENV-15ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 607,
+      "type": "match",
+      "width": 60,
+      "ypos": 549,
+      "height": 15
+    },
+    {
+      "xpos": 258,
+      "ypos": 242,
+      "width": 208,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 259,
+      "ypos": 372,
+      "width": 107,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 261,
+      "ypos": 428,
+      "width": 111,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 259,
+      "ypos": 485,
+      "width": 144,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
