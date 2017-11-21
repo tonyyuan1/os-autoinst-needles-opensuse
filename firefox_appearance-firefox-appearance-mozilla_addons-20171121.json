@@ -1,4 +1,8 @@
 {
+  "properties": [],
+  "tags": [
+    "firefox-appearance-mozilla_addons"
+  ],
   "area": [
     {
       "xpos": 19,
@@ -8,15 +12,11 @@
       "height": 68
     },
     {
-      "height": 31,
-      "width": 115,
       "type": "match",
-      "xpos": 813,
-      "ypos": 734
+      "width": 184,
+      "height": 42,
+      "xpos": 52,
+      "ypos": 390
     }
-  ],
-  "properties": [],
-  "tags": [
-    "firefox-appearance-mozilla_addons"
   ]
 }
