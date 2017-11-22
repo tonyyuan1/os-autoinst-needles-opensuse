@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-bootloader_kernel-parameters"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 124,
+      "width": 140,
+      "xpos": 444,
+      "height": 23
+    }
+  ]
+}
