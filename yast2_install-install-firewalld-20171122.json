@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "install-firewalld"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 99,
+      "ypos": 322,
+      "height": 27,
+      "xpos": 364
+    }
+  ],
+  "properties": []
+}
