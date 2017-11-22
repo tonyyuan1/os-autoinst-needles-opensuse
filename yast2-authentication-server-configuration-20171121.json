@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_control-center-authentication-server_configuration"
+  ],
+  "area": [
+    {
+      "xpos": 69,
+      "type": "match",
+      "width": 347,
+      "ypos": 97,
+      "height": 34
+    }
+  ],
+  "properties": []
+}
