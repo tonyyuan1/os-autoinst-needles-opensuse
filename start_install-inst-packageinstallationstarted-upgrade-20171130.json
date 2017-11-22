@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "inst-packageinstallationstarted"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 172,
+      "ypos": 196,
+      "height": 71,
+      "xpos": 149
+    }
+  ]
+}
