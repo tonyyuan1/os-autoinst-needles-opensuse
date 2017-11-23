@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 422,
+      "ypos": 6,
+      "width": 180,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-new-tab"
+  ]
+}
