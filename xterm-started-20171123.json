@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-BRIDGED_NETWORKING-1",
+    "xterm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 484,
+      "xpos": 21,
+      "ypos": 38,
+      "height": 253
+    },
+    {
+      "height": 18,
+      "ypos": 44,
+      "type": "exclude",
+      "width": 97,
+      "xpos": 78
+    }
+  ]
+}
