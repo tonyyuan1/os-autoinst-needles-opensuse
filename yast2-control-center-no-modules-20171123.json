@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_control_no_modules"
+  ],
+  "area": [
+    {
+      "xpos": 420,
+      "ypos": 240,
+      "width": 202,
+      "height": 69,
+      "type": "match"
+    },
+    {
+      "xpos": 204,
+      "ypos": 298,
+      "width": 130,
+      "height": 65,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
