@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 27,
+      "width": 138,
+      "xpos": 60,
+      "ypos": 482
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_smoke-detect-folders-scanning"
+  ]
+}
