@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 387,
+      "height": 142,
+      "ypos": 87,
+      "type": "match",
+      "width": 252
+    },
+    {
+      "xpos": 196,
+      "height": 68,
+      "ypos": 265,
+      "type": "match",
+      "width": 171
+    }
+  ],
+  "tags": [
+    "ENV-JEOS-1",
+    "ENV-OFW-0",
+    "ENV-UEFI-1",
+    "bootloader-grub2"
+  ],
+  "properties": []
+}
