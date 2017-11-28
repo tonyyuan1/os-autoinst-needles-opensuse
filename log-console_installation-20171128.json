@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 176,
+      "xpos": 122,
+      "height": 10,
+      "width": 78,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "log-console"
+  ]
+}
