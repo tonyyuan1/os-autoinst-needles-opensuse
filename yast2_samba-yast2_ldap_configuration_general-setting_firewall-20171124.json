@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ldap_configuration_general-setting_firewall"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 426,
+      "ypos": 432,
+      "width": 97,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
