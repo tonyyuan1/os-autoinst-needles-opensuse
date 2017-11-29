@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 17,
+      "width": 122,
+      "ypos": 127,
+      "xpos": 31
+    },
+    {
+      "ypos": 145,
+      "xpos": 33,
+      "width": 193,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "ypos": 207,
+      "xpos": 32,
+      "height": 16,
+      "width": 183,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "bsc#1056413",
+    "desktop-not-selected",
+    "modules-preselected-sles"
+  ],
+  "properties": []
+}
