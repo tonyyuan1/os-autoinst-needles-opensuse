@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 151,
+      "type": "match",
+      "height": 14,
+      "width": 127
+    },
+    {
+      "xpos": 360,
+      "ypos": 176,
+      "type": "match",
+      "width": 174,
+      "height": 18
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "bsc#1056413",
+    "desktop-not-selected",
+    "modules-preselected-sled"
+  ]
+}
