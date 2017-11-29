@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "yast2_proxy-port_opened"
+  ],
+  "area": [
+    {
+      "ypos": 463,
+      "xpos": 355,
+      "height": 18,
+      "type": "match",
+      "width": 210
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
