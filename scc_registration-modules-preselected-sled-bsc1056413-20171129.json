@@ -1,26 +1,25 @@
 {
-  "area": [
-    {
-      "xpos": 361,
-      "ypos": 151,
-      "type": "match",
-      "height": 14,
-      "width": 127
-    },
-    {
-      "xpos": 360,
-      "ypos": 176,
-      "type": "match",
-      "width": 174,
-      "height": 18
-    }
+  "tags": [
+    "bsc#1056413",
+    "modules-preselected-sled"
   ],
   "properties": [
     "workaround"
   ],
-  "tags": [
-    "bsc#1056413",
-    "desktop-not-selected",
-    "modules-preselected-sled"
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 151,
+      "width": 127,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "ypos": 176,
+      "height": 18,
+      "width": 174,
+      "type": "match"
+    }
   ]
 }
