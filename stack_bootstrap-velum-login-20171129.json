@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 607,
+      "ypos": 304,
+      "width": 295,
+      "height": 197,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-login"
+  ]
+}
