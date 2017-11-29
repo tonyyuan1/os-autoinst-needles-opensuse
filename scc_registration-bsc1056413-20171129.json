@@ -1,30 +1,33 @@
 {
-  "tags": [
-    "bsc#1056413",
-    "modules-preselected-sles"
-  ],
-  "properties": [],
   "area": [
     {
-      "xpos": 360,
-      "ypos": 207,
       "type": "match",
+      "width": 129,
       "height": 17,
-      "width": 129
+      "ypos": 207,
+      "xpos": 360
     },
     {
-      "type": "match",
-      "height": 14,
-      "width": 175,
+      "ypos": 237,
       "xpos": 361,
-      "ypos": 237
+      "type": "match",
+      "width": 175,
+      "height": 14
     },
     {
-      "width": 162,
-      "height": 16,
       "type": "match",
-      "xpos": 359,
-      "ypos": 353
+      "height": 16,
+      "width": 162,
+      "ypos": 353,
+      "xpos": 359
     }
+  ],
+  "tags": [
+    "bsc#1056413",
+    "desktop-not-selected",
+    "modules-preselected-sles"
+  ],
+  "properties": [
+    "workaround"
   ]
 }
