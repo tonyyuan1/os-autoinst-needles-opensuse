@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 454,
+      "ypos": 113,
+      "width": 192,
+      "height": 62,
+      "type": "match"
+    },
+    {
+      "xpos": 64,
+      "ypos": 178,
+      "width": 198,
+      "height": 154,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "smt-server-jobs"
+  ]
+}

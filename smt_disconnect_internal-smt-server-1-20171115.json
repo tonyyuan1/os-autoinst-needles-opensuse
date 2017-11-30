@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "smt-server-1"
+  ],
+  "area": [
+    {
+      "xpos": 67,
+      "ypos": 57,
+      "width": 411,
+      "height": 75,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

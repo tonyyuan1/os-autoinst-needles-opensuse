@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 306,
+      "width": 205,
+      "height": 124,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "smt-delete-entry"
+  ]
+}
