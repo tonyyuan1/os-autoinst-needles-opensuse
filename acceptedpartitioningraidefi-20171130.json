@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioningraidefi"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 455,
+      "ypos": 109,
+      "width": 87,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 455,
+      "ypos": 163,
+      "width": 100,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 455,
+      "ypos": 219,
+      "width": 98,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 453,
+      "ypos": 276,
+      "width": 102,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 345,
+      "width": 147,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 664,
+      "ypos": 344,
+      "width": 135,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 417,
+      "ypos": 373,
+      "width": 145,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 655,
+      "ypos": 373,
+      "width": 132,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
