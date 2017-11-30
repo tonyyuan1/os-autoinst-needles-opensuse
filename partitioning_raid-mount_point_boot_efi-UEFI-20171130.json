@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-mount_point_boot_efi"
+  ],
+  "area": [
+    {
+      "ypos": 369,
+      "width": 95,
+      "xpos": 610,
+      "height": 55,
+      "type": "match"
+    }
+  ]
+}
