@@ -22,7 +22,9 @@
       "width": 162
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "bsc#1056413",
     "modules-preselected-sles"
