@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 56,
+      "width": 699,
+      "ypos": 90,
+      "xpos": 63
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_lan_routing_tab"
+  ]
+}
