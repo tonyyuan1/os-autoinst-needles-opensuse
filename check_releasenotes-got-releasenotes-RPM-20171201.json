@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 152,
+      "ypos": 50,
+      "width": 85,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "got-releasenotes-RPM"
+  ],
+  "properties": []
+}
