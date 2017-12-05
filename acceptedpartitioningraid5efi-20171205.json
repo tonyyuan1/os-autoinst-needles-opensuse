@@ -1,0 +1,46 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioningraid5efi",
+    "acceptedpartitioningraidefi"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 109,
+      "height": 21,
+      "width": 88,
+      "xpos": 455,
+      "type": "match"
+    },
+    {
+      "xpos": 455,
+      "type": "match",
+      "width": 99,
+      "height": 22,
+      "ypos": 164
+    },
+    {
+      "type": "match",
+      "xpos": 453,
+      "height": 22,
+      "ypos": 221,
+      "width": 102
+    },
+    {
+      "xpos": 454,
+      "type": "match",
+      "width": 101,
+      "ypos": 275,
+      "height": 24
+    },
+    {
+      "type": "match",
+      "xpos": 415,
+      "width": 148,
+      "ypos": 373,
+      "height": 11
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 21,
+      "ypos": 109,
+      "width": 88,
+      "xpos": 455,
+      "type": "match"
+    },
+    {
+      "width": 99,
+      "height": 22,
+      "ypos": 164,
+      "type": "match",
+      "xpos": 455
+    },
+    {
+      "width": 102,
+      "height": 22,
+      "ypos": 221,
+      "xpos": 453,
+      "type": "match"
+    },
+    {
+      "width": 101,
+      "height": 24,
+      "ypos": 275,
+      "xpos": 454,
+      "type": "match"
+    },
+    {
+      "width": 148,
+      "height": 11,
+      "ypos": 373,
+      "xpos": 415,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioningraid1efi",
+    "acceptedpartitioningraidefi"
+  ]
+}
