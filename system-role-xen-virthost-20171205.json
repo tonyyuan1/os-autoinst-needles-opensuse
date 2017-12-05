@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-xen-selected",
+    "system-role-xen-virthost"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 68,
+      "width": 225,
+      "ypos": 583,
+      "xpos": 502
+    }
+  ]
+}
