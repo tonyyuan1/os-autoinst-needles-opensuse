@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "empathy-aim-contact-list"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 54,
+      "width": 218,
+      "type": "match",
+      "xpos": 101,
+      "ypos": 144
+    }
+  ]
+}
