@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLE-PRODUCT-SLES4SAP",
+    "ENV-SP2ORLATER-1",
+    "ENV-VERSION-15",
+    "ENV-VIDEOMODE-text",
+    "system-role-default-system"
+  ],
+  "area": [
+    {
+      "xpos": 259,
+      "ypos": 174,
+      "width": 251,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

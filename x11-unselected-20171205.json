@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "ypos": 175,
+      "width": 203,
+      "xpos": 23,
+      "type": "match",
+      "height": 17
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "x11-unselected"
+  ]
+}
