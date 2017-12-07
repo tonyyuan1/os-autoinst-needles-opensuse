@@ -1,17 +1,17 @@
 {
-  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "oowriter",
     "test-ooffice-1"
   ],
+  "properties": [],
   "area": [
     {
-      "height": 226,
-      "width": 526,
-      "type": "match",
       "ypos": 45,
-      "xpos": 9
+      "xpos": 9,
+      "type": "match",
+      "width": 526,
+      "height": 226
     }
   ]
 }
