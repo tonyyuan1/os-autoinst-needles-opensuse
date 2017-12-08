@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 42,
+      "ypos": 171,
+      "width": 63,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 512,
+      "ypos": 179,
+      "width": 29,
+      "height": 92,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "custompart",
+    "storage-ng"
+  ]
+}
