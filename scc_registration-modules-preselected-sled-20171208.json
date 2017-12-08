@@ -1,0 +1,31 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "modules-preselected-sled"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 127,
+      "height": 14,
+      "ypos": 151,
+      "xpos": 361
+    },
+    {
+      "type": "match",
+      "height": 18,
+      "width": 174,
+      "xpos": 360,
+      "ypos": 176
+    },
+    {
+      "xpos": 361,
+      "ypos": 207,
+      "width": 171,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
