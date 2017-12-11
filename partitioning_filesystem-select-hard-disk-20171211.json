@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "select-hard-disk"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 351,
+      "height": 52,
+      "width": 112,
+      "xpos": 358
+    },
+    {
+      "width": 161,
+      "xpos": 14,
+      "type": "match",
+      "height": 18,
+      "ypos": 29
+    }
+  ],
+  "properties": []
+}
