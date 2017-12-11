@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "switch-to-velum"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 18,
+      "width": 244,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}
