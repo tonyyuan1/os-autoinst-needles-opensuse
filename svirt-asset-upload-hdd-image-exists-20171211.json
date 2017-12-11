@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 2,
+      "height": 10,
+      "width": 255,
+      "xpos": 23
+    },
+    {
+      "xpos": 1,
+      "ypos": 16,
+      "width": 35,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "svirt-asset-upload-hdd-image-exists"
+  ]
+}
