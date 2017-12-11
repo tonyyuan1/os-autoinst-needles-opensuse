@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-table-MSDOS-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 134,
+      "xpos": 397,
+      "type": "match",
+      "ypos": 337,
+      "height": 41
+    }
+  ]
+}
