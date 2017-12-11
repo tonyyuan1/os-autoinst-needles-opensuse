@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 725,
+      "ypos": 37,
+      "type": "match",
+      "xpos": 401,
+      "width": 605
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "GNOME",
+    "generic-desktop",
+    "x11"
+  ]
+}
