@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 516,
+      "height": 13,
+      "width": 81,
+      "xpos": 466
+    },
+    {
+      "ypos": 294,
+      "height": 41,
+      "type": "match",
+      "xpos": 225,
+      "width": 479
+    },
+    {
+      "xpos": 335,
+      "ypos": 314,
+      "width": 36,
+      "height": 15,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP1-RT",
+    "release-notes-sdk"
+  ]
+}
