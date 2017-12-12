@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
+    "yast_virtualization_installed",
     "virt-sle-gnome_yast_virtualization_installed"
   ],
   "properties": []

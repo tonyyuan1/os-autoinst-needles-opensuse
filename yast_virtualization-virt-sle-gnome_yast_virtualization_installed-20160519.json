@@ -12,6 +12,7 @@
   "tags": [
     "ENV-FLAVOR-Desktop-DVD",
     "ENV-SP2ORLATER-1",
+    "yast_virtualization_installed",
     "virt-sle-gnome_yast_virtualization_installed"
   ]
 }

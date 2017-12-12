@@ -1,6 +1,7 @@
 {
   "tags": [
     "ENV-SP2ORLATER-0",
+    "yast2-virtualization-ui",
     "virt-sle-gnome_yast_virtualization"
   ],
   "area": [

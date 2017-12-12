@@ -10,6 +10,7 @@
     }
   ],
   "tags": [
+    "yast_virtualization_graphics",
     "virt-sle12sp1-gnome_yast_virtualization_graphics",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-sle",

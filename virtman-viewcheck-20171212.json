@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 153,
+      "xpos": 445,
+      "type": "match",
+      "height": 104,
+      "ypos": 120
+    }
+  ],
+  "tags": [
+    "virtman-viewcheck",
+    "ENV-INSTLANG-en_US"
+  ]
+}

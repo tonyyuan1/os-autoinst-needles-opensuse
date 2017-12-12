@@ -11,6 +11,7 @@
   ],
   "tags": [
     "ENV-SP2ORLATER-0",
+    "yast_virtualization_installed",
     "virt-sle-gnome_yast_virtualization_installed"
   ]
 }
