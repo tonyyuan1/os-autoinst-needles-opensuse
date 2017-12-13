@@ -1,6 +1,7 @@
 {
   "properties": [],
   "tags": [
+    "yast2-virtualization-ui",
     "virt-sle12sp1-gnome_yast_virtualization",
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-sle",

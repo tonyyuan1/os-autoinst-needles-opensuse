@@ -5,6 +5,7 @@
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "ENV-SP2ORLATER-1",
+    "virt-yast_virtualization_install_progress",
     "virt-sle12sp1-gnome_yast_virtualization_install_progress"
   ],
   "area": [

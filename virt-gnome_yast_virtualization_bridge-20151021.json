@@ -3,6 +3,7 @@
     "ENV-DESKTOP-gnome",
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
+    "yast_virtualization_bridge",
     "virt-sle12sp1-gnome_yast_virtualization_bridge"
   ],
   "area": [
