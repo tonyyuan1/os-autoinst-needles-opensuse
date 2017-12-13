@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 328,
+      "ypos": 478,
+      "width": 123,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "partition-selected-bios-boot-type",
+    "storage-ng"
+  ],
+  "properties": []
+}
