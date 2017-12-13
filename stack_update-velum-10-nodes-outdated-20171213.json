@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-10-nodes-outdated"
+  ],
+  "area": [
+    {
+      "xpos": 59,
+      "ypos": 463,
+      "width": 44,
+      "height": 112,
+      "type": "match"
+    },
+    {
+      "xpos": 622,
+      "ypos": 244,
+      "width": 166,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
