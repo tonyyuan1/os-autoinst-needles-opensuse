@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-VERSION-15",
+    "dasd-format-device"
+  ],
+  "area": [
+    {
+      "width": 290,
+      "xpos": 368,
+      "type": "match",
+      "ypos": 342,
+      "height": 93
+    }
+  ],
+  "properties": []
+}
