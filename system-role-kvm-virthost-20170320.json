@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "system-role-kvm-virthost", "system-role-kvm-selected"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 501,
+      "width": 225,
+      "height": 54,
+      "ypos": 411
+    },
+    {
+      "height": 39,
+      "ypos": 720,
+      "xpos": 87,
+      "width": 165,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
