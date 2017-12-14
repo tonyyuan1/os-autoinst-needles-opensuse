@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 377,
+      "type": "match",
+      "ypos": 344,
+      "height": 91,
+      "width": 264
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "enable-multipath"
+  ]
+}
