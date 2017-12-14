@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "partitioning_raid-raid_10-selected",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 36,
+      "ypos": 218,
+      "height": 15,
+      "type": "match",
+      "width": 189
+    }
+  ],
+  "properties": []
+}
