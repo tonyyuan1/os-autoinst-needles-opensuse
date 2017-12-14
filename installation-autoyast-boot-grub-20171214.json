@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "autoyast-boot"
+  ],
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 66,
+      "width": 47,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 239,
+      "ypos": 30,
+      "width": 67,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
