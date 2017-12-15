@@ -4,12 +4,13 @@
     {
       "xpos": 33,
       "ypos": 398,
-      "width": 449,
+      "width": 426,
       "height": 17,
       "type": "match"
     }
   ],
   "tags": [
-    "select-product-sles4sap"
+    "select-product-sles4sap",
+    "ENV-SLES4SAP-1"
   ]
 }

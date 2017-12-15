@@ -10,12 +10,12 @@
       "height": 48,
       "ypos": 190,
       "xpos": 29,
-      "width": 305
+      "width": 226
     },
     {
       "xpos": 29,
       "ypos": 114,
-      "width": 256,
+      "width": 175,
       "height": 28,
       "type": "match"
     }
