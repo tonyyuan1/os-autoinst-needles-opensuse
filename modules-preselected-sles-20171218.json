@@ -1,0 +1,32 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 129,
+      "xpos": 360,
+      "type": "match",
+      "ypos": 207,
+      "height": 17
+    },
+    {
+      "width": 175,
+      "xpos": 361,
+      "type": "match",
+      "height": 14,
+      "ypos": 237
+    },
+    {
+      "height": 16,
+      "ypos": 353,
+      "type": "match",
+      "xpos": 359,
+      "width": 162
+    }
+  ],
+  "tags": [
+    "desktop-not-selected",
+    "modules-preselected-sles"
+  ]
+}
