@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 465,
+      "ypos": 337,
+      "width": 224,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_cannot-open-interface"
+  ],
+  "properties": []
+}
