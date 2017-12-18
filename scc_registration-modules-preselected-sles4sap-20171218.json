@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "modules-preselected-sles4sap"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 177,
+      "width": 129,
+      "height": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "ypos": 260,
+      "width": 149,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "ypos": 348,
+      "width": 156,
+      "height": 52,
+      "type": "match"
+    }
+  ]
+}
