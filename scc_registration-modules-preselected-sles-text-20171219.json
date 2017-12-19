@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 167,
+      "xpos": 31,
+      "height": 10,
+      "type": "match",
+      "ypos": 114
+    },
+    {
+      "ypos": 209,
+      "type": "match",
+      "height": 12,
+      "xpos": 32,
+      "width": 243
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "desktop-not-selected",
+    "modules-preselected-sles"
+  ]
+}
