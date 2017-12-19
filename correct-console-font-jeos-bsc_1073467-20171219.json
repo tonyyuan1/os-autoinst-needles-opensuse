@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-JEOS-1",
+    "correct-console-font"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 26,
+      "width": 184,
+      "type": "match",
+      "ypos": 465,
+      "height": 130
+    }
+  ]
+}
