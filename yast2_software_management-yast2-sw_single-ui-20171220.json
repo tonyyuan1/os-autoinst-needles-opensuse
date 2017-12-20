@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 205,
+      "ypos": 131,
+      "width": 51,
+      "type": "match",
+      "height": 26
+    },
+    {
+      "type": "match",
+      "height": 22,
+      "ypos": 224,
+      "xpos": 131,
+      "width": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-sw_single-ui"
+  ]
+}
