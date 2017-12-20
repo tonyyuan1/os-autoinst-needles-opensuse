@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "ENV-VIDEOMODE-text",
+    "modules-preselected-sles4sap"
+  ],
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 96,
+      "width": 172,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "width": 226,
+      "xpos": 33,
+      "ypos": 143,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "ypos": 191,
+      "width": 222,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
