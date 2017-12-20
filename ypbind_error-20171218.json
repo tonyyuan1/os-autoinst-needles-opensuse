@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "nis_server_not_found",
+    "ypbind_error"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "xpos": 391,
+      "ypos": 351,
+      "type": "match",
+      "width": 45
+    },
+    {
+      "xpos": 549,
+      "ypos": 368,
+      "width": 74,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
