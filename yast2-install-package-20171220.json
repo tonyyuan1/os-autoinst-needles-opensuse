@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 319,
+      "width": 244,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-install-package"
+  ]
+}
