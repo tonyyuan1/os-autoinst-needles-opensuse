@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-bootloader_default-boot-section_tw"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 389,
+      "xpos": 532,
+      "width": 67,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
