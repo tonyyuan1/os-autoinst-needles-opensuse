@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 87,
+      "type": "match",
+      "height": 18,
+      "ypos": 226,
+      "xpos": 281
+    },
+    {
+      "xpos": 470,
+      "width": 10,
+      "height": 19,
+      "type": "match",
+      "ypos": 254
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-network-settings_overview_hardware-dialog_device-type"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-network-settings_routing_ipv6"
+  ],
+  "area": [
+    {
+      "ypos": 570,
+      "height": 22,
+      "type": "match",
+      "width": 103,
+      "xpos": 159
+    }
+  ],
+  "properties": []
+}
