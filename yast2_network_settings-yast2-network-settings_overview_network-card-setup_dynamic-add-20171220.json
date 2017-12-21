@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 272,
+      "height": 27,
+      "type": "match",
+      "width": 141,
+      "xpos": 123
+    },
+    {
+      "xpos": 281,
+      "height": 26,
+      "type": "match",
+      "width": 141,
+      "ypos": 273
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-network-settings_overview_network-card-setup_dynamic-add"
+  ]
+}
