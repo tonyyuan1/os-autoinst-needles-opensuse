@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dconf-editor"
+  ],
+  "area": [
+    {
+      "xpos": 90,
+      "ypos": 2,
+      "width": 137,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 115,
+      "ypos": 62,
+      "width": 103,
+      "height": 251,
+      "type": "match"
+    }
+  ]
+}

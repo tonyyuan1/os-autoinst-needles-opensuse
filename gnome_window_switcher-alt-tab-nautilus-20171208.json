@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "alt-tab-nautilus"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 118,
+      "width": 120,
+      "xpos": 591,
+      "ypos": 325
+    }
+  ]
+}

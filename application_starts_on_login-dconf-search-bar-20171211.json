@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dconf-search-bar"
+  ],
+  "area": [
+    {
+      "xpos": 305,
+      "ypos": 109,
+      "width": 171,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 115,
+      "ypos": 62,
+      "width": 65,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

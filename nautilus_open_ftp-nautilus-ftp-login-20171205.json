@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 290,
+      "width": 121,
+      "type": "match",
+      "height": 19,
+      "xpos": 495
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nautilus-ftp-login"
+  ],
+  "properties": []
+}
