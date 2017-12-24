@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-gnome"
+  ],
+  "area": [
+    {
+      "xpos": 30,
+      "height": 66,
+      "width": 443,
+      "ypos": 63,
+      "type": "match"
+    },
+    {
+      "ypos": 191,
+      "xpos": 622,
+      "height": 110,
+      "width": 148,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 629,
+      "ypos": 422,
+      "width": 128,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dm-gnome-shell"
+  ]
+}
