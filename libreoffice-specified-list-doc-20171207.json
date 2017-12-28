@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-specified-list-doc"
+  ],
+  "area": [
+    {
+      "ypos": 225,
+      "height": 75,
+      "type": "match",
+      "xpos": 548,
+      "width": 75
+    }
+  ],
+  "properties": []
+}

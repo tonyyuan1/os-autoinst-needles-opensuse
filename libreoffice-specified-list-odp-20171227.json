@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 316,
+      "height": 85,
+      "xpos": 819,
+      "width": 92
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-specified-list-odp"
+  ]
+}

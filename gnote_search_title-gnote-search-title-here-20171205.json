@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "gnote-search-title-here"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 331,
+      "xpos": 66,
+      "height": 144,
+      "ypos": 172
+    }
+  ]
+}

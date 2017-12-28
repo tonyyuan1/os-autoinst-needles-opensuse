@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 65,
+      "xpos": 538,
+      "type": "match",
+      "ypos": 203,
+      "height": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gedit-about-credits"
+  ]
+}

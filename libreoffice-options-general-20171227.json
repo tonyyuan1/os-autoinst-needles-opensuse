@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-options-general"
+  ],
+  "area": [
+    {
+      "height": 20,
+      "ypos": 148,
+      "width": 53,
+      "xpos": 132,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
