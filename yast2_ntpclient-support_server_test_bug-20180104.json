@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 350,
+      "width": 56,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 303,
+      "ypos": 366,
+      "width": 410,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_ntp-client_support_server_test_bug"
+  ]
+}
