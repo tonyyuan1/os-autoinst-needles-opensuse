@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-specific-dialogs"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 49,
+      "xpos": 643,
+      "ypos": 196,
+      "width": 183
+    },
+    {
+      "type": "match",
+      "height": 134,
+      "width": 96,
+      "ypos": 445,
+      "xpos": 724
+    },
+    {
+      "type": "match",
+      "height": 124,
+      "ypos": 445,
+      "width": 74,
+      "xpos": 202
+    }
+  ],
+  "properties": []
+}

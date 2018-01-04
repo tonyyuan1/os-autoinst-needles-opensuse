@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 63,
+      "ypos": 175,
+      "xpos": 313,
+      "width": 213,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-general-dialogs-enabled"
+  ]
+}

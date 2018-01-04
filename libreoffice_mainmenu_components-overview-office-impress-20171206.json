@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "overview-office-impress"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 39,
+      "height": 217,
+      "width": 370,
+      "xpos": 328,
+      "type": "match"
+    }
+  ]
+}

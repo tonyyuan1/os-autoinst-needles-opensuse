@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oowriter-menus-file-recentDocuments"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "xpos": 316,
+      "ypos": 174,
+      "width": 107
+    }
+  ]
+}

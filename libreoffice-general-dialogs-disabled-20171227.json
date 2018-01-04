@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-general-dialogs-disabled"
+  ],
+  "area": [
+    {
+      "height": 48,
+      "ypos": 174,
+      "width": 207,
+      "xpos": 317,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

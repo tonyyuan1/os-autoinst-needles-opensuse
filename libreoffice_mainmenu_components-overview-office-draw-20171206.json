@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 292,
+      "xpos": 246,
+      "ypos": 43,
+      "height": 213
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "overview-office-draw"
+  ]
+}

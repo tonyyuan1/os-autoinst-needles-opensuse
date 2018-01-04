@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 310,
+      "height": 19,
+      "ypos": 204,
+      "width": 114
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-clear-list"
+  ]
+}

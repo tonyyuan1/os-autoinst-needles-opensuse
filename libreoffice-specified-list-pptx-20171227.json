@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-specified-list-pptx"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 84,
+      "height": 83,
+      "ypos": 408,
+      "xpos": 545
+    }
+  ]
+}
