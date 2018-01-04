@@ -17,6 +17,6 @@
     }
   ],
   "tags": [
-    "yast2_ntp-client_support_server_test_bug"
+    "bsc#1074726"
   ]
 }
