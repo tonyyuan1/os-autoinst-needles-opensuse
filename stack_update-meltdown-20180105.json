@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "velum-sorry"
+  ],
+  "area": [
+    {
+      "xpos": 244,
+      "ypos": 62,
+      "width": 536,
+      "height": 118,
+      "type": "match"
+    }
+  ]
+}
