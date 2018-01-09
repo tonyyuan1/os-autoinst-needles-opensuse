@@ -1,14 +1,14 @@
 {
   "tags": [
     "ENV-15ORLATER-1",
-    "addon-products-all_packages-base-highlighted"
+    "addon-products-all_packages-sdk-highlighted"
   ],
   "area": [
     {
-      "xpos": 281,
-      "ypos": 301,
-      "width": 82,
-      "height": 10,
+      "xpos": 361,
+      "ypos": 222,
+      "width": 118,
+      "height": 13,
       "match": 100,
       "type": "match"
     }

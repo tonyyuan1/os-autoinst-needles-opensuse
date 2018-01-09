@@ -2,14 +2,14 @@
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "addon-products-all_packages-serverapp-highlighted"
+    "addon-products-all_packages-contm-highlighted"
   ],
   "area": [
     {
-      "xpos": 279,
-      "ypos": 540,
-      "width": 123,
-      "height": 10,
+      "xpos": 360,
+      "ypos": 149,
+      "width": 76,
+      "height": 14,
       "match": 100,
       "type": "match"
     }

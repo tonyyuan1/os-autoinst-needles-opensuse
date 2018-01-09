@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-hpcm"
+  ],
+  "area": [
+    {
+      "xpos": 745,
+      "ypos": 181,
+      "width": 67,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
