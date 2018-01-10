@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "filesystem-ext2"
+  ],
+  "area": [
+    {
+      "xpos": 876,
+      "width": 44,
+      "ypos": 730,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 566,
+      "ypos": 299,
+      "width": 169,
+      "height": 59,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

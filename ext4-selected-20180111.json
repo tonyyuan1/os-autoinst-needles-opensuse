@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "ext4-selected"
+  ],
+  "area": [
+    {
+      "ypos": 331,
+      "xpos": 586,
+      "width": 28,
+      "type": "match",
+      "height": 18,
+      "match": 99
+    },
+    {
+      "xpos": 574,
+      "ypos": 306,
+      "width": 113,
+      "height": 53,
+      "type": "match"
+    }
+  ]
+}

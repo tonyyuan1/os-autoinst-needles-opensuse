@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "filesystem-btrfs"
+  ],
+  "area": [
+    {
+      "xpos": 413,
+      "ypos": 332,
+      "width": 33,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 399,
+      "ypos": 305,
+      "width": 130,
+      "height": 55,
+      "type": "match"
+    }
+  ]
+}
