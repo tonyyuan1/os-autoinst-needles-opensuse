@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 217,
+      "ypos": 220,
+      "width": 199,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "addon-betawarning-ha"
+  ],
+  "properties": []
+}
