@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 30,
+      "width": 293,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 41,
+      "ypos": 126,
+      "width": 305,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-addon-license-live"
+  ],
+  "properties": []
+}
