@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 405,
+      "height": 309,
+      "ypos": 116,
+      "width": 151,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "acceptedpartitioningraidlvm"
+  ],
+  "properties": []
+}

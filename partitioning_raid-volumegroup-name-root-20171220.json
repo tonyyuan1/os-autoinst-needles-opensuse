@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 34,
+      "xpos": 13,
+      "height": 59,
+      "ypos": 134
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "volumegroup-name-root"
+  ]
+}

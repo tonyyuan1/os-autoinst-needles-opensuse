@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 369,
+      "height": 108,
+      "type": "match",
+      "xpos": 413,
+      "width": 189
+    },
+    {
+      "width": 18,
+      "height": 81,
+      "ypos": 390,
+      "xpos": 431,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "volume-pick-fs-role"
+  ],
+  "properties": []
+}
