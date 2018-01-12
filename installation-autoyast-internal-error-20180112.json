@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "autoyast-error",
+    "warning-pop-up"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 196,
+      "ypos": 331,
+      "width": 33,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 194,
+      "ypos": 356,
+      "width": 70,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
