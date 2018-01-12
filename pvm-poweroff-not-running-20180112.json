@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "pvm-poweroff-not-running"
+  ],
+  "area": [
+    {
+      "xpos": 808,
+      "ypos": 145,
+      "width": 197,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": -1,
+      "ypos": 145,
+      "width": 283,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
