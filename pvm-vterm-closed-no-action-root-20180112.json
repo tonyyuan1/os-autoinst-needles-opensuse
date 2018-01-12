@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pvm-vterm-closed"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 83,
+      "width": 73,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}
