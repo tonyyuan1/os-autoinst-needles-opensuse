@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pvm-poweron-successful"
+  ],
+  "area": [
+    {
+      "xpos": 169,
+      "ypos": 274,
+      "width": 149,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
