@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 176,
+      "ypos": 9,
+      "width": 207,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-grub"
+  ]
+}
