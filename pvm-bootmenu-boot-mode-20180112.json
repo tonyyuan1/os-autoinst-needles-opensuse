@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "pvm-bootmenu-boot-mode"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 496,
+      "width": 182,
+      "height": 46,
+      "type": "match"
+    }
+  ]
+}
