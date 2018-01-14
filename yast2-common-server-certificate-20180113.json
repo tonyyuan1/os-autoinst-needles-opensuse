@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 80,
+      "ypos": 95,
+      "width": 238,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 315,
+      "ypos": 48,
+      "width": 241,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 709,
+      "ypos": 605,
+      "width": 102,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 763,
+      "ypos": 640,
+      "width": 37,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-common-server-certificate"
+  ]
+}

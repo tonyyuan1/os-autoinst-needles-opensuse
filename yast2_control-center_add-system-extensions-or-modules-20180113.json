@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 43,
+      "type": "match",
+      "ypos": 95,
+      "width": 298,
+      "xpos": 20
+    }
+  ],
+  "tags": [
+    "yast2_control-center_add-system-extensions-or-modules"
+  ]
+}
