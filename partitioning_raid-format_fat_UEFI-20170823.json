@@ -11,6 +11,6 @@
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "partitioning_raid-format_fat_UEFI"
+    "partitioning_raid-format_default_UEFI"
   ]
 }
