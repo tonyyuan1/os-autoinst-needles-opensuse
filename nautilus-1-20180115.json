@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-nautilus-1",
+    "nautilus"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 77,
+      "type": "match",
+      "height": 351,
+      "width": 181,
+      "xpos": 69
+    },
+    {
+      "xpos": 772,
+      "width": 180,
+      "height": 41,
+      "ypos": 77,
+      "type": "match"
+    },
+    {
+      "ypos": 2,
+      "type": "match",
+      "height": 22,
+      "width": 98,
+      "xpos": 82
+    }
+  ]
+}
