@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-disk_vda_with_partitions-selected"
+  ],
+  "area": [
+    {
+      "xpos": 66,
+      "type": "match",
+      "ypos": 192,
+      "height": 77,
+      "width": 39
+    }
+  ],
+  "properties": []
+}

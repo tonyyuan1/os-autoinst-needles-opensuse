@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 91,
+      "height": 79,
+      "ypos": 191,
+      "type": "match",
+      "xpos": 44
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-UEFI-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-hard_disks-unfolded",
+    "storage-ng"
+  ],
+  "properties": []
+}

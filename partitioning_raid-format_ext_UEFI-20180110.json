@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 108,
+      "ypos": 321,
+      "height": 74,
+      "type": "match",
+      "xpos": 286
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-format_ext_UEFI"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "volume-empty-mount"
+  ],
+  "area": [
+    {
+      "xpos": 526,
+      "ypos": 320,
+      "width": 165,
+      "height": 99,
+      "type": "match"
+    }
+  ]
+}
