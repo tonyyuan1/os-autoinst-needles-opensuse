@@ -12,6 +12,6 @@
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-STORAGE_NG-1",
-    "partitioning_raid-format_ext_UEFI"
+    "partitioning_raid-format_default_UEFI"
   ]
 }
