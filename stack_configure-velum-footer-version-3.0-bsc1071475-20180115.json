@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-footer-version-3.0"
+  ],
+  "area": [
+    {
+      "height": 18,
+      "width": 157,
+      "xpos": 88,
+      "ypos": 711,
+      "type": "match"
+    }
+  ]
+}
