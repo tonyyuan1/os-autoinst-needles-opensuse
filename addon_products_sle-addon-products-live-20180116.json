@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 167,
+      "width": 74,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-live"
+  ]
+}
