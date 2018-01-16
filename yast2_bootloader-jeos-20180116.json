@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-JEOS-1",
+    "test-yast2_bootloader-1"
+  ],
+  "area": [
+    {
+      "ypos": 24,
+      "width": 295,
+      "height": 197,
+      "xpos": 20,
+      "type": "match"
+    },
+    {
+      "ypos": 253,
+      "width": 467,
+      "height": 152,
+      "type": "match",
+      "xpos": 28
+    }
+  ],
+  "properties": []
+}
