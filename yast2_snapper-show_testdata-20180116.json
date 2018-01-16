@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 85,
+      "width": 221,
+      "height": 251,
+      "ypos": 228
+    },
+    {
+      "ypos": 255,
+      "type": "match",
+      "xpos": 562,
+      "height": 13,
+      "width": 192
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_snapper-show_testdata"
+  ]
+}
