@@ -2,15 +2,15 @@
   "properties": [],
   "area": [
     {
-      "xpos": 394,
+      "ypos": 321,
+      "width": 211,
+      "xpos": 391,
       "type": "match",
-      "height": 60,
-      "ypos": 304,
-      "width": 207
+      "height": 30
     }
   ],
   "tags": [
     "ENV-SP2ORLATER-1",
-    "ext4-selected"
+    "btrfs-selected"
   ]
 }
