@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-products-sleha"
+  ],
+  "area": [
+    {
+      "xpos": 56,
+      "ypos": 306,
+      "width": 39,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
