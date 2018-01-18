@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 42,
+      "width": 47,
+      "xpos": 14,
+      "type": "match",
+      "ypos": 322
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-devices_first_partition",
+    "storage-ng"
+  ]
+}
