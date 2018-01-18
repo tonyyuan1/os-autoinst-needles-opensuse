@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "yast2_ntp-client_ntp_server_public"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 630,
+      "height": 42,
+      "width": 142,
+      "ypos": 327
+    }
+  ]
+}
