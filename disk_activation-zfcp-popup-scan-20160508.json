@@ -1,16 +1,17 @@
 {
+  "tags": [
+    "ENV-15ORLATER-0",
+    "ENV-SP2ORLATER-1",
+    "zfcp-popup-scan"
+  ],
   "area": [
     {
       "ypos": 348,
       "height": 93,
-      "xpos": 422,
+      "width": 237,
       "type": "match",
-      "width": 237
+      "xpos": 422
     }
-  ],
-  "tags": [
-    "ENV-SP2ORLATER-1",
-    "zfcp-popup-scan"
   ],
   "properties": []
 }
