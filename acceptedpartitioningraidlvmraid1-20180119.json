@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 116,
+      "height": 309,
+      "width": 151,
+      "type": "match",
+      "xpos": 405
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "acceptedpartitioningraidlvm",
+    "acceptedpartitioningraidlvmraid1"
+  ]
+}
