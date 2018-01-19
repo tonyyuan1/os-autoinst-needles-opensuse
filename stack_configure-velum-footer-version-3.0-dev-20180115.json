@@ -1,10 +1,8 @@
 {
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "ENV-DISTRI-CASP",
-    "velum-footer-version-3.0"
+    "velum-footer-version-3.0-dev"
   ],
   "area": [
     {
