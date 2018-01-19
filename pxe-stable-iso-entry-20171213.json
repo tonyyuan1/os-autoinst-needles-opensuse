@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 95,
+      "ypos": 82,
+      "width": 90,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pxe-stable-iso-entry"
+  ]
+}

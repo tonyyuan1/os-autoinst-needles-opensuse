@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "prague-pxe-menu"
+  ],
+  "area": [
+    {
+      "xpos": 94,
+      "ypos": 3,
+      "width": 373,
+      "height": 58,
+      "type": "match"
+    }
+  ]
+}
