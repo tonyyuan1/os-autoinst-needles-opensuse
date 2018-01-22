@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 258,
+      "ypos": 303,
+      "width": 329,
+      "height": 106,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-warning-no-efi-boot"
+  ]
+}
