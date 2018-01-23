@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 28,
+      "ypos": 109,
+      "width": 79,
+      "height": 110,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SLES4SAP",
+    "sles4sap-desktop-cheatsheet"
+  ]
+}
