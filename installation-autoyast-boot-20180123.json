@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "autoyast-boot"
+  ],
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 68,
+      "width": 206,
+      "height": 104,
+      "type": "match"
+    },
+    {
+      "xpos": 151,
+      "ypos": 208,
+      "width": 41,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
