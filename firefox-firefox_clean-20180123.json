@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox",
+    "firefox_clean"
+  ],
+  "area": [
+    {
+      "height": 40,
+      "width": 114,
+      "type": "match",
+      "xpos": 656,
+      "ypos": 30
+    },
+    {
+      "ypos": 100,
+      "width": 33,
+      "height": 34,
+      "type": "match",
+      "xpos": 566
+    },
+    {
+      "type": "match",
+      "xpos": 39,
+      "height": 35,
+      "width": 44,
+      "ypos": 98
+    }
+  ],
+  "properties": []
+}
