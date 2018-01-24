@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 66,
+      "ypos": 144,
+      "width": 48,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "text-logged-in-root",
+    "ENV-VERSION-11-SP4"
+  ]
+}

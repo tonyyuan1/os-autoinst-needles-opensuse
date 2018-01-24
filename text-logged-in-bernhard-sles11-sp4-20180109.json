@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "text-logged-in-bernhard",
+    "ENV-VERSION-11-SP4"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 128,
+      "width": 161,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
