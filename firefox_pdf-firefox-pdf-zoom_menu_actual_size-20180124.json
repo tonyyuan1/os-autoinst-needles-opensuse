@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 95,
+      "type": "match",
+      "ypos": 181,
+      "xpos": 490,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-pdf-zoom_menu_actual_size"
+  ]
+}

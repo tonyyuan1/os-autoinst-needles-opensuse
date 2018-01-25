@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-health-report-rawdata"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 248,
+      "width": 167,
+      "xpos": 313,
+      "height": 57
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-local_files-wav"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 259,
+      "xpos": 378,
+      "height": 44,
+      "ypos": 196
+    },
+    {
+      "width": 228,
+      "type": "match",
+      "ypos": 389,
+      "height": 40,
+      "xpos": 294
+    }
+  ]
+}

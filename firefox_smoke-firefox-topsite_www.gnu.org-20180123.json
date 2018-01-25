@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 21,
+      "xpos": 38,
+      "ypos": 104,
+      "type": "match",
+      "width": 176
+    },
+    {
+      "type": "match",
+      "ypos": 66,
+      "xpos": 14,
+      "height": 26,
+      "width": 31
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-topsite_www.gnu.org"
+  ]
+}
