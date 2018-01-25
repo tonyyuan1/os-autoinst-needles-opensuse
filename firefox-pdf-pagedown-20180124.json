@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-pdf-pagedown"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 321,
+      "xpos": 174,
+      "height": 32,
+      "width": 240,
+      "type": "match"
+    }
+  ]
+}

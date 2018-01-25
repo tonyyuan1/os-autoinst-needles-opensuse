@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-headers-user_agent"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 301,
+      "xpos": 552,
+      "height": 67,
+      "ypos": 651
+    }
+  ]
+}

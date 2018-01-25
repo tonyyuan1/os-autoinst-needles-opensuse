@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-help"
+  ],
+  "area": [
+    {
+      "width": 156,
+      "type": "match",
+      "ypos": 227,
+      "height": 24,
+      "xpos": 434
+    },
+    {
+      "width": 231,
+      "height": 51,
+      "xpos": 463,
+      "ypos": 274,
+      "type": "match"
+    }
+  ]
+}

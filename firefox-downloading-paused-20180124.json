@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-downloading-paused"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 21,
+      "xpos": 297,
+      "ypos": 189,
+      "type": "match",
+      "width": 50
+    },
+    {
+      "ypos": 150,
+      "height": 26,
+      "xpos": 297,
+      "width": 77,
+      "type": "match"
+    }
+  ]
+}
