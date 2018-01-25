@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 312,
+      "width": 23,
+      "height": 12,
+      "xpos": 599
+    },
+    {
+      "height": 52,
+      "xpos": 586,
+      "width": 94,
+      "ypos": 284,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "filesystem-ext4"
+  ],
+  "properties": []
+}
