@@ -43,7 +43,9 @@
       "type": "match"
     }
   ],
-  "properties": [],
+  "properties": [
+      "workaround"
+  ],
   "tags": [
     "ENV-15ORLATER-1",
     "partitioning-full-lvm-encrypt-unencrypted-boot",
