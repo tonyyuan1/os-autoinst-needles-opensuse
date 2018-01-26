@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 403,
+      "ypos": 175,
+      "width": 124,
+      "height": 222,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "partitioning-subvolumes-shown"
+  ]
+}
