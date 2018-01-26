@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-rss-button"
+  ],
+  "area": [
+    {
+      "xpos": 289,
+      "height": 69,
+      "ypos": 320,
+      "width": 78,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

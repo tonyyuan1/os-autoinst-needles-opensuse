@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-ssl-connection_untrusted",
+    "firefox-ssl-untrusted"
+  ],
+  "area": [
+    {
+      "height": 24,
+      "xpos": 23,
+      "width": 159,
+      "ypos": 69,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 61,
+      "xpos": 33,
+      "width": 590,
+      "ypos": 318
+    }
+  ]
+}

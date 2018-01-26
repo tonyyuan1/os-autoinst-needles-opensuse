@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-developertool-console_button"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "xpos": 643,
+      "ypos": 519,
+      "width": 82
+    }
+  ],
+  "properties": []
+}

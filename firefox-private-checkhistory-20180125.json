@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-private-checkhistory"
+  ],
+  "area": [
+    {
+      "height": 41,
+      "xpos": 4,
+      "width": 251,
+      "ypos": 200,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

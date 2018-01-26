@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-ssl-edit_ca_trust"
+  ],
+  "area": [
+    {
+      "height": 25,
+      "xpos": 394,
+      "width": 238,
+      "ypos": 279,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 310,
+      "ypos": 393,
+      "xpos": 262,
+      "height": 80
+    }
+  ],
+  "properties": []
+}

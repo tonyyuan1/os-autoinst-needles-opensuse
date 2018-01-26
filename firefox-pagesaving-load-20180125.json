@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 19,
+      "height": 21,
+      "width": 26,
+      "ypos": 70
+    },
+    {
+      "height": 22,
+      "xpos": 38,
+      "width": 184,
+      "ypos": 104,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-pagesaving-load"
+  ],
+  "properties": []
+}
