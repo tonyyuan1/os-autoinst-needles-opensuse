@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 96,
+      "width": 266,
+      "xpos": 26,
+      "type": "match",
+      "height": 34
+    },
+    {
+      "ypos": 335,
+      "width": 162,
+      "type": "match",
+      "height": 18,
+      "xpos": 395
+    }
+  ],
+  "tags": [
+    "create-new-partition-table"
+  ]
+}

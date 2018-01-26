@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning-full-lvm-encrypt"
+  ],
+  "area": [
+    {
+      "width": 84,
+      "ypos": 135,
+      "type": "match",
+      "xpos": 417,
+      "height": 10
+    },
+    {
+      "ypos": 133,
+      "width": 125,
+      "xpos": 622,
+      "type": "match",
+      "height": 12
+    },
+    {
+      "ypos": 148,
+      "width": 169,
+      "type": "match",
+      "height": 11,
+      "xpos": 415
+    },
+    {
+      "type": "match",
+      "xpos": 416,
+      "height": 24,
+      "ypos": 164,
+      "width": 560
+    }
+  ],
+  "properties": []
+}

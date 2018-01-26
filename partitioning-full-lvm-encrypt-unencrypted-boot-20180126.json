@@ -1,0 +1,52 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ],
+  "area": [
+    {
+      "width": 192,
+      "ypos": 111,
+      "type": "match",
+      "xpos": 416,
+      "height": 11
+    },
+    {
+      "ypos": 144,
+      "width": 131,
+      "type": "match",
+      "xpos": 416,
+      "height": 10
+    },
+    {
+      "height": 12,
+      "type": "match",
+      "xpos": 415,
+      "ypos": 159,
+      "width": 167
+    },
+    {
+      "type": "match",
+      "xpos": 416,
+      "height": 10,
+      "ypos": 176,
+      "width": 102
+    },
+    {
+      "width": 144,
+      "ypos": 191,
+      "height": 12,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "xpos": 418,
+      "ypos": 127,
+      "width": 101,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
