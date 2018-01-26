@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-private-browsing"
+  ],
+  "area": [
+    {
+      "height": 24,
+      "xpos": 59,
+      "ypos": 68,
+      "width": 140,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 110,
+      "height": 74,
+      "ypos": 172,
+      "width": 78
+    }
+  ],
+  "properties": []
+}

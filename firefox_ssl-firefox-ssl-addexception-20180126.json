@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-ssl-addexception"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 175,
+      "ypos": 105,
+      "height": 26,
+      "xpos": 424
+    },
+    {
+      "ypos": 607,
+      "width": 273,
+      "height": 87,
+      "xpos": 187,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-extensions"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 30,
+      "xpos": 13,
+      "ypos": 220,
+      "width": 127
+    }
+  ],
+  "properties": []
+}

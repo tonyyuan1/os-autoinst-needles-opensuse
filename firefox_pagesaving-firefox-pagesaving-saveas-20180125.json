@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-pagesaving-saveas"
+  ],
+  "area": [
+    {
+      "xpos": 832,
+      "height": 42,
+      "ypos": 723,
+      "width": 190,
+      "type": "match"
+    },
+    {
+      "height": 44,
+      "xpos": 174,
+      "width": 213,
+      "ypos": 75,
+      "type": "match"
+    }
+  ]
+}

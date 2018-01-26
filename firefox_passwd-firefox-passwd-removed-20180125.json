@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-passwd-removed"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 277,
+      "height": 37,
+      "width": 162,
+      "ypos": 488
+    }
+  ]
+}
