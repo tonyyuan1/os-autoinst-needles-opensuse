@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "partition-lv-size",
+    "ENV-15ORLATER-1",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 21,
+      "type": "match",
+      "height": 36,
+      "width": 301,
+      "ypos": 91
+    },
+    {
+      "ypos": 304,
+      "width": 32,
+      "xpos": 376,
+      "type": "match",
+      "height": 18
+    }
+  ],
+  "properties": []
+}

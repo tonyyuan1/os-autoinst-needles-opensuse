@@ -1,0 +1,52 @@
+{
+  "area": [
+    {
+      "ypos": 135,
+      "width": 84,
+      "type": "match",
+      "height": 10,
+      "xpos": 417
+    },
+    {
+      "width": 125,
+      "ypos": 147,
+      "type": "match",
+      "height": 12,
+      "xpos": 622
+    },
+    {
+      "height": 11,
+      "type": "match",
+      "xpos": 415,
+      "width": 169,
+      "ypos": 162
+    },
+    {
+      "width": 560,
+      "ypos": 178,
+      "type": "match",
+      "height": 24,
+      "xpos": 416
+    },
+    {
+      "xpos": 629,
+      "ypos": 136,
+      "width": 105,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 147,
+      "width": 81,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning-full-lvm-encrypt-unencrypted-boot",
+    "storage-ng"
+  ]
+}
