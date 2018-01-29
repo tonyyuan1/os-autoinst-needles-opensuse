@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 39,
+      "ypos": 255,
+      "width": 39,
+      "height": 52,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "unassigned-select-all"
+  ]
+}
