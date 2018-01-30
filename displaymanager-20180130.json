@@ -17,10 +17,9 @@
     }
   ],
   "tags": [
+    "ENV-15ORLATER-1",
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
-    "ENV-SP2ORLATER-1",
-    "displaymanager",
-    "reboot-after-installation"
+    "displaymanager"
   ]
 }
