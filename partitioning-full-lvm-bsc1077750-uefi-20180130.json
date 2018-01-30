@@ -1,0 +1,53 @@
+{
+  "area": [
+    {
+      "xpos": 417,
+      "type": "match",
+      "height": 10,
+      "ypos": 135,
+      "width": 84
+    },
+    {
+      "type": "match",
+      "xpos": 615,
+      "ypos": 147,
+      "width": 125,
+      "height": 12
+    },
+    {
+      "height": 11,
+      "ypos": 162,
+      "width": 169,
+      "xpos": 415,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "type": "match",
+      "height": 24,
+      "width": 560,
+      "ypos": 178
+    },
+    {
+      "xpos": 647,
+      "ypos": 133,
+      "width": 48,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 413,
+      "ypos": 147,
+      "width": 83,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [
+      "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning-full-lvm-encrypt"
+  ]
+}
