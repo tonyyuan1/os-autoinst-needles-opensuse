@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-sw_install_recommended_packages_enabled"
+  ],
+  "area": [
+    {
+      "width": 186,
+      "xpos": 14,
+      "type": "match",
+      "ypos": 113,
+      "height": 45
+    }
+  ],
+  "properties": []
+}
