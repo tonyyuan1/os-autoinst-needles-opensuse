@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox",
@@ -7,25 +6,26 @@
   ],
   "area": [
     {
-      "type": "match",
-      "xpos": 522,
       "width": 142,
-      "height": 40,
-      "ypos": 30
-    },
-    {
-      "xpos": 545,
-      "height": 29,
-      "width": 54,
-      "ypos": 100,
-      "type": "match"
-    },
-    {
+      "xpos": 522,
       "type": "match",
-      "ypos": 98,
-      "xpos": 39,
-      "width": 37,
-      "height": 32
+      "ypos": 30,
+      "height": 40
+    },
+    {
+      "width": 54,
+      "type": "match",
+      "xpos": 545,
+      "ypos": 100,
+      "height": 29
+    },
+    {
+      "width": 70,
+      "xpos": 6,
+      "type": "match",
+      "ypos": 64,
+      "height": 66
     }
-  ]
+  ],
+  "properties": []
 }
