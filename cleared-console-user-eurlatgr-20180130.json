@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 152,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 0,
+      "width": 13
+    },
+    {
+      "ypos": 1,
+      "type": "match",
+      "xpos": 1,
+      "width": 189,
+      "height": 10
+    }
+  ],
+  "tags": [
+    "cleared-console",
+    "cleared-console-user"
+  ]
+}
