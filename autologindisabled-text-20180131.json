@@ -1,17 +1,17 @@
 {
-  "properties": [],
   "area": [
     {
       "height": 20,
       "width": 168,
+      "xpos": 343,
       "type": "match",
-      "ypos": 431,
-      "xpos": 343
+      "ypos": 431
     }
   ],
   "tags": [
     "ENV-SP2ORLATER-1",
     "ENV-VIDEOMODE-text",
     "autologindisabled"
-  ]
+  ],
+  "properties": []
 }
