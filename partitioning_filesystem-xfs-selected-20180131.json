@@ -1,17 +1,16 @@
 {
-  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "ENV-SP2ORLATER-1",
-    "xfs-selected"
+    "ENV-SP2ORLATER-1"
   ],
   "area": [
     {
-      "xpos": 585,
-      "ypos": 434,
-      "width": 94,
-      "height": 36,
+      "xpos": 566,
+      "ypos": 438,
+      "width": 117,
+      "height": 35,
       "type": "match"
     }
-  ]
+  ],
+  "properties": []
 }
