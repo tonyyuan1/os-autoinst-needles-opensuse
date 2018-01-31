@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-SP2ORLATER-1",
@@ -8,11 +7,12 @@
   ],
   "area": [
     {
+      "height": 109,
+      "width": 294,
       "xpos": 332,
       "type": "match",
-      "ypos": 352,
-      "width": 294,
-      "height": 109
+      "ypos": 352
     }
-  ]
+  ],
+  "properties": []
 }
