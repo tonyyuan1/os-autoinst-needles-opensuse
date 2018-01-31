@@ -1,19 +1,18 @@
 {
-  "properties": [],
   "area": [
     {
-      "width": 124,
-      "ypos": 260,
       "type": "match",
-      "xpos": 324,
+      "ypos": 260,
+      "xpos": 323,
+      "width": 110,
       "height": 63
     },
     {
-      "height": 64,
-      "ypos": 261,
+      "width": 85,
       "type": "match",
-      "xpos": 509,
-      "width": 85
+      "xpos": 508,
+      "ypos": 261,
+      "height": 64
     }
   ],
   "tags": [
@@ -22,5 +21,6 @@
     "ENV-VIRSH_VMM_FAMILY-xen",
     "partitioning_raid-part_boot_added",
     "storage-ng"
-  ]
+  ],
+  "properties": []
 }
