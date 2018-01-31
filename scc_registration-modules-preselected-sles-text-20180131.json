@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-VIDEOMODE-text",
@@ -9,17 +8,18 @@
   "area": [
     {
       "height": 14,
-      "type": "match",
+      "width": 167,
       "xpos": 31,
-      "ypos": 144,
-      "width": 167
+      "type": "match",
+      "ypos": 144
     },
     {
-      "width": 243,
-      "xpos": 32,
       "type": "match",
+      "xpos": 32,
       "ypos": 241,
+      "width": 243,
       "height": 12
     }
-  ]
+  ],
+  "properties": []
 }
