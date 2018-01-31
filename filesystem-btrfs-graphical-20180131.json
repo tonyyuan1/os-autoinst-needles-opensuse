@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 115,
+      "type": "match",
+      "ypos": 261,
+      "xpos": 566,
+      "height": 76
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "filesystem-btrfs",
+    "filesystem-btrfs-selected"
+  ]
+}
