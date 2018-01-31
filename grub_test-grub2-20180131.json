@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 116,
+      "ypos": 155,
+      "width": 166,
+      "height": 93,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-Server-DVD",
+    "grub2"
+  ],
+  "properties": []
+}
