@@ -1,0 +1,27 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 451,
+      "type": "match",
+      "xpos": 313,
+      "ypos": 135,
+      "height": 171
+    },
+    {
+      "xpos": 470,
+      "ypos": 143,
+      "width": 93,
+      "height": 26,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER",
+    "ENV-STORAGE_NG-1",
+    "ENV-VERSION-15",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "custompart",
+    "storage-ng"
+  ]
+}
