@@ -1,16 +1,18 @@
 {
   "properties": [],
-  "area": [
-    {
-      "height": 142,
-      "width": 371,
-      "ypos": 304,
-      "type": "match",
-      "xpos": 302
-    }
-  ],
   "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
     "ENV-VIDEOMODE-text",
     "scc-registration"
+  ],
+  "area": [
+    {
+      "width": 294,
+      "type": "match",
+      "xpos": 332,
+      "ypos": 352,
+      "height": 109
+    }
   ]
 }
