@@ -1,24 +1,24 @@
 {
-  "area": [
-    {
-      "width": 171,
-      "type": "match",
-      "ypos": 25,
-      "xpos": 10,
-      "height": 32
-    },
-    {
-      "ypos": 753,
-      "type": "match",
-      "xpos": 952,
-      "width": 41,
-      "height": 14
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-VIDEOMODE-text",
     "partition-scheme",
     "storage-ng"
   ],
-  "properties": []
+  "area": [
+    {
+      "height": 32,
+      "width": 171,
+      "type": "match",
+      "xpos": 10,
+      "ypos": 25
+    },
+    {
+      "width": 41,
+      "type": "match",
+      "ypos": 753,
+      "xpos": 952,
+      "height": 14
+    }
+  ]
 }
