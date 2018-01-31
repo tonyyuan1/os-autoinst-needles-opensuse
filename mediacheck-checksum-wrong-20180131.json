@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 403,
+      "ypos": 332,
+      "width": 209,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "mediacheck-checksum-wrong"
+  ]
+}
