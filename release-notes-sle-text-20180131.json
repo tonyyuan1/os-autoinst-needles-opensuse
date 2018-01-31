@@ -1,0 +1,27 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLES4SAP-1",
+    "ENV-SP2ORLATER-1",
+    "ENV-VERSION-15",
+    "ENV-VIDEOMODE-text",
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "height": 12,
+      "type": "match",
+      "xpos": 200,
+      "ypos": 225,
+      "width": 105
+    },
+    {
+      "height": 12,
+      "xpos": 320,
+      "type": "match",
+      "ypos": 306,
+      "width": 224
+    }
+  ]
+}
