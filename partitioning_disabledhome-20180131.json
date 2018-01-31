@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 13,
+      "width": 236,
+      "ypos": 397,
+      "type": "match",
+      "xpos": 567
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "disabledhome",
+    "storage-ng"
+  ]
+}
