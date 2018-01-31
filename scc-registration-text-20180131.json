@@ -8,10 +8,10 @@
   ],
   "area": [
     {
-      "width": 294,
-      "type": "match",
       "xpos": 332,
+      "type": "match",
       "ypos": 352,
+      "width": 294,
       "height": 109
     }
   ]
