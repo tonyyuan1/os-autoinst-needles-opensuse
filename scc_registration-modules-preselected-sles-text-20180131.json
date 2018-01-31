@@ -1,25 +1,25 @@
 {
+  "area": [
+    {
+      "height": 10,
+      "xpos": 31,
+      "type": "match",
+      "ypos": 114,
+      "width": 167
+    },
+    {
+      "width": 243,
+      "ypos": 209,
+      "type": "match",
+      "xpos": 32,
+      "height": 12
+    }
+  ],
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-VIDEOMODE-text",
     "desktop-not-selected",
     "modules-preselected-sles"
-  ],
-  "area": [
-    {
-      "height": 14,
-      "width": 167,
-      "xpos": 31,
-      "type": "match",
-      "ypos": 144
-    },
-    {
-      "type": "match",
-      "xpos": 32,
-      "ypos": 241,
-      "width": 243,
-      "height": 12
-    }
   ],
   "properties": []
 }
