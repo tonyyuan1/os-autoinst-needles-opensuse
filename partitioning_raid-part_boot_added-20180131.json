@@ -6,16 +6,16 @@
   "area": [
     {
       "height": 63,
-      "width": 124,
+      "xpos": 321,
       "type": "match",
-      "xpos": 323,
-      "ypos": 260
+      "ypos": 259,
+      "width": 117
     },
     {
-      "width": 85,
-      "type": "match",
-      "xpos": 508,
       "ypos": 261,
+      "type": "match",
+      "xpos": 509,
+      "width": 85,
       "height": 64
     }
   ],
