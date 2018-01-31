@@ -1,0 +1,89 @@
+{
+  "properties": [
+      "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 417,
+      "ypos": 135,
+      "width": 84,
+      "height": 10
+    },
+    {
+      "height": 12,
+      "ypos": 161,
+      "width": 125,
+      "xpos": 622,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "type": "match",
+      "height": 11,
+      "width": 169,
+      "ypos": 176
+    },
+    {
+      "ypos": 192,
+      "width": 266,
+      "height": 11,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "height": 10,
+      "width": 105,
+      "ypos": 150,
+      "xpos": 629,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 416,
+      "ypos": 147,
+      "width": 81,
+      "height": 10
+    },
+    {
+      "ypos": 207,
+      "width": 273,
+      "height": 10,
+      "type": "match",
+      "xpos": 415
+    },
+    {
+      "height": 10,
+      "ypos": 190,
+      "width": 226,
+      "xpos": 746,
+      "type": "match"
+    },
+    {
+      "ypos": 208,
+      "width": 195,
+      "height": 10,
+      "type": "match",
+      "xpos": 749
+    },
+    {
+      "xpos": 622,
+      "type": "match",
+      "height": 10,
+      "ypos": 135,
+      "width": 129
+    },
+    {
+      "height": 10,
+      "ypos": 162,
+      "width": 78,
+      "xpos": 415,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning-full-lvm-encrypt-unencrypted-boot",
+    "storage-ng"
+  ]
+}
