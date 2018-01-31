@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioning",
+    "partitioning_raid-acceptedpartitioningraid10",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "height": 285,
+      "ypos": 114,
+      "width": 153,
+      "xpos": 404,
+      "type": "match"
+    },
+    {
+      "height": 217,
+      "ypos": 124,
+      "width": 114,
+      "xpos": 633,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioning",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 404,
+      "width": 153,
+      "ypos": 114,
+      "height": 285
+    },
+    {
+      "xpos": 633,
+      "ypos": 124,
+      "width": 114,
+      "height": 217,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
