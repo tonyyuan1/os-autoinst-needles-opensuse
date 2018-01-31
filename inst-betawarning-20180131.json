@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "installation",
+    "inst-betawarning"
+  ],
+  "area": [
+    {
+      "height": 141,
+      "width": 367,
+      "type": "match",
+      "ypos": 311,
+      "xpos": 325
+    }
+  ]
+}
