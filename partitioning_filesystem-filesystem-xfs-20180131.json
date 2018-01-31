@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "filesystem-xfs"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "width": 22,
+      "ypos": 309,
+      "type": "match",
+      "xpos": 599
+    },
+    {
+      "height": 58,
+      "width": 134,
+      "type": "match",
+      "xpos": 584,
+      "ypos": 281
+    }
+  ]
+}
