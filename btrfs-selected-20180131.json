@@ -1,17 +1,17 @@
 {
   "properties": [],
+  "area": [
+    {
+      "height": 53,
+      "xpos": 579,
+      "type": "match",
+      "ypos": 284,
+      "width": 104
+    }
+  ],
   "tags": [
     "ENV-15ORLATER-1",
     "ENV-SP2ORLATER-1",
     "btrfs-selected"
-  ],
-  "area": [
-    {
-      "width": 74,
-      "type": "match",
-      "ypos": 303,
-      "xpos": 576,
-      "height": 21
-    }
   ]
 }
