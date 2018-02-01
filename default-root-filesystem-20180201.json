@@ -4,16 +4,16 @@
     {
       "height": 73,
       "width": 105,
-      "type": "match",
       "ypos": 263,
+      "type": "match",
       "xpos": 599
     },
     {
-      "xpos": 650,
-      "ypos": 307,
-      "width": 26,
       "height": 23,
-      "type": "match"
+      "ypos": 307,
+      "type": "match",
+      "xpos": 580,
+      "width": 102
     }
   ],
   "tags": [
