@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-email_link-send"
+  ],
+  "area": [
+    {
+      "xpos": 255,
+      "ypos": 69,
+      "width": 167,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 43,
+      "ypos": 133,
+      "width": 90,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 40,
+      "ypos": 390,
+      "width": 215,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}
