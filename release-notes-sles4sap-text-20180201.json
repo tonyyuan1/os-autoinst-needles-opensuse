@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLES4SAP-1",
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 208,
+      "ypos": 241,
+      "width": 105,
+      "height": 12
+    },
+    {
+      "height": 12,
+      "xpos": 209,
+      "type": "match",
+      "ypos": 274,
+      "width": 224
+    },
+    {
+      "height": 12,
+      "type": "match",
+      "ypos": 176,
+      "xpos": 340,
+      "width": 30
+    }
+  ],
+  "properties": []
+}
