@@ -1,4 +1,5 @@
 {
+  "properties": [],
   "tags": [
     "ENV-STORAGE_NG-1",
     "ENV-VERSION-15",
@@ -8,32 +9,38 @@
   "area": [
     {
       "width": 66,
-      "type": "match",
       "ypos": 137,
+      "type": "match",
       "xpos": 316,
       "height": 243
     },
     {
-      "xpos": 23,
+      "width": 98,
       "type": "match",
-      "ypos": 170,
-      "width": 93,
-      "height": 16
+      "xpos": 23,
+      "ypos": 146,
+      "height": 40
     },
     {
-      "height": 19,
-      "width": 39,
-      "ypos": 148,
-      "xpos": 473,
-      "type": "exclude"
-    },
-    {
-      "xpos": 516,
-      "ypos": 180,
       "width": 198,
-      "height": 200,
-      "type": "match"
+      "xpos": 516,
+      "type": "match",
+      "ypos": 180,
+      "height": 200
+    },
+    {
+      "width": 39,
+      "xpos": 473,
+      "type": "exclude",
+      "ypos": 148,
+      "height": 19
+    },
+    {
+      "xpos": 66,
+      "ypos": 172,
+      "width": 46,
+      "height": 15,
+      "type": "exclude"
     }
-  ],
-  "properties": []
+  ]
 }
