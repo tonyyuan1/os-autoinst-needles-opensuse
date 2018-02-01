@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gedit-options-about"
+  ],
+  "area": [
+    {
+      "width": 92,
+      "ypos": 253,
+      "type": "match",
+      "xpos": 149,
+      "height": 25
+    }
+  ]
+}
