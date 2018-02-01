@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-raid_swap_added-lvm",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "height": 83,
+      "width": 54,
+      "ypos": 176,
+      "type": "match",
+      "xpos": 322
+    },
+    {
+      "height": 84,
+      "type": "match",
+      "xpos": 509,
+      "ypos": 177,
+      "width": 126
+    }
+  ]
+}
