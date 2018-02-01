@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "width": 136,
-      "xpos": 81,
-      "type": "match",
-      "height": 22,
-      "ypos": 1
-    }
-  ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "gedit-options-icon"
+  ],
+  "area": [
+    {
+      "width": 136,
+      "type": "match",
+      "ypos": 1,
+      "xpos": 81,
+      "height": 22
+    }
   ]
 }
