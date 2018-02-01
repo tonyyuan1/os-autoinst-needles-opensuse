@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-raid_swap_added",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "width": 54,
+      "ypos": 176,
+      "type": "match",
+      "xpos": 322,
+      "height": 99
+    },
+    {
+      "height": 98,
+      "width": 124,
+      "type": "match",
+      "ypos": 177,
+      "xpos": 521
+    }
+  ],
+  "properties": []
+}
