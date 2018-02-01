@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "raid-partition"
+  ],
+  "area": [
+    {
+      "ypos": 306,
+      "type": "match",
+      "xpos": 522,
+      "width": 94,
+      "height": 50
+    },
+    {
+      "width": 25,
+      "xpos": 323,
+      "type": "match",
+      "ypos": 308,
+      "height": 49
+    }
+  ],
+  "properties": []
+}
