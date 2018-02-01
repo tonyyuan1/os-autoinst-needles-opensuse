@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-TEXT",
+    "disabledhome",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "xpos": 359,
+      "type": "match",
+      "ypos": 431,
+      "width": 281
+    }
+  ]
+}
