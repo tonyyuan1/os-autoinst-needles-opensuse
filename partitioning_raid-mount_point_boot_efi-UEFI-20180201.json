@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 647,
+      "type": "match",
+      "ypos": 406,
+      "width": 70,
+      "height": 20
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-mount_point_boot_efi",
+    "storage-ng"
+  ],
+  "properties": []
+}
