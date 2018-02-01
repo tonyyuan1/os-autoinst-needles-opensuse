@@ -4,21 +4,21 @@
     "partitioning_raid-part_root_added",
     "storage-ng"
   ],
+  "properties": [],
   "area": [
     {
-      "xpos": 325,
-      "ypos": 288,
-      "width": 59,
-      "height": 42,
+      "height": 88,
+      "ypos": 258,
+      "width": 122,
+      "xpos": 324,
       "type": "match"
     },
     {
-      "xpos": 506,
-      "ypos": 282,
-      "width": 139,
-      "height": 49,
-      "type": "match"
+      "xpos": 508,
+      "type": "match",
+      "height": 90,
+      "ypos": 255,
+      "width": 130
     }
-  ],
-  "properties": []
+  ]
 }

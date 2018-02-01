@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 154,
+      "ypos": 114,
+      "height": 285,
+      "type": "match",
+      "xpos": 404
+    },
+    {
+      "xpos": 625,
+      "ypos": 127,
+      "width": 134,
+      "height": 212,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioning",
+    "acceptedpartitioningraid1",
+    "storage-ng"
+  ]
+}
