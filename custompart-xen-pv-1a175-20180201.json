@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "ENV-VERSION-15",
+    "custompart",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "width": 66,
+      "type": "match",
+      "ypos": 137,
+      "xpos": 316,
+      "height": 243
+    },
+    {
+      "xpos": 23,
+      "type": "match",
+      "ypos": 170,
+      "width": 93,
+      "height": 16
+    },
+    {
+      "height": 19,
+      "width": 39,
+      "ypos": 148,
+      "xpos": 473,
+      "type": "exclude"
+    },
+    {
+      "xpos": 516,
+      "ypos": 180,
+      "width": 198,
+      "height": 200,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
