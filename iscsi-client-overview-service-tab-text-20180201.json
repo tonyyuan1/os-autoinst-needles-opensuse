@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-client-overview-service-tab"
+  ],
+  "area": [
+    {
+      "xpos": 17,
+      "height": 15,
+      "width": 121,
+      "type": "match",
+      "ypos": 32
+    },
+    {
+      "type": "match",
+      "ypos": 271,
+      "width": 108,
+      "xpos": 284,
+      "height": 16
+    }
+  ]
+}
