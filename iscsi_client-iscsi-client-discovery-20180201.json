@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "iscsi-client-discovery"
+  ],
+  "area": [
+    {
+      "height": 18,
+      "xpos": 17,
+      "type": "match",
+      "width": 202,
+      "ypos": 31
+    },
+    {
+      "width": 505,
+      "type": "match",
+      "ypos": 249,
+      "xpos": 250,
+      "height": 231
+    }
+  ]
+}

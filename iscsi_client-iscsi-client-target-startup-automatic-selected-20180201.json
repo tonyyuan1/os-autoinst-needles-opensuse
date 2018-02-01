@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-client-target-startup-automatic-selected"
+  ],
+  "area": [
+    {
+      "height": 81,
+      "xpos": 247,
+      "type": "match",
+      "ypos": 305,
+      "width": 91
+    }
+  ],
+  "properties": []
+}
