@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-plugins-missing"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 253,
+      "ypos": 197,
+      "width": 160,
+      "height": 402,
+      "type": "match"
+    }
+  ]
+}
