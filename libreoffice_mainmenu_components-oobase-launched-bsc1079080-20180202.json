@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "oobase-launched-bsc1079080"
+  ],
+  "area": [
+    {
+      "ypos": 4,
+      "type": "match",
+      "xpos": 380,
+      "width": 262,
+      "height": 26
+    },
+    {
+      "height": 117,
+      "ypos": 124,
+      "type": "match",
+      "xpos": 134,
+      "width": 546
+    },
+    {
+      "xpos": 10,
+      "ypos": 172,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
