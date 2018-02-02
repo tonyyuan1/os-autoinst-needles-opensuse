@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 170,
+      "ypos": 88,
+      "width": 491,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "desktop-runner-border",
+    "seahorse",
+    "seahorse-launched"
+  ],
+  "properties": []
+}

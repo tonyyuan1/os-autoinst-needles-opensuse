@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnome-control-center",
+    "gnome-control-center-started",
+    "gnome-control-center-new-layout"
+  ],
+  "area": [
+    {
+      "xpos": 433,
+      "ypos": 313,
+      "height": 256,
+      "type": "match",
+      "width": 433
+    }
+  ],
+  "properties": []
+}
