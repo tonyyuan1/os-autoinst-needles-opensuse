@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "keyboard-test-fr"
+  ],
+  "area": [
+    {
+      "width": 59,
+      "ypos": 352,
+      "xpos": 520,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
