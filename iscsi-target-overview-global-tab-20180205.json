@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "iscsi-target-overview-global-tab"
+  ],
+  "area": [
+    {
+      "height": 27,
+      "width": 178,
+      "ypos": 116,
+      "type": "match",
+      "xpos": 59
+    },
+    {
+      "ypos": 154,
+      "type": "match",
+      "xpos": 408,
+      "width": 57,
+      "height": 22
+    }
+  ],
+  "properties": []
+}
