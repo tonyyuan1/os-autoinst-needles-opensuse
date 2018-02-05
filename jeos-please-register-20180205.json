@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-JEOS-1",
+    "jeos-please-register"
+  ],
+  "area": [
+    {
+      "ypos": 269,
+      "type": "match",
+      "xpos": 213,
+      "width": 215,
+      "height": 21
+    }
+  ]
+}
