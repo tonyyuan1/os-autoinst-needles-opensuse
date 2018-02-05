@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "type": "match",
+      "ypos": 205,
+      "xpos": 22,
+      "width": 189
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_ntp-client_public_ntp_server_added"
+  ],
+  "properties": []
+}
