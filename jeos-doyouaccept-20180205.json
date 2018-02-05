@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-JEOS-1",
+    "jeos-doyouaccept"
+  ],
+  "area": [
+    {
+      "height": 68,
+      "width": 211,
+      "xpos": 395,
+      "type": "match",
+      "ypos": 335
+    }
+  ],
+  "properties": []
+}
