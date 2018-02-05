@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 127,
+      "xpos": 361,
+      "type": "match",
+      "ypos": 180,
+      "height": 14
+    },
+    {
+      "type": "match",
+      "ypos": 205,
+      "xpos": 360,
+      "width": 174,
+      "height": 18
+    }
+  ],
+  "tags": [
+    "modules-preselected-sled"
+  ]
+}
