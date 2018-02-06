@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 394,
+      "height": 140,
+      "ypos": 78,
+      "type": "match",
+      "width": 237
+    },
+    {
+      "type": "match",
+      "width": 52,
+      "xpos": 195,
+      "height": 37,
+      "ypos": 263
+    }
+  ],
+  "tags": [
+    "ENV-OFW-0",
+    "ENV-UEFI-1",
+    "grub2"
+  ],
+  "properties": []
+}
