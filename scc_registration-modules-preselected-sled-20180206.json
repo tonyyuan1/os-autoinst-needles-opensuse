@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 177,
+      "width": 128,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 362,
+      "ypos": 206,
+      "width": 174,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "modules-preselected-sled"
+  ],
+  "properties": []
+}
