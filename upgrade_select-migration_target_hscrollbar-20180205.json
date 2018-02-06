@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 656,
+      "ypos": 246,
+      "width": 357,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "migration_target_hscrollbar"
+  ]
+}
