@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 152,
+      "width": 32,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-sled"
+  ],
+  "properties": []
+}
