@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 105,
+      "height": 478,
+      "width": 389,
+      "xpos": 347,
+      "type": "match"
+    },
+    {
+      "width": 31,
+      "xpos": 504,
+      "type": "exclude",
+      "ypos": 377,
+      "height": 32
+    },
+    {
+      "xpos": 12,
+      "ypos": 722,
+      "width": 197,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "oci-overview"
+  ],
+  "properties": []
+}
