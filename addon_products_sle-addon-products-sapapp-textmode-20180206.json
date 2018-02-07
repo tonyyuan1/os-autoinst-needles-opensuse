@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 566,
+      "ypos": 113,
+      "width": 134,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-products-sapapp"
+  ],
+  "properties": []
+}

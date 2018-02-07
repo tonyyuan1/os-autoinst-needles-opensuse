@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 512,
+      "ypos": 146,
+      "width": 129,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-products-sles_sap"
+  ]
+}
