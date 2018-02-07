@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 68,
+      "width": 211,
+      "xpos": 395,
+      "ypos": 335
+    },
+    {
+      "xpos": 444,
+      "ypos": 388,
+      "width": 21,
+      "height": 15,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-JEOS-1",
+    "jeos-doyouaccept"
+  ]
+}
