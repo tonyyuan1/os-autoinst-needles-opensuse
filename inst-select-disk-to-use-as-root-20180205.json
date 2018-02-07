@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 187,
+      "width": 306,
+      "height": 51,
+      "type": "match"
+    },
+    {
+      "xpos": 539,
+      "ypos": 250,
+      "width": 290,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-select-disk-to-use-as-root",
+    "storage-ng"
+  ],
+  "properties": []
+}
