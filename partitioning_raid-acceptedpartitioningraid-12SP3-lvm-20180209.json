@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "acceptedpartitioningraid1lvm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 68,
+      "ypos": 199,
+      "width": 163,
+      "type": "match",
+      "xpos": 152
+    },
+    {
+      "width": 166,
+      "ypos": 320,
+      "height": 10,
+      "type": "match",
+      "xpos": 417
+    },
+    {
+      "xpos": 416,
+      "type": "match",
+      "height": 10,
+      "ypos": 352,
+      "width": 167
+    },
+    {
+      "type": "match",
+      "xpos": 416,
+      "width": 168,
+      "ypos": 305,
+      "height": 10
+    }
+  ]
+}
