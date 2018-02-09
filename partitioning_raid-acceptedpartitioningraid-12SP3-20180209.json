@@ -1,0 +1,41 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "acceptedpartitioningraid0",
+    "acceptedpartitioningraid1",
+    "acceptedpartitioningraid10",
+    "acceptedpartitioningraid5",
+    "acceptedpartitioningraid6"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 152,
+      "ypos": 199,
+      "width": 163,
+      "height": 68,
+      "type": "match"
+    },
+    {
+      "xpos": 417,
+      "ypos": 320,
+      "width": 166,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 352,
+      "width": 167,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 304,
+      "width": 155,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
