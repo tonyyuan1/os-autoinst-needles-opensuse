@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "addon-products-desktop"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 132,
+      "xpos": 338,
+      "ypos": 140,
+      "type": "match",
+      "height": 11
+    }
+  ]
+}
