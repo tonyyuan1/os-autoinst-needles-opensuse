@@ -21,6 +21,7 @@
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
     "inst-welcome-no-product-list",
+    "license-agreement",
     "languagepicked"
   ]
 }
