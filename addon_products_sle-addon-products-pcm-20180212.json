@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-pcm"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 166,
+      "width": 67,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
