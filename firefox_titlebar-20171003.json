@@ -8,7 +8,9 @@
       "ypos": 2
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox_titlebar"

@@ -2,7 +2,9 @@
   "tags": [
     "firefox_titlebar"
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
       "ypos": 2,
