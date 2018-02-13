@@ -1,0 +1,33 @@
+{
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid0efi",
+    "acceptedpartitioningraid10efi",
+    "acceptedpartitioningraid1efi",
+    "acceptedpartitioningraid5efi",
+    "acceptedpartitioningraid6efi"
+  ],
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 197,
+      "width": 165,
+      "height": 70,
+      "type": "match"
+    },
+    {
+      "xpos": 414,
+      "ypos": 111,
+      "width": 162,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 320,
+      "width": 169,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
