@@ -1,9 +1,4 @@
 {
-  "properties": [],
-  "tags": [
-    "ENV-DISTRI-CASP",
-    "velum-504"
-  ],
   "area": [
     {
       "xpos": 6,
@@ -12,5 +7,12 @@
       "height": 40,
       "type": "match"
     }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-504"
   ]
 }
