@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-nonce-error"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 49,
+      "ypos": 88,
+      "width": 298,
+      "height": 41,
+      "type": "match"
+    }
+  ]
+}
