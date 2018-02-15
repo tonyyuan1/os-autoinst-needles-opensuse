@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "require_install_chrony"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 346,
+      "width": 64,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
