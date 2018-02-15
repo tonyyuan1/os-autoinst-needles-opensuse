@@ -1,6 +1,7 @@
 {
   "tags": [
-    "logout-confirm-dialog"
+    "logout-confirm-dialog",
+    "ENV-15ORLATER-1"
   ],
   "area": [
     {
