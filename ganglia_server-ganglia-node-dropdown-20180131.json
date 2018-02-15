@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ganglia-node-dropdown"
+  ],
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "xpos": 212,
+      "width": 99,
+      "ypos": 314
+    }
+  ],
+  "properties": []
+}

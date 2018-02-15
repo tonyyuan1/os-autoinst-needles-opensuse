@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ganglia-select-server-node"
+  ],
+  "area": [
+    {
+      "xpos": 151,
+      "ypos": 375,
+      "width": 59,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
