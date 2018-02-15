@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "logout-confirm-dialog",
+    "ENV-15ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 396,
+      "ypos": 360,
+      "width": 233,
+      "height": 72,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
