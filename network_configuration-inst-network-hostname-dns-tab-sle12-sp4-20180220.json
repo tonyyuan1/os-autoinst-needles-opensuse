@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "inst-network-hostname-dns-tab"
+  ],
+  "area": [
+    {
+      "xpos": 218,
+      "ypos": 132,
+      "width": 339,
+      "type": "match",
+      "height": 40
+    }
+  ],
+  "properties": []
+}
