@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-kdump-enabled"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 77,
+      "xpos": 309,
+      "width": 181,
+      "type": "match",
+      "ypos": 31
+    }
+  ]
+}
