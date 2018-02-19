@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "scc-module-sdk"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 351,
+      "width": 201,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
