@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "scc-addon-license-ses"
+  ],
+  "area": [
+    {
+      "xpos": 60,
+      "ypos": 231,
+      "width": 115,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 382,
+      "ypos": 232,
+      "width": 218,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
