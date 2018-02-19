@@ -1,0 +1,31 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-license-sles_sap"
+  ],
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 32,
+      "width": 37,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 67,
+      "ypos": 32,
+      "width": 33,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 141,
+      "ypos": 29,
+      "width": 142,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
