@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-license-sles_sap"
+  ],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 232,
+      "width": 302,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 180,
+      "ypos": 188,
+      "width": 67,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 64,
+      "ypos": 188,
+      "width": 68,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
