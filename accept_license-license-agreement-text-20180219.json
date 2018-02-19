@@ -1,0 +1,32 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "license-agreement"
+  ],
+  "area": [
+    {
+      "height": 14,
+      "type": "match",
+      "ypos": 32,
+      "width": 135,
+      "xpos": 319
+    },
+    {
+      "xpos": 951,
+      "width": 45,
+      "type": "match",
+      "height": 15,
+      "ypos": 721
+    },
+    {
+      "ypos": 706,
+      "type": "match",
+      "height": 11,
+      "xpos": 15,
+      "width": 264
+    }
+  ]
+}
