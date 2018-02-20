@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "acceptedpartitioningraid10efi"
+  ],
+  "area": [
+    {
+      "xpos": 150,
+      "width": 165,
+      "ypos": 197,
+      "height": 70,
+      "type": "match"
+    },
+    {
+      "width": 155,
+      "xpos": 415,
+      "ypos": 373,
+      "type": "match",
+      "height": 10
+    },
+    {
+      "xpos": 631,
+      "width": 123,
+      "height": 12,
+      "type": "match",
+      "ypos": 134
+    },
+    {
+      "xpos": 659,
+      "ypos": 372,
+      "width": 135,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
