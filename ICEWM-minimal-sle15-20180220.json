@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 745,
+      "type": "match",
+      "height": 19,
+      "width": 170,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-minimalx",
+    "ENV-INSTLANG-en_US",
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "x11"
+  ],
+  "properties": []
+}
