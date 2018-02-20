@@ -2,7 +2,7 @@
   "tags": [
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",
-    "ENV-VERSION-15",
+    "ENV-15ORLATER-1",
     "inst-welcome",
     "installation",
     "languagepicked"

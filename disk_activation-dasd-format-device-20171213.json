@@ -1,7 +1,7 @@
 {
   "tags": [
     "ENV-ARCH-s390x",
-    "ENV-VERSION-15",
+    "ENV-15ORLATER-1",
     "dasd-format-device"
   ],
   "area": [
