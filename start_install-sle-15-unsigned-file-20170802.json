@@ -24,7 +24,7 @@
     }
   ],
   "tags": [
-    "ENV-VERSION-15",
+    "ENV-15ORLATER-1",
     "sle-15-unsigned-file",
     "workaround_no_checksum_found"
   ]

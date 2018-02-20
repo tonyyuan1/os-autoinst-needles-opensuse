@@ -1,10 +1,9 @@
 {
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
     "ENV-SLES4SAP-1",
     "ENV-SP2ORLATER-1",
-    "ENV-VERSION-15",
+    "ENV-15ORLATER-1",
     "ENV-VIDEOMODE-text",
     "release-notes-sle"
   ],
