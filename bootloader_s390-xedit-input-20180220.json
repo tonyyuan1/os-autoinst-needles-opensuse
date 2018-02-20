@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 8,
-      "ypos": 70,
-      "width": 143,
-      "height": 41,
-      "type": "match"
-    }
-  ],
-  "properties": [],
   "tags": [
     "ENV-ARCH-s390x",
     "xedit-input"
-  ]
+  ],
+  "area": [
+    {
+      "width": 143,
+      "xpos": 8,
+      "type": "match",
+      "height": 27,
+      "ypos": 70
+    }
+  ],
+  "properties": []
 }
