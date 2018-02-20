@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning-encrypt-activated",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 407,
+      "width": 149,
+      "height": 10,
+      "type": "match",
+      "ypos": 153
+    },
+    {
+      "xpos": 678,
+      "width": 126,
+      "ypos": 153,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
