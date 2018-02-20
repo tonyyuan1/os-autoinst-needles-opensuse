@@ -1,16 +1,16 @@
 {
-  "area": [
-    {
-      "width": 369,
-      "type": "match",
-      "height": 32,
-      "xpos": 0,
-      "ypos": 584
-    }
-  ],
+  "properties": [],
   "tags": [
     "ENV-ARCH-s390x",
     "xedit"
   ],
-  "properties": []
+  "area": [
+    {
+      "width": 369,
+      "xpos": 0,
+      "type": "match",
+      "height": 14,
+      "ypos": 589
+    }
+  ]
 }
