@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "acceptedpartitioningraid1lvm-efi"
+  ],
+  "area": [
+    {
+      "xpos": 416,
+      "ypos": 119,
+      "width": 141,
+      "height": 224,
+      "type": "match"
+    },
+    {
+      "xpos": 631,
+      "ypos": 301,
+      "width": 115,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 417,
+      "ypos": 345,
+      "width": 146,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 372,
+      "width": 149,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 417,
+      "ypos": 401,
+      "width": 134,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
