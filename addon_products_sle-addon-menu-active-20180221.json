@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 27,
+      "width": 34,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 109,
+      "ypos": 30,
+      "width": 138,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-license-sles"
+  ]
+}
