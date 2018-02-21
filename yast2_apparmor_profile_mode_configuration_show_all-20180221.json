@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_apparmor_profile_mode_configuration_show_all"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 78,
+      "type": "match",
+      "width": 560,
+      "height": 626
+    },
+    {
+      "xpos": 5,
+      "ypos": 46,
+      "width": 166,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

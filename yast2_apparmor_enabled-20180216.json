@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_apparmor_enabled"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 158,
+      "ypos": 60,
+      "xpos": 429,
+      "height": 24,
+      "type": "match"
+    }
+  ]
+}
