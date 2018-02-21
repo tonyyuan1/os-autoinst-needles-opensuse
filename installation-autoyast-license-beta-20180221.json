@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 167,
+      "xpos": 149,
+      "type": "match",
+      "height": 28,
+      "ypos": 273
+    },
+    {
+      "width": 177,
+      "xpos": 372,
+      "type": "match",
+      "height": 17,
+      "ypos": 696
+    },
+    {
+      "type": "match",
+      "height": 10,
+      "ypos": 179,
+      "width": 361,
+      "xpos": 383
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-BETA-1",
+    "autoyast-license"
+  ]
+}
