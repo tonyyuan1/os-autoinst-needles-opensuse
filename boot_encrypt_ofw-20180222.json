@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-OFW-1",
+    "encrypted-disk-password-prompt"
+  ],
+  "area": [
+    {
+      "height": 13,
+      "type": "match",
+      "ypos": 610,
+      "xpos": 0,
+      "width": 312
+    }
+  ],
+  "properties": []
+}
