@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "displaymanager-bernhard"
+  ],
+  "area": [
+    {
+      "height": 72,
+      "type": "match",
+      "ypos": 331,
+      "xpos": 334,
+      "width": 163
+    }
+  ]
+}
