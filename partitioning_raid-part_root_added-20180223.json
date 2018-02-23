@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 88,
+      "ypos": 266,
+      "width": 28,
+      "type": "match",
+      "xpos": 323
+    },
+    {
+      "height": 90,
+      "ypos": 265,
+      "width": 130,
+      "type": "match",
+      "xpos": 508
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-part_root_added",
+    "storage-ng"
+  ]
+}
