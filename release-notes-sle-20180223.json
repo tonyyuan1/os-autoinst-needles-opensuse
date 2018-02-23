@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "height": 22,
+      "ypos": 166,
+      "type": "match",
+      "width": 154,
+      "xpos": 223
+    },
+    {
+      "height": 24,
+      "type": "match",
+      "ypos": 245,
+      "xpos": 226,
+      "width": 480
+    },
+    {
+      "xpos": 225,
+      "ypos": 222,
+      "width": 53,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
