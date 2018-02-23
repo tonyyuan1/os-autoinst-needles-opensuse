@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-swap_format-selected"
+  ],
+  "area": [
+    {
+      "width": 88,
+      "ypos": 360,
+      "height": 57,
+      "xpos": 348,
+      "type": "match"
+    },
+    {
+      "xpos": 389,
+      "type": "match",
+      "ypos": 402,
+      "height": 13,
+      "width": 33
+    }
+  ],
+  "properties": []
+}
