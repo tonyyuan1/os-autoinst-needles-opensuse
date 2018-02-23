@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 416,
+      "width": 80,
+      "ypos": 122,
+      "type": "match",
+      "height": 41
+    },
+    {
+      "width": 110,
+      "xpos": 417,
+      "height": 26,
+      "type": "match",
+      "ypos": 166
+    }
+  ],
+  "tags": [
+    " ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "partitioning-encrypt-ignored-existing"
+  ]
+}
