@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-minimalx",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 3,
+      "width": 1019,
+      "height": 765,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
