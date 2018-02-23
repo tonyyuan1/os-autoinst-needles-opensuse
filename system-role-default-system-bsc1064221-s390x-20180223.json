@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-ARCH-s390x",
+    "bsc#1064221",
+    "system-role-default-system"
+  ],
+  "area": [
+    {
+      "xpos": 128,
+      "width": 191,
+      "height": 34,
+      "ypos": 194,
+      "type": "match"
+    },
+    {
+      "height": 200,
+      "type": "match",
+      "ypos": 250,
+      "width": 339,
+      "xpos": 496
+    }
+  ]
+}
