@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 286,
+      "xpos": 37,
+      "height": 48,
+      "type": "match",
+      "ypos": 185
+    },
+    {
+      "ypos": 398,
+      "type": "match",
+      "height": 18,
+      "width": 78,
+      "xpos": 574
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "select-hard-disk"
+  ],
+  "properties": []
+}
