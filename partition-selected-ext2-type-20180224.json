@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-selected-ext2-type"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 360,
+      "height": 35,
+      "width": 24,
+      "xpos": 333
+    }
+  ]
+}
