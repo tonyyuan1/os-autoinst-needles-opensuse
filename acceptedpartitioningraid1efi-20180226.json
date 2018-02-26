@@ -1,0 +1,130 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioningraid1efi"
+  ],
+  "area": [
+    {
+      "height": 10,
+      "type": "match",
+      "ypos": 123,
+      "xpos": 416,
+      "width": 56
+    },
+    {
+      "width": 59,
+      "xpos": 416,
+      "type": "match",
+      "ypos": 183,
+      "height": 11
+    },
+    {
+      "xpos": 419,
+      "width": 61,
+      "ypos": 242,
+      "type": "match",
+      "height": 10
+    },
+    {
+      "width": 59,
+      "xpos": 414,
+      "height": 10,
+      "type": "match",
+      "ypos": 301
+    },
+    {
+      "width": 148,
+      "xpos": 415,
+      "height": 11,
+      "type": "match",
+      "ypos": 392
+    },
+    {
+      "xpos": 648,
+      "ypos": 137,
+      "width": 104,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 629,
+      "ypos": 152,
+      "width": 57,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 647,
+      "ypos": 167,
+      "width": 57,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 644,
+      "ypos": 198,
+      "width": 108,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 630,
+      "ypos": 214,
+      "width": 57,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 648,
+      "ypos": 228,
+      "width": 53,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 646,
+      "ypos": 257,
+      "width": 107,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 633,
+      "ypos": 274,
+      "width": 56,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 645,
+      "ypos": 289,
+      "width": 60,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 650,
+      "ypos": 320,
+      "width": 91,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 631,
+      "ypos": 334,
+      "width": 58,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 645,
+      "ypos": 349,
+      "width": 56,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
