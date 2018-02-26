@@ -1,0 +1,46 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "ENV-15ORLATER-1",
+    "custompart",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "width": 66,
+      "xpos": 316,
+      "height": 243,
+      "type": "match",
+      "ypos": 141
+    },
+    {
+      "xpos": 23,
+      "width": 98,
+      "height": 40,
+      "ypos": 149,
+      "type": "match"
+    },
+    {
+      "width": 198,
+      "xpos": 516,
+      "ypos": 184,
+      "type": "match",
+      "height": 200
+    },
+    {
+      "height": 19,
+      "ypos": 148,
+      "type": "exclude",
+      "width": 39,
+      "xpos": 473
+    },
+    {
+      "height": 15,
+      "type": "exclude",
+      "ypos": 172,
+      "width": 46,
+      "xpos": 66
+    }
+  ]
+}
