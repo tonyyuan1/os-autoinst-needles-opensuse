@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "next-button-is-active",
+    "ENV-VIDEOMODE-text"
+  ],
+  "area": [
+    {
+      "xpos": 950,
+      "ypos": 720,
+      "width": 52,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
