@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "partitioning_raid-hard_disks-unfolded"
+  ],
+  "area": [
+    {
+      "xpos": 349,
+      "width": 33,
+      "ypos": 210,
+      "type": "match",
+      "height": 156
+    }
+  ]
+}
