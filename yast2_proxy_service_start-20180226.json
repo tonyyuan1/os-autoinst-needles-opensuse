@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_proxy_service_start"
+  ],
+  "area": [
+    {
+      "xpos": 346,
+      "width": 101,
+      "type": "match",
+      "ypos": 242,
+      "height": 12
+    },
+    {
+      "height": 13,
+      "type": "match",
+      "ypos": 257,
+      "width": 125,
+      "xpos": 346
+    }
+  ],
+  "properties": []
+}
