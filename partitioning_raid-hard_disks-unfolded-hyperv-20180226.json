@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 352,
+      "width": 19,
+      "ypos": 210,
+      "type": "match",
+      "height": 85
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-hard_disks-unfolded"
+  ]
+}
