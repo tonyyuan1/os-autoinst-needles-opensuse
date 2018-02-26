@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-bootloader_use-graphical-console"
+  ],
+  "area": [
+    {
+      "xpos": 131,
+      "width": 183,
+      "height": 23,
+      "ypos": 289,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
