@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "broken-console-font"
+  ],
+  "area": [
+    {
+      "height": 127,
+      "ypos": 209,
+      "type": "match",
+      "width": 188,
+      "xpos": 26
+    }
+  ]
+}
