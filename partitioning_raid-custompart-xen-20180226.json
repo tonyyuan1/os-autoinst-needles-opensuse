@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "custompart",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "height": 171,
+      "type": "match",
+      "ypos": 139,
+      "xpos": 317,
+      "width": 451
+    },
+    {
+      "type": "exclude",
+      "ypos": 143,
+      "height": 26,
+      "xpos": 470,
+      "width": 93
+    }
+  ]
+}
