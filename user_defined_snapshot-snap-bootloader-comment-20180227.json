@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 93,
+      "type": "match",
+      "ypos": 71,
+      "xpos": 308,
+      "width": 176
+    },
+    {
+      "ypos": 254,
+      "type": "match",
+      "height": 15,
+      "xpos": 241,
+      "width": 165
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "snap-bootloader-comment"
+  ]
+}
