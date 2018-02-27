@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 442,
+      "type": "match",
+      "width": 163,
+      "height": 18,
+      "ypos": 61
+    }
+  ],
+  "tags": [
+    "yast2-service-stopped-disabled"
+  ],
+  "properties": []
+}
