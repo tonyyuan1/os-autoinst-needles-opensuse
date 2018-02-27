@@ -1,0 +1,33 @@
+{
+  "tags": [
+    "acceptedpartitioningraid0",
+    "acceptedpartitioningraid1",
+    "acceptedpartitioningraid10",
+    "acceptedpartitioningraid5",
+    "acceptedpartitioningraid6"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 199,
+      "height": 68,
+      "width": 163,
+      "xpos": 152,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 417,
+      "width": 178,
+      "ypos": 278,
+      "height": 10
+    },
+    {
+      "width": 183,
+      "height": 10,
+      "ypos": 292,
+      "type": "match",
+      "xpos": 417
+    }
+  ]
+}
