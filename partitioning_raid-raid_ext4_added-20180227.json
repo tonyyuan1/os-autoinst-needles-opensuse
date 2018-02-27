@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 147,
+      "height": 114,
+      "xpos": 319,
+      "width": 56
+    },
+    {
+      "height": 71,
+      "ypos": 184,
+      "type": "match",
+      "width": 125,
+      "xpos": 519
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-raid_ext4_added"
+  ]
+}
