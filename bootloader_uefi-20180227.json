@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-UEFI-1",
+    "ENV-OFW-0",
+    "bootloader-grub2"
+  ],
+  "area": [
+    {
+      "height": 165,
+      "type": "match",
+      "ypos": 215,
+      "width": 336,
+      "xpos": 153
+    },
+    {
+      "ypos": 34,
+      "type": "match",
+      "height": 27,
+      "width": 172,
+      "xpos": 291
+    }
+  ],
+  "properties": []
+}
