@@ -21,5 +21,7 @@
     "partitioning-edit-proposal-button",
     "storage-ng"
   ],
-  "properties": []
+  "properties": [
+    "workaround"
+  ]
 }
