@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "release-notes-close"
+  ],
+  "area": [
+    {
+      "xpos": 465,
+      "ypos": 496,
+      "width": 76,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}
