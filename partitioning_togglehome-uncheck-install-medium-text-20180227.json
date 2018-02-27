@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "ENV-TEXTMODE-1",
+    "uncheck-install-medium"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 362,
+      "ypos": 370,
+      "width": 102,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 570,
+      "ypos": 397,
+      "width": 80,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "uncheck-install-medium"
+  ]
+}
