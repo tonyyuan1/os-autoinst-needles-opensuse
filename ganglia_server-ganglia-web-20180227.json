@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 111,
+      "xpos": 278,
+      "type": "match",
+      "ypos": 34,
+      "height": 37
+    },
+    {
+      "type": "match",
+      "ypos": 140,
+      "height": 48,
+      "xpos": 6,
+      "width": 211
+    }
+  ],
+  "tags": [
+    "ganglia-web"
+  ],
+  "properties": []
+}
