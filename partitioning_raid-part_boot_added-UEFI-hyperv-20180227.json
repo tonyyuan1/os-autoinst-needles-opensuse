@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 42,
+      "xpos": 323,
+      "height": 51,
+      "ypos": 264,
+      "type": "match"
+    },
+    {
+      "height": 50,
+      "type": "match",
+      "ypos": 265,
+      "xpos": 521,
+      "width": 141
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-part_boot_added",
+    "storage-ng"
+  ],
+  "properties": []
+}
