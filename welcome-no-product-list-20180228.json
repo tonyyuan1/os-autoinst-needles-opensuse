@@ -1,0 +1,27 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "inst-welcome-no-product-list",
+    "license-agreement",
+    "languagepicked"
+  ],
+  "area": [
+    {
+      "width": 105,
+      "xpos": 349,
+      "type": "match",
+      "ypos": 91,
+      "height": 55
+    },
+    {
+      "type": "match",
+      "ypos": 191,
+      "height": 124,
+      "xpos": 24,
+      "width": 301
+    }
+  ]
+}
