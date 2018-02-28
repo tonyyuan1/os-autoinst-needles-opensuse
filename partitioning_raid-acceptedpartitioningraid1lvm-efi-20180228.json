@@ -1,0 +1,44 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 142,
+      "width": 185,
+      "type": "match",
+      "ypos": 175,
+      "height": 98
+    },
+    {
+      "ypos": 315,
+      "type": "match",
+      "height": 14,
+      "xpos": 631,
+      "width": 115
+    },
+    {
+      "type": "match",
+      "ypos": 362,
+      "height": 12,
+      "xpos": 417,
+      "width": 146
+    },
+    {
+      "width": 149,
+      "xpos": 415,
+      "ypos": 391,
+      "type": "match",
+      "height": 13
+    },
+    {
+      "width": 134,
+      "xpos": 417,
+      "height": 24,
+      "type": "match",
+      "ypos": 422
+    }
+  ],
+  "tags": [
+    "ENV-UEFI-1",
+    "acceptedpartitioningraid1lvm-efi"
+  ]
+}
