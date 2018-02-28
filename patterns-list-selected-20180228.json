@@ -1,23 +1,23 @@
 {
-  "tags": [
-    "ENV-15ORLATER-1",
-    "patterns-list-selected"
-  ],
+  "properties": [],
   "area": [
     {
-      "type": "match",
-      "ypos": 732,
-      "height": 13,
       "width": 136,
-      "xpos": 875
+      "xpos": 875,
+      "height": 13,
+      "type": "match",
+      "ypos": 732
     },
     {
-      "width": 115,
       "xpos": 30,
+      "width": 115,
       "height": 57,
       "type": "match",
       "ypos": 156
     }
   ],
-  "properties": []
+  "tags": [
+    "ENV-15ORLATER-1",
+    "patterns-list-selected"
+  ]
 }
