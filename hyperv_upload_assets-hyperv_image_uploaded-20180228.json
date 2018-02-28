@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 48,
+      "width": 142,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "hyperv_image_uploaded"
+  ],
+  "properties": []
+}
