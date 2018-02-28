@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 22,
+      "ypos": 231,
+      "xpos": 29,
+      "type": "match",
+      "width": 289
+    },
+    {
+      "ypos": 341,
+      "height": 21,
+      "xpos": 139,
+      "type": "match",
+      "width": 180
+    },
+    {
+      "xpos": 46,
+      "ypos": 438,
+      "width": 776,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ganglia-node-report"
+  ]
+}
