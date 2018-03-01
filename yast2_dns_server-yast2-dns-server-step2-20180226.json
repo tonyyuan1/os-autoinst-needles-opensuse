@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-dns-server-step2"
+  ],
+  "area": [
+    {
+      "height": 127,
+      "width": 290,
+      "type": "match",
+      "xpos": 9,
+      "ypos": 31
+    }
+  ],
+  "properties": []
+}

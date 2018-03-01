@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-dns-server-quit"
+  ],
+  "area": [
+    {
+      "ypos": 353,
+      "height": 34,
+      "width": 220,
+      "type": "match",
+      "xpos": 277
+    }
+  ],
+  "properties": []
+}
