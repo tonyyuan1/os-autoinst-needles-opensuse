@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 74,
+      "ypos": 182,
+      "width": 252,
+      "height": 57,
+      "type": "match"
+    },
+    {
+      "xpos": 510,
+      "ypos": 276,
+      "width": 207,
+      "height": 286,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-addon"
+  ]
+}

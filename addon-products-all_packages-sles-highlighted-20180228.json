@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-sles-highlighted"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 450,
+      "xpos": 362,
+      "height": 18,
+      "type": "match",
+      "match": 100,
+      "width": 86
+    }
+  ]
+}
