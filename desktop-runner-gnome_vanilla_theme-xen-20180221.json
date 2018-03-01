@@ -28,7 +28,5 @@
     "ENV-VIRSH_VMM_FAMILY-xen",
     "desktop-runner"
   ],
-  "properties": [
-    "workaround"
-  ]
+  "properties": []
 }
