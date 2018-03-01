@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "zfcp-channel-0.0.fc00-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 416,
+      "ypos": 252,
+      "width": 61,
+      "height": 56,
+      "type": "match"
+    }
+  ]
+}
