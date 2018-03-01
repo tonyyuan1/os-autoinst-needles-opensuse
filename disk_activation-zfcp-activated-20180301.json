@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "zfcp-activated"
+  ],
+  "area": [
+    {
+      "width": 50,
+      "xpos": 688,
+      "height": 55,
+      "type": "match",
+      "ypos": 166
+    }
+  ],
+  "properties": []
+}
