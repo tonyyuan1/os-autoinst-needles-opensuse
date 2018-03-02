@@ -1,17 +1,16 @@
 {
-  "area": [
-    {
-      "xpos": 361,
-      "ypos": 388,
-      "width": 85,
-      "height": 17,
-      "match": 100,
-      "type": "match"
-    }
-  ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "addon-products-all_packages-sled-highlighted"
+  ],
+  "area": [
+    {
+      "width": 88,
+      "xpos": 360,
+      "type": "match",
+      "ypos": 384,
+      "height": 23
+    }
   ]
 }
