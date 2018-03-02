@@ -1,16 +1,17 @@
 {
-  "properties": [],
-  "area": [
-    {
-      "height": 14,
-      "type": "match",
-      "ypos": 152,
-      "xpos": 360,
-      "width": 127
-    }
-  ],
   "tags": [
     "ENV-15ORLATER-1",
     "addon-products-all_packages-desktop-highlighted"
-  ]
+  ],
+  "area": [
+    {
+      "width": 134,
+      "xpos": 359,
+      "ypos": 154,
+      "type": "match",
+      "height": 11,
+      "match": 97
+    }
+  ],
+  "properties": []
 }
