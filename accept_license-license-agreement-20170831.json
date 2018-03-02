@@ -1,44 +1,51 @@
 {
-  "area": [
-    {
-      "xpos": 143,
-      "ypos": 195,
-      "width": 175,
-      "height": 33,
-      "type": "match"
-    },
-    {
-      "xpos": 202,
-      "ypos": 275,
-      "width": 114,
-      "height": 24,
-      "type": "match"
-    },
-    {
-      "xpos": 147,
-      "ypos": 313,
-      "width": 170,
-      "height": 28,
-      "type": "match"
-    },
-    {
-      "xpos": 346,
-      "ypos": 696,
-      "width": 183,
-      "height": 16,
-      "type": "match"
-    },
-    {
-      "xpos": 944,
-      "ypos": 730,
-      "width": 54,
-      "height": 19,
-      "type": "match"
-    }
-  ],
-  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "license-agreement"
-  ]
+  ],
+  "area": [
+    {
+      "xpos": 143,
+      "width": 175,
+      "ypos": 196,
+      "type": "match",
+      "height": 33
+    },
+    {
+      "width": 114,
+      "xpos": 202,
+      "type": "match",
+      "ypos": 276,
+      "height": 24
+    },
+    {
+      "width": 170,
+      "xpos": 147,
+      "ypos": 314,
+      "type": "match",
+      "height": 28
+    },
+    {
+      "xpos": 346,
+      "width": 183,
+      "height": 16,
+      "ypos": 697,
+      "type": "match"
+    },
+    {
+      "height": 19,
+      "ypos": 731,
+      "type": "match",
+      "width": 54,
+      "xpos": 944
+    },
+    {
+      "xpos": 360,
+      "ypos": 167,
+      "width": 238,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
 }
