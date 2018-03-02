@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "sle-product-license-agreement"
+  ],
+  "area": [
+    {
+      "width": 59,
+      "xpos": 134,
+      "height": 25,
+      "type": "match",
+      "ypos": 199
+    },
+    {
+      "width": 286,
+      "xpos": 29,
+      "height": 28,
+      "type": "match",
+      "ypos": 235
+    },
+    {
+      "xpos": 380,
+      "width": 241,
+      "height": 10,
+      "type": "match",
+      "ypos": 181
+    },
+    {
+      "type": "match",
+      "ypos": 698,
+      "height": 12,
+      "xpos": 371,
+      "width": 174
+    }
+  ]
+}
