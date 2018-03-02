@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 53,
+      "height": 23,
+      "width": 46,
+      "xpos": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 231,
+      "type": "match",
+      "height": 12,
+      "ypos": 17,
+      "width": 65
+    }
+  ],
+  "tags": [
+    "grub2",
+    "ENV-15ORLATER-1",
+    "ENV-BACKEND-ipmi"
+  ]
+}
