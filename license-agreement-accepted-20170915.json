@@ -1,37 +1,44 @@
 {
-  "area": [
-    {
-      "xpos": 40,
-      "ypos": 191,
-      "width": 282,
-      "height": 75,
-      "type": "match"
-    },
-    {
-      "xpos": 347,
-      "ypos": 698,
-      "width": 176,
-      "height": 16,
-      "type": "match"
-    },
-    {
-      "xpos": 199,
-      "ypos": 270,
-      "width": 121,
-      "height": 33,
-      "type": "match"
-    },
-    {
-      "xpos": 149,
-      "ypos": 308,
-      "width": 170,
-      "height": 34,
-      "type": "match"
-    }
-  ],
   "tags": [
     "ENV-15ORLATER-1",
     "license-agreement-accepted"
+  ],
+  "area": [
+    {
+      "ypos": 192,
+      "type": "match",
+      "height": 75,
+      "width": 282,
+      "xpos": 40
+    },
+    {
+      "width": 176,
+      "xpos": 347,
+      "ypos": 699,
+      "type": "match",
+      "height": 16
+    },
+    {
+      "width": 121,
+      "xpos": 199,
+      "ypos": 271,
+      "type": "match",
+      "height": 33
+    },
+    {
+      "type": "match",
+      "ypos": 309,
+      "height": 34,
+      "width": 170,
+      "xpos": 149
+    },
+    {
+      "xpos": 359,
+      "ypos": 170,
+      "width": 237,
+      "height": 10,
+      "type": "match"
+    }
   ],
   "properties": []
 }
