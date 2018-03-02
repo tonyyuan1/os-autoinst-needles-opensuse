@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnote-new-note-link"
+  ],
+  "area": [
+    {
+      "ypos": 211,
+      "type": "match",
+      "height": 83,
+      "xpos": 65,
+      "width": 233
+    }
+  ]
+}
