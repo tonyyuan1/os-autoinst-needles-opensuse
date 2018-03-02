@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "on-pattern",
+    "pattern-minimal"
+  ],
+  "area": [
+    {
+      "width": 157,
+      "type": "match",
+      "ypos": 220,
+      "xpos": 100,
+      "height": 17
+    }
+  ]
+}
