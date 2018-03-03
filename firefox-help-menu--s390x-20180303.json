@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-SP2ORLATER-1",
+    "firefox-help-menu"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 255,
+      "ypos": 38,
+      "xpos": 367,
+      "height": 55,
+      "type": "match"
+    }
+  ]
+}
