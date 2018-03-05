@@ -8,6 +8,7 @@
     {
       "height": 17,
       "ypos": 275,
+      "match": 100,
       "type": "match",
       "xpos": 362,
       "width": 91
