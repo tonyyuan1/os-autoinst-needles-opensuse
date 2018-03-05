@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLE_PRODUCT-SLED",
+    "grub2"
+  ],
+  "area": [
+    {
+      "width": 163,
+      "xpos": 116,
+      "type": "match",
+      "ypos": 155,
+      "height": 87
+    }
+  ],
+  "properties": []
+}

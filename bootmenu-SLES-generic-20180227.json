@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 14,
+      "xpos": 201,
+      "width": 237,
+      "height": 140,
+      "type": "match"
+    },
+    {
+      "ypos": 168,
+      "xpos": 126,
+      "width": 52,
+      "type": "match",
+      "height": 37
+    }
+  ],
+  "tags": [
+    "also_used_for_supportserver_in_sled",
+    "bootloader",
+    "grub2"
+  ],
+  "properties": []
+}
