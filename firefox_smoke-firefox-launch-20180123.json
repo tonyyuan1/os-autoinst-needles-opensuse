@@ -1,23 +1,23 @@
 {
-  "area": [
-    {
-      "xpos": 14,
-      "ypos": 67,
-      "width": 240,
-      "height": 30,
-      "type": "match"
-    },
-    {
-      "xpos": 631,
-      "ypos": 194,
-      "width": 122,
-      "height": 107,
-      "type": "match"
-    }
-  ],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox-launch"
   ],
-  "properties": []
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 67,
+      "xpos": 14,
+      "height": 30,
+      "width": 206
+    },
+    {
+      "height": 107,
+      "width": 122,
+      "xpos": 625,
+      "ypos": 194,
+      "type": "match"
+    }
+  ]
 }

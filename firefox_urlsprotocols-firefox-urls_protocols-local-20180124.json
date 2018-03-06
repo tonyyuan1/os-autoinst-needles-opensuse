@@ -1,23 +1,23 @@
 {
+  "area": [
+    {
+      "height": 35,
+      "width": 303,
+      "ypos": 96,
+      "xpos": 3,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 226,
+      "width": 184,
+      "height": 26,
+      "type": "match"
+    }
+  ],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox-urls_protocols-local"
   ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 3,
-      "height": 35,
-      "ypos": 96,
-      "type": "match",
-      "width": 303
-    },
-    {
-      "width": 184,
-      "type": "match",
-      "ypos": 226,
-      "height": 26,
-      "xpos": 3
-    }
-  ]
+  "properties": []
 }
