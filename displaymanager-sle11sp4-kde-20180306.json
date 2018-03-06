@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-kde",
+    "ENV-VERSION-11-SP4",
+    "KDE",
+    "displaymanager"
+  ],
+  "area": [
+    {
+      "width": 226,
+      "xpos": 122,
+      "height": 51,
+      "type": "match",
+      "ypos": 318
+    },
+    {
+      "xpos": 454,
+      "ypos": 315,
+      "width": 103,
+      "height": 55,
+      "type": "match"
+    }
+  ]
+}
