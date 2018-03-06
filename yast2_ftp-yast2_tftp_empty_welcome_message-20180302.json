@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_tftp_empty_welcome_message"
+  ],
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 64,
+      "width": 123,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

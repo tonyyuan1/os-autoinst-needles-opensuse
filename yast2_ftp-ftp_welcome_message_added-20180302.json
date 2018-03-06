@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "ypos": 80,
+      "xpos": 324,
+      "type": "match",
+      "width": 175
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ftp_welcome_message_added"
+  ]
+}

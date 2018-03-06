@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ftp_anonymous_upload"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 340,
+      "type": "match",
+      "width": 289,
+      "height": 14,
+      "ypos": 176
+    }
+  ]
+}

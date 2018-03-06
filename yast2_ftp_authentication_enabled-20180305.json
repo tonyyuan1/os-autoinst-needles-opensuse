@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_ftp_authentication_enabled"
+  ],
+  "area": [
+    {
+      "ypos": 94,
+      "height": 17,
+      "xpos": 320,
+      "type": "match",
+      "width": 81
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 320,
+      "ypos": 64,
+      "width": 123,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ftp_server_when_booting"
+  ]
+}
