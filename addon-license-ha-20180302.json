@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-license-ha"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 99,
+      "xpos": 28,
+      "height": 23,
+      "ypos": 98
+    },
+    {
+      "width": 120,
+      "type": "match",
+      "xpos": 238,
+      "height": 25,
+      "ypos": 100
+    },
+    {
+      "xpos": 125,
+      "width": 184,
+      "type": "match",
+      "ypos": 226,
+      "height": 11
+    },
+    {
+      "xpos": 64,
+      "ypos": 699,
+      "width": 169,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
