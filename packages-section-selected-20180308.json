@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 442,
+      "height": 29,
+      "width": 67,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "packages-section-selected"
+  ]
+}
