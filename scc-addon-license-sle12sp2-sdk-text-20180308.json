@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "width": 425,
+      "xpos": 15,
+      "ypos": 30
+    },
+    {
+      "width": 547,
+      "type": "match",
+      "height": 18,
+      "xpos": 41,
+      "ypos": 126
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "scc-addon-license-sdk"
+  ]
+}
