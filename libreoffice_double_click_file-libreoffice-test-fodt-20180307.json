@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-test-fodt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 217,
+      "type": "match",
+      "ypos": 30,
+      "height": 27,
+      "xpos": 401
+    },
+    {
+      "width": 239,
+      "type": "match",
+      "ypos": 308,
+      "xpos": 152,
+      "height": 253
+    }
+  ]
+}

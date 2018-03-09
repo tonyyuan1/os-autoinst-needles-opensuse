@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oodraw-launched"
+  ],
+  "area": [
+    {
+      "ypos": 31,
+      "xpos": 403,
+      "width": 215,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "ypos": 60,
+      "type": "match",
+      "width": 245,
+      "height": 161,
+      "xpos": 0
+    }
+  ],
+  "properties": []
+}
