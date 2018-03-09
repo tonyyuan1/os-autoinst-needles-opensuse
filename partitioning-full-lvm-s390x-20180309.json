@@ -1,0 +1,55 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning-full-lvm-encrypt",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "ypos": 137,
+      "xpos": 417,
+      "width": 84,
+      "type": "match",
+      "height": 10
+    },
+    {
+      "type": "match",
+      "width": 125,
+      "height": 12,
+      "ypos": 150,
+      "xpos": 678
+    },
+    {
+      "height": 11,
+      "width": 169,
+      "type": "match",
+      "ypos": 166,
+      "xpos": 415
+    },
+    {
+      "xpos": 416,
+      "ypos": 184,
+      "height": 24,
+      "width": 144,
+      "type": "match"
+    },
+    {
+      "ypos": 135,
+      "xpos": 647,
+      "width": 106,
+      "type": "match",
+      "height": 12
+    },
+    {
+      "ypos": 151,
+      "xpos": 414,
+      "width": 139,
+      "type": "match",
+      "height": 10
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
