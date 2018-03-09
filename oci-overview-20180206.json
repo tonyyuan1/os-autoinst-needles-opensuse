@@ -1,30 +1,30 @@
 {
-  "area": [
-    {
-      "ypos": 105,
-      "height": 478,
-      "width": 389,
-      "xpos": 347,
-      "type": "match"
-    },
-    {
-      "width": 31,
-      "xpos": 504,
-      "type": "exclude",
-      "ypos": 377,
-      "height": 32
-    },
-    {
-      "xpos": 12,
-      "ypos": 722,
-      "width": 197,
-      "height": 34,
-      "type": "match"
-    }
-  ],
   "tags": [
     "ENV-DISTRI-CASP",
     "oci-overview"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 389,
+      "height": 478,
+      "ypos": 105,
+      "xpos": 347
+    },
+    {
+      "width": 197,
+      "type": "match",
+      "height": 34,
+      "ypos": 722,
+      "xpos": 12
+    },
+    {
+      "height": 32,
+      "width": 31,
+      "type": "exclude",
+      "ypos": 377,
+      "xpos": 504
+    }
   ],
   "properties": []
 }
