@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-tips-page"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 36,
+      "ypos": 89,
+      "width": 402,
+      "type": "match",
+      "xpos": 43
+    }
+  ]
+}
