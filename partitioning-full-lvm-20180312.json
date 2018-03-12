@@ -1,0 +1,39 @@
+{
+  "area": [
+    {
+      "width": 165,
+      "ypos": 151,
+      "height": 27,
+      "xpos": 418,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 678,
+      "width": 125,
+      "height": 12,
+      "ypos": 150
+    },
+    {
+      "ypos": 183,
+      "height": 25,
+      "width": 266,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "xpos": 748,
+      "ypos": 180,
+      "width": 225,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning-full-lvm-encrypt",
+    "storage-ng"
+  ]
+}
