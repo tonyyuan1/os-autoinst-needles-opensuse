@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "partitioning-full-lvm-encrypt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 416,
+      "type": "match",
+      "width": 192,
+      "ypos": 111,
+      "height": 11
+    },
+    {
+      "height": 10,
+      "ypos": 144,
+      "xpos": 416,
+      "type": "match",
+      "width": 131
+    },
+    {
+      "height": 12,
+      "ypos": 159,
+      "width": 167,
+      "xpos": 415,
+      "type": "match"
+    },
+    {
+      "height": 10,
+      "ypos": 176,
+      "width": 102,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "type": "match",
+      "xpos": 416,
+      "width": 144,
+      "height": 12,
+      "ypos": 191
+    }
+  ]
+}
