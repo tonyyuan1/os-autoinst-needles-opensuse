@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "desktop-runner",
+    "ENV-15ORLATER-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 742,
+      "height": 26,
+      "xpos": 201,
+      "type": "match",
+      "width": 644
+    }
+  ]
+}
