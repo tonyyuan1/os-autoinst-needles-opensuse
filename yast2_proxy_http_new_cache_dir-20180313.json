@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 13,
+      "ypos": 353,
+      "xpos": 342,
+      "type": "match",
+      "width": 66
+    },
+    {
+      "xpos": 558,
+      "type": "match",
+      "width": 121,
+      "height": 10,
+      "ypos": 355
+    },
+    {
+      "ypos": 369,
+      "height": 15,
+      "xpos": 345,
+      "type": "match",
+      "width": 109
+    },
+    {
+      "height": 17,
+      "ypos": 400,
+      "width": 38,
+      "type": "match",
+      "xpos": 474
+    }
+  ],
+  "tags": [
+    "yast2_proxy_http_new_cache_dir"
+  ]
+}
