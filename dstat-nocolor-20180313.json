@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dstat-nocolor"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 37,
+      "width": 529,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
