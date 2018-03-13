@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 34,
+      "ypos": 136,
+      "width": 251,
+      "height": 44,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-health-report"
+  ]
+}

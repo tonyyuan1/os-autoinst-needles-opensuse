@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-ssl-servers_cert"
+  ],
+  "area": [
+    {
+      "width": 499,
+      "type": "match",
+      "xpos": 90,
+      "ypos": 527,
+      "height": 24
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-passwd-auto_filled"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 275,
+      "ypos": 448,
+      "width": 187,
+      "height": 78
+    }
+  ]
+}
