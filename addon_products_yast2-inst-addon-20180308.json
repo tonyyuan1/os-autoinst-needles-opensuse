@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "inst-addon"
+  ],
+  "area": [
+    {
+      "xpos": 131,
+      "ypos": 88,
+      "width": 155,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
