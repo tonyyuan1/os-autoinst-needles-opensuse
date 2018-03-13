@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 144,
+      "height": 16,
+      "type": "match",
+      "xpos": 47,
+      "width": 167
+    }
+  ],
+  "tags": [
+    "yast2_proxy_logging_timeouts_selected"
+  ]
+}
