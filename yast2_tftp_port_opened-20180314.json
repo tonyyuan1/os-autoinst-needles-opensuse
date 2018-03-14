@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 385,
+      "height": 14,
+      "xpos": 322,
+      "type": "match",
+      "width": 194
+    }
+  ],
+  "tags": [
+    "yast2_tftp_port_opened"
+  ]
+}
