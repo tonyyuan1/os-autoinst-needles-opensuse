@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "us_keymap"
+  ],
+  "area": [
+    {
+      "width": 223,
+      "type": "match",
+      "xpos": 142,
+      "height": 15,
+      "ypos": 81
+    }
+  ],
+  "properties": []
+}
