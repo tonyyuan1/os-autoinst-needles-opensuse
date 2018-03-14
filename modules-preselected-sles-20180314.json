@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "desktop-not-selected",
+    "modules-preselected-sles"
+  ],
+  "area": [
+    {
+      "width": 150,
+      "type": "match",
+      "xpos": 24,
+      "height": 19,
+      "ypos": 305
+    },
+    {
+      "xpos": 23,
+      "ypos": 368,
+      "width": 215,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
