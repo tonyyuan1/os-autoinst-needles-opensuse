@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "us_keymap"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 142,
+      "width": 223,
+      "height": 15,
+      "ypos": 81
+    }
+  ]
+}
