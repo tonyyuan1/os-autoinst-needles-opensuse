@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-LUN-path-selected"
+  ],
+  "area": [
+    {
+      "height": 53,
+      "xpos": 241,
+      "ypos": 311,
+      "type": "match",
+      "width": 76
+    }
+  ],
+  "properties": []
+}
