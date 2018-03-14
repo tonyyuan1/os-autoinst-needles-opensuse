@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "release-notes-3.0"
+  ],
+  "area": [
+    {
+      "width": 117,
+      "type": "match",
+      "xpos": 228,
+      "height": 18,
+      "ypos": 170
+    },
+    {
+      "width": 128,
+      "xpos": 241,
+      "type": "match",
+      "ypos": 356,
+      "height": 12
+    }
+  ],
+  "properties": []
+}
