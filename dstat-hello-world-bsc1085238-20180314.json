@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "width": 95,
+      "ypos": 623,
+      "height": 127
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "dstat-hello-world"
+  ]
+}
