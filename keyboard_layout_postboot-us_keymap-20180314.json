@@ -1,15 +1,14 @@
 {
   "tags": [
-    "ENV-SP2ORLATER-1",
     "us_keymap"
   ],
   "area": [
     {
+      "ypos": 177,
+      "height": 15,
       "width": 223,
       "type": "match",
-      "xpos": 142,
-      "height": 15,
-      "ypos": 81
+      "xpos": 14
     }
   ],
   "properties": []
