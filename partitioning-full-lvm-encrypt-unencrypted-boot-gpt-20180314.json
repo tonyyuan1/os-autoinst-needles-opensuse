@@ -1,0 +1,65 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 11,
+      "ypos": 719,
+      "xpos": 38,
+      "type": "match",
+      "width": 192
+    },
+    {
+      "height": 10,
+      "ypos": 167,
+      "width": 131,
+      "xpos": 416,
+      "type": "match"
+    },
+    {
+      "height": 12,
+      "ypos": 719,
+      "width": 167,
+      "xpos": 17,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 411,
+      "width": 144,
+      "ypos": 197,
+      "height": 26
+    },
+    {
+      "xpos": 649,
+      "ypos": 152,
+      "width": 81,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 630,
+      "ypos": 136,
+      "width": 103,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 138,
+      "width": 82,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 412,
+      "ypos": 119,
+      "width": 63,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ]
+}
