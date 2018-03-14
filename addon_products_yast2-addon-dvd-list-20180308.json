@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-dvd-list"
+  ],
+  "area": [
+    {
+      "xpos": 380,
+      "ypos": 443,
+      "width": 264,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

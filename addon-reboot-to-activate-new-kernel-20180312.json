@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-installation-pop-up"
+  ],
+  "area": [
+    {
+      "xpos": 421,
+      "ypos": 323,
+      "width": 174,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
