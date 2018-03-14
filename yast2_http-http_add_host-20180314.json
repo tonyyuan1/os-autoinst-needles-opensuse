@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 25,
+      "ypos": 27,
+      "width": 170,
+      "xpos": 166,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "http_add_host"
+  ]
+}
