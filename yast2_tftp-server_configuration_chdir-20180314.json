@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 104,
+      "type": "match",
+      "xpos": 311,
+      "ypos": 337,
+      "height": 14
+    }
+  ],
+  "tags": [
+    "yast2_tftp-server_configuration_chdir"
+  ]
+}
