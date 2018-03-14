@@ -1,16 +1,15 @@
 {
-  "tags": [
-    "us_keymap_logged_x11",
-    "ENV-15ORLATER-1"
-  ],
+  "properties": [],
   "area": [
     {
-      "xpos": 155,
-      "ypos": 77,
+      "type": "match",
+      "xpos": 167,
       "width": 155,
-      "height": 14,
-      "type": "match"
+      "ypos": 77,
+      "height": 14
     }
   ],
-  "properties": []
+  "tags": [
+    "us_keymap_logged_x11"
+  ]
 }
