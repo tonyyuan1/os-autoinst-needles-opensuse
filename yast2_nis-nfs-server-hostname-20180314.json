@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 291,
+      "type": "match",
+      "ypos": 300,
+      "height": 22,
+      "width": 162
+    }
+  ],
+  "tags": [
+    "nfs-server-hostname"
+  ]
+}
