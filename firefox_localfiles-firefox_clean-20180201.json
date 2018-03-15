@@ -1,38 +1,38 @@
 {
+  "area": [
+    {
+      "ypos": 32,
+      "height": 28,
+      "width": 103,
+      "type": "match",
+      "xpos": 533
+    },
+    {
+      "width": 47,
+      "type": "match",
+      "xpos": 545,
+      "height": 19,
+      "ypos": 104
+    },
+    {
+      "ypos": 105,
+      "height": 18,
+      "type": "match",
+      "xpos": 40,
+      "width": 34
+    },
+    {
+      "width": 237,
+      "type": "match",
+      "xpos": 18,
+      "height": 27,
+      "ypos": 69
+    }
+  ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox",
     "firefox_clean"
-  ],
-  "area": [
-    {
-      "width": 103,
-      "xpos": 533,
-      "height": 28,
-      "type": "match",
-      "ypos": 32
-    },
-    {
-      "xpos": 545,
-      "width": 47,
-      "height": 19,
-      "ypos": 104,
-      "type": "match"
-    },
-    {
-      "xpos": 40,
-      "width": 34,
-      "type": "match",
-      "ypos": 105,
-      "height": 18
-    },
-    {
-      "xpos": 18,
-      "ypos": 69,
-      "width": 165,
-      "height": 27,
-      "type": "match"
-    }
   ]
 }
