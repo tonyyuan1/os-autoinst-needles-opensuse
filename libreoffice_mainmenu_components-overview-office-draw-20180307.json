@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "overview-office-draw"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 213,
+      "width": 292,
+      "xpos": 246,
+      "ypos": 43
+    }
+  ]
+}

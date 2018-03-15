@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "overview-office-base"
+  ],
+  "area": [
+    {
+      "ypos": 36,
+      "type": "match",
+      "width": 388,
+      "height": 219,
+      "xpos": 317
+    }
+  ],
+  "properties": []
+}

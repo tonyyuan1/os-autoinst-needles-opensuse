@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnote-what-link-here"
+  ],
+  "area": [
+    {
+      "xpos": 338,
+      "type": "match",
+      "width": 155,
+      "height": 46,
+      "ypos": 221
+    },
+    {
+      "ypos": 213,
+      "xpos": 66,
+      "type": "match",
+      "width": 143,
+      "height": 72
+    }
+  ],
+  "properties": []
+}

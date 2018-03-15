@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "overview-office-impress"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 217,
+      "width": 370,
+      "xpos": 328,
+      "ypos": 39
+    }
+  ],
+  "properties": []
+}

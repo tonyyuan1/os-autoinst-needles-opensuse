@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-test-ods"
+  ],
+  "area": [
+    {
+      "ypos": 32,
+      "xpos": 410,
+      "height": 27,
+      "width": 203,
+      "type": "match"
+    },
+    {
+      "xpos": 6,
+      "height": 189,
+      "ypos": 206,
+      "type": "match",
+      "width": 145
+    }
+  ],
+  "properties": []
+}
