@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "dstat-nocolor"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 15,
+      "width": 568,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
