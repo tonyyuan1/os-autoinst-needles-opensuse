@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 185,
+      "height": 19,
+      "width": 206,
+      "type": "match",
+      "ypos": 446
+    }
+  ],
+  "tags": [
+    "open_port_in_firewall"
+  ]
+}

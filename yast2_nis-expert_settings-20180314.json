@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 334,
+      "type": "match",
+      "width": 186,
+      "height": 35,
+      "xpos": 415
+    }
+  ],
+  "tags": [
+    "expert_settings"
+  ]
+}

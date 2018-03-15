@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 96,
+      "type": "match",
+      "width": 96,
+      "height": 19
+    },
+    {
+      "xpos": 135,
+      "width": 72,
+      "height": 20,
+      "type": "match",
+      "ypos": 95
+    },
+    {
+      "xpos": 287,
+      "height": 19,
+      "width": 104,
+      "type": "match",
+      "ypos": 96
+    }
+  ],
+  "tags": [
+    "nfs_server_added"
+  ]
+}
