@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 135,
+      "ypos": 199,
+      "width": 79,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 28,
+      "ypos": 237,
+      "width": 113,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 500,
+      "ypos": 179,
+      "width": 122,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-license-sles"
+  ]
+}
