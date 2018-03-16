@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 95,
+      "ypos": 192,
+      "width": 99,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "vncviewer-options-tlsx509"
+  ]
+}
