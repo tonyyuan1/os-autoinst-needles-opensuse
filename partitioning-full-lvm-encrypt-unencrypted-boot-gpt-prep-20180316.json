@@ -1,0 +1,66 @@
+{
+  "tags": [
+    "ENV-ARCH-ppc64le",
+    "ENV-INSTLANG-en_US",
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ],
+  "area": [
+    {
+      "width": 192,
+      "type": "match",
+      "xpos": 38,
+      "ypos": 719,
+      "height": 11
+    },
+    {
+      "height": 10,
+      "ypos": 167,
+      "type": "match",
+      "xpos": 416,
+      "width": 131
+    },
+    {
+      "xpos": 17,
+      "type": "match",
+      "width": 167,
+      "height": 12,
+      "ypos": 719
+    },
+    {
+      "type": "match",
+      "xpos": 411,
+      "width": 144,
+      "ypos": 197,
+      "height": 26
+    },
+    {
+      "type": "match",
+      "xpos": 649,
+      "width": 81,
+      "height": 11,
+      "ypos": 152
+    },
+    {
+      "type": "match",
+      "xpos": 646,
+      "width": 103,
+      "height": 12,
+      "ypos": 136
+    },
+    {
+      "height": 25,
+      "ypos": 138,
+      "width": 82,
+      "xpos": 416,
+      "type": "match"
+    },
+    {
+      "width": 63,
+      "type": "match",
+      "xpos": 412,
+      "height": 15,
+      "ypos": 119
+    }
+  ],
+  "properties": []
+}
