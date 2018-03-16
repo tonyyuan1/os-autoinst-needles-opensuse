@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "desktop-gnome-classic"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "height": 26,
+      "ypos": 2,
+      "type": "match",
+      "width": 180
+    },
+    {
+      "type": "match",
+      "width": 159,
+      "xpos": 850,
+      "ypos": 32,
+      "height": 110
+    },
+    {
+      "height": 22,
+      "ypos": 1,
+      "xpos": 985,
+      "width": 36,
+      "type": "match"
+    }
+  ]
+}
