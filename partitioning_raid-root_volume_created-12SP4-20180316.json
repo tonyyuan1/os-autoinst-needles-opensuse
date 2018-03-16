@@ -1,0 +1,36 @@
+{
+  "tags": [
+    "partitioning_raid-root_volume_created"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 29,
+      "ypos": 98,
+      "width": 253,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 341,
+      "ypos": 151,
+      "width": 132,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 321,
+      "ypos": 233,
+      "width": 79,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 546,
+      "ypos": 235,
+      "width": 180,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "acceptedpartitioningraid1lvm",
+    "acceptedpartitioningraid1lvm-efi"
+  ],
+  "area": [
+    {
+      "width": 163,
+      "ypos": 199,
+      "height": 68,
+      "xpos": 152,
+      "type": "match"
+    },
+    {
+      "width": 166,
+      "height": 10,
+      "ypos": 320,
+      "xpos": 417,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "type": "match",
+      "height": 10,
+      "ypos": 304,
+      "width": 167
+    },
+    {
+      "width": 179,
+      "ypos": 368,
+      "height": 10,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "xpos": 656,
+      "ypos": 368,
+      "width": 51,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "volume-pick-os-role"
+  ],
+  "area": [
+    {
+      "ypos": 100,
+      "height": 22,
+      "width": 406,
+      "xpos": 28,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 436,
+      "height": 11,
+      "ypos": 397,
+      "width": 111
+    }
+  ],
+  "properties": []
+}
