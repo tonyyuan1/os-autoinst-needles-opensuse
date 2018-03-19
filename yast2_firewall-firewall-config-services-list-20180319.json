@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 37,
+      "xpos": 375,
+      "type": "match",
+      "height": 76,
+      "ypos": 368,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firewall-config-services-list"
+  ]
+}
