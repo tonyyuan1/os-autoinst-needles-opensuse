@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-indicator"
+  ],
+  "area": [
+    {
+      "xpos": 428,
+      "ypos": 742,
+      "width": 153,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
