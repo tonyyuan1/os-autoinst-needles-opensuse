@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 28,
+      "height": 25,
+      "xpos": 10,
+      "type": "match",
+      "width": 174
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "http_host_details"
+  ]
+}
