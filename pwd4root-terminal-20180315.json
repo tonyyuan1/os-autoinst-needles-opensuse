@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "pwd4root-terminal"
+  ],
+  "area": [
+    {
+      "ypos": 192,
+      "type": "match",
+      "height": 29,
+      "xpos": 145,
+      "width": 87
+    }
+  ],
+  "properties": []
+}
