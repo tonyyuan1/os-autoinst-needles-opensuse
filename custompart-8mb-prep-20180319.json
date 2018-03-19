@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 306,
+      "xpos": 297,
+      "type": "match",
+      "ypos": 139,
+      "height": 186
+    }
+  ],
+  "tags": [
+    "ENV-OFW-1",
+    "ENV-SP2ORLATER-1",
+    "custompart"
+  ]
+}
