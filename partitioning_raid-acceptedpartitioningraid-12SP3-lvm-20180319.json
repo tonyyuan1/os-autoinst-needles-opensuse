@@ -1,7 +1,8 @@
 {
   "tags": [
     "ENV-SP3ORLATER-1",
-    "acceptedpartitioningraid1lvm"
+    "acceptedpartitioningraid1lvm",
+    "acceptedpartitioningraid1lvm-efi"
   ],
   "properties": [],
   "area": [

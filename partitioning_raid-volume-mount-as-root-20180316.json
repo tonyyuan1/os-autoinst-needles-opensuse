@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 288,
+      "height": 84,
+      "width": 122,
+      "type": "match",
+      "xpos": 530
+    },
+    {
+      "xpos": 29,
+      "ypos": 99,
+      "width": 559,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "volume-mount-as-root"
+  ]
+}
