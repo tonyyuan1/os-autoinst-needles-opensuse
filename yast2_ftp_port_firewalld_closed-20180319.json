@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "yast2_ftp_port_closed"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 14,
+      "ypos": 337,
+      "type": "match",
+      "xpos": 334,
+      "width": 193,
+      "match": 90
+    }
+  ]
+}
