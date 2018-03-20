@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 194,
+      "height": 34,
+      "width": 191,
+      "type": "match",
+      "xpos": 128
+    },
+    {
+      "height": 34,
+      "ypos": 152,
+      "type": "match",
+      "xpos": 496,
+      "width": 358
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "bsc#",
+    "system-role-default-system"
+  ]
+}
