@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ERROR-removing-package-details"
+  ],
+  "area": [
+    {
+      "xpos": 317,
+      "ypos": 248,
+      "width": 108,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
