@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "bsc#1084674",
+    "system-role-default-system"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 191,
+      "type": "match",
+      "xpos": 128,
+      "height": 34,
+      "ypos": 194
+    },
+    {
+      "height": 34,
+      "ypos": 162,
+      "width": 358,
+      "type": "match",
+      "xpos": 496
+    }
+  ]
+}
