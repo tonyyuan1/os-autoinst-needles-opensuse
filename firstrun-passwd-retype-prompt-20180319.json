@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "passwd-retype-prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 239,
+      "width": 158,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}
