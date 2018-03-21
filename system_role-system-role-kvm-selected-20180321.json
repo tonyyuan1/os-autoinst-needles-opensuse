@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-kvm-selected"
+  ],
+  "area": [
+    {
+      "xpos": 517,
+      "ypos": 315,
+      "width": 147,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 552,
+      "ypos": 340,
+      "width": 199,
+      "height": 47,
+      "type": "match"
+    }
+  ]
+}
