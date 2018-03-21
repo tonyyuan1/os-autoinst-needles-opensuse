@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "system-role-default-system"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 25,
+      "ypos": 27,
+      "width": 99,
+      "xpos": 10,
+      "type": "match"
+    },
+    {
+      "width": 105,
+      "xpos": 272,
+      "type": "match",
+      "height": 13,
+      "ypos": 145
+    }
+  ]
+}
