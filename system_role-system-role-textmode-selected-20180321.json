@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-textmode-selected"
+  ],
+  "area": [
+    {
+      "xpos": 520,
+      "ypos": 177,
+      "width": 66,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 554,
+      "ypos": 205,
+      "width": 291,
+      "height": 43,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
