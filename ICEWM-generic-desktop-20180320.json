@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "x11"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 737,
+      "width": 68,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 45,
+      "ypos": 24,
+      "width": 122,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 532,
+      "ypos": 284,
+      "width": 299,
+      "height": 175,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openattic-login"
+  ],
+  "properties": []
+}
