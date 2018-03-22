@@ -1,0 +1,64 @@
+{
+  "tags": [
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 192,
+      "xpos": 38,
+      "type": "match",
+      "height": 11,
+      "ypos": 719
+    },
+    {
+      "ypos": 167,
+      "height": 10,
+      "width": 131,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "height": 12,
+      "ypos": 719,
+      "width": 167,
+      "type": "match",
+      "xpos": 17
+    },
+    {
+      "width": 144,
+      "xpos": 411,
+      "type": "match",
+      "height": 26,
+      "ypos": 197
+    },
+    {
+      "type": "match",
+      "xpos": 649,
+      "width": 81,
+      "ypos": 152,
+      "height": 11
+    },
+    {
+      "width": 122,
+      "type": "match",
+      "xpos": 630,
+      "height": 12,
+      "ypos": 136
+    },
+    {
+      "type": "match",
+      "xpos": 416,
+      "width": 82,
+      "ypos": 138,
+      "height": 25
+    },
+    {
+      "ypos": 119,
+      "height": 15,
+      "width": 63,
+      "xpos": 412,
+      "type": "match"
+    }
+  ]
+}
