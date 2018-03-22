@@ -1,0 +1,15 @@
+{
+  "tags": [
+    " system-role-minimal-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 519,
+      "ypos": 175,
+      "width": 54,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
