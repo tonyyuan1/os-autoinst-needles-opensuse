@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "system-role-xen-focused"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 461,
+      "width": 217,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
