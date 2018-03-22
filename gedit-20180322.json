@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "width": 381,
+      "xpos": 3,
+      "type": "match",
+      "ypos": 296,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-FLAVOR-DVD",
+    "test-gedit-1"
+  ]
+}
