@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "system-role-kvm-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 25,
+      "width": 100,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 271,
+      "ypos": 346,
+      "width": 227,
+      "height": 24,
+      "type": "match"
+    }
+  ]
+}
