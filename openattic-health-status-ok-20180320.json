@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 64,
+      "ypos": 431,
+      "width": 102,
+      "height": 108,
+      "type": "match"
+    },
+    {
+      "xpos": 134,
+      "ypos": 595,
+      "width": 39,
+      "height": 90,
+      "type": "match"
+    },
+    {
+      "xpos": 287,
+      "ypos": 593,
+      "width": 45,
+      "height": 94,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openattic-health-status-ok"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 945,
+      "ypos": 100,
+      "width": 52,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "openattic-logout"
+  ]
+}
