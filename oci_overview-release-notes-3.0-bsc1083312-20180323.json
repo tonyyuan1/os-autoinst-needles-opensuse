@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-VIDEOMODE-text",
+    "release-notes-3.0"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "width": 312,
+      "type": "match",
+      "xpos": 200,
+      "height": 268,
+      "ypos": 194
+    }
+  ]
+}
