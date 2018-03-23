@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "license-agreement"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 299,
+      "ypos": 30,
+      "width": 144,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 16,
+      "ypos": 702,
+      "width": 263,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 85,
+      "ypos": 113,
+      "width": 213,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 950,
+      "ypos": 719,
+      "width": 54,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
