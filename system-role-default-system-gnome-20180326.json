@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-default-system"
+  ],
+  "area": [
+    {
+      "ypos": 194,
+      "height": 34,
+      "type": "match",
+      "xpos": 128,
+      "width": 191
+    },
+    {
+      "xpos": 357,
+      "ypos": 177,
+      "width": 119,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 399,
+      "ypos": 206,
+      "width": 317,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
