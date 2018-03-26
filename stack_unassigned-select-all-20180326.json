@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 801,
+      "width": 165,
+      "height": 30,
+      "ypos": 237
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "unassigned-select-all"
+  ]
+}
