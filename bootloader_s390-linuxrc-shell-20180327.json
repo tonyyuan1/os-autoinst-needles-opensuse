@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 218,
+      "width": 109,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "linuxrc-shell"
+  ]
+}
