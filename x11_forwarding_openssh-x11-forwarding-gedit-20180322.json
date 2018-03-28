@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "x11-forwarding-gedit"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 30,
+      "xpos": 2,
+      "height": 98,
+      "width": 431
+    }
+  ]
+}

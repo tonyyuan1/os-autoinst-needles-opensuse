@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 187,
+      "width": 156,
+      "ypos": 505,
+      "xpos": 868
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "vncviewer-menu"
+  ],
+  "properties": []
+}
