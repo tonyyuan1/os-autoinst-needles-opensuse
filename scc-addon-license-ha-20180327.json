@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 195,
+      "height": 148,
+      "type": "match",
+      "width": 254,
+      "xpos": 66
+    },
+    {
+      "type": "match",
+      "xpos": 380,
+      "width": 388,
+      "height": 22,
+      "ypos": 175
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DISTRI-sle",
+    "scc-addon-license-ha"
+  ]
+}
