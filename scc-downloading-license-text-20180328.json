@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 383,
+      "ypos": 366,
+      "width": 261,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "scc-downloading-license"
+  ]
+}
