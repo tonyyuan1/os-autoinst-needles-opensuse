@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "system-indicator"
+  ],
+  "area": [
+    {
+      "xpos": 987,
+      "height": 25,
+      "type": "match",
+      "ypos": 742,
+      "width": 35
+    }
+  ],
+  "properties": []
+}

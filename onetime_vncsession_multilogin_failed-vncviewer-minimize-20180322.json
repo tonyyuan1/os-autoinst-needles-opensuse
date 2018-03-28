@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "vncviewer-minimize"
+  ],
+  "area": [
+    {
+      "height": 120,
+      "type": "match",
+      "width": 121,
+      "ypos": 325,
+      "xpos": 452
+    }
+  ]
+}
