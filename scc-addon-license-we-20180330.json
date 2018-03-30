@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 196,
+      "height": 112,
+      "xpos": 135,
+      "type": "match",
+      "width": 197
+    },
+    {
+      "width": 167,
+      "type": "match",
+      "xpos": 119,
+      "ypos": 312,
+      "height": 32
+    },
+    {
+      "xpos": 382,
+      "type": "match",
+      "width": 243,
+      "ypos": 180,
+      "height": 15
+    }
+  ],
+  "tags": [
+    "scc-addon-license-we"
+  ]
+}
