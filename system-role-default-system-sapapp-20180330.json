@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 34,
+      "ypos": 194,
+      "type": "match",
+      "xpos": 128,
+      "width": 191
+    },
+    {
+      "height": 63,
+      "ypos": 173,
+      "width": 313,
+      "xpos": 356,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLES4SAP-1",
+    "system-role-default-system"
+  ]
+}
