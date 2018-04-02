@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 84,
+      "height": 239,
+      "width": 514,
+      "type": "match",
+      "xpos": 177
+    },
+    {
+      "ypos": 528,
+      "height": 71,
+      "type": "match",
+      "width": 188,
+      "xpos": 57
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "xdmcp-icewm-generic-desktop"
+  ]
+}
