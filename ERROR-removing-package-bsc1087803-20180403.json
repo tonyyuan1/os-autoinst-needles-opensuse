@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 198,
+      "type": "match",
+      "xpos": 317,
+      "ypos": 335,
+      "height": 14
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ERROR-removing-package",
+    "bsc#1087803"
+  ]
+}
