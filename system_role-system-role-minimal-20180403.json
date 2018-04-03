@@ -3,14 +3,14 @@
     "ENV-15ORLATER-1",
     "system-role-minimal"
   ],
+  "properties": [],
   "area": [
     {
-      "width": 57,
-      "xpos": 363,
       "type": "match",
-      "height": 12,
-      "ypos": 249
+      "xpos": 363,
+      "width": 57,
+      "ypos": 178,
+      "height": 12
     }
-  ],
-  "properties": []
+  ]
 }
