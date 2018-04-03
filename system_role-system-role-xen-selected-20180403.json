@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-xen-selected"
+  ],
+  "area": [
+    {
+      "height": 10,
+      "ypos": 388,
+      "xpos": 362,
+      "type": "match",
+      "width": 137
+    },
+    {
+      "ypos": 412,
+      "height": 49,
+      "type": "match",
+      "xpos": 393,
+      "width": 201
+    }
+  ],
+  "properties": []
+}
