@@ -1,24 +1,23 @@
 {
-  "tags": [
-    "ENV-15ORLATER-1",
-    "autoyast-boot",
-    "reboot-after-installation"
-  ],
-  "properties": [],
   "area": [
     {
+      "type": "match",
       "height": 104,
       "ypos": 67,
-      "type": "match",
-      "xpos": 297,
-      "width": 206
+      "width": 206,
+      "xpos": 297
     },
     {
-      "width": 41,
-      "type": "match",
       "xpos": 151,
+      "width": 41,
       "height": 37,
-      "ypos": 208
+      "ypos": 208,
+      "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "autoyast-boot"
   ]
 }
