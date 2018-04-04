@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-console",
+    "inst-console-stage2",
+    "install-shell",
+    "installation"
+  ],
+  "area": [
+    {
+      "ypos": 3,
+      "height": 10,
+      "type": "match",
+      "xpos": 0,
+      "width": 28
+    }
+  ]
+}
