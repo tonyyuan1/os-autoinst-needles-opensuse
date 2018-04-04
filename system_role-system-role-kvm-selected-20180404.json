@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 27,
+      "width": 210,
+      "ypos": 321,
+      "height": 15
+    },
+    {
+      "height": 10,
+      "ypos": 35,
+      "width": 86,
+      "xpos": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-kvm-selected"
+  ]
+}
