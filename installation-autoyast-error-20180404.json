@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "autoyast-error",
+    "autoyast-postinstall-error"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 414,
+      "ypos": 335,
+      "width": 32,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 413,
+      "ypos": 368,
+      "width": 198,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}
