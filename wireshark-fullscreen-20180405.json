@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 77,
+      "xpos": 131,
+      "ypos": 198,
+      "width": 208,
+      "type": "match"
+    },
+    {
+      "xpos": 133,
+      "ypos": 684,
+      "width": 177,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "wireshark-fullscreen"
+  ],
+  "properties": []
+}
