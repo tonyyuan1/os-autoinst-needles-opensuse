@@ -1,0 +1,72 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "modules-preselected-hpc"
+  ],
+  "area": [
+    {
+      "width": 130,
+      "type": "match",
+      "height": 25,
+      "ypos": 204,
+      "xpos": 358
+    },
+    {
+      "ypos": 264,
+      "xpos": 360,
+      "height": 22,
+      "type": "match",
+      "width": 87
+    },
+    {
+      "type": "match",
+      "width": 88,
+      "xpos": 360,
+      "ypos": 324,
+      "height": 18
+    },
+    {
+      "height": 16,
+      "ypos": 296,
+      "xpos": 360,
+      "width": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 361,
+      "ypos": 149,
+      "height": 17,
+      "type": "match",
+      "width": 281
+    },
+    {
+      "width": 131,
+      "type": "match",
+      "height": 20,
+      "ypos": 177,
+      "xpos": 358
+    },
+    {
+      "ypos": 238,
+      "xpos": 358,
+      "height": 14,
+      "type": "match",
+      "width": 123
+    },
+    {
+      "height": 18,
+      "xpos": 360,
+      "ypos": 354,
+      "width": 123,
+      "type": "match"
+    },
+    {
+      "width": 122,
+      "type": "match",
+      "height": 20,
+      "ypos": 380,
+      "xpos": 356
+    }
+  ],
+  "properties": []
+}
