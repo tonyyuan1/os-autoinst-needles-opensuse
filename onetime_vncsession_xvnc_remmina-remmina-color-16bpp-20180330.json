@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-color-16bpp"
+  ],
+  "area": [
+    {
+      "xpos": 174,
+      "ypos": 601,
+      "width": 133,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 531,
+      "width": 602,
+      "type": "match",
+      "height": 29,
+      "xpos": 171
+    },
+    {
+      "xpos": 164,
+      "ypos": 360,
+      "width": 616,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-server-url"
+  ]
+}

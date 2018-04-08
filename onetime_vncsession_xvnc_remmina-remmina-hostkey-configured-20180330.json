@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-hostkey-configured"
+  ],
+  "area": [
+    {
+      "xpos": 170,
+      "ypos": 111,
+      "width": 680,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
