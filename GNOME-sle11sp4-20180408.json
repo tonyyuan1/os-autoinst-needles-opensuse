@@ -1,0 +1,27 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-VERSION-11-SP4",
+    "GNOME",
+    "desktop-at-first-boot",
+    "generic-desktop",
+    "test-consoletest_finish-1"
+  ],
+  "area": [
+    {
+      "width": 176,
+      "type": "match",
+      "height": 264,
+      "ypos": 8,
+      "xpos": 11
+    },
+    {
+      "width": 302,
+      "type": "match",
+      "height": 22,
+      "xpos": 0,
+      "ypos": 746
+    }
+  ],
+  "properties": []
+}
