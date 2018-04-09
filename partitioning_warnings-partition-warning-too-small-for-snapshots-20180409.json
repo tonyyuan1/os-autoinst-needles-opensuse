@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-warning-too-small-for-snapshots"
+  ],
+  "area": [
+    {
+      "xpos": 362,
+      "ypos": 312,
+      "width": 66,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 369,
+      "ypos": 343,
+      "width": 240,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 447,
+      "ypos": 458,
+      "width": 37,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
