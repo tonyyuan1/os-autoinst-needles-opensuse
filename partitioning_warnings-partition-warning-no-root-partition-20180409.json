@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 327,
+      "ypos": 325,
+      "width": 369,
+      "height": 54,
+      "type": "match"
+    },
+    {
+      "xpos": 537,
+      "ypos": 442,
+      "width": 33,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-warning-no-root-partition"
+  ]
+}

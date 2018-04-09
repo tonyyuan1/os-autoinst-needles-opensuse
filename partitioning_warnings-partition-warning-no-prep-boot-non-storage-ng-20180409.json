@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-warning-no-prep-boot"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 372,
+      "width": 58,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 359,
+      "ypos": 307,
+      "width": 255,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 537,
+      "ypos": 458,
+      "width": 35,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 440,
+      "ypos": 356,
+      "width": 66,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

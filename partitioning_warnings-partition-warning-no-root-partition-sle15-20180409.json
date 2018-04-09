@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 329,
+      "width": 187,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 276,
+      "ypos": 253,
+      "width": 33,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 492,
+      "ypos": 510,
+      "width": 30,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-warning-no-root-partition"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 309,
+      "ypos": 331,
+      "width": 396,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 534,
+      "ypos": 508,
+      "width": 39,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-warning-no-prep-boot"
+  ],
+  "properties": []
+}
