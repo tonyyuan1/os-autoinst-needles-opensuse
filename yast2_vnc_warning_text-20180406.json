@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 271,
+      "width": 309,
+      "type": "match",
+      "ypos": 336,
+      "height": 29
+    },
+    {
+      "xpos": 488,
+      "width": 31,
+      "ypos": 414,
+      "type": "match",
+      "height": 19
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_vnc_warning_text"
+  ]
+}
