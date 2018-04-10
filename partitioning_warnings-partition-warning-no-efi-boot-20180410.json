@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-warning-no-efi-boot"
+  ],
+  "area": [
+    {
+      "xpos": 324,
+      "ypos": 334,
+      "width": 144,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 453,
+      "ypos": 511,
+      "width": 33,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 545,
+      "ypos": 512,
+      "width": 22,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
