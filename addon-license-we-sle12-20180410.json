@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP3",
+    "addon-license-we"
+  ],
+  "area": [
+    {
+      "xpos": 108,
+      "ypos": 199,
+      "width": 136,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 200,
+      "ypos": 236,
+      "width": 115,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 374,
+      "ypos": 698,
+      "width": 177,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
