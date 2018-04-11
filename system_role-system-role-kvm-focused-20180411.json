@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "system-role-kvm-focused"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 218,
+      "xpos": 24,
+      "ypos": 317,
+      "height": 20,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "width": 110,
+      "xpos": 5,
+      "ypos": 28,
+      "height": 20,
+      "match": 80
+    }
+  ]
+}
