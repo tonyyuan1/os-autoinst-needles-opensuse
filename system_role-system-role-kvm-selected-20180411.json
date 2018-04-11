@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-kvm-selected"
+  ],
+  "area": [
+    {
+      "width": 210,
+      "type": "match",
+      "height": 15,
+      "ypos": 321,
+      "xpos": 27,
+      "match": 52
+    },
+    {
+      "height": 10,
+      "xpos": 15,
+      "ypos": 35,
+      "width": 86,
+      "type": "match",
+      "match": 52
+    }
+  ]
+}
