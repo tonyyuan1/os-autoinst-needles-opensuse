@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 364,
+      "ypos": 669,
+      "width": 135,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 149,
+      "ypos": 195,
+      "width": 179,
+      "height": 80,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "autoyast-stage1-reboot-upcoming"
+  ],
+  "properties": []
+}
