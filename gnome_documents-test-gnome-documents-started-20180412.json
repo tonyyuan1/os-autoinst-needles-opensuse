@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 361,
+      "type": "match",
+      "height": 45,
+      "xpos": 312,
+      "ypos": 30
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-gnome-documents-started"
+  ]
+}
