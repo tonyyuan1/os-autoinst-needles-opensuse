@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "seahorse",
+    "seahorse-launched"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 491,
+      "xpos": 196,
+      "ypos": 105,
+      "height": 61
+    }
+  ]
+}
