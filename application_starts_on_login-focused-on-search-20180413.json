@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "focused-on-search"
+  ],
+  "area": [
+    {
+      "width": 67,
+      "type": "match",
+      "height": 39,
+      "ypos": 325,
+      "xpos": 343
+    },
+    {
+      "height": 43,
+      "xpos": 344,
+      "ypos": 276,
+      "width": 338,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
