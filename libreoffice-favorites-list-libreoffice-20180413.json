@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "favorites-list-libreoffice"
+  ],
+  "area": [
+    {
+      "width": 45,
+      "type": "match",
+      "height": 58,
+      "xpos": 17,
+      "ypos": 357
+    }
+  ]
+}
