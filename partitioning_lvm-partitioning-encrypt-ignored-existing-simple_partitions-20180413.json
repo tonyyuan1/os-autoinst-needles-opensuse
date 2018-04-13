@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "ypos": 120,
+      "xpos": 416,
+      "height": 132,
+      "type": "match",
+      "width": 139
+    },
+    {
+      "xpos": 632,
+      "ypos": 195,
+      "width": 80,
+      "height": 60,
+      "type": "match"
+    },
+    {
+      "xpos": 939,
+      "ypos": 726,
+      "width": 65,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    " ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "partitioning-encrypt-ignored-existing"
+  ],
+  "properties": []
+}
