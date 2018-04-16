@@ -1,0 +1,33 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "yast2_samba-added_html_share"
+  ],
+  "area": [
+    {
+      "height": 14,
+      "type": "match",
+      "xpos": 104,
+      "ypos": 49,
+      "width": 47,
+      "match": 80
+    },
+    {
+      "xpos": 192,
+      "width": 89,
+      "ypos": 209,
+      "type": "match",
+      "height": 14,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "xpos": 289,
+      "width": 137,
+      "ypos": 209,
+      "height": 14,
+      "match": 80
+    }
+  ],
+  "properties": []
+}
