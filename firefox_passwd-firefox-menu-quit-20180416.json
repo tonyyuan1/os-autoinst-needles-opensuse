@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 262,
+      "type": "match",
+      "height": 24,
+      "xpos": 1,
+      "ypos": 406
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-menu-quit"
+  ]
+}
