@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "socket-response"
+  ],
+  "area": [
+    {
+      "height": 31,
+      "ypos": 719,
+      "width": 385,
+      "xpos": 0,
+      "type": "match"
+    },
+    {
+      "height": 26,
+      "ypos": 579,
+      "width": 286,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "properties": []
+}
