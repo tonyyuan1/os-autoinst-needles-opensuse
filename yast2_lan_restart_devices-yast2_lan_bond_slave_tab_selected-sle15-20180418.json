@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_lan_bond_slave_tab_selected"
+  ],
+  "area": [
+    {
+      "xpos": 136,
+      "ypos": 211,
+      "width": 176,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
