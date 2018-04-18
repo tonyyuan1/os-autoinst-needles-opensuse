@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 28,
+      "ypos": 200,
+      "width": 288,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 360,
+      "ypos": 211,
+      "width": 249,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "adapting_proposal"
+  ]
+}
