@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "delete-partition"
+  ],
+  "area": [
+    {
+      "xpos": 399,
+      "ypos": 120,
+      "width": 159,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

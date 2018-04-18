@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 533,
+      "ypos": 347,
+      "width": 231,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "resize-or-remove-ifneeded"
+  ]
+}
