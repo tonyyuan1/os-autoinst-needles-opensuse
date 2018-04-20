@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 101,
+      "width": 103,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sw_dependencies"
+  ],
+  "properties": []
+}

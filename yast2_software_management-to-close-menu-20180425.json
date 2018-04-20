@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "to-close-menu"
+  ],
+  "area": [
+    {
+      "xpos": 483,
+      "ypos": 68,
+      "width": 64,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

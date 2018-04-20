@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 574,
+      "ypos": 156,
+      "width": 75,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "help-symbols"
+  ]
+}
