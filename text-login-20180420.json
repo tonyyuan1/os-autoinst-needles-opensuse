@@ -1,15 +1,15 @@
 {
   "properties": [],
+  "tags": [
+    "tty6-selected"
+  ],
   "area": [
     {
-      "type": "match",
-      "ypos": 31,
-      "height": 15,
       "width": 34,
-      "xpos": 855
+      "xpos": 855,
+      "height": 15,
+      "ypos": 32,
+      "type": "match"
     }
-  ],
-  "tags": [
-    "text-login"
   ]
 }
