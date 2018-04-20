@@ -1,9 +1,6 @@
 {
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
-    "ENV-SP2ORLATER-1",
-    "ENV-SP3ORLATER-1",
     "iscsi-lio-server"
   ],
   "area": [
