@@ -1,0 +1,43 @@
+{
+  "tags": [
+    "iscsi-ibft"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 419,
+      "type": "match",
+      "width": 372,
+      "height": 25,
+      "xpos": 31
+    },
+    {
+      "xpos": 807,
+      "ypos": 144,
+      "width": 73,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 14,
+      "ypos": 360,
+      "width": 293,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 26,
+      "ypos": 242,
+      "width": 216,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 285,
+      "width": 527,
+      "height": 13,
+      "type": "match"
+    }
+  ]
+}
