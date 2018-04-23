@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "release-notes-ltss"
+  ],
+  "area": [
+    {
+      "xpos": 226,
+      "ypos": 208,
+      "width": 123,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 465,
+      "ypos": 171,
+      "width": 110,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
