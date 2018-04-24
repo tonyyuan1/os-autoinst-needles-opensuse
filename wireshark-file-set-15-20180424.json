@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "wireshark-file-set"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "ypos": 291,
+      "width": 66,
+      "xpos": 27
+    }
+  ]
+}
