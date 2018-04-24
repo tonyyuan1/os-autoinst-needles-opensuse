@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 364,
+      "width": 678,
+      "xpos": 0,
+      "ypos": 0
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "generic-desktop",
+    "x11"
+  ]
+}
