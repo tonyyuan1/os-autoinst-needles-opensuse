@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-ltss"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "ypos": 237,
+      "xpos": 208,
+      "width": 123
+    },
+    {
+      "xpos": 304,
+      "width": 110,
+      "ypos": 175,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
