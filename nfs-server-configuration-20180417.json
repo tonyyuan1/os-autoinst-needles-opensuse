@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "nfs-server-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 123,
+      "type": "match",
+      "xpos": 72,
+      "height": 27,
+      "width": 241,
+      "match": 90
+    }
+  ]
+}
