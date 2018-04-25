@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 363,
+      "height": 12,
+      "width": 102,
+      "type": "match",
+      "ypos": 370
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "uncheck-install-medium"
+  ],
+  "properties": []
+}
