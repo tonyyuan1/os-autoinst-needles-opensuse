@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 572,
+      "height": 10,
+      "width": 68,
+      "ypos": 426,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "hard-disk-dev-sdb-selected",
+    "storage-ng"
+  ],
+  "properties": []
+}

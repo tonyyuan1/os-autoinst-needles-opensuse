@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "preparing-disk-overview"
+  ],
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 93,
+      "width": 302,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 943,
+      "ypos": 729,
+      "width": 58,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}
