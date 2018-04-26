@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "system-role-hpc-server-selected"
+  ],
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 246,
+      "width": 213,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
