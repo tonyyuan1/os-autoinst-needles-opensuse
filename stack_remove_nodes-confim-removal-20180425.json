@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "confirm-removal"
+  ],
+  "area": [
+    {
+      "xpos": 598,
+      "ypos": 328,
+      "width": 92,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
