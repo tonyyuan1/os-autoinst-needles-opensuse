@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-target-overview"
+  ],
+  "area": [
+    {
+      "xpos": 5,
+      "width": 131,
+      "ypos": 30,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 104,
+      "xpos": 256,
+      "ypos": 174,
+      "height": 35
+    },
+    {
+      "xpos": 296,
+      "width": 32,
+      "height": 17,
+      "ypos": 336,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
