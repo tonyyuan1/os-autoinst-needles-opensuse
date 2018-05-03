@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "configured_sw_gpg_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 718,
+      "ypos": 652,
+      "width": 91,
+      "height": 38,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

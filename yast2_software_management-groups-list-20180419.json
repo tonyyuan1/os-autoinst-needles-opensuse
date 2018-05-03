@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 143,
+      "ypos": 248,
+      "width": 91,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 163,
+      "ypos": 491,
+      "width": 67,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "groups-list"
+  ],
+  "properties": []
+}

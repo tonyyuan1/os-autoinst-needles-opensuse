@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "package-load-package-list_cancel"
+  ],
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 33,
+      "width": 82,
+      "height": 35,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

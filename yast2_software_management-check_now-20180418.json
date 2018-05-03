@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "check_now"
+  ],
+  "area": [
+    {
+      "xpos": 349,
+      "ypos": 127,
+      "width": 91,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

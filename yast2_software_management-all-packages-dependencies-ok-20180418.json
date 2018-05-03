@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 570,
+      "ypos": 408,
+      "width": 88,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "all-packages-dependencies-ok"
+  ]
+}

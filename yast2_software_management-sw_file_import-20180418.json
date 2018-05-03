@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 145,
+      "ypos": 128,
+      "width": 63,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sw_file_import"
+  ]
+}

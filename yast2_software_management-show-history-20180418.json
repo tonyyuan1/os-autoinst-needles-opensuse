@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 523,
+      "ypos": 180,
+      "width": 110,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "show-history"
+  ],
+  "properties": []
+}
