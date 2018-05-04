@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 192,
+      "height": 42,
+      "width": 106,
+      "xpos": 58,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_lan_select_already_configured_device"
+  ]
+}
