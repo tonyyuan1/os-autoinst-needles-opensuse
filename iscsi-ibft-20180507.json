@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 31,
+      "width": 372,
+      "ypos": 331,
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "iscsi-ibft"
+  ]
+}
