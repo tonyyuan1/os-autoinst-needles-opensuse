@@ -31,7 +31,6 @@
     }
   ],
   "tags": [
-    "ENV-VIRSH_VMM_FAMILY-xen",
     "yast2_lan-hostname-tab"
   ]
 }
