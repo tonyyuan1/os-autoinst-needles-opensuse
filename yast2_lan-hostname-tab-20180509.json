@@ -1,0 +1,37 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 402,
+      "ypos": 28,
+      "xpos": 9,
+      "type": "match",
+      "width": 1006
+    },
+    {
+      "xpos": 32,
+      "ypos": 94,
+      "type": "exclude",
+      "height": 19,
+      "width": 172
+    },
+    {
+      "xpos": 502,
+      "ypos": 98,
+      "width": 152,
+      "height": 20,
+      "type": "exclude"
+    },
+    {
+      "xpos": 521,
+      "ypos": 226,
+      "width": 167,
+      "height": 21,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "yast2_lan-hostname-tab"
+  ]
+}
