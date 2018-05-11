@@ -1,17 +1,19 @@
 {
+  "properties": [
+    "workaround"
+  ],
   "area": [
     {
-      "ypos": 193,
-      "width": 239,
-      "xpos": 201,
       "height": 318,
-      "type": "match"
+      "type": "match",
+      "xpos": 201,
+      "width": 239,
+      "ypos": 193
     }
   ],
   "tags": [
     "ENV-DISTRI-CASP",
     "ENV-VIDEOMODE-text",
     "release-notes-3.0"
-  ],
-  "properties": []
+  ]
 }
