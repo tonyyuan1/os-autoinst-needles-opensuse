@@ -3,7 +3,6 @@
   "tags": [
     "ENV-DESKTOP-textmode",
     "ENV-FLAVOR-JeOS-for-kvm",
-    "ENV-INSTLANG-en_US",
     "jeos-system-locale-en_US"
   ],
   "area": [

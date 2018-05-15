@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-JEOSINSTLANG-de_DE",
+    "ENV-JEOS-1",
+    "keymap-letter-data-de_DE"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 17,
+      "xpos": 112,
+      "ypos": 143,
+      "type": "match",
+      "width": 126
+    }
+  ]
+}
