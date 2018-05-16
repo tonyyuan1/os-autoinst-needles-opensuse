@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-JEOS-1",
+    "jeos-timezone-en_US"
+  ],
+  "area": [
+    {
+      "height": 20,
+      "width": 135,
+      "ypos": 45,
+      "type": "match",
+      "xpos": 340
+    }
+  ],
+  "properties": []
+}

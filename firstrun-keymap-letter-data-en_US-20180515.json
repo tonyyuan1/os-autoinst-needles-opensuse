@@ -1,16 +1,16 @@
 {
   "area": [
     {
+      "xpos": 112,
+      "ypos": 144,
+      "width": 127,
       "height": 15,
-      "type": "match",
-      "ypos": 80,
-      "xpos": 465,
-      "width": 52
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-JEOS-1",
-    "jeos-system-locale-en_US"
+    "keymap-letter-data-en_US"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 592,
+      "type": "match",
+      "width": 67,
+      "xpos": 383,
+      "height": 15
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "ENV-JEOSINSTLANG-de_DE",
+    "jeos-keylayout-de_DE",
+    "text-logged-in"
+  ]
+}
