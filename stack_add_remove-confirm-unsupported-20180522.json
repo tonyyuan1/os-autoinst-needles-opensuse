@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 660,
+      "ypos": 215,
+      "width": 130,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "confirm-unsupported"
+  ]
+}
