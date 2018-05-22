@@ -1,23 +1,23 @@
 {
-  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-launch"
+  ],
   "area": [
     {
-      "ypos": 65,
-      "width": 239,
-      "xpos": 15,
-      "height": 31,
-      "type": "match"
+      "height": 28,
+      "type": "match",
+      "width": 202,
+      "xpos": 18,
+      "ypos": 40
     },
     {
-      "width": 91,
-      "xpos": 640,
+      "height": 129,
       "type": "match",
-      "height": 118,
-      "ypos": 423
+      "ypos": 175,
+      "width": 185,
+      "xpos": 599
     }
   ],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-launch"
-  ]
+  "properties": []
 }
