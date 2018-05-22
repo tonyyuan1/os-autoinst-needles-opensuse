@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 611,
+      "ypos": 119,
+      "width": 34,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnote-new-note-menu"
+  ]
+}
