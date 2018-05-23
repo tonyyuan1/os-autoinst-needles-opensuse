@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "hard-disk-dev-non-sda-selected",
+    "hotkey_e",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "ypos": 350,
+      "xpos": 358,
+      "width": 144,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "height": 53,
+      "width": 90,
+      "xpos": 357,
+      "ypos": 368
+    }
+  ],
+  "properties": []
+}
