@@ -1,24 +1,24 @@
 {
-  "area": [
-    {
-      "height": 66,
-      "type": "match",
-      "ypos": 36,
-      "width": 452,
-      "xpos": 7
-    },
-    {
-      "height": 110,
-      "type": "match",
-      "xpos": 621,
-      "width": 148,
-      "ypos": 169
-    }
-  ],
+  "properties": [],
   "tags": [
     "3rdpartylicense",
     "ENV-SP2ORLATER-1",
     "firefox-gnome"
   ],
-  "properties": []
+  "area": [
+    {
+      "height": 66,
+      "type": "match",
+      "width": 452,
+      "xpos": 7,
+      "ypos": 36
+    },
+    {
+      "type": "match",
+      "height": 110,
+      "width": 101,
+      "xpos": 637,
+      "ypos": 173
+    }
+  ]
 }
