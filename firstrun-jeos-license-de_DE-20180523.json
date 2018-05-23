@@ -1,0 +1,40 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-JEOS-1",
+    "ENV-JEOSINSTLANG-de_DE",
+    "ENV-VERSION-15",
+    "jeos-license"
+  ],
+  "area": [
+    {
+      "ypos": 46,
+      "width": 449,
+      "xpos": 171,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "ypos": 207,
+      "xpos": 171,
+      "width": 640,
+      "type": "match",
+      "height": 147
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "ypos": 0,
+      "width": 249,
+      "xpos": 8
+    },
+    {
+      "xpos": 174,
+      "width": 351,
+      "ypos": 79,
+      "type": "match",
+      "height": 16
+    }
+  ]
+}
