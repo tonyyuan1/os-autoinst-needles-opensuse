@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "type": "match",
+      "width": 167,
+      "xpos": 149,
+      "ypos": 273
+    },
+    {
+      "height": 17,
+      "type": "match",
+      "width": 177,
+      "ypos": 697,
+      "xpos": 372
+    },
+    {
+      "width": 361,
+      "xpos": 383,
+      "ypos": 181,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 196,
+      "ypos": 233,
+      "width": 121,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-BETA-1",
+    "autoyast-license"
+  ]
+}
