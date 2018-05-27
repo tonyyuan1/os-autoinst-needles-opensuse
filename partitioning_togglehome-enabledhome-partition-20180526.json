@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "enabledhome-partition"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 391,
+      "ypos": 410,
+      "width": 147,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
