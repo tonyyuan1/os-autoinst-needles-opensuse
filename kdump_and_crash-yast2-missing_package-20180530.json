@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 322,
+      "width": 275,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "yast2-missing_package"
+  ]
+}
