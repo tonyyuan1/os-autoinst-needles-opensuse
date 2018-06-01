@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 366,
+      "ypos": 98,
+      "width": 40,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 413,
+      "ypos": 124,
+      "width": 17,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    " license-language-selected-english-us"
+  ]
+}
