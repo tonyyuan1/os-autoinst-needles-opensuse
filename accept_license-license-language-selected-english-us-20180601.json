@@ -2,21 +2,21 @@
   "properties": [],
   "area": [
     {
+      "type": "match",
+      "height": 53,
+      "ypos": 95,
       "xpos": 366,
-      "ypos": 98,
-      "width": 40,
-      "height": 42,
-      "type": "match"
+      "width": 42
     },
     {
-      "xpos": 413,
-      "ypos": 124,
-      "width": 17,
-      "height": 14,
+      "xpos": 414,
+      "ypos": 123,
+      "width": 15,
+      "height": 15,
       "type": "match"
     }
   ],
   "tags": [
-    " license-language-selected-english-us"
+    "license-language-selected-english-us"
   ]
 }
