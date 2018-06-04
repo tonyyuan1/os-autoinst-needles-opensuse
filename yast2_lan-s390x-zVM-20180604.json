@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 192,
+      "width": 277,
+      "height": 16,
+      "xpos": 32
+    },
+    {
+      "ypos": 24,
+      "type": "match",
+      "width": 381,
+      "height": 39,
+      "xpos": 16
+    },
+    {
+      "ypos": 1,
+      "type": "match",
+      "width": 116,
+      "height": 16,
+      "xpos": 3
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "yast2_lan"
+  ]
+}
