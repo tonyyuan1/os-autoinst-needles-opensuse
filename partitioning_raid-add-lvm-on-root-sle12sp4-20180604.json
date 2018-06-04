@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "ypos": 92,
+      "type": "match",
+      "xpos": 23,
+      "width": 505
+    }
+  ],
+  "tags": [
+    "add-lvm-on-root"
+  ],
+  "properties": []
+}
