@@ -1,17 +1,17 @@
 {
-  "properties": [
-    "workaround"
+  "tags": [
+    "linux-login"
   ],
   "area": [
     {
-      "height": 17,
+      "ypos": 752,
+      "height": 14,
       "type": "match",
-      "ypos": 748,
-      "width": 54,
-      "xpos": 70
+      "xpos": 70,
+      "width": 49
     }
   ],
-  "tags": [
-    "linux-login"
+  "properties": [
+    "workaround"
   ]
 }
