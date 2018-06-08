@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 470,
+      "width": 40,
+      "ypos": 526,
+      "type": "match",
+      "height": 18
+    }
+  ],
+  "tags": [
+    "ENV-JEOS-1",
+    "ENV-JEOSINSTLANG-de_DE",
+    "ENV-VERSION-12-SP4",
+    "jeos-system-locale-de_DE"
+  ],
+  "properties": []
+}
