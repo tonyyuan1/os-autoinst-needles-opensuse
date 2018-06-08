@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 80,
+      "width": 127,
+      "ypos": 112,
+      "type": "match",
+      "height": 15
+    }
+  ],
+  "tags": [
+    "ENV-JEOS-1",
+    "ENV-VERSION-12-SP4",
+    "keymap-letter-data-en_US"
+  ],
+  "properties": []
+}
