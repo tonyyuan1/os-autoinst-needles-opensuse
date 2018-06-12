@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "contacting-registration-server"
+  ],
+  "area": [
+    {
+      "width": 305,
+      "xpos": 359,
+      "type": "match",
+      "height": 31,
+      "ypos": 359
+    }
+  ],
+  "properties": []
+}
