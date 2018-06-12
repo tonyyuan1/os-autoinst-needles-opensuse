@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match",
+      "width": 800,
+      "height": 250
+    }
+  ],
+  "properties": []
+}
