@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 392,
+      "ypos": 35,
+      "width": 118,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 228,
+      "ypos": 144,
+      "width": 464,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution-main-window"
+  ]
+}
