@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 108,
+      "height": 37,
+      "xpos": 22,
+      "type": "match",
+      "ypos": 152
+    },
+    {
+      "xpos": 71,
+      "ypos": 169,
+      "width": 64,
+      "height": 20,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-svirt",
+    "custompart_systemview-selected"
+  ]
+}
