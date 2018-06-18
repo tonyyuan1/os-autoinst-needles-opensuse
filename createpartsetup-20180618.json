@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 331,
+      "type": "match",
+      "xpos": 365,
+      "height": 182,
+      "width": 339
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "createpartsetup"
+  ]
+}
