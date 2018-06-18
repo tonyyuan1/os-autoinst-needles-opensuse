@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 265,
+      "height": 10,
+      "xpos": 83,
+      "type": "match",
+      "width": 33
+    },
+    {
+      "width": 164,
+      "height": 20,
+      "xpos": 309,
+      "type": "match",
+      "ypos": 146
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "partitioning_raid-disk_xvde-selected"
+  ]
+}
