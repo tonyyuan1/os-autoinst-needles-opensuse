@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 152,
+      "height": 61,
+      "type": "match",
+      "xpos": 64,
+      "width": 87
+    },
+    {
+      "xpos": 70,
+      "ypos": 169,
+      "width": 73,
+      "height": 22,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "partitioning_raid-hard_disks-selected"
+  ]
+}
