@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 145,
+      "xpos": 311,
+      "type": "match",
+      "height": 21,
+      "width": 155
+    },
+    {
+      "height": 10,
+      "type": "match",
+      "xpos": 86,
+      "width": 20,
+      "ypos": 217
+    }
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-disk_sda-selected"
+  ]
+}
