@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "partitioning_raid-disk_xvdb-selected"
+  ],
+  "area": [
+    {
+      "ypos": 216,
+      "xpos": 79,
+      "type": "match",
+      "height": 11,
+      "width": 61
+    },
+    {
+      "height": 20,
+      "xpos": 311,
+      "type": "match",
+      "width": 163,
+      "ypos": 146
+    }
+  ],
+  "properties": []
+}
