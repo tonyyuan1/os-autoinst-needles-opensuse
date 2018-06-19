@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 197,
+      "width": 37,
+      "xpos": 68,
+      "type": "match",
+      "height": 78
+    }
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-disk_vdd_with_partitions-selected"
+  ]
+}
