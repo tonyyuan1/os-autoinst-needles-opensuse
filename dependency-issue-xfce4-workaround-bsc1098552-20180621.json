@@ -1,17 +1,18 @@
 {
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "ENV-15ORLATER-1",
-    "dependancy-issue",
     "dependency-issue"
   ],
   "area": [
     {
       "xpos": 289,
-      "ypos": 190,
-      "width": 123,
       "height": 10,
-      "type": "match"
+      "type": "match",
+      "width": 123,
+      "ypos": 190
     }
   ]
 }
