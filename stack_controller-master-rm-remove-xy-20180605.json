@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "CAASP-VERSION-2.0",
+    "master-rm-remove-xy"
+  ],
+  "area": [
+    {
+      "width": 52,
+      "type": "match",
+      "xpos": 838,
+      "ypos": 548,
+      "height": 15
+    },
+    {
+      "xpos": 501,
+      "ypos": 503,
+      "height": 17,
+      "type": "match",
+      "width": 150
+    }
+  ]
+}

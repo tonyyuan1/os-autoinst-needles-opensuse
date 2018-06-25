@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-status-error"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 26,
+      "width": 26,
+      "xpos": 67,
+      "ypos": 577
+    }
+  ]
+}

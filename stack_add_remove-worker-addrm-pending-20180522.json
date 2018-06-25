@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "worker-addrm-pending"
+  ],
+  "area": [
+    {
+      "ypos": 505,
+      "height": 17,
+      "width": 172,
+      "type": "match",
+      "xpos": 490
+    }
+  ]
+}

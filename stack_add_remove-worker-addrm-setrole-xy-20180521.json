@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "worker-addrm-setrole-xy"
+  ],
+  "area": [
+    {
+      "xpos": 806,
+      "ypos": 339,
+      "width": 71,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 464,
+      "ypos": 349,
+      "width": 169,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

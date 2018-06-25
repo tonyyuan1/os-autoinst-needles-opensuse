@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-rm-pending"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 151,
+      "height": 18,
+      "xpos": 553,
+      "ypos": 548
+    }
+  ]
+}

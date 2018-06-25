@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "CAASP-VERSION-2.0",
+    "master-ay-setrole-xy"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 70,
+      "xpos": 733,
+      "height": 34,
+      "ypos": 386
+    },
+    {
+      "width": 150,
+      "type": "match",
+      "xpos": 473,
+      "height": 17,
+      "ypos": 447
+    }
+  ]
+}
