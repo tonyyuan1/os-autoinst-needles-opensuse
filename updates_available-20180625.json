@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 48,
+      "xpos": 19,
+      "width": 106,
+      "ypos": 91,
+      "type": "match"
+    },
+    {
+      "height": 20,
+      "xpos": 220,
+      "width": 71,
+      "ypos": 92,
+      "type": "match"
+    },
+    {
+      "xpos": 865,
+      "height": 17,
+      "type": "match",
+      "ypos": 42,
+      "width": 89
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "updates_available"
+  ]
+}
