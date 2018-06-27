@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution-option-next"
+  ],
+  "area": [
+    {
+      "width": 84,
+      "ypos": 704,
+      "type": "match",
+      "height": 42,
+      "xpos": 826
+    }
+  ],
+  "properties": []
+}
