@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 64,
+      "ypos": 686,
+      "width": 500,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pvm-firmware-prompt"
+  ],
+  "properties": []
+}
