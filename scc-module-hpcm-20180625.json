@@ -1,22 +1,22 @@
 {
+  "properties": [],
+  "tags": [
+    "scc-module-hpcm"
+  ],
   "area": [
     {
       "width": 269,
-      "ypos": 193,
+      "ypos": 192,
       "type": "match",
       "xpos": 54,
       "height": 72
     },
     {
-      "xpos": 380,
-      "height": 13,
-      "ypos": 355,
-      "width": 81,
-      "type": "match"
+      "ypos": 504,
+      "width": 87,
+      "type": "match",
+      "xpos": 362,
+      "height": 16
     }
-  ],
-  "tags": [
-    "scc-module-hpcm"
-  ],
-  "properties": []
+  ]
 }
