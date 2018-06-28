@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 18,
+      "height": 28,
+      "ypos": 67,
+      "width": 202,
+      "type": "match"
+    },
+    {
+      "xpos": 599,
+      "height": 129,
+      "type": "match",
+      "width": 185,
+      "ypos": 433
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-launch"
+  ]
+}
