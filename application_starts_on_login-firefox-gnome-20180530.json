@@ -1,30 +1,30 @@
 {
   "properties": [],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-gnome"
-  ],
   "area": [
     {
-      "width": 223,
       "xpos": 254,
-      "ypos": 63,
       "height": 66,
+      "ypos": 63,
+      "width": 223,
       "type": "match"
     },
     {
       "type": "match",
-      "height": 110,
-      "ypos": 426,
+      "width": 148,
+      "ypos": 195,
       "xpos": 616,
-      "width": 148
+      "height": 110
     },
     {
-      "xpos": 46,
-      "ypos": 69,
+      "type": "match",
       "width": 177,
-      "height": 56,
-      "type": "match"
+      "ypos": 69,
+      "xpos": 46,
+      "height": 56
     }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-gnome"
   ]
 }
