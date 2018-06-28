@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "updates_failed"
+  ],
+  "area": [
+    {
+      "xpos": 127,
+      "ypos": 176,
+      "width": 169,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 132,
+      "ypos": 210,
+      "width": 96,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
