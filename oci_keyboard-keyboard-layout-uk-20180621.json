@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "keyboard-layout-uk"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 61,
+      "xpos": 359,
+      "height": 22,
+      "type": "match",
+      "ypos": 334
+    }
+  ]
+}

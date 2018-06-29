@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ntp-servers-missing"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 317,
+      "width": 304,
+      "height": 116,
+      "xpos": 361
+    }
+  ]
+}

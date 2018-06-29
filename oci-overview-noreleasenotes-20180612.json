@@ -1,0 +1,32 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "oci-overview"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 389,
+      "height": 478,
+      "xpos": 347,
+      "ypos": 103
+    },
+    {
+      "height": 34,
+      "width": 197,
+      "type": "match",
+      "ypos": 722,
+      "xpos": 12
+    },
+    {
+      "height": 32,
+      "width": 31,
+      "type": "exclude",
+      "ypos": 377,
+      "xpos": 504
+    }
+  ]
+}
