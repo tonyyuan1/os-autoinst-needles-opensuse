@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pulpito-dashboard"
+  ],
+  "area": [
+    {
+      "xpos": 35,
+      "ypos": 125,
+      "width": 111,
+      "height": 44,
+      "type": "match"
+    }
+  ]
+}
