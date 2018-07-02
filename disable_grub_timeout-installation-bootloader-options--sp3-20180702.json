@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "installation-bootloader-options"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 40,
+      "xpos": 474,
+      "type": "match",
+      "width": 341,
+      "ypos": 133
+    }
+  ]
+}
