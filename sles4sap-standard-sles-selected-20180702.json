@@ -1,0 +1,19 @@
+{
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "ENV-SP2ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "ENV-VIDEOMODE-TEXT",
+    "sles4sap-standard-sles-selected"
+  ],
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 320,
+      "width": 435,
+      "height": 50,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
