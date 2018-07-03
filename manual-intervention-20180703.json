@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 402,
+      "ypos": 118,
+      "height": 49,
+      "xpos": 358,
+      "match": 90
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "manual-intervention"
+  ]
+}
