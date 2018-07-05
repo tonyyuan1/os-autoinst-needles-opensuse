@@ -1,0 +1,7 @@
+image: python:3
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+test:
+  script:
+    - tests/test.py
