@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "broken-console-font"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 257,
+      "width": 188,
+      "height": 127,
+      "xpos": 26
+    }
+  ]
+}
