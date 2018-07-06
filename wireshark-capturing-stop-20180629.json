@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-capturing-stop"
+  ],
+  "area": [
+    {
+      "xpos": 39,
+      "ypos": 94,
+      "width": 28,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

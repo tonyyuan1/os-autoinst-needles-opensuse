@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-about-ok"
+  ],
+  "area": [
+    {
+      "xpos": 786,
+      "ypos": 629,
+      "width": 71,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

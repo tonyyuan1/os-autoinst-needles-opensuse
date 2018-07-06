@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-no-files-available"
+  ],
+  "area": [
+    {
+      "xpos": 388,
+      "ypos": 293,
+      "width": 65,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 181,
+      "height": 18,
+      "ypos": 367,
+      "width": 189
+    }
+  ],
+  "tags": [
+    "wireshark-gui-gtk"
+  ]
+}

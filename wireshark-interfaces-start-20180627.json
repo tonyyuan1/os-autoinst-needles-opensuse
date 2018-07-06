@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-interfaces-start"
+  ],
+  "area": [
+    {
+      "width": 57,
+      "xpos": 907,
+      "type": "match",
+      "height": 19,
+      "ypos": 597
+    }
+  ],
+  "properties": []
+}
