@@ -1,0 +1,32 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 100,
+      "ypos": 319,
+      "height": 38,
+      "xpos": 16
+    },
+    {
+      "xpos": 958,
+      "height": 11,
+      "ypos": 725,
+      "width": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 10,
+      "height": 20,
+      "width": 330,
+      "ypos": 30,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "ssh-blocked"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 193,
+      "height": 10,
+      "xpos": 54,
+      "ypos": 482
+    }
+  ]
+}
