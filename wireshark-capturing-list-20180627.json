@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-capturing-list"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 167,
+      "width": 744,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

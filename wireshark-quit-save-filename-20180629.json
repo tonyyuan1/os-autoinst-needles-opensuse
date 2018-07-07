@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "wireshark-quit-save-filename"
+  ],
+  "area": [
+    {
+      "xpos": 203,
+      "ypos": 516,
+      "width": 213,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
