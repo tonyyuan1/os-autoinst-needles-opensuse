@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "additional-products"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "ypos": 178,
+      "width": 123,
+      "xpos": 237
+    },
+    {
+      "xpos": 559,
+      "ypos": 588,
+      "width": 133,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}
