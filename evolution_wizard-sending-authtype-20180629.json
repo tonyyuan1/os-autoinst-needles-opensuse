@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 458,
+      "ypos": 77,
+      "width": 112,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 574,
+      "ypos": 575,
+      "width": 145,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_wizard-sending-authtype"
+  ]
+}

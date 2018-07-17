@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 61,
+      "ypos": 104,
+      "xpos": 42,
+      "type": "match",
+      "width": 388
+    },
+    {
+      "height": 24,
+      "ypos": 266,
+      "type": "match",
+      "xpos": 51,
+      "width": 260
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail_open_mail"
+  ]
+}

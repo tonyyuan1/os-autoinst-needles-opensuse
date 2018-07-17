@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail_show-allcount"
+  ],
+  "area": [
+    {
+      "xpos": 880,
+      "type": "match",
+      "width": 118,
+      "height": 33,
+      "ypos": 203
+    }
+  ],
+  "properties": []
+}

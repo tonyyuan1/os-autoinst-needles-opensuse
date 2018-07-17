@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution-selectA-timezone"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 267,
+      "type": "match",
+      "width": 548,
+      "height": 45,
+      "ypos": 172
+    },
+    {
+      "xpos": 210,
+      "type": "match",
+      "width": 88,
+      "height": 31,
+      "ypos": 227
+    },
+    {
+      "type": "match",
+      "xpos": 210,
+      "width": 71,
+      "height": 25,
+      "ypos": 500
+    },
+    {
+      "ypos": 590,
+      "height": 53,
+      "type": "match",
+      "xpos": 615,
+      "width": 204
+    }
+  ]
+}
