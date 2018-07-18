@@ -1,18 +1,17 @@
 {
   "tags": [
-    "ENV-15ORLATER-1",
     "ENV-INSTLANG-en_US",
     "pvm-bootmenu-boot-exit",
     "scc-registration"
   ],
-  "properties": [],
   "area": [
     {
       "xpos": 5,
+      "height": 52,
       "ypos": 431,
       "width": 464,
-      "height": 52,
       "type": "match"
     }
-  ]
+  ],
+  "properties": []
 }
