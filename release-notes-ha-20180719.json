@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 531,
+      "ypos": 270,
+      "xpos": 226,
+      "height": 44
+    },
+    {
+      "type": "match",
+      "width": 59,
+      "ypos": 163,
+      "height": 31,
+      "xpos": 237
+    },
+    {
+      "height": 22,
+      "xpos": 229,
+      "width": 123,
+      "ypos": 208,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP3-H4",
+    "release-notes-ha"
+  ]
+}
