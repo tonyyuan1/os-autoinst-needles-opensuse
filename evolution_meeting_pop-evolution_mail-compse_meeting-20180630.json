@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail-compse_meeting"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 42,
+      "width": 494,
+      "height": 36,
+      "ypos": 176
+    },
+    {
+      "ypos": 222,
+      "height": 25,
+      "width": 65,
+      "type": "match",
+      "xpos": 429
+    },
+    {
+      "ypos": 358,
+      "height": 219,
+      "width": 99,
+      "type": "match",
+      "xpos": 59
+    },
+    {
+      "ypos": 69,
+      "height": 24,
+      "type": "match",
+      "xpos": 329,
+      "width": 73
+    }
+  ]
+}

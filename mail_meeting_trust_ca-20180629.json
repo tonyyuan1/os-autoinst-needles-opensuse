@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 113,
+      "height": 28,
+      "xpos": 377,
+      "type": "match",
+      "width": 137
+    },
+    {
+      "width": 56,
+      "xpos": 53,
+      "type": "match",
+      "height": 58,
+      "ypos": 156
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail_meeting_trust_ca"
+  ]
+}
