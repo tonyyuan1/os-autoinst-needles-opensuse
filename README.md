@@ -1,5 +1,4 @@
-Needles for openQA tests of SUSE Linux Enterprise
-=================================================
+# Needles for openQA tests of SUSE Linux Enterprise [![pipeline status](https://gitlab.suse.de/openqa/os-autoinst-needles-sles/badges/master/pipeline.svg)](https://gitlab.suse.de/openqa/os-autoinst-needles-sles/commits/master)
 
 Used for tests in https://github.com/os-autoinst/os-autoinst-distri-opensuse
 (sle branch).
