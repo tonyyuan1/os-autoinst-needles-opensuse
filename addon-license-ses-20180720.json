@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 55,
+      "ypos": 195,
+      "width": 264,
+      "height": 69,
+      "type": "match"
+    },
+    {
+      "xpos": 381,
+      "ypos": 376,
+      "width": 218,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "addon-license-ses"
+  ]
+}
