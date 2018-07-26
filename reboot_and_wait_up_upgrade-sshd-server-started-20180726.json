@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 625,
+      "width": 158,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 643,
+      "width": 65,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-VIDEOMODE-text",
+    "on_host_sles_12_sp2_or_above",
+    "sshd-server-started"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
