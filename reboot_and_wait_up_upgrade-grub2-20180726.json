@@ -1,0 +1,20 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-VIDEOMODE-text",
+    "bootloader-grub2",
+    "grub2",
+    "on_host_sles_12_sp2_or_above"
+  ],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 115,
+      "width": 141,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
