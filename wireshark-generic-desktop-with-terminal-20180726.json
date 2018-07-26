@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "generic-desktop-with-terminal"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 671,
+      "type": "match",
+      "height": 271,
+      "width": 343,
+      "ypos": 0
+    },
+    {
+      "height": 26,
+      "type": "match",
+      "xpos": 382,
+      "ypos": 43,
+      "width": 122
+    }
+  ]
+}
