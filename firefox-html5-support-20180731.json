@@ -1,0 +1,50 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 153,
+      "ypos": 122,
+      "height": 32,
+      "type": "match",
+      "xpos": 15
+    },
+    {
+      "width": 79,
+      "ypos": 122,
+      "type": "match",
+      "height": 33,
+      "xpos": 264
+    },
+    {
+      "ypos": 121,
+      "width": 111,
+      "type": "match",
+      "height": 33,
+      "xpos": 512
+    },
+    {
+      "xpos": 14,
+      "ypos": 217,
+      "width": 186,
+      "type": "match",
+      "height": 34
+    },
+    {
+      "xpos": 261,
+      "width": 123,
+      "ypos": 220,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 513,
+      "ypos": 220,
+      "width": 148,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-html5-support"
+  ]
+}
