@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "no-product-found-on-scc"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "ypos": 333,
+      "width": 44,
+      "xpos": 354
+    },
+    {
+      "height": 17,
+      "type": "match",
+      "ypos": 365,
+      "width": 216,
+      "xpos": 357
+    },
+    {
+      "ypos": 391,
+      "width": 223,
+      "height": 17,
+      "type": "match",
+      "xpos": 361
+    },
+    {
+      "xpos": 490,
+      "ypos": 434,
+      "width": 40,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "height": 32,
+      "type": "exclude",
+      "ypos": 376,
+      "width": 25,
+      "xpos": 501
+    }
+  ],
+  "properties": []
+}
