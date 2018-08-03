@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 98,
+      "ypos": 618,
+      "width": 117,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-azure",
+    "pattern-azure_all"
+  ],
+  "properties": []
+}
