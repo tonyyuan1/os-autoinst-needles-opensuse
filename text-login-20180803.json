@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "text-login"
+  ],
+  "area": [
+    {
+      "xpos": 86,
+      "ypos": 701,
+      "width": 284,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 1,
+      "ypos": 754,
+      "width": 117,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
