@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 444,
+      "type": "match",
+      "height": 18,
+      "width": 151,
+      "xpos": 99
+    }
+  ],
+  "tags": [
+    "on-pattern",
+    "pattern-googlecloud",
+    "pattern-googlecloud_all",
+    "pattern-pcm"
+  ],
+  "properties": []
+}
