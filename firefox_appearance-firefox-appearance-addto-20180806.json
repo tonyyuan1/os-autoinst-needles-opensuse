@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-appearance-addto"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 29,
+      "width": 129,
+      "ypos": 478,
+      "xpos": 460
+    }
+  ],
+  "properties": []
+}
