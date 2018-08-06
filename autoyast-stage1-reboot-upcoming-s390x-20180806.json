@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 125,
+      "type": "match",
+      "width": 195,
+      "ypos": 590,
+      "xpos": 360
+    }
+  ],
+  "tags": [
+    "autoyast-stage1-reboot-upcoming",
+    "ENV-BACKEND-s390x"
+  ]
+}
