@@ -1,16 +1,16 @@
 {
   "area": [
     {
+      "height": 98,
+      "ypos": 33,
       "type": "match",
-      "ypos": 260,
-      "height": 57,
-      "width": 343,
-      "xpos": 269
+      "width": 231,
+      "xpos": 257
     }
   ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "pidgin-irc-account"
+    "pidgin-irc-sledtesting"
   ]
 }
