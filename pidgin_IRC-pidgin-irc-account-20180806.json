@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "pidgin-irc-account"
+  ],
+  "area": [
+    {
+      "ypos": 260,
+      "height": 57,
+      "xpos": 269,
+      "width": 343,
+      "type": "match"
+    },
+    {
+      "xpos": 675,
+      "ypos": 515,
+      "width": 71,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
