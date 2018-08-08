@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 171,
+      "ypos": 446,
+      "height": 20,
+      "xpos": 27,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "scc-module-tcm"
+  ]
+}
