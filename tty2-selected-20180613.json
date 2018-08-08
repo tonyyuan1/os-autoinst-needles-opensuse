@@ -1,0 +1,32 @@
+{
+  "tags": [
+    "tty2-selected"
+  ],
+  "area": [
+    {
+      "height": 26,
+      "xpos": 1,
+      "type": "match",
+      "width": 83,
+      "ypos": 28,
+      "match": 80
+    },
+    {
+      "ypos": 29,
+      "xpos": 704,
+      "type": "match",
+      "height": 22,
+      "width": 50,
+      "match": 80
+    },
+    {
+      "ypos": 80,
+      "type": "match",
+      "xpos": 73,
+      "height": 14,
+      "width": 45,
+      "match": 80
+    }
+  ],
+  "properties": []
+}

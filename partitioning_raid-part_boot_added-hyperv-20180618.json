@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-part_boot_added"
+  ],
+  "area": [
+    {
+      "ypos": 267,
+      "width": 124,
+      "xpos": 323,
+      "type": "match",
+      "height": 63
+    },
+    {
+      "xpos": 517,
+      "type": "match",
+      "height": 64,
+      "width": 85,
+      "ypos": 267
+    }
+  ],
+  "properties": []
+}

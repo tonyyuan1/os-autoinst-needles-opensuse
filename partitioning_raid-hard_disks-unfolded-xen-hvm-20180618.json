@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "partitioning_raid-hard_disks-unfolded"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 190,
+      "width": 26,
+      "xpos": 85,
+      "type": "match",
+      "height": 85
+    }
+  ]
+}

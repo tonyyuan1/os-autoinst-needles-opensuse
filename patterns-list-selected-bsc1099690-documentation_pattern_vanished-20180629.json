@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "patterns-list-selected"
+  ],
+  "area": [
+    {
+      "height": 48,
+      "xpos": 100,
+      "type": "match",
+      "width": 147,
+      "ypos": 153
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}

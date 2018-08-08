@@ -1,0 +1,19 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 41,
+      "ypos": 313,
+      "width": 418,
+      "height": 56,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "ENV-SP2ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "ENV-VIDEOMODE-TEXT",
+    "sles4sap-product-installation-mode"
+  ]
+}

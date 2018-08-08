@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 297,
+      "xpos": 733,
+      "height": 34,
+      "width": 70,
+      "type": "match"
+    },
+    {
+      "height": 17,
+      "width": 150,
+      "type": "match",
+      "xpos": 476,
+      "ypos": 307
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-rm-setrole-xy"
+  ],
+  "properties": []
+}

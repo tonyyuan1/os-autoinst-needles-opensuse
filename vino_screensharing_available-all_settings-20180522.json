@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "all_settings"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 153,
+      "ypos": 45,
+      "width": 25,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}

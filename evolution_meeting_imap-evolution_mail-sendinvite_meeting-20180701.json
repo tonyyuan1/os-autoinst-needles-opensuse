@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 493,
+      "type": "match",
+      "xpos": 205,
+      "height": 34,
+      "ypos": 320
+    },
+    {
+      "width": 481,
+      "xpos": 210,
+      "type": "match",
+      "height": 28,
+      "ypos": 358
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "evolution_mail-sendinvite_meeting"
+  ]
+}

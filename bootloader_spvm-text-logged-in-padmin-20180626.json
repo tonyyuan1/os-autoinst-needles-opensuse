@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "text-logged-in-padmin"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 147,
+      "width": 54,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 131,
+      "ypos": 144,
+      "width": 14,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

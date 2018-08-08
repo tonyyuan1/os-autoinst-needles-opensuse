@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 475,
+      "width": 265,
+      "height": 57,
+      "xpos": 457
+    }
+  ],
+  "tags": [
+    "scc-code-field-ha"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "missing-dependency"
+  ],
+  "area": [
+    {
+      "height": 23,
+      "width": 185,
+      "xpos": 259,
+      "type": "match",
+      "ypos": 161
+    }
+  ]
+}

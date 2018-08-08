@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "3rdpartylicense",
+    "ENV-SP2ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 392,
+      "ypos": 81,
+      "width": 235,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 315,
+      "ypos": 639,
+      "width": 73,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "release-notes-geo"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 270,
+      "width": 531,
+      "xpos": 228,
+      "height": 44
+    },
+    {
+      "height": 31,
+      "xpos": 467,
+      "ypos": 164,
+      "width": 107,
+      "type": "match"
+    },
+    {
+      "height": 22,
+      "xpos": 229,
+      "type": "match",
+      "width": 123,
+      "ypos": 208
+    }
+  ]
+}

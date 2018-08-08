@@ -1,7 +1,8 @@
 {
   "properties": [],
   "tags": [
-    "scc-module-wsm"
+    "scc-module-wsm",
+	"scc-module-script"
   ],
   "area": [
     {

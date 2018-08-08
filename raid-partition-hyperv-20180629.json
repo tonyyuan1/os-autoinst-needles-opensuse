@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 236,
+      "ypos": 309,
+      "type": "match",
+      "xpos": 380,
+      "height": 65
+    },
+    {
+      "ypos": 312,
+      "width": 41,
+      "type": "match",
+      "xpos": 323,
+      "height": 63
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "raid-partition"
+  ],
+  "properties": []
+}

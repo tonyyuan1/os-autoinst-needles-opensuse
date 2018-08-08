@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "3rdpartylicense",
+    "ENV-SP2ORLATER-1",
+    "firefox-gnome"
+  ],
+  "area": [
+    {
+      "height": 66,
+      "type": "match",
+      "width": 452,
+      "xpos": 7,
+      "ypos": 36
+    },
+    {
+      "type": "match",
+      "height": 110,
+      "width": 101,
+      "xpos": 637,
+      "ypos": 173
+    }
+  ]
+}

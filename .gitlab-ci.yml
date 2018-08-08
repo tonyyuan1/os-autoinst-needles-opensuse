@@ -1,0 +1,9 @@
+image: python:3
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  # save test execution time by not cloning the whole needles history
+  GIT_DEPTH: "3"
+test:
+  script:
+    - tests/test.py

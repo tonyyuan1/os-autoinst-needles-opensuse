@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 429,
+      "width": 169,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "wireshark-dns-response-details"
+  ]
+}

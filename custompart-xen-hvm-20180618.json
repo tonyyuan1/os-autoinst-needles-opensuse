@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 313,
+      "type": "match",
+      "height": 171,
+      "width": 451,
+      "ypos": 138
+    },
+    {
+      "xpos": 471,
+      "ypos": 145,
+      "width": 66,
+      "height": 23,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "custompart"
+  ]
+}

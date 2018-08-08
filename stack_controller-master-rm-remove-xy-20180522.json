@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 548,
+      "xpos": 838,
+      "height": 15,
+      "type": "match",
+      "width": 52
+    },
+    {
+      "xpos": 505,
+      "type": "match",
+      "width": 150,
+      "height": 17,
+      "ypos": 548
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-rm-remove-xy"
+  ]
+}

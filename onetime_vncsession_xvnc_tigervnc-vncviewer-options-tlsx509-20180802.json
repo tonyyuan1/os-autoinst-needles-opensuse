@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncviewer-options-tlsx509"
+  ],
+  "area": [
+    {
+      "xpos": 86,
+      "ypos": 162,
+      "width": 109,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-JEOS-1",
+    "ENV-JEOSINSTLANG-de_DE",
+    "jeos-doyouaccept"
+  ],
+  "area": [
+    {
+      "ypos": 335,
+      "type": "match",
+      "height": 68,
+      "xpos": 395,
+      "width": 211
+    },
+    {
+      "type": "exclude",
+      "height": 11,
+      "ypos": 392,
+      "width": 28,
+      "xpos": 437
+    }
+  ],
+  "properties": []
+}

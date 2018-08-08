@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "yast2_lan_select_eth_card"
+  ],
+  "area": [
+    {
+      "width": 105,
+      "xpos": 61,
+      "type": "match",
+      "height": 17,
+      "ypos": 194
+    },
+    {
+      "width": 41,
+      "height": 18,
+      "type": "match",
+      "xpos": 280,
+      "ypos": 194
+    }
+  ],
+  "properties": []
+}

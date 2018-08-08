@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 146,
+      "width": 220,
+      "height": 222,
+      "type": "match"
+    },
+    {
+      "xpos": 472,
+      "ypos": 147,
+      "width": 85,
+      "height": 26,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "custompart"
+  ]
+}

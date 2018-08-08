@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-SP2ORLATER-1",
+    "evolution-mainwindow-launched",
+    "test-evolution-1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 113,
+      "xpos": 105,
+      "type": "match",
+      "height": 245,
+      "width": 630
+    },
+    {
+      "xpos": 391,
+      "ypos": 33,
+      "width": 117,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}

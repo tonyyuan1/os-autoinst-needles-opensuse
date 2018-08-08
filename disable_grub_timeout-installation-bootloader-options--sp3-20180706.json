@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 134,
+      "width": 341,
+      "xpos": 681,
+      "height": 40
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "installation-bootloader-options"
+  ]
+}

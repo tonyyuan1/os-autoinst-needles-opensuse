@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 81,
+      "height": 11,
+      "width": 34,
+      "ypos": 248,
+      "match": 90
+    },
+    {
+      "ypos": 147,
+      "width": 164,
+      "type": "match",
+      "xpos": 309,
+      "height": 20,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_xvdd-selected"
+  ]
+}

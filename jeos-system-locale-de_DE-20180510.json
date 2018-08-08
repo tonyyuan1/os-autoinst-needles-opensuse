@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-JEOSINSTLANG-de_DE",
+    "ENV-JEOS-1",
+    "jeos-system-locale-de_DE"
+  ],
+  "area": [
+    {
+      "xpos": 470,
+      "ypos": 590,
+      "width": 40,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

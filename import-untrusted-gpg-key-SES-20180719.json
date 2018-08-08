@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "import-trusted-gpg-key-ses-27FA41BD8A7C64F9",
+    "import-untrusted-gpg-key"
+  ],
+  "area": [
+    {
+      "xpos": 465,
+      "height": 31,
+      "type": "match",
+      "ypos": 333,
+      "width": 135
+    },
+    {
+      "xpos": 516,
+      "height": 21,
+      "type": "match",
+      "ypos": 243,
+      "width": 188
+    }
+  ],
+  "properties": []
+}

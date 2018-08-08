@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "pidgin-ctcp-version"
+  ],
+  "area": [
+    {
+      "xpos": 266,
+      "ypos": 78,
+      "width": 146,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}

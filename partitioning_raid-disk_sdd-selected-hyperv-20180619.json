@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-disk_sdd-selected"
+  ],
+  "area": [
+    {
+      "ypos": 146,
+      "type": "match",
+      "xpos": 313,
+      "height": 18,
+      "width": 152
+    },
+    {
+      "ypos": 264,
+      "type": "match",
+      "xpos": 85,
+      "height": 11,
+      "width": 21
+    }
+  ],
+  "properties": []
+}

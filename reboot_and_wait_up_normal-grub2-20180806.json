@@ -1,0 +1,27 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 230,
+      "ypos": 16,
+      "width": 153,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 19,
+      "ypos": 65,
+      "width": 62,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-VIDEOMODE-text",
+    "bootloader",
+    "bootloader-grub2",
+    "grub2",
+    "on_host_sles_12_sp2_or_above"
+  ]
+}

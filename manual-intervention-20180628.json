@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP4ORLATER-1",
+    "manual-intervention"
+  ],
+  "area": [
+    {
+      "height": 49,
+      "xpos": 358,
+      "ypos": 122,
+      "width": 402,
+      "type": "match"
+    }
+  ]
+}

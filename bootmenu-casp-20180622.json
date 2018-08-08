@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 71,
+      "height": 105,
+      "xpos": 301,
+      "width": 194
+    },
+    {
+      "type": "match",
+      "ypos": 208,
+      "xpos": 157,
+      "height": 101,
+      "width": 62
+    }
+  ],
+  "tags": [
+    "grub2",
+    "ENV-OFW-0",
+    "ENV-DISTRI-CASP"
+  ],
+  "properties": []
+}

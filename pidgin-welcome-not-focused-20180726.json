@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "pidgin",
+    "pidgin-welcome-not-focused"
+  ],
+  "area": [
+    {
+      "xpos": 301,
+      "width": 268,
+      "type": "match",
+      "height": 91,
+      "ypos": 211
+    }
+  ]
+}

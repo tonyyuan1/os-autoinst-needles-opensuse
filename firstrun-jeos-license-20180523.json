@@ -1,0 +1,39 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-JEOS-1",
+    "ENV-VERSION-15",
+    "jeos-license"
+  ],
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "width": 415,
+      "xpos": 171,
+      "ypos": 46
+    },
+    {
+      "type": "match",
+      "height": 114,
+      "ypos": 207,
+      "xpos": 171,
+      "width": 640
+    },
+    {
+      "type": "match",
+      "height": 16,
+      "xpos": 8,
+      "width": 249,
+      "ypos": 0
+    },
+    {
+      "xpos": 174,
+      "ypos": 79,
+      "width": 351,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "custompart"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 138,
+      "width": 451,
+      "xpos": 308,
+      "type": "match",
+      "height": 171
+    },
+    {
+      "ypos": 145,
+      "type": "exclude",
+      "xpos": 471,
+      "height": 23,
+      "width": 66
+    }
+  ]
+}

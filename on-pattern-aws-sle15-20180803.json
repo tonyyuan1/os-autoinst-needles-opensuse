@@ -1,0 +1,25 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "on-pattern",
+    "pattern-aws",
+    "pattern-aws_all"
+  ],
+  "area": [
+    {
+      "height": 28,
+      "type": "match",
+      "width": 246,
+      "xpos": 60,
+      "ypos": 183
+    },
+    {
+      "ypos": 163,
+      "xpos": 466,
+      "type": "match",
+      "height": 17,
+      "width": 110
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 163,
+      "ypos": 410,
+      "width": 99,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 263,
+      "ypos": 487,
+      "width": 51,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pulpito-test-list"
+  ],
+  "properties": []
+}

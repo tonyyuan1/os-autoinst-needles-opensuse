@@ -13,6 +13,5 @@
     "yast2_apparmor_enabled"
   ],
   "properties": [
-    "workaround"
   ]
 }

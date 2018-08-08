@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "partitioning_raid-part_boot_added"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 124,
+      "height": 63,
+      "type": "match",
+      "xpos": 325,
+      "ypos": 266
+    },
+    {
+      "ypos": 267,
+      "type": "match",
+      "xpos": 522,
+      "height": 64,
+      "width": 85
+    }
+  ]
+}

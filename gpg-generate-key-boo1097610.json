@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "gpg-generate-key-boo1097610"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 724,
+      "width": 230,
+      "height": 42,
+      "type": "match"
+    }
+  ]
+}

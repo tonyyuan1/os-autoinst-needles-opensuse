@@ -1,0 +1,18 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dependency-issue"
+  ],
+  "area": [
+    {
+      "xpos": 289,
+      "height": 10,
+      "type": "match",
+      "width": 123,
+      "ypos": 190
+    }
+  ]
+}

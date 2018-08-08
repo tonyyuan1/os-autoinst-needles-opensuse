@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "iscsi-discovery"
+  ],
+  "area": [
+    {
+      "xpos": 62,
+      "ypos": 90,
+      "width": 231,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
