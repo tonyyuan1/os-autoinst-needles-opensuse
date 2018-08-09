@@ -4,46 +4,48 @@
   ],
   "area": [
     {
-      "type": "match",
       "height": 21,
       "width": 44,
       "ypos": 333,
-      "xpos": 356
+      "type": "match",
+      "xpos": 359
     },
     {
-      "ypos": 365,
-      "xpos": 359,
-      "width": 216,
-      "type": "match",
-      "height": 17
-    },
-    {
-      "type": "match",
       "height": 17,
+      "type": "match",
+      "xpos": 362,
+      "ypos": 365,
+      "width": 216,
+      "match": 70
+    },
+    {
+      "xpos": 366,
+      "type": "match",
       "width": 223,
       "ypos": 391,
-      "xpos": 363
+      "height": 17,
+      "match": 70
     },
     {
+      "height": 15,
       "xpos": 490,
-      "ypos": 434,
-      "width": 40,
       "type": "match",
-      "height": 15
+      "ypos": 434,
+      "width": 40
+    },
+    {
+      "type": "match",
+      "xpos": 601,
+      "width": 19,
+      "ypos": 396,
+      "height": 10
     },
     {
       "ypos": 376,
+      "width": 28,
       "xpos": 501,
-      "height": 32,
       "type": "exclude",
-      "width": 25
-    },
-    {
-      "xpos": 598,
-      "ypos": 396,
-      "width": 19,
-      "height": 10,
-      "type": "match"
+      "height": 32
     }
   ],
   "tags": [
