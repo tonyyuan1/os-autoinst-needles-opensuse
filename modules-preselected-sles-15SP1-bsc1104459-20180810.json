@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 154,
+      "width": 129,
+      "xpos": 360,
+      "type": "match",
+      "height": 17
+    },
+    {
+      "width": 162,
+      "ypos": 300,
+      "type": "match",
+      "xpos": 359,
+      "height": 16
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-VERSION-15-SP1",
+    "bsc#1104459",
+    "modules-preselected-sles"
+  ]
+}
