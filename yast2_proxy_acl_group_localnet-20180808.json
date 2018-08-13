@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_proxy_acl_group_localnet"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 129,
+      "width": 114,
+      "xpos": 464,
+      "type": "match",
+      "height": 14
+    }
+  ]
+}
