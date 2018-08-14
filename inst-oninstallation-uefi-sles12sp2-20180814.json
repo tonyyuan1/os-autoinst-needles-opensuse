@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-UEFI-1",
+    "ENV-VERSION-12-SP2",
+    "inst-oninstallation"
+  ],
+  "area": [
+    {
+      "ypos": 156,
+      "height": 21,
+      "xpos": 97,
+      "width": 128,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
