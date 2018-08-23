@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "scc-beta-filter-checkbox"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 262,
+      "height": 16,
+      "ypos": 32,
+      "xpos": 13
+    },
+    {
+      "height": 19,
+      "type": "match",
+      "width": 182,
+      "xpos": 14,
+      "ypos": 63
+    }
+  ]
+}
