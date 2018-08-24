@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 560,
+      "type": "match",
+      "width": 232,
+      "height": 15
+    },
+    {
+      "width": 31,
+      "height": 13,
+      "type": "match",
+      "ypos": 657,
+      "xpos": 0
+    },
+    {
+      "width": 63,
+      "height": 11,
+      "type": "match",
+      "xpos": 127,
+      "ypos": 658
+    }
+  ],
+  "tags": [
+    "rsync"
+  ],
+  "properties": []
+}
