@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 50,
+      "width": 166,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 312,
+      "ypos": 160,
+      "width": 104,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ncurses_service_do_not_start_after_reboot"
+  ]
+}
