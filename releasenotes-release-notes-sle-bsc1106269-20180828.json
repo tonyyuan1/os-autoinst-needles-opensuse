@@ -1,0 +1,25 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "release-notes-sle"
+  ],
+  "area": [
+    {
+      "xpos": 211,
+      "ypos": 130,
+      "width": 139,
+      "height": 67,
+      "type": "match"
+    },
+    {
+      "xpos": 227,
+      "ypos": 254,
+      "width": 264,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
