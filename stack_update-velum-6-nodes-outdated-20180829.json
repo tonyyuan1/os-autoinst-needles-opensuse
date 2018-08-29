@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "velum-6-nodes-outdated"
+  ],
+  "area": [
+    {
+      "width": 47,
+      "height": 112,
+      "type": "match",
+      "ypos": 413,
+      "xpos": 118
+    },
+    {
+      "xpos": 606,
+      "type": "match",
+      "height": 15,
+      "ypos": 252,
+      "width": 159
+    }
+  ]
+}
