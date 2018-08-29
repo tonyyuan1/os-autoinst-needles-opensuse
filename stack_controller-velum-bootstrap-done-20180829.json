@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 51,
+      "height": 122,
+      "type": "match",
+      "ypos": 408,
+      "xpos": 125
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-bootstrap-done"
+  ],
+  "properties": []
+}
