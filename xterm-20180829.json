@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "test-xterm-1"
+  ],
+  "area": [
+    {
+      "width": 380,
+      "xpos": 159,
+      "ypos": 408,
+      "type": "match",
+      "height": 18
+    }
+  ]
+}
