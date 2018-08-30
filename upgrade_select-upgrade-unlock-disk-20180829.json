@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "upgrade-unlock-disk"
+  ],
+  "area": [
+    {
+      "xpos": 343,
+      "ypos": 257,
+      "width": 188,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 435,
+      "ypos": 505,
+      "width": 105,
+      "height": 22,
+      "type": "match"
+    }
+  ]
+}
