@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 319,
+      "type": "match",
+      "height": 200,
+      "xpos": 306,
+      "width": 200
+    }
+  ],
+  "tags": [
+    "imagemagick_tile_hexagons"
+  ],
+  "properties": []
+}

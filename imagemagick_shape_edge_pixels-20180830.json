@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "imagemagick_shape_edge_pixels"
+  ],
+  "area": [
+    {
+      "ypos": 329,
+      "type": "match",
+      "width": 200,
+      "height": 200,
+      "xpos": 519
+    }
+  ]
+}

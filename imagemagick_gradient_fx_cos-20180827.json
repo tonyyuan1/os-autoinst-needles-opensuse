@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 307,
+      "height": 200,
+      "width": 200,
+      "type": "match",
+      "ypos": 319
+    }
+  ],
+  "tags": [
+    "imagemagick_gradient_fx_cos"
+  ]
+}

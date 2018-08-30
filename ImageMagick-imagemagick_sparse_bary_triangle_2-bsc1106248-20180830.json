@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "imagemagick_sparse_bary_triangle_2"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 318,
+      "width": 200,
+      "xpos": 306,
+      "height": 200
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}

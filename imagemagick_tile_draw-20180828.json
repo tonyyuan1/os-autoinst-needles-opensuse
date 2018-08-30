@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 318,
+      "type": "match",
+      "width": 200,
+      "xpos": 306,
+      "height": 200
+    }
+  ],
+  "tags": [
+    "imagemagick_tile_draw"
+  ],
+  "properties": []
+}

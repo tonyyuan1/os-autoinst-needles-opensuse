@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 306,
+      "height": 200,
+      "width": 200,
+      "ypos": 318,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "imagemagick_tile_mod_vpixels"
+  ]
+}

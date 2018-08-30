@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "imagemagick_shape_edge_pixels"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 318,
+      "height": 200,
+      "xpos": 306,
+      "width": 200
+    }
+  ]
+}

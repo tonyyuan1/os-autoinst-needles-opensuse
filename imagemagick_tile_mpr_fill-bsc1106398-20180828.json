@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "imagemagick_tile_mpr_fill"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 318,
+      "width": 200,
+      "xpos": 306,
+      "height": 200
+    }
+  ]
+}

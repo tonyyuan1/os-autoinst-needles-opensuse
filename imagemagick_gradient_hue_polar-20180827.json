@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "imagemagick_gradient_hue_polar"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 318,
+      "width": 200,
+      "height": 200,
+      "xpos": 306
+    }
+  ]
+}
