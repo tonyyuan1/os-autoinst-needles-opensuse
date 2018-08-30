@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 65,
+      "height": 15,
+      "type": "match",
+      "ypos": 97,
+      "width": 197
+    }
+  ],
+  "tags": [
+    "http_modules_enabled_php"
+  ],
+  "properties": []
+}
