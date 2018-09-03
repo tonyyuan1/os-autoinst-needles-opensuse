@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "wireshark-eth0-selected"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 151,
+      "height": 18,
+      "ypos": 224,
+      "width": 179
+    }
+  ],
+  "properties": []
+}
