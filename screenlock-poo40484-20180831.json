@@ -1,0 +1,19 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "screenlock"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "height": 765,
+      "type": "match",
+      "width": 1023,
+      "ypos": 0
+    }
+  ]
+}
