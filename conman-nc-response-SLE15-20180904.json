@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nc-response"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 723,
+      "height": 27,
+      "xpos": 0,
+      "width": 219
+    },
+    {
+      "type": "match",
+      "height": 48,
+      "ypos": 623,
+      "xpos": 0,
+      "width": 160
+    }
+  ]
+}
