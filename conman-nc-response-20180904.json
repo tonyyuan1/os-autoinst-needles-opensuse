@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "type": "match",
+      "width": 219,
+      "xpos": 0,
+      "ypos": 723
+    },
+    {
+      "width": 160,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 623,
+      "height": 48
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nc-response"
+  ]
+}
