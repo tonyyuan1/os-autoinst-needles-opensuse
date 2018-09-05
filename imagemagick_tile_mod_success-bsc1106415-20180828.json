@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "imagemagick_tile_mod_success"
+  ],
+  "area": [
+    {
+      "height": 200,
+      "xpos": 306,
+      "width": 200,
+      "ypos": 318,
+      "type": "match"
+    }
+  ]
+}

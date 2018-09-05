@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "imagemagick_trans_threshold"
+  ],
+  "area": [
+    {
+      "width": 200,
+      "height": 200,
+      "xpos": 306,
+      "type": "match",
+      "ypos": 318
+    }
+  ],
+  "properties": [
+    "workaround"
+  ]
+}

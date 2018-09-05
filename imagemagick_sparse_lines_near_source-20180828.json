@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "imagemagick_sparse_lines_near_source"
+  ],
+  "area": [
+    {
+      "ypos": 318,
+      "type": "match",
+      "height": 200,
+      "xpos": 306,
+      "width": 200
+    }
+  ],
+  "properties": []
+}

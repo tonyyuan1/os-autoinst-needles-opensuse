@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "imagemagick_random_trans"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 317,
+      "xpos": 306,
+      "height": 200,
+      "width": 200
+    }
+  ]
+}

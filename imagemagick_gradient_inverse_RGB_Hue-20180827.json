@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "imagemagick_gradient_inverse_RGB_Hue"
+  ],
+  "area": [
+    {
+      "ypos": 318,
+      "type": "match",
+      "height": 200,
+      "xpos": 305,
+      "width": 200
+    }
+  ]
+}

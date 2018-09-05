@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 200,
+      "xpos": 306,
+      "width": 200,
+      "ypos": 318,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "imagemagick_plasma_rnd1"
+  ]
+}
