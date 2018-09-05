@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 72,
+      "xpos": 0,
+      "ypos": 98,
+      "height": 16
+    }
+  ],
+  "tags": [
+    "text-logged-in-bernhard"
+  ],
+  "properties": []
+}
