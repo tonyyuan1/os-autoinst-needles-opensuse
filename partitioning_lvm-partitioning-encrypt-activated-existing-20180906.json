@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partitioning-encrypt-ignored-existing"
+  ],
+  "area": [
+    {
+      "width": 231,
+      "ypos": 204,
+      "type": "match",
+      "height": 10,
+      "xpos": 410
+    }
+  ],
+  "properties": []
+}
