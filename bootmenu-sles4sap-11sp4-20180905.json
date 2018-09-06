@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 101,
+      "height": 69,
+      "xpos": 7,
+      "ypos": 9,
+      "type": "match"
+    },
+    {
+      "height": 22,
+      "width": 217,
+      "type": "match",
+      "xpos": 183,
+      "ypos": 170
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-0",
+    "ENV-SLES4SAP-1",
+    "bootloader",
+    "bootloader-grub2",
+    "grub2"
+  ]
+}
