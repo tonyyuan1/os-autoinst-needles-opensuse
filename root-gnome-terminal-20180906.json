@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "root-gnome-terminal"
+  ],
+  "area": [
+    {
+      "width": 125,
+      "type": "match",
+      "height": 19,
+      "ypos": 145,
+      "xpos": 16
+    }
+  ]
+}
