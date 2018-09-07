@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 148,
+      "type": "match",
+      "height": 18,
+      "ypos": 143,
+      "xpos": 8
+    }
+  ],
+  "tags": [
+    "scc-beta-filter-checkbox"
+  ]
+}
