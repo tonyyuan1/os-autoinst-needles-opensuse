@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 124,
+      "width": 166,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ovmf-boot-HDD"
+  ],
+  "properties": []
+}
