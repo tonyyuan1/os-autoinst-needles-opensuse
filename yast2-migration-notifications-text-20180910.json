@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2-migration-notifications"
+  ],
+  "area": [
+    {
+      "ypos": 302,
+      "height": 19,
+      "xpos": 276,
+      "width": 182,
+      "type": "match"
+    }
+  ]
+}
