@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-warning-too-small-root"
+  ],
+  "area": [
+    {
+      "xpos": 311,
+      "ypos": 348,
+      "width": 415,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
