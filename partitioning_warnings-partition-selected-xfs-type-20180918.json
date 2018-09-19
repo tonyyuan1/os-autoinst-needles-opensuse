@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-selected-xfs-type"
+  ],
+  "area": [
+    {
+      "xpos": 341,
+      "ypos": 346,
+      "width": 47,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}
