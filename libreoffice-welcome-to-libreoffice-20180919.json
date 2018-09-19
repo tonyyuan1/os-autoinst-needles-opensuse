@@ -1,0 +1,32 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice",
+    "ooffice",
+    "welcome-to-libreoffice"
+  ],
+  "area": [
+    {
+      "width": 101,
+      "xpos": 460,
+      "type": "match",
+      "ypos": 6,
+      "height": 24
+    },
+    {
+      "width": 244,
+      "xpos": 515,
+      "ypos": 255,
+      "type": "match",
+      "height": 290
+    },
+    {
+      "type": "match",
+      "ypos": 306,
+      "height": 326,
+      "width": 239,
+      "xpos": 5
+    }
+  ]
+}
