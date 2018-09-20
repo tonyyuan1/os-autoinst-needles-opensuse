@@ -1,0 +1,34 @@
+{
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-15ORLATER-1",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 105,
+      "type": "match",
+      "height": 55,
+      "ypos": 348,
+      "xpos": 391
+    },
+    {
+      "xpos": 25,
+      "width": 341,
+      "type": "match",
+      "height": 123,
+      "ypos": 156
+    },
+    {
+      "xpos": 392,
+      "width": 94,
+      "ypos": 465,
+      "type": "match",
+      "height": 17
+    }
+  ]
+}
