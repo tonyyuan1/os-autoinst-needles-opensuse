@@ -1,0 +1,32 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-FLAVOR-Installer-DVD-SES",
+    "import-untrusted-gpg-key"
+  ],
+  "area": [
+    {
+      "xpos": 518,
+      "ypos": 246,
+      "width": 184,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 460,
+      "ypos": 294,
+      "width": 50,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 484,
+      "ypos": 335,
+      "width": 111,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
