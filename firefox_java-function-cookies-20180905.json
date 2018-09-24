@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 35,
+      "ypos": 414,
+      "height": 98,
+      "xpos": 848
+    }
+  ],
+  "tags": [
+    "oracle-function-cookies"
+  ],
+  "properties": []
+}

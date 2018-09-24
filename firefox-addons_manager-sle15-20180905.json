@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-addons_manager"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 142,
+      "ypos": 71,
+      "height": 22,
+      "xpos": 230
+    },
+    {
+      "type": "match",
+      "width": 37,
+      "ypos": 174,
+      "height": 36,
+      "xpos": 37
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-local_files-wav"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 125,
+      "ypos": 176,
+      "xpos": 449,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "width": 171,
+      "ypos": 216,
+      "xpos": 273,
+      "type": "match",
+      "height": 24
+    }
+  ]
+}

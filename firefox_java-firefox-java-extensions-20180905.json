@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-java-extensions"
+  ],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 197,
+      "width": 131,
+      "type": "match",
+      "height": 29
+    }
+  ],
+  "properties": []
+}

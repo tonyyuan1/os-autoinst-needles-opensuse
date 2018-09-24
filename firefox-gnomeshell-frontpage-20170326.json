@@ -1,29 +1,29 @@
 {
+  "area": [
+    {
+      "ypos": 229,
+      "height": 42,
+      "width": 124,
+      "type": "match",
+      "xpos": 17
+    },
+    {
+      "type": "match",
+      "ypos": 201,
+      "width": 53,
+      "height": 14,
+      "xpos": 678
+    },
+    {
+      "xpos": 112,
+      "type": "match",
+      "ypos": 345,
+      "height": 22,
+      "width": 592
+    }
+  ],
   "tags": [
     "firefox-gnomeshell-frontpage"
   ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 17,
-      "height": 46,
-      "ypos": 229,
-      "width": 124,
-      "type": "match"
-    },
-    {
-      "type": "match",
-      "height": 27,
-      "xpos": 670,
-      "ypos": 196,
-      "width": 66
-    },
-    {
-      "type": "match",
-      "xpos": 112,
-      "height": 22,
-      "ypos": 345,
-      "width": 592
-    }
-  ]
+  "properties": []
 }

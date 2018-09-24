@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 614,
+      "ypos": 158,
+      "width": 63,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-searchall-addon"
+  ]
+}

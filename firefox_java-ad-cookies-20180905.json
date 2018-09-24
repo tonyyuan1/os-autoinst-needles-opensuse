@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "oracle-ad-cookies"
+  ],
+  "area": [
+    {
+      "width": 34,
+      "type": "match",
+      "ypos": 548,
+      "height": 103,
+      "xpos": 849
+    }
+  ]
+}

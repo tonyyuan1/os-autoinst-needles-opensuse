@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 109,
+      "ypos": 227,
+      "height": 36,
+      "xpos": 860
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-extensions-flagfox_installed"
+  ],
+  "properties": []
+}

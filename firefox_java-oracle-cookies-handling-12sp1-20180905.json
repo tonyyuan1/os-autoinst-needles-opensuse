@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-java-agree-and-proceed",
+    "oracle-cookies-handling"
+  ],
+  "area": [
+    {
+      "xpos": 156,
+      "ypos": 331,
+      "width": 42,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}

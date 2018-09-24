@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 259,
+      "type": "match",
+      "ypos": 369,
+      "height": 81,
+      "width": 315
+    },
+    {
+      "ypos": 268,
+      "height": 24,
+      "width": 226,
+      "type": "match",
+      "xpos": 401
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-ssl-edit_ca_trust"
+  ]
+}

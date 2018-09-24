@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-menu-quit"
+  ],
+  "area": [
+    {
+      "width": 249,
+      "xpos": 18,
+      "ypos": 405,
+      "type": "match",
+      "height": 24
+    }
+  ],
+  "properties": []
+}
