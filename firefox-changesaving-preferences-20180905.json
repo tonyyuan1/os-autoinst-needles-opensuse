@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-changesaving-preferences"
+  ],
+  "area": [
+    {
+      "ypos": 107,
+      "width": 129,
+      "type": "match",
+      "xpos": 294,
+      "height": 18
+    },
+    {
+      "type": "match",
+      "width": 88,
+      "ypos": 219,
+      "height": 31,
+      "xpos": 265
+    }
+  ]
+}

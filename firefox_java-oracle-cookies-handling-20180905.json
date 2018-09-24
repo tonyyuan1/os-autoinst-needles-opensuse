@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 37,
+      "type": "match",
+      "ypos": 328,
+      "height": 19,
+      "xpos": 156
+    },
+    {
+      "xpos": 120,
+      "height": 20,
+      "ypos": 358,
+      "type": "match",
+      "width": 119
+    }
+  ],
+  "tags": [
+    "firefox-java-agree-and-proceed",
+    "oracle-cookies-handling"
+  ],
+  "properties": []
+}

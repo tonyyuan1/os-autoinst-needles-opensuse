@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-ssl-loadpage"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 181,
+      "xpos": 57,
+      "ypos": 77,
+      "height": 20
+    },
+    {
+      "height": 32,
+      "type": "match",
+      "ypos": 205,
+      "xpos": 34,
+      "width": 511
+    }
+  ],
+  "properties": []
+}

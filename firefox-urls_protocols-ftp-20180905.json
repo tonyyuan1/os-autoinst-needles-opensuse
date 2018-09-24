@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-urls_protocols-ftp"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 32,
+      "xpos": 238,
+      "width": 176,
+      "type": "match",
+      "ypos": 101
+    },
+    {
+      "width": 363,
+      "type": "match",
+      "ypos": 238,
+      "height": 34,
+      "xpos": 67
+    }
+  ]
+}

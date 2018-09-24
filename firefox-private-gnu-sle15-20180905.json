@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "xpos": 242,
+      "width": 129,
+      "type": "match",
+      "ypos": 107
+    },
+    {
+      "height": 64,
+      "xpos": 25,
+      "type": "match",
+      "width": 64,
+      "ypos": 228
+    },
+    {
+      "xpos": 990,
+      "ypos": 67,
+      "width": 30,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-private-gnu"
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 97,
+      "type": "match",
+      "ypos": 401,
+      "height": 33,
+      "xpos": 615
+    }
+  ],
+  "tags": [
+    "firefox-passwd-success"
+  ],
+  "properties": []
+}

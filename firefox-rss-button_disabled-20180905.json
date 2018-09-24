@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-rss-button_disabled"
+  ],
+  "area": [
+    {
+      "ypos": 106,
+      "width": 26,
+      "type": "match",
+      "xpos": 894,
+      "height": 24
+    }
+  ]
+}

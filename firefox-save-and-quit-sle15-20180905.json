@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-save-and-quit"
+  ],
+  "area": [
+    {
+      "ypos": 312,
+      "width": 504,
+      "type": "match",
+      "xpos": 260,
+      "height": 36
+    },
+    {
+      "type": "match",
+      "width": 96,
+      "ypos": 441,
+      "height": 35,
+      "xpos": 652
+    }
+  ]
+}

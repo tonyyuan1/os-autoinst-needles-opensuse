@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-developertool-click_element"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 523,
+      "type": "match",
+      "width": 21,
+      "xpos": 6,
+      "height": 20
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "width": 168,
+      "xpos": 59,
+      "ypos": 80
+    },
+    {
+      "type": "match",
+      "width": 511,
+      "ypos": 207,
+      "xpos": 34,
+      "height": 32
+    }
+  ],
+  "tags": [
+    "ENV-VERSION-12",
+    "firefox-ssl-loadpage"
+  ]
+}

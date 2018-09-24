@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-extcontent-opening"
+  ],
+  "area": [
+    {
+      "width": 69,
+      "xpos": 430,
+      "ypos": 195,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "type": "match",
+      "xpos": 550,
+      "ypos": 489,
+      "width": 199,
+      "height": 39
+    }
+  ],
+  "properties": []
+}
