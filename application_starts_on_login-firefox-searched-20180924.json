@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-searched"
+  ],
+  "area": [
+    {
+      "height": 37,
+      "type": "match",
+      "width": 133,
+      "ypos": 278,
+      "xpos": 435
+    },
+    {
+      "width": 124,
+      "type": "match",
+      "height": 52,
+      "ypos": 376,
+      "xpos": 347
+    }
+  ]
+}
