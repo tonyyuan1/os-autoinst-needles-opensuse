@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 88,
+      "width": 251,
+      "type": "match",
+      "ypos": 183,
+      "xpos": 72
+    },
+    {
+      "xpos": 357,
+      "ypos": 128,
+      "height": 11,
+      "type": "match",
+      "width": 20
+    }
+  ],
+  "tags": [
+    "addon-products-ses"
+  ],
+  "properties": []
+}
