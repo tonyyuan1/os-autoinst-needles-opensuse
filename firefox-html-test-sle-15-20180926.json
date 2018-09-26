@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 291,
+      "xpos": 89,
+      "ypos": 295,
+      "height": 100
+    },
+    {
+      "type": "match",
+      "xpos": 535,
+      "width": 233,
+      "ypos": 328,
+      "height": 65
+    },
+    {
+      "height": 15,
+      "ypos": 110,
+      "width": 223,
+      "type": "match",
+      "xpos": 259
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-html-test"
+  ]
+}
