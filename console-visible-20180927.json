@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "ypos": 146,
+      "width": 119,
+      "type": "match",
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "console-visible"
+  ]
+}
