@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "shutdown-auth"
+  ],
+  "area": [
+    {
+      "width": 553,
+      "height": 317,
+      "xpos": 233,
+      "ypos": 235,
+      "type": "match"
+    }
+  ]
+}
