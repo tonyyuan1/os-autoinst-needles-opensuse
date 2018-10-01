@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "iscsi-client-overview-service-tab"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 32,
+      "xpos": 17,
+      "height": 15,
+      "width": 121
+    },
+    {
+      "xpos": 268,
+      "height": 16,
+      "width": 173,
+      "ypos": 239,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
