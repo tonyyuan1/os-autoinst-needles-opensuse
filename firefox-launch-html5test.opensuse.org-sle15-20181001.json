@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-launch"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 6,
+      "width": 97,
+      "type": "match",
+      "height": 53,
+      "ypos": 72
+    },
+    {
+      "width": 223,
+      "type": "match",
+      "xpos": 240,
+      "ypos": 110,
+      "height": 17
+    },
+    {
+      "type": "exclude",
+      "width": 61,
+      "xpos": 3,
+      "ypos": 103,
+      "height": 25
+    }
+  ]
+}
