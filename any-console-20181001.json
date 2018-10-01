@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 55,
+      "height": 14,
+      "width": 969,
+      "ypos": 737,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "any-console"
+  ]
+}
