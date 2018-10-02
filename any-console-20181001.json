@@ -2,14 +2,15 @@
   "properties": [],
   "area": [
     {
-      "xpos": 55,
-      "height": 14,
-      "width": 969,
-      "ypos": 737,
+      "xpos": 316,
+      "ypos": 0,
+      "width": 708,
+      "height": 35,
       "type": "match"
     }
   ],
   "tags": [
+    "ENV-VIDEOMODE-text",
     "ENV-VIRSH_VMM_FAMILY-hyperv",
     "any-console"
   ]
