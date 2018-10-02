@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 134,
+      "ypos": 81,
+      "width": 538,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 256,
+      "ypos": 328,
+      "width": 520,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sap-wizard-additional-repos"
+  ],
+  "properties": []
+}

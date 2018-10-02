@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-wizard-continue-installation"
+  ],
+  "area": [
+    {
+      "xpos": 167,
+      "ypos": 320,
+      "width": 688,
+      "height": 60,
+      "type": "match"
+    }
+  ]
+}

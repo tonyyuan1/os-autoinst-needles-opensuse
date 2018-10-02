@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "sap-wizard-failed"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 80,
+      "xpos": 131,
+      "height": 32,
+      "width": 238
+    },
+    {
+      "ypos": 301,
+      "type": "match",
+      "width": 213,
+      "height": 36,
+      "xpos": 309
+    }
+  ],
+  "properties": []
+}

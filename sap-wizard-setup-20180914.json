@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-installation-wizard",
+    "yast2"
+  ],
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 74,
+      "width": 785,
+      "height": 399,
+      "type": "match"
+    }
+  ]
+}

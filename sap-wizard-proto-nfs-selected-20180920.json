@@ -1,0 +1,32 @@
+{
+  "properties": [],
+  "tags": [
+    "netweaver",
+    "sap",
+    "sap-wizard-proto-nfs-selected",
+    "yast2"
+  ],
+  "area": [
+    {
+      "xpos": 129,
+      "ypos": 85,
+      "width": 236,
+      "height": 27,
+      "type": "match"
+    },
+    {
+      "xpos": 218,
+      "ypos": 293,
+      "width": 219,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 126,
+      "ypos": 323,
+      "width": 90,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 134,
+      "ypos": 80,
+      "width": 231,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 220,
+      "ypos": 300,
+      "width": 217,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 126,
+      "ypos": 325,
+      "width": 92,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "sap-wizard-proto-smb-selected"
+  ]
+}
