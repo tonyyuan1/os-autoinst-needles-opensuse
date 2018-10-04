@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "expert-partitioner-overview",
+    "storage-ng"
+  ],
+  "area": [
+    {
+      "xpos": 312,
+      "ypos": 147,
+      "width": 126,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 21,
+      "ypos": 88,
+      "width": 272,
+      "height": 47,
+      "type": "match"
+    },
+    {
+      "xpos": 451,
+      "ypos": 180,
+      "width": 73,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
