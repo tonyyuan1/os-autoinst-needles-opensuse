@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 218,
+      "type": "match",
+      "width": 76,
+      "xpos": 159,
+      "height": 20
+    },
+    {
+      "height": 21,
+      "ypos": 251,
+      "type": "match",
+      "width": 247,
+      "xpos": 164
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ENV-15ORLATER-0",
+    "bootloader",
+    "grub2",
+    "inst-bootmenu-boot-harddisk"
+  ],
+  "properties": []
+}
