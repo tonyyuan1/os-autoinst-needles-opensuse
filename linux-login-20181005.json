@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "linux-login"
+  ],
+  "area": [
+    {
+      "xpos": 85,
+      "width": 258,
+      "height": 13,
+      "type": "match",
+      "ypos": 705
+    },
+    {
+      "xpos": 67,
+      "width": 61,
+      "height": 12,
+      "ypos": 754,
+      "type": "match"
+    },
+    {
+      "height": 16,
+      "width": 223,
+      "xpos": 108,
+      "ypos": 524,
+      "type": "match"
+    },
+    {
+      "xpos": 125,
+      "width": 39,
+      "height": 16,
+      "ypos": 572,
+      "type": "match"
+    }
+  ]
+}
