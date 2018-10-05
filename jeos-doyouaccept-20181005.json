@@ -1,16 +1,17 @@
 {
-  "properties": [],
   "tags": [
     "ENV-FLAVOR-JeOS-for-MS-HyperV",
+    "ENV-JEOS-1",
     "jeos-doyouaccept"
   ],
   "area": [
     {
       "type": "match",
       "ypos": 335,
-      "width": 211,
+      "xpos": 395,
       "height": 68,
-      "xpos": 395
+      "width": 211
     }
-  ]
+  ],
+  "properties": []
 }
