@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 269,
+      "type": "match",
+      "xpos": 213,
+      "height": 21,
+      "width": 215
+    }
+  ],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "jeos-please-register"
+  ],
+  "properties": []
+}
