@@ -1,29 +1,30 @@
 {
   "properties": [],
+  "tags": [
+    "firefox",
+    "firefox-launch"
+  ],
   "area": [
     {
-      "type": "match",
-      "ypos": 72,
-      "xpos": 235,
-      "width": 24,
-      "height": 37
-    },
-    {
-      "width": 53,
-      "height": 33,
-      "xpos": 760,
-      "ypos": 74,
+      "height": 40,
+      "ypos": 32,
+      "xpos": 524,
+      "width": 127,
       "type": "match"
     },
     {
-      "height": 39,
-      "width": 112,
-      "xpos": 658,
+      "xpos": 780,
+      "width": 69,
       "type": "match",
-      "ypos": 4
+      "height": 33,
+      "ypos": 100
+    },
+    {
+      "width": 66,
+      "type": "match",
+      "xpos": 67,
+      "ypos": 99,
+      "height": 35
     }
-  ],
-  "tags": [
-    "firefox-launch"
   ]
 }

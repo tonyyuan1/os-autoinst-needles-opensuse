@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-headers-select-html"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "ypos": 521,
+      "xpos": 83,
+      "width": 40,
+      "type": "match"
+    }
+  ]
+}

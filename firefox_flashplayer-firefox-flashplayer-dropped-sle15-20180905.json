@@ -1,16 +1,16 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 491,
       "height": 176,
       "ypos": 133,
-      "width": 308,
-      "type": "match"
+      "xpos": 512,
+      "type": "match",
+      "width": 287
     }
   ],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox-flashplayer-dropped"
-  ],
-  "properties": []
+  ]
 }

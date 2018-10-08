@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 541,
+      "ypos": 11,
+      "width": 101,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 572,
+      "ypos": 80,
+      "width": 17,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-url-loaded"
+  ]
+}

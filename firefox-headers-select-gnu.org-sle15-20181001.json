@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 29,
+      "type": "match",
+      "xpos": 69,
+      "ypos": 603,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-headers-select-gnu.org"
+  ]
+}

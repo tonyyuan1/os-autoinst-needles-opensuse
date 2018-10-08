@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-headers-select-gnu.org"
+  ],
+  "area": [
+    {
+      "width": 31,
+      "type": "match",
+      "xpos": 124,
+      "ypos": 572,
+      "height": 16
+    }
+  ]
+}
