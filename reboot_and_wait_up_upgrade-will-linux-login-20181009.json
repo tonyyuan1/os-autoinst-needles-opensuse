@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-DISTRI-sle",
+    "ENV-VIDEOMODE-text",
+    "will-linux-login"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 209,
+      "width": 394,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
