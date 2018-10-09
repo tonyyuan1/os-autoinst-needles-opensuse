@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-fullscreen-enter"
+  ],
+  "area": [
+    {
+      "xpos": 7,
+      "width": 376,
+      "height": 111,
+      "ypos": 10,
+      "type": "match"
+    }
+  ]
+}
