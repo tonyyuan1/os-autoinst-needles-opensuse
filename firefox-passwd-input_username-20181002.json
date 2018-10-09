@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-passwd-input_username"
+  ],
+  "area": [
+    {
+      "height": 40,
+      "ypos": 418,
+      "xpos": 356,
+      "width": 88,
+      "type": "match"
+    }
+  ]
+}

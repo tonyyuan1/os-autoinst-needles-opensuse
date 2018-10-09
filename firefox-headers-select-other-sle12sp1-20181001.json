@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 42,
+      "xpos": 550,
+      "ypos": 521,
+      "height": 15
+    }
+  ],
+  "tags": [
+    "firefox-headers-select-other"
+  ]
+}

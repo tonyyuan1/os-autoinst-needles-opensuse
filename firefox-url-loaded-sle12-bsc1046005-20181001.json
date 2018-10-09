@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "firefox-url-loaded"
+  ],
+  "area": [
+    {
+      "height": 14,
+      "ypos": 11,
+      "xpos": 462,
+      "type": "match",
+      "width": 101
+    },
+    {
+      "type": "match",
+      "width": 17,
+      "xpos": 572,
+      "ypos": 80,
+      "height": 15
+    }
+  ]
+}

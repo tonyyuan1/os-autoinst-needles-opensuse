@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-headers-first_item"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 264,
+      "xpos": 529,
+      "ypos": 543,
+      "height": 69
+    }
+  ]
+}

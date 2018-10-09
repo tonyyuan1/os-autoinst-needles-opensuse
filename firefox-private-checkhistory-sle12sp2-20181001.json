@@ -2,11 +2,11 @@
   "properties": [],
   "area": [
     {
-      "xpos": 6,
-      "type": "match",
-      "width": 254,
-      "height": 151,
-      "ypos": 175
+      "height": 77,
+      "ypos": 176,
+      "xpos": 20,
+      "width": 238,
+      "type": "match"
     }
   ],
   "tags": [
