@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 543,
+      "width": 269,
+      "height": 96,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "sshd-server-started-config"
+  ],
+  "properties": []
+}
