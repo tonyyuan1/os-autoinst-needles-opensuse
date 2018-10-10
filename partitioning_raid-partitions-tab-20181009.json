@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partitions-tab"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 656,
+      "ypos": 169,
+      "width": 206,
+      "height": 40,
+      "type": "match"
+    }
+  ]
+}
