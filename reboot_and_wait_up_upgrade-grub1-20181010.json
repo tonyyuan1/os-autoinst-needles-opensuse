@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-VIDEOMODE-text",
+    "grub1"
+  ],
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 13,
+      "width": 175,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 112,
+      "width": 271,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
