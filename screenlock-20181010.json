@@ -1,7 +1,5 @@
 {
-  "properties": [
-    "workaround"
-  ],
+  "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
