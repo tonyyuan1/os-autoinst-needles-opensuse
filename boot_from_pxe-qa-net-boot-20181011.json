@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "qa-net-boot"
+  ],
+  "area": [
+    {
+      "width": 39,
+      "height": 23,
+      "xpos": 1,
+      "type": "match",
+      "ypos": 362
+    }
+  ]
+}
