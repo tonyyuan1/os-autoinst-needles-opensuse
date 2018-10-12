@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 11,
+      "height": 63,
+      "width": 332,
+      "ypos": 114,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "openattic-dashboard"
+  ]
+}
