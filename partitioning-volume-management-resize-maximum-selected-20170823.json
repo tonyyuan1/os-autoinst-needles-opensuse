@@ -17,7 +17,7 @@
   ],
   "tags": [
     "ENV-SP2ORLATER-1",
-    "volume-management-resize-maximum-selected"
+    "partition-maximum-size-selected"
   ],
   "properties": []
 }

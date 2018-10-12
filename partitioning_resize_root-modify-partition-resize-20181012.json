@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 329,
+      "ypos": 693,
+      "width": 41,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "modify-partition-resize"
+  ]
+}

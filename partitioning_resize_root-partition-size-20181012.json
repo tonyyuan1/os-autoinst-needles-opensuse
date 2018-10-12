@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "partition-size"
+  ],
+  "area": [
+    {
+      "xpos": 370,
+      "ypos": 253,
+      "width": 143,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 390,
+      "ypos": 504,
+      "width": 49,
+      "height": 23,
+      "type": "match"
+    }
+  ]
+}
