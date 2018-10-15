@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 581,
+      "height": 23,
+      "width": 59,
+      "ypos": 420,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "snap-before-update"
+  ]
+}
