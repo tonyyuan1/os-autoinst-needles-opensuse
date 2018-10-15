@@ -1,15 +1,14 @@
 {
   "tags": [
-    "ENV-SP2ORLATER-0",
     "test-firefox-3"
   ],
   "area": [
     {
       "type": "match",
-      "ypos": 377,
-      "xpos": 467,
+      "ypos": 382,
+      "xpos": 471,
       "width": 323,
-      "height": 106
+      "height": 119
     }
   ],
   "properties": []
