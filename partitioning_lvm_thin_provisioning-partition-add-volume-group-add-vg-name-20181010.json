@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-add-volume-group-add-vg-name"
+  ],
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 157,
+      "width": 203,
+      "height": 38,
+      "type": "match"
+    }
+  ]
+}
