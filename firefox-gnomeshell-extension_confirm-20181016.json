@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-gnomeshell-extension_confirm"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 713,
+      "ypos": 426,
+      "width": 42,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
