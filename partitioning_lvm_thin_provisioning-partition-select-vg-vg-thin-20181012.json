@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "partition-select-vg-vg-thin"
+  ],
+  "area": [
+    {
+      "xpos": 80,
+      "ypos": 372,
+      "width": 51,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "partition-select-vg-vg-no-thin"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 275,
+      "xpos": 85,
+      "height": 13,
+      "width": 65
+    },
+    {
+      "ypos": 142,
+      "type": "match",
+      "height": 27,
+      "width": 198,
+      "xpos": 341,
+      "match": 90
+    }
+  ],
+  "properties": []
+}
