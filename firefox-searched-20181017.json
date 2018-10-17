@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firefox-searched"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 251,
+      "height": 37,
+      "width": 133,
+      "xpos": 433,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 347,
+      "width": 124,
+      "height": 52,
+      "ypos": 348
+    }
+  ]
+}
