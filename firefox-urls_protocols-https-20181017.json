@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-urls_protocols-https"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 18,
+      "ypos": 82,
+      "width": 172,
+      "xpos": 260,
+      "type": "match"
+    }
+  ]
+}
