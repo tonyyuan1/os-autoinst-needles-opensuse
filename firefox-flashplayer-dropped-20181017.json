@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 286,
+      "type": "match",
+      "xpos": 512,
+      "ypos": 109,
+      "height": 173
+    }
+  ],
+  "tags": [
+    "firefox-flashplayer-dropped"
+  ]
+}
