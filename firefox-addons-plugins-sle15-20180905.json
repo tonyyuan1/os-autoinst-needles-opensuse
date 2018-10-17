@@ -1,16 +1,15 @@
 {
-  "properties": [],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-addons-plugins"
-  ],
   "area": [
     {
-      "ypos": 323,
-      "type": "match",
       "width": 33,
+      "type": "match",
       "xpos": 40,
-      "height": 30
+      "height": 30,
+      "ypos": 323
     }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-addons-plugins"
   ]
 }
