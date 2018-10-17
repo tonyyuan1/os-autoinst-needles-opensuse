@@ -1,14 +1,14 @@
 {
+  "properties": [],
   "area": [
     {
-      "height": 37,
-      "width": 99,
-      "ypos": 436,
-      "xpos": 652,
-      "type": "match"
+      "width": 63,
+      "xpos": 671,
+      "type": "match",
+      "ypos": 448,
+      "height": 15
     }
   ],
-  "properties": [],
   "tags": [
     "firefox-downloading-save_enabled"
   ]
