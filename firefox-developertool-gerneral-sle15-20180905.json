@@ -1,16 +1,15 @@
 {
-  "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
     "firefox-developertool-gerneral"
   ],
   "area": [
     {
+      "xpos": 6,
       "type": "match",
       "width": 750,
       "ypos": 522,
-      "height": 19,
-      "xpos": 6
+      "height": 19
     }
-  ]
+  ],
+  "properties": []
 }
