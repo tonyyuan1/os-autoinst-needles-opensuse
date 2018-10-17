@@ -1,23 +1,22 @@
 {
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-extcontent-opening"
-  ],
   "properties": [],
   "area": [
     {
-      "xpos": 429,
       "height": 27,
       "ypos": 202,
       "width": 67,
+      "xpos": 429,
       "type": "match"
     },
     {
-      "type": "match",
-      "width": 199,
       "ypos": 525,
       "height": 39,
-      "xpos": 550
+      "type": "match",
+      "xpos": 550,
+      "width": 199
     }
+  ],
+  "tags": [
+    "firefox-extcontent-opening"
   ]
 }
