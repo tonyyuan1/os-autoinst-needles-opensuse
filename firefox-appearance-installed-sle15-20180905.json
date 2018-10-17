@@ -1,23 +1,22 @@
 {
+  "properties": [],
   "area": [
     {
-      "xpos": 753,
-      "ypos": 68,
       "width": 261,
+      "xpos": 753,
+      "type": "match",
       "height": 62,
-      "type": "match"
+      "ypos": 68
     },
     {
       "xpos": 285,
-      "ypos": 146,
+      "type": "match",
       "width": 248,
-      "height": 18,
-      "type": "match"
+      "ypos": 146,
+      "height": 18
     }
   ],
   "tags": [
-    "ENV-15ORLATER-1",
     "firefox-appearance-installed"
-  ],
-  "properties": []
+  ]
 }
