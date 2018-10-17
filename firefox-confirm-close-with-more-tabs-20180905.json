@@ -1,22 +1,22 @@
 {
+  "tags": [
+    "firefox-save-and-quit"
+  ],
   "area": [
     {
+      "height": 13,
+      "ypos": 423,
+      "xpos": 676,
       "type": "match",
-      "xpos": 553,
-      "ypos": 413,
-      "width": 209,
-      "height": 33
+      "width": 69
     },
     {
       "height": 23,
+      "ypos": 297,
       "width": 126,
-      "ypos": 298,
       "xpos": 448,
       "type": "match"
     }
   ],
-  "properties": [],
-  "tags": [
-    "firefox-save-and-quit"
-  ]
+  "properties": []
 }
