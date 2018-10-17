@@ -1,16 +1,15 @@
 {
   "tags": [
-    "ENV-15ORLATER-1",
     "firefox-passwd-security"
   ],
   "properties": [],
   "area": [
     {
-      "xpos": 42,
-      "height": 35,
       "ypos": 310,
-      "width": 29,
-      "type": "match"
+      "height": 35,
+      "type": "match",
+      "xpos": 42,
+      "width": 29
     }
   ]
 }
