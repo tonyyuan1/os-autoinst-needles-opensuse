@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "firefox-passwd-success"
-  ],
-  "properties": [],
   "area": [
     {
-      "height": 30,
-      "width": 97,
-      "xpos": 616,
-      "ypos": 403,
-      "type": "match"
+      "height": 13,
+      "ypos": 411,
+      "width": 29,
+      "type": "match",
+      "xpos": 651
     }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-passwd-success"
   ]
 }
