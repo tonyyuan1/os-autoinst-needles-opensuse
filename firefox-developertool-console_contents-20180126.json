@@ -1,16 +1,15 @@
 {
-  "area": [
-    {
-      "width": 35,
-      "ypos": 636,
-      "xpos": 121,
-      "height": 20,
-      "type": "match"
-    }
-  ],
   "tags": [
-    "ENV-15ORLATER-1",
     "firefox-developertool-console_contents"
   ],
-  "properties": []
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 65,
+      "width": 35,
+      "height": 20,
+      "ypos": 600
+    }
+  ]
 }
