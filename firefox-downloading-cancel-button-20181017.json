@@ -1,22 +1,15 @@
 {
+  "tags": [
+    "firefox-downloading-cancel-button"
+  ],
   "properties": [],
   "area": [
     {
+      "height": 16,
+      "ypos": 149,
+      "xpos": 665,
       "type": "match",
-      "xpos": 361,
-      "width": 52,
-      "ypos": 47,
-      "height": 20
-    },
-    {
-      "type": "match",
-      "xpos": 702,
-      "width": 16,
-      "ypos": 146,
-      "height": 16
+      "width": 16
     }
-  ],
-  "tags": [
-    "firefox-downloading-cancel-button"
   ]
 }
