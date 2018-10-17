@@ -1,23 +1,22 @@
 {
+  "tags": [
+    "firefox-changesaving-showblankpage"
+  ],
+  "properties": [],
   "area": [
     {
-      "height": 34,
       "xpos": 262,
       "type": "match",
       "width": 93,
+      "height": 34,
       "ypos": 218
     },
     {
       "ypos": 476,
+      "height": 19,
       "type": "match",
-      "width": 131,
       "xpos": 298,
-      "height": 19
+      "width": 131
     }
-  ],
-  "properties": [],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-changesaving-showblankpage"
   ]
 }
