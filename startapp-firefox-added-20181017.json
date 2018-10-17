@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 170,
+      "type": "match",
+      "xpos": 528,
+      "height": 43,
+      "ypos": 0
+    },
+    {
+      "ypos": 70,
+      "height": 47,
+      "width": 263,
+      "type": "match",
+      "xpos": 226
+    }
+  ],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "startapp-firefox-added"
+  ]
+}
