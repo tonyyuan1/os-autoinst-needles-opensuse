@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "firefox-headers-user_agent"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 294,
+      "xpos": 476,
+      "type": "match",
+      "ypos": 612,
+      "height": 64
+    }
+  ]
+}
