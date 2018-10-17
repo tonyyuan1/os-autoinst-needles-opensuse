@@ -1,16 +1,15 @@
 {
+  "tags": [
+    "firefox-extensions-flagfox"
+  ],
   "area": [
     {
       "ypos": 449,
-      "type": "match",
+      "height": 36,
       "width": 94,
-      "xpos": 419,
-      "height": 36
+      "type": "match",
+      "xpos": 419
     }
   ],
-  "properties": [],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-extensions-flagfox"
-  ]
+  "properties": []
 }
