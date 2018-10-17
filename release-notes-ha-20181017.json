@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 227,
+      "type": "match",
+      "width": 531,
+      "height": 44,
+      "ypos": 298
+    },
+    {
+      "ypos": 164,
+      "height": 31,
+      "width": 72,
+      "type": "match",
+      "xpos": 480
+    },
+    {
+      "width": 123,
+      "xpos": 229,
+      "type": "match",
+      "height": 22,
+      "ypos": 208
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "release-notes-ha"
+  ]
+}
