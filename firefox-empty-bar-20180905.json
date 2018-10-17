@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "width": 174,
-      "ypos": 74,
-      "xpos": 67,
-      "type": "match",
-      "height": 31
-    }
-  ],
-  "properties": [],
   "tags": [
     "firefox-empty-bar"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 241,
+      "width": 48,
+      "ypos": 73,
+      "height": 34
+    }
   ]
 }
