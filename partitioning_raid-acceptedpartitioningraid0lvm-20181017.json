@@ -1,0 +1,51 @@
+{
+  "properties": [],
+  "tags": [
+    "acceptedpartitioningraid0lvm",
+    "ENV-15ORLATER-1"
+  ],
+  "area": [
+    {
+      "xpos": 150,
+      "ypos": 196,
+      "width": 166,
+      "height": 72,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 520,
+      "width": 220,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 491,
+      "width": 150,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 632,
+      "ypos": 490,
+      "width": 128,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 703,
+      "ypos": 521,
+      "width": 192,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 415,
+      "ypos": 461,
+      "width": 147,
+      "height": 11,
+      "type": "match"
+    }
+  ]
+}
