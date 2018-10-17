@@ -1,16 +1,15 @@
 {
+  "tags": [
+    "firefox-passwd-confirm_remember"
+  ],
   "area": [
     {
       "xpos": 525,
-      "ypos": 293,
+      "type": "match",
       "width": 60,
-      "height": 18,
-      "type": "match"
+      "ypos": 293,
+      "height": 18
     }
-  ],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-passwd-confirm_remember"
   ],
   "properties": []
 }
