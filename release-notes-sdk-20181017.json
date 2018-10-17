@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "release-notes-sdk"
+  ],
+  "area": [
+    {
+      "width": 81,
+      "xpos": 463,
+      "type": "match",
+      "height": 13,
+      "ypos": 504
+    },
+    {
+      "height": 41,
+      "ypos": 322,
+      "xpos": 226,
+      "type": "match",
+      "width": 479
+    }
+  ],
+  "properties": []
+}
