@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 86,
+      "width": 128,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 23,
+      "ypos": 222,
+      "width": 66,
+      "height": 62,
+      "type": "match"
+    },
+    {
+      "xpos": 989,
+      "ypos": 43,
+      "width": 30,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-private-gnu"
+  ]
+}
