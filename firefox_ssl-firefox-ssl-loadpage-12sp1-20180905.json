@@ -1,22 +1,29 @@
 {
-  "tags": [
-    "firefox-ssl-loadpage"
-  ],
   "area": [
     {
-      "height": 20,
-      "xpos": 59,
-      "ypos": 80,
-      "width": 181,
-      "type": "match"
+      "ypos": 85,
+      "height": 14,
+      "xpos": 254,
+      "type": "match",
+      "width": 144
     },
     {
-      "height": 32,
+      "xpos": 34,
       "type": "match",
       "width": 511,
-      "ypos": 207,
-      "xpos": 34
+      "ypos": 210,
+      "height": 32
+    },
+    {
+      "xpos": 231,
+      "ypos": 85,
+      "width": 17,
+      "height": 16,
+      "type": "match"
     }
   ],
-  "properties": []
+  "properties": [],
+  "tags": [
+    "firefox-ssl-loadpage"
+  ]
 }
