@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 522,
+      "ypos": 395,
+      "height": 20,
+      "type": "match",
+      "width": 149
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-ssl-certificate_table"
+  ]
+}
