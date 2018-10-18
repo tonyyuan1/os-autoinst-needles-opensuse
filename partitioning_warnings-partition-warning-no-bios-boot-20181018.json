@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 308,
+      "ypos": 331,
+      "height": 14,
+      "width": 427,
+      "type": "match"
+    },
+    {
+      "xpos": 539,
+      "ypos": 513,
+      "height": 17,
+      "width": 35,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-warning-no-bios-boot"
+  ],
+  "properties": []
+}
