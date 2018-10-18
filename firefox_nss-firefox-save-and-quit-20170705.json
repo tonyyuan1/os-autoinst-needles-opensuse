@@ -2,21 +2,21 @@
   "tags": [
     "firefox-save-and-quit"
   ],
-  "properties": [],
   "area": [
     {
       "height": 27,
+      "ypos": 285,
       "width": 152,
       "type": "match",
-      "ypos": 286,
       "xpos": 439
     },
     {
-      "ypos": 416,
-      "xpos": 651,
-      "width": 102,
-      "height": 30,
-      "type": "match"
+      "height": 13,
+      "ypos": 424,
+      "type": "match",
+      "xpos": 665,
+      "width": 72
     }
-  ]
+  ],
+  "properties": []
 }
