@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 115,
+      "type": "match",
+      "ypos": 353,
+      "xpos": 32,
+      "height": 30
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-domain-empty-field"
+  ]
+}
