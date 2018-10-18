@@ -1,23 +1,23 @@
 {
-  "area": [
-    {
-      "xpos": 62,
-      "type": "match",
-      "width": 177,
-      "height": 24,
-      "ypos": 42
-    },
-    {
-      "height": 46,
-      "ypos": 182,
-      "width": 175,
-      "type": "match",
-      "xpos": 15
-    }
-  ],
-  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "firefox-private-facebook"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 24,
+      "ypos": 42,
+      "xpos": 62,
+      "type": "match",
+      "width": 139
+    },
+    {
+      "ypos": 182,
+      "height": 46,
+      "type": "match",
+      "xpos": 15,
+      "width": 175
+    }
   ]
 }
