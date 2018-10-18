@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "firefox-ssl-certificate_servers"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 282,
+      "ypos": 205,
+      "type": "match",
+      "height": 24,
+      "width": 62,
+      "match": 90
+    }
+  ]
+}

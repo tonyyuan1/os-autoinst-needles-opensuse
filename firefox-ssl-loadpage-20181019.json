@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-ssl-loadpage"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 261,
+      "height": 20,
+      "type": "match",
+      "ypos": 80,
+      "width": 142
+    },
+    {
+      "xpos": 32,
+      "width": 422,
+      "type": "match",
+      "height": 38,
+      "ypos": 203
+    },
+    {
+      "xpos": 239,
+      "ypos": 81,
+      "width": 17,
+      "height": 19,
+      "type": "match"
+    }
+  ]
+}
