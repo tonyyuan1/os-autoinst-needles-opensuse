@@ -1,0 +1,44 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_snapper-snapshots"
+  ],
+  "area": [
+    {
+      "width": 44,
+      "type": "match",
+      "xpos": 354,
+      "ypos": 92,
+      "height": 20
+    },
+    {
+      "type": "match",
+      "width": 97,
+      "height": 25,
+      "ypos": 136,
+      "xpos": 81
+    },
+    {
+      "height": 20,
+      "ypos": 683,
+      "xpos": 74,
+      "type": "match",
+      "width": 63
+    },
+    {
+      "xpos": 411,
+      "ypos": 94,
+      "width": 146,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 664,
+      "ypos": 234,
+      "width": 66,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
