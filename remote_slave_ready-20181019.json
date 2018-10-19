@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 581,
+      "height": 61,
+      "xpos": 0,
+      "ypos": 529
+    }
+  ],
+  "tags": [
+    "remote_slave_ready",
+    "vnc-server-started"
+  ],
+  "properties": []
+}
