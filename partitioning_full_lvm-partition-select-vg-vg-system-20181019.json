@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-select-vg-vg-system"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 198,
+      "height": 21,
+      "ypos": 146,
+      "xpos": 339,
+      "match": 90
+    },
+    {
+      "height": 12,
+      "xpos": 84,
+      "ypos": 275,
+      "type": "match",
+      "width": 60
+    }
+  ]
+}
