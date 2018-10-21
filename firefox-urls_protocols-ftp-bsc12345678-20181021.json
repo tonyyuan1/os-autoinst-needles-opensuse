@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "firefox-urls_protocols-ftp"
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 14,
+      "xpos": 238,
+      "ypos": 110,
+      "type": "match",
+      "width": 170
+    },
+    {
+      "height": 34,
+      "xpos": 416,
+      "ypos": 294,
+      "type": "match",
+      "width": 270
+    }
+  ]
+}
