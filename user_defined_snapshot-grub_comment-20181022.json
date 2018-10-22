@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 98,
+      "height": 14,
+      "ypos": 296,
+      "xpos": 365
+    },
+    {
+      "width": 213,
+      "type": "match",
+      "ypos": 91,
+      "xpos": 350,
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "grub_comment"
+  ]
+}
