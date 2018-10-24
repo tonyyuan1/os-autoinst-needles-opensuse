@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 351,
+      "height": 53,
+      "ypos": 296,
+      "xpos": 330
+    },
+    {
+      "height": 17,
+      "xpos": 620,
+      "ypos": 644,
+      "type": "match",
+      "width": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "slashdot-cookies",
+    "slashdot-cookies-agree"
+  ]
+}
