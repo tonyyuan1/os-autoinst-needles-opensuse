@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 62,
+      "ypos": 705,
+      "xpos": 6,
+      "type": "match",
+      "width": 406
+    },
+    {
+      "width": 317,
+      "type": "match",
+      "xpos": 699,
+      "ypos": 22,
+      "height": 45
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "autoyast_removed"
+  ]
+}
