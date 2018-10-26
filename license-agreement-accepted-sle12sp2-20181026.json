@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 676,
+      "xpos": 347,
+      "type": "match",
+      "width": 176
+    },
+    {
+      "width": 121,
+      "type": "match",
+      "xpos": 26,
+      "ypos": 271,
+      "height": 33
+    },
+    {
+      "xpos": 149,
+      "ypos": 271,
+      "height": 34,
+      "width": 170,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 237,
+      "height": 10,
+      "ypos": 289,
+      "xpos": 338
+    }
+  ],
+  "tags": [
+    "license-agreement-accepted"
+  ],
+  "properties": []
+}
