@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_vnc_firewall_details_selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 166,
+      "ypos": 416,
+      "xpos": 410,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

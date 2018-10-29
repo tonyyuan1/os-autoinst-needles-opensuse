@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 329,
+      "type": "match",
+      "height": 30,
+      "width": 24,
+      "ypos": 305
+    }
+  ],
+  "tags": [
+    "yast2_vnc_firewall_details_interface_selected",
+    "ENV-SP4ORLATER-1",
+    "ENV-15ORLATER-0"
+  ]
+}
