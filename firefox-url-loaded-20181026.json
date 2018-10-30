@@ -1,15 +1,15 @@
 {
-  "tags": [
-    "firefox-url-loaded"
-  ],
-  "properties": [],
   "area": [
     {
-      "xpos": 572,
-      "ypos": 80,
-      "width": 16,
+      "xpos": 573,
+      "ypos": 79,
+      "width": 15,
       "height": 15,
       "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-url-loaded"
   ]
 }
