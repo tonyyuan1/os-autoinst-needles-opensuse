@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 287,
+      "height": 37,
+      "ypos": 146,
+      "width": 267
+    }
+  ],
+  "tags": [
+    "NICsetup_ncurses_mask_empty"
+  ],
+  "properties": []
+}
