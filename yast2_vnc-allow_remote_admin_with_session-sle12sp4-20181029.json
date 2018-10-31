@@ -1,0 +1,17 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 320,
+      "width": 351,
+      "height": 15,
+      "type": "match",
+      "xpos": 193
+    }
+  ],
+  "tags": [
+    "yast2_vnc_allow_remote_admin_with_session",
+    "ENV-SP4ORLATER-1",
+    "ENV-15ORLATER-0"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_vnc_allow_remote_admin_with_session"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 304,
+      "width": 351,
+      "type": "match",
+      "height": 15,
+      "xpos": 193
+    }
+  ]
+}
