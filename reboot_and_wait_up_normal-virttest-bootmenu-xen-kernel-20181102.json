@@ -1,0 +1,26 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-VIDEOMODE-text",
+    "on_host_lower_than_sles_12_sp2",
+    "virttest-bootmenu-xen-kernel"
+  ],
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 16,
+      "width": 65,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 21,
+      "ypos": 97,
+      "width": 285,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
