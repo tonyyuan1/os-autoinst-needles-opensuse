@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_trusted_eth0_default"
+  ],
+  "area": [
+    {
+      "xpos": 359,
+      "ypos": 358,
+      "width": 187,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

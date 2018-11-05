@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 155,
+      "width": 182,
+      "height": 45,
+      "type": "match"
+    },
+    {
+      "xpos": 560,
+      "ypos": 177,
+      "width": 78,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_firewall_service_status_running"
+  ]
+}

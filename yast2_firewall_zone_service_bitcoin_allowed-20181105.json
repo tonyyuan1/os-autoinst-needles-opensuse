@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 726,
+      "ypos": 196,
+      "width": 71,
+      "height": 72,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_firewall_zone_service_bitcoin_allowed"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_firewall_interfaces_menu"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 126,
+      "ypos": 183,
+      "width": 101,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
