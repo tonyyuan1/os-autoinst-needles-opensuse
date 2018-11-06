@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "w3m-connect-google-webpage"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 1,
+      "xpos": 2,
+      "height": 41,
+      "width": 385,
+      "type": "match"
+    }
+  ]
+}
