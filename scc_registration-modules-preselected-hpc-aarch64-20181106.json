@@ -1,0 +1,72 @@
+{
+  "area": [
+    {
+      "width": 130,
+      "type": "match",
+      "ypos": 233,
+      "xpos": 358,
+      "height": 25
+    },
+    {
+      "type": "match",
+      "width": 87,
+      "height": 22,
+      "xpos": 360,
+      "ypos": 293
+    },
+    {
+      "width": 88,
+      "type": "match",
+      "ypos": 353,
+      "xpos": 360,
+      "height": 18
+    },
+    {
+      "height": 16,
+      "ypos": 325,
+      "xpos": 360,
+      "type": "match",
+      "width": 56
+    },
+    {
+      "width": 281,
+      "type": "match",
+      "ypos": 149,
+      "xpos": 361,
+      "height": 17
+    },
+    {
+      "type": "match",
+      "width": 131,
+      "height": 20,
+      "xpos": 358,
+      "ypos": 177
+    },
+    {
+      "type": "match",
+      "width": 123,
+      "height": 14,
+      "ypos": 267,
+      "xpos": 358
+    },
+    {
+      "type": "match",
+      "width": 123,
+      "height": 18,
+      "xpos": 360,
+      "ypos": 383
+    },
+    {
+      "width": 122,
+      "type": "match",
+      "xpos": 356,
+      "ypos": 409,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "modules-preselected-hpc"
+  ]
+}
