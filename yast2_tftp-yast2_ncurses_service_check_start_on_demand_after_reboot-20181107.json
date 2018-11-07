@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 167,
+      "type": "match",
+      "ypos": 240,
+      "xpos": 321,
+      "height": 15
+    },
+    {
+      "type": "match",
+      "width": 121,
+      "height": 14,
+      "ypos": 321,
+      "xpos": 320
+    },
+    {
+      "width": 58,
+      "type": "match",
+      "xpos": 365,
+      "ypos": 306,
+      "height": 27
+    }
+  ],
+  "tags": [
+    "yast2_ncurses_service_check_start_on_demand_after_reboot"
+  ],
+  "properties": []
+}
