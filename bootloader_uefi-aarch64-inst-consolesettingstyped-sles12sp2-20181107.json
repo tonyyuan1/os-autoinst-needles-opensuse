@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "inst-consolesettingstyped"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 111,
+      "ypos": 255,
+      "height": 15,
+      "width": 138,
+      "type": "match"
+    }
+  ]
+}
