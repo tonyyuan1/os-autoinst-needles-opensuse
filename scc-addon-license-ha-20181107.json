@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 254,
+      "type": "match",
+      "ypos": 194,
+      "xpos": 66,
+      "height": 148
+    },
+    {
+      "width": 347,
+      "type": "match",
+      "xpos": 381,
+      "ypos": 175,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-VERSION-12-SP2-HA",
+    "scc-addon-license-ha"
+  ]
+}
