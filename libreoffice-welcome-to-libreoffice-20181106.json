@@ -1,0 +1,32 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice",
+    "ooffice",
+    "welcome-to-libreoffice"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 24,
+      "xpos": 459,
+      "type": "match",
+      "width": 101,
+      "ypos": 33
+    },
+    {
+      "ypos": 293,
+      "width": 593,
+      "type": "match",
+      "height": 301,
+      "xpos": 343
+    },
+    {
+      "height": 326,
+      "xpos": 4,
+      "ypos": 323,
+      "width": 239,
+      "type": "match"
+    }
+  ]
+}
