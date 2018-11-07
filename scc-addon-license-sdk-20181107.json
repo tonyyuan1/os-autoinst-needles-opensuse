@@ -1,0 +1,57 @@
+{
+  "tags": [
+    "scc-addon-license-sdk"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 199,
+      "type": "match",
+      "ypos": 310,
+      "xpos": 34,
+      "height": 26
+    },
+    {
+      "width": 335,
+      "type": "match",
+      "xpos": 387,
+      "ypos": 179,
+      "height": 14
+    },
+    {
+      "xpos": 240,
+      "ypos": 311,
+      "width": 36,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 185,
+      "ypos": 273,
+      "width": 131,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 391,
+      "width": 116,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 152,
+      "ypos": 390,
+      "width": 167,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 393,
+      "ypos": 701,
+      "width": 152,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
