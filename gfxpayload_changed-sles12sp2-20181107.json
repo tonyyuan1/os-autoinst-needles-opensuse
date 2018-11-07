@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP2",
+    "gfxpayload_changed"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 184,
+      "height": 20,
+      "ypos": 175,
+      "xpos": 112
+    }
+  ]
+}
