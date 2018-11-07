@@ -1,29 +1,29 @@
 {
-  "properties": [],
+  "area": [
+    {
+      "xpos": 48,
+      "ypos": 197,
+      "width": 166,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 148,
+      "ypos": 276,
+      "width": 165,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 381,
+      "ypos": 179,
+      "width": 343,
+      "height": 13,
+      "type": "match"
+    }
+  ],
   "tags": [
     "addon-license-geo"
   ],
-  "area": [
-    {
-      "xpos": 50,
-      "ypos": 195,
-      "width": 166,
-      "height": 31,
-      "type": "match"
-    },
-    {
-      "xpos": 146,
-      "ypos": 275,
-      "width": 171,
-      "height": 29,
-      "type": "match"
-    },
-    {
-      "xpos": 382,
-      "ypos": 181,
-      "width": 344,
-      "height": 12,
-      "type": "match"
-    }
-  ]
+  "properties": []
 }
