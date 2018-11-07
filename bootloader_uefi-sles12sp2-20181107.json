@@ -1,0 +1,25 @@
+{
+  "tags": [
+    "ENV-OFW-0",
+    "ENV-UEFI-1",
+    "ENV-VERSION-12-SP2",
+    "bootloader-grub2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 218,
+      "xpos": 93,
+      "ypos": 118,
+      "type": "match",
+      "width": 318
+    },
+    {
+      "height": 27,
+      "xpos": 274,
+      "ypos": 76,
+      "type": "match",
+      "width": 210
+    }
+  ]
+}
