@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-license-we"
+  ],
+  "area": [
+    {
+      "xpos": 383,
+      "ypos": 293,
+      "width": 414,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 144,
+      "ypos": 268,
+      "width": 185,
+      "height": 48,
+      "type": "match"
+    }
+  ]
+}
