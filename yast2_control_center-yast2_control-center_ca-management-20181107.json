@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_control-center_ca-management"
+  ],
+  "area": [
+    {
+      "width": 171,
+      "type": "match",
+      "xpos": 23,
+      "ypos": 95,
+      "height": 133
+    }
+  ]
+}
