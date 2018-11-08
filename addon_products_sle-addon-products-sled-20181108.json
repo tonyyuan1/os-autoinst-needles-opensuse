@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "addon-products-sled"
+  ],
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 172,
+      "width": 29,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
