@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 113,
+      "width": 169,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 129,
+      "width": 251,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 144,
+      "width": 225,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 160,
+      "width": 202,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 176,
+      "width": 241,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "modules-preselected-rt"
+  ],
+  "properties": []
+}
