@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "addon-products-all_packages-sled-highlighted"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 357,
+      "ypos": 426,
+      "width": 48,
+      "height": 17,
+      "match" : 100
+    }
+  ],
+  "properties": []
+}
