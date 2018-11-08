@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "ooffice-writer-dont-save"
+  ],
+  "area": [
+    {
+      "height": 38,
+      "xpos": 290,
+      "type": "match",
+      "width": 105,
+      "ypos": 432
+    }
+  ]
+}

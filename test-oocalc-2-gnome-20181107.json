@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "test-oocalc-2"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 86,
+      "width": 144,
+      "xpos": 9,
+      "height": 192
+    }
+  ]
+}
