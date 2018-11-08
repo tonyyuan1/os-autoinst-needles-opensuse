@@ -1,21 +1,21 @@
 {
   "tags": [
-    "yast2_proxy_miscellanous"
+    "yast2_proxy_miscellaneous"
   ],
   "area": [
     {
+      "ypos": 336,
+      "xpos": 549,
       "width": 47,
       "type": "match",
-      "xpos": 549,
-      "height": 17,
-      "ypos": 336
+      "height": 17
     },
     {
-      "type": "match",
+      "ypos": 386,
       "xpos": 319,
       "width": 156,
-      "ypos": 386,
-      "height": 15
+      "height": 15,
+      "type": "match"
     }
   ],
   "properties": []
