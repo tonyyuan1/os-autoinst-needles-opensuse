@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "nis-server-edit-netmask-network"
+  ],
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "ypos": 349,
+      "width": 96,
+      "xpos": 344
+    },
+    {
+      "height": 15,
+      "ypos": 419,
+      "type": "match",
+      "width": 53,
+      "xpos": 343
+    },
+    {
+      "height": 27,
+      "type": "match",
+      "ypos": 273,
+      "xpos": 336,
+      "width": 229
+    }
+  ]
+}
