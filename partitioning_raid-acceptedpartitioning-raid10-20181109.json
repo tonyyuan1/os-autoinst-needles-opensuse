@@ -1,0 +1,59 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioningraid10",
+    "storage-ng"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 68,
+      "ypos": 199,
+      "xpos": 152,
+      "type": "match",
+      "width": 160
+    },
+    {
+      "xpos": 418,
+      "ypos": 460,
+      "height": 10,
+      "width": 71,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 146,
+      "height": 10,
+      "xpos": 418,
+      "ypos": 491
+    },
+    {
+      "ypos": 491,
+      "xpos": 650,
+      "height": 10,
+      "width": 59,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 415,
+      "width": 69,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 644,
+      "ypos": 446,
+      "width": 43,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 952,
+      "ypos": 733,
+      "width": 36,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
