@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "nis-server-master-server-setup"
+  ],
+  "area": [
+    {
+      "width": 196,
+      "xpos": 73,
+      "height": 35,
+      "ypos": 97,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 504,
+      "height": 64,
+      "width": 163,
+      "xpos": 109
+    }
+  ]
+}

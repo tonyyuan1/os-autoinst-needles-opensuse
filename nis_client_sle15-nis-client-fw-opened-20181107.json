@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 35,
+      "type": "match",
+      "ypos": 117,
+      "width": 253,
+      "xpos": 71
+    },
+    {
+      "height": 24,
+      "ypos": 616,
+      "type": "match",
+      "width": 141,
+      "xpos": 178
+    },
+    {
+      "height": 80,
+      "type": "match",
+      "ypos": 562,
+      "width": 24,
+      "xpos": 168
+    }
+  ],
+  "tags": [
+    "nis-client-fw-opened"
+  ],
+  "properties": []
+}

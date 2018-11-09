@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "ypos": 161,
+      "type": "match",
+      "width": 106,
+      "xpos": 592
+    },
+    {
+      "type": "match",
+      "ypos": 339,
+      "height": 23,
+      "width": 97,
+      "xpos": 68
+    },
+    {
+      "width": 148,
+      "xpos": 69,
+      "ypos": 368,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "xpos": 66,
+      "width": 253,
+      "type": "match",
+      "ypos": 116,
+      "height": 36
+    }
+  ],
+  "tags": [
+    "nis-client-nfs-settings-tab-opened-fw"
+  ],
+  "properties": []
+}

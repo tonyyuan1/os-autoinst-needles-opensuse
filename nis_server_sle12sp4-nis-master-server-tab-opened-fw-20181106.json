@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 78,
+      "ypos": 98,
+      "width": 201,
+      "height": 35,
+      "type": "match"
+    },
+    {
+      "xpos": 93,
+      "ypos": 482,
+      "width": 104,
+      "height": 55,
+      "type": "match"
+    },
+    {
+      "xpos": 109,
+      "ypos": 543,
+      "width": 136,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "nis-master-server-tab-opened-fw"
+  ]
+}
