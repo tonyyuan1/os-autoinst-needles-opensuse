@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "nfs-server-directory-check-opts"
+  ],
+  "area": [
+    {
+      "xpos": 332,
+      "ypos": 300,
+      "width": 104,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 328,
+      "ypos": 365,
+      "width": 54,
+      "height": 62,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 333,
+      "ypos": 326,
+      "width": 108,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 333,
+      "ypos": 391,
+      "width": 59,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 475,
+      "ypos": 450,
+      "width": 89,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "nfs-server-directory-mount-opts"
+  ]
+}
