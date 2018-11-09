@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 326,
+      "ypos": 448,
+      "height": 21,
+      "width": 65,
+      "type": "match"
+    },
+    {
+      "type": "exclude",
+      "width": 119,
+      "height": 19,
+      "ypos": 480,
+      "xpos": 340
+    },
+    {
+      "xpos": 329,
+      "ypos": 474,
+      "width": 160,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "partitioning_raid-file_system_id-selected"
+  ]
+}
