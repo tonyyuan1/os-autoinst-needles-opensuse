@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "width": 161,
+      "type": "match",
+      "ypos": 199,
+      "xpos": 152,
+      "height": 67
+    },
+    {
+      "height": 10,
+      "ypos": 460,
+      "xpos": 417,
+      "type": "match",
+      "width": 69
+    },
+    {
+      "width": 60,
+      "type": "match",
+      "xpos": 644,
+      "ypos": 489,
+      "height": 13
+    },
+    {
+      "xpos": 414,
+      "ypos": 416,
+      "width": 71,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 642,
+      "ypos": 446,
+      "width": 46,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioningraid1"
+  ],
+  "properties": []
+}
