@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "nfs-server-configuration-nfsv4-domain"
+  ],
+  "area": [
+    {
+      "xpos": 73,
+      "ypos": 97,
+      "width": 241,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 270,
+      "ypos": 187,
+      "width": 91,
+      "height": 41,
+      "type": "match"
+    },
+    {
+      "xpos": 292,
+      "ypos": 497,
+      "width": 125,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

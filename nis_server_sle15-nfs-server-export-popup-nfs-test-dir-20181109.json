@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 307,
+      "ypos": 360,
+      "width": 127,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 308,
+      "ypos": 387,
+      "width": 103,
+      "height": 18,
+      "type": "match",
+      "match": 92
+    }
+  ],
+  "tags": [
+    "nfs-server-export-popup-nfs-test-dir"
+  ]
+}
