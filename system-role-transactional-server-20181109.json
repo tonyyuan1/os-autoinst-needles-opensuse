@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 128,
+      "width": 191,
+      "height": 34,
+      "ypos": 194
+    },
+    {
+      "ypos": 177,
+      "height": 13,
+      "width": 126,
+      "xpos": 359,
+      "type": "match"
+    },
+    {
+      "width": 597,
+      "type": "match",
+      "xpos": 399,
+      "ypos": 206,
+      "height": 44
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-transactional-server"
+  ]
+}
