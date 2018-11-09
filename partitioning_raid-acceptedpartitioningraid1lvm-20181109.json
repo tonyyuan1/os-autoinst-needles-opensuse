@@ -1,0 +1,59 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "acceptedpartitioningraid1lvm"
+  ],
+  "area": [
+    {
+      "width": 163,
+      "type": "match",
+      "ypos": 198,
+      "xpos": 151,
+      "height": 70
+    },
+    {
+      "height": 10,
+      "ypos": 460,
+      "xpos": 413,
+      "type": "match",
+      "width": 71
+    },
+    {
+      "height": 10,
+      "xpos": 418,
+      "ypos": 522,
+      "type": "match",
+      "width": 141
+    },
+    {
+      "type": "match",
+      "width": 195,
+      "height": 11,
+      "xpos": 694,
+      "ypos": 521
+    },
+    {
+      "xpos": 415,
+      "ypos": 416,
+      "width": 69,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 640,
+      "ypos": 490,
+      "width": 116,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 418,
+      "ypos": 506,
+      "width": 132,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}
