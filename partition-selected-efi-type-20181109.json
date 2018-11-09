@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 330,
+      "ypos": 454,
+      "height": 56,
+      "width": 78,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-selected-efi-type",
+    "storage-ng"
+  ]
+}
