@@ -1,0 +1,60 @@
+{
+  "area": [
+    {
+      "xpos": 415,
+      "ypos": 460,
+      "width": 69,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "ypos": 415,
+      "width": 69,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 124,
+      "ypos": 179,
+      "width": 201,
+      "height": 109,
+      "type": "match"
+    },
+    {
+      "xpos": 626,
+      "ypos": 489,
+      "width": 78,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 643,
+      "ypos": 447,
+      "width": 46,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 950,
+      "ypos": 732,
+      "width": 45,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 631,
+      "ypos": 371,
+      "width": 117,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioningraid1efi"
+  ]
+}
