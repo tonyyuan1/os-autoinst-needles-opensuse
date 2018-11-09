@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 732,
+      "width": 490,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround",
+    "workaround"
+  ],
+  "tags": [
+    "ENV-VERSION-11-SP4",
+    "displaymanager"
+  ]
+}
