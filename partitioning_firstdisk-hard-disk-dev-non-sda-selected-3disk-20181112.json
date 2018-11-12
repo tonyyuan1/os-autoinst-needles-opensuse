@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "ypos": 350,
+      "xpos": 358,
+      "type": "match",
+      "width": 144
+    },
+    {
+      "xpos": 357,
+      "ypos": 385,
+      "height": 62,
+      "width": 90,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "hard-disk-dev-non-sda-selected",
+    "hotkey_e",
+    "hotkey_v",
+    "storage-ng"
+  ],
+  "properties": []
+}
