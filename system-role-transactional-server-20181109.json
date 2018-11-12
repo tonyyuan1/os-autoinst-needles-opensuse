@@ -24,7 +24,9 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
-    "system-role-transactional-server"
+    "ENV-15SP1ORLATER-1",
+    "system-role-default-system",
+    "system-role-serverro",
+    "system-role-serverro-selected"
   ]
 }
