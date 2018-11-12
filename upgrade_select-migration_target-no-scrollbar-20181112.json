@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "migration_target_sles4sap15-sp1"
+  ],
+  "area": [
+    {
+      "xpos": 355,
+      "ypos": 135,
+      "width": 304,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 71,
+      "ypos": 230,
+      "width": 252,
+      "height": 41,
+      "type": "match"
+    }
+  ]
+}
