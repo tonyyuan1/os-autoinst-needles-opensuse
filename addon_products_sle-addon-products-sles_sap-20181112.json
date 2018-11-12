@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 101,
+      "height": 14,
+      "xpos": 720,
+      "ypos": 185
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-sles_sap"
+  ]
+}
