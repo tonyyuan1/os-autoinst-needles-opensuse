@@ -1,0 +1,17 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 58,
+      "ypos": 235,
+      "width": 300,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "yast2_lan_device_bsc1111483"
+  ]
+}
