@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "pvm-bootmode-set-normal"
+  ],
+  "area": [
+    {
+      "height": 15,
+      "xpos": 0,
+      "width": 374,
+      "ypos": 321,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
