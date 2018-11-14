@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "go-pik-pik"
+  ],
+  "area": [
+    {
+      "xpos": 350,
+      "ypos": 26,
+      "width": 330,
+      "height": 101,
+      "type": "match"
+    }
+  ]
+}
