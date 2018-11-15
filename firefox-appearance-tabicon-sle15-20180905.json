@@ -1,16 +1,15 @@
 {
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-appearance-tabicon"
-  ],
-  "properties": [],
   "area": [
     {
-      "type": "match",
       "width": 33,
+      "xpos": 40,
       "ypos": 273,
-      "height": 31,
-      "xpos": 40
+      "type": "match",
+      "height": 31
     }
-  ]
+  ],
+  "tags": [
+    "firefox-appearance-tabicon"
+  ],
+  "properties": []
 }
