@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "width": 198,
+      "ypos": 30,
+      "height": 15,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "tags": [
+    "nfs-client-configuration"
+  ],
+  "properties": []
+}
