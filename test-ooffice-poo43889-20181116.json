@@ -1,0 +1,19 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "test-ooffice-2"
+  ],
+  "area": [
+    {
+      "ypos": 221,
+      "xpos": 81,
+      "width": 163,
+      "type": "match",
+      "height": 92
+    }
+  ]
+}
