@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 235,
+      "ypos": 86,
+      "width": 161,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 72,
+      "ypos": 221,
+      "width": 361,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefox-urls_protocols-ftp"
+  ]
+}
