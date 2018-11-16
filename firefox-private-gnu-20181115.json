@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 17,
+      "xpos": 242,
+      "width": 129,
+      "ypos": 83
+    },
+    {
+      "height": 28,
+      "type": "match",
+      "width": 30,
+      "xpos": 990,
+      "ypos": 40
+    }
+  ],
+  "tags": [
+    "firefox-private-gnu"
+  ],
+  "properties": []
+}
