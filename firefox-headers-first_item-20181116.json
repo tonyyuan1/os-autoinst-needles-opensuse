@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-headers-first_item"
+  ],
+  "area": [
+    {
+      "height": 61,
+      "type": "match",
+      "ypos": 551,
+      "width": 264,
+      "xpos": 475
+    },
+    {
+      "ypos": 740,
+      "width": 179,
+      "xpos": 480,
+      "type": "match",
+      "height": 21
+    }
+  ]
+}
