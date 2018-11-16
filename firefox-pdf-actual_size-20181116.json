@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "firefox-pdf-actual_size"
+  ],
+  "area": [
+    {
+      "xpos": 283,
+      "ypos": 300,
+      "width": 444,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}
