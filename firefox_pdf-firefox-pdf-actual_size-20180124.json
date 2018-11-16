@@ -1,16 +1,15 @@
 {
+  "tags": [
+    "firefox-pdf-actual_size"
+  ],
   "area": [
     {
-      "type": "match",
-      "width": 443,
       "xpos": 284,
+      "width": 443,
+      "ypos": 326,
       "height": 35,
-      "ypos": 323
+      "type": "match"
     }
   ],
-  "properties": [],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "firefox-pdf-actual_size"
-  ]
+  "properties": []
 }
