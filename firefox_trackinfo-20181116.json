@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 55,
+      "width": 258,
+      "xpos": 231,
+      "ypos": 115
+    },
+    {
+      "height": 18,
+      "type": "match",
+      "xpos": 509,
+      "width": 19,
+      "ypos": 122
+    },
+    {
+      "width": 550,
+      "xpos": 4,
+      "ypos": 4,
+      "type": "exclude",
+      "height": 69
+    },
+    {
+      "ypos": 4,
+      "width": 137,
+      "xpos": 881,
+      "height": 25,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "firefox_trackinfo"
+  ]
+}
