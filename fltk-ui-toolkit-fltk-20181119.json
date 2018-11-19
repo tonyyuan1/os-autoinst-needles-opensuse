@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ui-toolkit-fltk"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 22,
+      "ypos": 446,
+      "width": 319,
+      "height": 135,
+      "type": "match"
+    }
+  ]
+}
