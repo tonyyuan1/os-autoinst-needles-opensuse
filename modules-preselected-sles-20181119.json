@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "modules-preselected-sles"
+  ],
+  "area": [
+    {
+      "xpos": 36,
+      "ypos": 112,
+      "width": 188,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 35,
+      "ypos": 208,
+      "width": 260,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
