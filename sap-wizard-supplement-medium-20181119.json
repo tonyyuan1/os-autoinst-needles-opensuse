@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-wizard-supplement-medium"
+  ],
+  "area": [
+    {
+      "xpos": 311,
+      "ypos": 361,
+      "width": 401,
+      "height": 29,
+      "type": "match"
+    }
+  ]
+}

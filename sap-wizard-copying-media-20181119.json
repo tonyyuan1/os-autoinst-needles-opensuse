@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-wizard-copying-media"
+  ],
+  "area": [
+    {
+      "xpos": 130,
+      "ypos": 109,
+      "width": 153,
+      "height": 34,
+      "type": "match"
+    },
+    {
+      "xpos": 124,
+      "ypos": 368,
+      "width": 103,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}

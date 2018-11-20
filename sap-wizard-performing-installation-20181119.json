@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-wizard-performing-installation"
+  ],
+  "area": [
+    {
+      "xpos": 130,
+      "ypos": 107,
+      "width": 221,
+      "height": 33,
+      "type": "match"
+    }
+  ]
+}

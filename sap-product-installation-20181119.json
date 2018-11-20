@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "sap-product-installation"
+  ],
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 106,
+      "width": 234,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}
