@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 96,
+      "width": 170,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 113,
+      "width": 200,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "ypos": 129,
+      "width": 238,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "modules-preselected-rt"
+  ],
+  "properties": []
+}

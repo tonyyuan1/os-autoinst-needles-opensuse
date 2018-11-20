@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "before-select-product-rt"
+  ],
+  "area": [
+    {
+      "xpos": 368,
+      "ypos": 465,
+      "width": 193,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
