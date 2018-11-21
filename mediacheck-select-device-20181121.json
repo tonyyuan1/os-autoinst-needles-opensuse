@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 373,
+      "ypos": 316,
+      "width": 280,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "mediacheck-select-device"
+  ],
+  "properties": []
+}
