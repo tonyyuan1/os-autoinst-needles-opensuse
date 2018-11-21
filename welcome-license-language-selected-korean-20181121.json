@@ -1,15 +1,15 @@
 {
-  "area": [
-    {
-      "xpos": 354,
-      "ypos": 108,
-      "width": 88,
-      "height": 55,
-      "type": "match"
-    }
-  ],
+  "properties": [],
   "tags": [
     "license-language-selected-korean"
   ],
-  "properties": []
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 144,
+      "width": 79,
+      "height": 17,
+      "type": "match"
+    }
+  ]
 }
