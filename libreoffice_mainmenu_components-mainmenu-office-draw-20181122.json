@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "mainmenu-office-draw"
+  ],
+  "area": [
+    {
+      "width": 163,
+      "xpos": 219,
+      "ypos": 509,
+      "type": "match",
+      "height": 46
+    }
+  ]
+}
