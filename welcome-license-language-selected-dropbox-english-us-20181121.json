@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "license-language-selected-dropbox-english-us"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 40,
+      "width": 75,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 407,
+      "ypos": 41,
+      "width": 20,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
