@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "mainmenu-office-base"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 45,
+      "width": 159,
+      "xpos": 216,
+      "ypos": 420
+    }
+  ]
+}
