@@ -1,5 +1,4 @@
 {
-  "properties": [],
   "tags": [
     "ooimpress-select-a-template"
   ],
@@ -7,9 +6,10 @@
     {
       "type": "match",
       "height": 26,
-      "ypos": 51,
+      "width": 137,
       "xpos": 441,
-      "width": 137
+      "ypos": 51
     }
-  ]
+  ],
+  "properties": []
 }
