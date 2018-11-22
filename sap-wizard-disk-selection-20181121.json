@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-wizard-disk-selection"
+  ],
+  "area": [
+    {
+      "xpos": 445,
+      "ypos": 260,
+      "width": 129,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 316,
+      "ypos": 453,
+      "width": 26,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
