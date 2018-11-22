@@ -1,0 +1,18 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-OFW-0",
+    "bootloader",
+    "inst-bootmenu"
+  ],
+  "area": [
+    {
+      "ypos": 36,
+      "width": 474,
+      "xpos": 1,
+      "type": "match",
+      "height": 290
+    }
+  ],
+  "properties": []
+}
