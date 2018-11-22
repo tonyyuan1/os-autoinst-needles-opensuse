@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "mainmenu-office-lo"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 48,
+      "ypos": 374,
+      "width": 126,
+      "xpos": 217
+    }
+  ],
+  "properties": []
+}
