@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "volume_label"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 365,
+      "ypos": 308,
+      "width": 118,
+      "height": 10,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 271,
+      "ypos": 262,
+      "width": 178,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "expert-partitioner-sda-edit"
+  ]
+}

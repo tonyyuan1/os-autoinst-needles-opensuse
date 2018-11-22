@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 325,
+      "ypos": 320,
+      "width": 227,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "license-agreement-accepted"
+  ]
+}

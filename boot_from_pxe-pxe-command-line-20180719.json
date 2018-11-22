@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 126,
+      "width": 75,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "pxe-command-line"
+  ],
+  "properties": []
+}

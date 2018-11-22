@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 300,
+      "ypos": 397,
+      "width": 58,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "expert-partitioner-brtfs"
+  ]
+}

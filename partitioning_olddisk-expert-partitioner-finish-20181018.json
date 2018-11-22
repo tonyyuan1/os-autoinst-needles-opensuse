@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "expert-partitioner-finish"
+  ],
+  "area": [
+    {
+      "xpos": 323,
+      "ypos": 256,
+      "width": 205,
+      "height": 65,
+      "type": "match"
+    }
+  ]
+}
