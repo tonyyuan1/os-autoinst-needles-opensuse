@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2_lan_restart_dhcp_set"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 53,
+      "ypos": 248,
+      "width": 310,
+      "height": 36,
+      "type": "match"
+    }
+  ]
+}

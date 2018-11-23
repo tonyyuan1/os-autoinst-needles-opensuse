@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "gnome_static_IP_set"
+  ],
+  "area": [
+    {
+      "ypos": 311,
+      "width": 142,
+      "type": "match",
+      "height": 66,
+      "xpos": 539
+    },
+    {
+      "height": 26,
+      "xpos": 580,
+      "ypos": 343,
+      "width": 16,
+      "type": "exclude"
+    }
+  ]
+}
