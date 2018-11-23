@@ -25,6 +25,7 @@
   "tags": [
     "ENV-15ORLATER-1",
     "import-trusted-gpg-key-nvidia-F5113243C66B6EAE",
+    "import-known-untrusted-gpg-key",
     "import-untrusted-gpg-key"
   ],
   "properties": []

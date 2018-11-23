@@ -1,6 +1,7 @@
 {
   "tags": [
     "import-untrusted-gpg-key",
+    "import-known-untrusted-gpg-key",
     "import-trusted-gpg-key-nvidia-F5113243C66B6EAE"
   ],
   "area": [
