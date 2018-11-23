@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "screenlock-password"
+  ],
+  "area": [
+    {
+      "height": 263,
+      "type": "match",
+      "ypos": 241,
+      "width": 158,
+      "xpos": 326
+    }
+  ]
+}
