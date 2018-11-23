@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 101,
+      "xpos": 460,
+      "ypos": 6,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "width": 244,
+      "xpos": 515,
+      "ypos": 255,
+      "height": 279,
+      "type": "match"
+    },
+    {
+      "height": 326,
+      "type": "match",
+      "ypos": 306,
+      "width": 239,
+      "xpos": 5
+    }
+  ],
+  "tags": [
+    "welcome-to-libreoffice"
+  ]
+}
