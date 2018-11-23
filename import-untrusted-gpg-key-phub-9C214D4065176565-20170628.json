@@ -1,6 +1,7 @@
 {
   "tags": [
     "import-trusted-gpg-key-phub-9C214D4065176565",
+    "import-known-untrusted-gpg-key",
     "import-untrusted-gpg-key"
   ],
   "properties": [],
