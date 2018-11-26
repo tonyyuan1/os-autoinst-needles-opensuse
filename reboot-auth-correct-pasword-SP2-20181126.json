@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "width": 183,
+      "xpos": 366,
+      "ypos": 377
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "reboot-auth-correct-password"
+  ]
+}
