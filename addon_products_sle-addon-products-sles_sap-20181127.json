@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-sles_sap"
+  ],
+  "area": [
+    {
+      "xpos": 137,
+      "ypos": 258,
+      "width": 31,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
