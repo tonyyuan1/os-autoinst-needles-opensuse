@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 115,
+      "ypos": 232,
+      "width": 204,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 234,
+      "ypos": 196,
+      "width": 85,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "caasp-role-config"
+  ],
+  "properties": []
+}

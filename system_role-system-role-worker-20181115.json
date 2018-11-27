@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "system-role-worker"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 258,
+      "width": 89,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

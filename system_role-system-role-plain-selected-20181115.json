@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 358,
+      "ypos": 344,
+      "width": 87,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "system-role-plain-selected"
+  ],
+  "properties": []
+}
