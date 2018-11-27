@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 265,
+      "width": 325,
+      "ypos": 246,
+      "height": 81,
+      "type": "match"
+    },
+    {
+      "height": 61,
+      "type": "match",
+      "width": 133,
+      "xpos": 442,
+      "ypos": 465
+    },
+    {
+      "height": 41,
+      "type": "match",
+      "xpos": 364,
+      "width": 183,
+      "ypos": 646
+    }
+  ],
+  "tags": [
+    "DIALOG-packages-notifications",
+    "ENV-15ORLATER-1"
+  ],
+  "properties": []
+}
