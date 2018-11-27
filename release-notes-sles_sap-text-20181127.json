@@ -1,0 +1,26 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLES4SAP-1",
+    "ENV-SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "release-notes-sles_sap"
+  ],
+  "area": [
+    {
+      "xpos": 208,
+      "ypos": 239,
+      "width": 104,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 207,
+      "ypos": 209,
+      "width": 393,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
