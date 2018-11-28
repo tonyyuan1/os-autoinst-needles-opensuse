@@ -1,0 +1,25 @@
+{
+  "properties": [
+  	"workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "master-api-setrole-xy"
+  ],
+  "area": [
+    {
+      "ypos": 297,
+      "xpos": 649,
+      "height": 34,
+      "width": 70,
+      "type": "match"
+    },
+    {
+      "ypos": 358,
+      "xpos": 427,
+      "height": 17,
+      "width": 150,
+      "type": "match"
+    }
+  ]
+}
