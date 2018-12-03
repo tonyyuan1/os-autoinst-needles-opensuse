@@ -1,7 +1,8 @@
 {
   "tags": [
     "ENV-SP2ORLATER-1",
-    "detected-multipath"
+    "detected-multipath",
+    "enable-multipath"
   ],
   "area": [
     {
