@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "windows-run"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 19,
+      "ypos": 514,
+      "width": 391,
+      "height": 199,
+      "type": "match"
+    }
+  ]
+}
