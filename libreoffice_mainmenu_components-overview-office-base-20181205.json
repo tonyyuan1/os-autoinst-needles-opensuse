@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 37,
+      "width": 388,
+      "type": "match",
+      "height": 219,
+      "xpos": 317
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "overview-office-base"
+  ]
+}
