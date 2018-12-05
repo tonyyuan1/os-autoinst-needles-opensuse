@@ -1,15 +1,18 @@
 {
   "area": [
     {
-      "xpos": 443,
       "ypos": 53,
       "width": 135,
+      "type": "match",
       "height": 25,
-      "type": "match"
+      "xpos": 443
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
+    "bsc#1117194",
     "ooimpress-select-template-nofocus"
   ]
 }
