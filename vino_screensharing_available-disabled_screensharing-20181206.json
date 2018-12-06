@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 476,
+      "ypos": 40,
+      "width": 67,
+      "height": 32,
+      "type": "match"
+    },
+    {
+      "xpos": 692,
+      "ypos": 39,
+      "width": 96,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disabled_screensharing"
+  ]
+}
