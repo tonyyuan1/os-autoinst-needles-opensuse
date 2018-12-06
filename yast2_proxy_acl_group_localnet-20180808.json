@@ -1,6 +1,7 @@
 {
   "tags": [
-    "yast2_proxy_acl_group_localnet"
+    "yast2_proxy_acl_group_localnet",
+    "yast2_proxy_acl_group_localnet_selected"
   ],
   "properties": [],
   "area": [
