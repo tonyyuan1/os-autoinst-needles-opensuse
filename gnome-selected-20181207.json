@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 208,
+      "type": "match",
+      "height": 28,
+      "xpos": 92,
+      "ypos": 480
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-selected"
+  ]
+}
