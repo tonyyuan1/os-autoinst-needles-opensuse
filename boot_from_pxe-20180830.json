@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "prague-icecream-pxe-menu"
+  ],
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 16,
+      "width": 386,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
