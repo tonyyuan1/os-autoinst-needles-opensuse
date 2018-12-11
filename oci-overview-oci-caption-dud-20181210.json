@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "oci-caption-dud"
+  ],
+  "area": [
+    {
+      "xpos": 258,
+      "ypos": 297,
+      "width": 210,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 713,
+      "ypos": 587,
+      "width": 71,
+      "height": 26,
+      "type": "match"
+    }
+  ]
+}
