@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "type": "match",
+      "width": 290,
+      "ypos": 30,
+      "height": 18
+    },
+    {
+      "type": "match",
+      "xpos": 38,
+      "ypos": 111,
+      "width": 359,
+      "height": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "addon-license-ha"
+  ]
+}
