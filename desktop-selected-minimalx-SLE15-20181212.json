@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 32,
+      "type": "match",
+      "width": 257,
+      "ypos": 526,
+      "height": 79
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-minimalx",
+    "desktop-selected"
+  ]
+}
