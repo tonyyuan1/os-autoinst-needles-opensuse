@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "xpos": 359,
+      "ypos": 325,
+      "width": 129
+    },
+    {
+      "height": 22,
+      "ypos": 148,
+      "width": 281,
+      "type": "match",
+      "xpos": 359
+    },
+    {
+      "width": 156,
+      "ypos": 465,
+      "xpos": 360,
+      "type": "match",
+      "height": 23
+    },
+    {
+      "height": 13,
+      "width": 164,
+      "ypos": 525,
+      "xpos": 361,
+      "type": "match"
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "xpos": 361,
+      "ypos": 267,
+      "width": 127
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLES4SAP-1",
+    "modules-preselected-sles4sap"
+  ]
+}
