@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 322,
+      "ypos": 259,
+      "width": 66,
+      "height": 17,
+      "match": 80
+    },
+    {
+      "height": 13,
+      "width": 69,
+      "ypos": 450,
+      "xpos": 64,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "height": 11,
+      "type": "match",
+      "xpos": 623,
+      "ypos": 264,
+      "width": 38,
+      "match": 80
+    },
+    {
+      "ypos": 263,
+      "width": 30,
+      "type": "match",
+      "xpos": 735,
+      "height": 13,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-raid_swap_added",
+    "storage-ng"
+  ]
+}
