@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 18,
+      "ypos": 190,
+      "xpos": 86,
+      "type": "match",
+      "height": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "partitioning_raid-disk_vda-selected",
+    "storage-ng"
+  ]
+}
