@@ -1,11 +1,11 @@
 {
   "area": [
     {
-      "width": 144,
-      "ypos": 32,
+      "height": 20,
       "xpos": 347,
       "type": "match",
-      "height": 20,
+      "width": 144,
+      "ypos": 32,
       "match": 80
     },
     {
@@ -17,18 +17,18 @@
       "match": 80
     },
     {
-      "height": 12,
+      "xpos": 88,
+      "type": "match",
       "width": 213,
       "ypos": 116,
-      "xpos": 89,
-      "type": "match",
+      "height": 12,
       "match": 80
     },
     {
-      "type": "match",
       "xpos": 950,
-      "ypos": 721,
+      "type": "match",
       "width": 54,
+      "ypos": 721,
       "height": 17,
       "match": 80
     }
@@ -36,7 +36,6 @@
   "properties": [],
   "tags": [
     "ENV-15SP1ORLATER-1",
-    "ENV-TEXTMODE-1",
     "ENV-VIDEOMODE-text",
     "license-agreement"
   ]
