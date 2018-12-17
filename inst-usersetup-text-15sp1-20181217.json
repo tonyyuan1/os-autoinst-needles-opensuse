@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 67,
+      "xpos": 8,
+      "type": "match",
+      "width": 302,
+      "ypos": 24,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "before-package-selection",
+    "inst-returned-to-yast",
+    "inst-usersetup",
+    "installation"
+  ]
+}
