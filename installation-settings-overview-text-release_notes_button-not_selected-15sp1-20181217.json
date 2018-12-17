@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "height": 44,
+      "xpos": 0,
+      "type": "match",
+      "width": 581,
+      "ypos": 23,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "xpos": 920,
+      "ypos": 711,
+      "width": 94,
+      "height": 34,
+      "match": 80
+    },
+    {
+      "height": 24,
+      "type": "match",
+      "xpos": 854,
+      "ypos": 31,
+      "width": 151,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "before-package-selection",
+    "inst-overview",
+    "inst-returned-to-yast",
+    "installation",
+    "installation-settings-overview-loaded"
+  ]
+}
