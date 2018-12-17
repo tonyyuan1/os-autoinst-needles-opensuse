@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "width": 144,
+      "ypos": 32,
+      "xpos": 347,
+      "type": "match",
+      "height": 20,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "xpos": 16,
+      "ypos": 704,
+      "width": 263,
+      "height": 16,
+      "match": 80
+    },
+    {
+      "height": 12,
+      "width": 213,
+      "ypos": 116,
+      "xpos": 89,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "type": "match",
+      "xpos": 950,
+      "ypos": 721,
+      "width": 54,
+      "height": 17,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "ENV-VIDEOMODE-text",
+    "license-agreement"
+  ]
+}
