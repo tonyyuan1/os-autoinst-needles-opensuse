@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 365,
+      "width": 72,
+      "type": "match",
+      "xpos": 800,
+      "height": 20
+    },
+    {
+      "height": 13,
+      "type": "match",
+      "xpos": 518,
+      "ypos": 195,
+      "width": 99,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "keyboard-layout"
+  ]
+}
