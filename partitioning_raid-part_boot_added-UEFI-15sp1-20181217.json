@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "xpos": 322,
+      "type": "match",
+      "width": 28,
+      "ypos": 285,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "xpos": 522,
+      "ypos": 289,
+      "width": 78,
+      "height": 10,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "partitioning_raid-part_boot_added"
+  ]
+}
