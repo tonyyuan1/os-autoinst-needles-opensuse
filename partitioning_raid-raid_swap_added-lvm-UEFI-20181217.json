@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "width": 68,
+      "ypos": 261,
+      "xpos": 321,
+      "type": "match",
+      "height": 13
+    },
+    {
+      "height": 17,
+      "type": "match",
+      "xpos": 58,
+      "ypos": 446,
+      "width": 75
+    },
+    {
+      "xpos": 526,
+      "type": "match",
+      "width": 127,
+      "ypos": 261,
+      "height": 14
+    },
+    {
+      "type": "match",
+      "xpos": 734,
+      "ypos": 262,
+      "width": 29,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-raid_swap_added-lvm-UEFI",
+    "storage-ng"
+  ]
+}
