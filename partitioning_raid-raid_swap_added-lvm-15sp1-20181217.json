@@ -1,0 +1,55 @@
+{
+  "area": [
+    {
+      "ypos": 244,
+      "width": 48,
+      "type": "match",
+      "xpos": 325,
+      "height": 15
+    },
+    {
+      "height": 15,
+      "xpos": 530,
+      "type": "match",
+      "width": 83,
+      "ypos": 262,
+      "match": 80
+    },
+    {
+      "height": 16,
+      "ypos": 241,
+      "width": 89,
+      "type": "match",
+      "xpos": 526,
+      "match": 80
+    },
+    {
+      "height": 17,
+      "xpos": 616,
+      "type": "match",
+      "width": 45,
+      "ypos": 260,
+      "match": 80
+    },
+    {
+      "height": 10,
+      "width": 60,
+      "ypos": 266,
+      "xpos": 327,
+      "type": "match"
+    },
+    {
+      "ypos": 261,
+      "width": 32,
+      "type": "match",
+      "xpos": 731,
+      "height": 14,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "partitioning_raid-raid_swap_added-lvm"
+  ]
+}
