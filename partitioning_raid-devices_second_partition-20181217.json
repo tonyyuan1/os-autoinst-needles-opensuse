@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 313,
+      "width": 83,
+      "type": "match",
+      "xpos": 187,
+      "height": 59
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-devices_second_partition"
+  ]
+}
