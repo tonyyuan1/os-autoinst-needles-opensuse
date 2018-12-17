@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "xpos": 291,
+      "type": "match",
+      "width": 151,
+      "ypos": 147,
+      "match": 80
+    },
+    {
+      "height": 10,
+      "width": 20,
+      "ypos": 209,
+      "xpos": 87,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "expert-partitioner-vda",
+    "storage-ng"
+  ]
+}
