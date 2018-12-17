@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "multiple-logins-notsupport"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 298,
+      "ypos": 246,
+      "width": 406,
+      "height": 234,
+      "type": "match"
+    }
+  ]
+}

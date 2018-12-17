@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 803,
+      "ypos": 111,
+      "width": 114,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "power-button"
+  ]
+}
