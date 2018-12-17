@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 47,
+      "ypos": 189,
+      "width": 104,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 320,
+      "ypos": 149,
+      "width": 69,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 504,
+      "ypos": 204,
+      "width": 18,
+      "height": 75,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "partitioning_raid-hard_disks-unfolded"
+  ]
+}
