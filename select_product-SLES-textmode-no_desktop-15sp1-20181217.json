@@ -1,0 +1,41 @@
+{
+  "area": [
+    {
+      "xpos": 195,
+      "type": "match",
+      "width": 150,
+      "ypos": 29,
+      "height": 27,
+      "match": 80
+    },
+    {
+      "height": 14,
+      "type": "match",
+      "xpos": 21,
+      "ypos": 351,
+      "width": 147,
+      "match": 80
+    },
+    {
+      "height": 13,
+      "width": 253,
+      "ypos": 372,
+      "xpos": 61,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "ypos": 722,
+      "width": 55,
+      "type": "match",
+      "xpos": 949,
+      "height": 17,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "select-product"
+  ]
+}
