@@ -1,0 +1,35 @@
+{
+  "area": [
+    {
+      "width": 267,
+      "ypos": 705,
+      "xpos": 19,
+      "type": "match",
+      "height": 11,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "xpos": 351,
+      "ypos": 32,
+      "width": 134,
+      "height": 16,
+      "match": 80
+    },
+    {
+      "width": 180,
+      "ypos": 36,
+      "xpos": 12,
+      "type": "match",
+      "height": 11,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "ENV-VIDEOMODE-text",
+    "license-agreement-accepted"
+  ]
+}
