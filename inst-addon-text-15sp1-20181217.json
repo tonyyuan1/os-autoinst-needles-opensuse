@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 474,
+      "ypos": 229,
+      "xpos": 180,
+      "type": "match",
+      "height": 37,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "inst-addon"
+  ]
+}
