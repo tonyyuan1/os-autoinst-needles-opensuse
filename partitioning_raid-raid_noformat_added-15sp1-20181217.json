@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 82,
+      "ypos": 183,
+      "xpos": 515,
+      "type": "match",
+      "height": 55,
+      "match": 80
+    },
+    {
+      "height": 59,
+      "xpos": 321,
+      "type": "match",
+      "width": 63,
+      "ypos": 179,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "partitioning_raid-raid_noformat_added"
+  ]
+}
