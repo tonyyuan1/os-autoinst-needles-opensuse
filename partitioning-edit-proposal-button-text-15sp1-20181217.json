@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 458,
+      "ypos": 676,
+      "width": 109,
+      "height": 11,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "partitioning-edit-proposal-button",
+    "storage-ng"
+  ]
+}
