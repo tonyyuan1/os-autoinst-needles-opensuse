@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 79,
+      "type": "match",
+      "width": 35,
+      "ypos": 208,
+      "height": 12
+    },
+    {
+      "ypos": 146,
+      "width": 134,
+      "type": "match",
+      "xpos": 318,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_xvdb-selected"
+  ]
+}
