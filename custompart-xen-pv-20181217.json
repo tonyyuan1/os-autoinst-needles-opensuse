@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "height": 243,
+      "ypos": 139,
+      "width": 401,
+      "type": "match",
+      "xpos": 316
+    },
+    {
+      "xpos": 492,
+      "type": "match",
+      "width": 93,
+      "ypos": 206,
+      "height": 16
+    },
+    {
+      "height": 19,
+      "width": 64,
+      "ypos": 148,
+      "xpos": 448,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-linux",
+    "custompart",
+    "storage-ng"
+  ]
+}
