@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "height": 374,
+      "xpos": 127,
+      "type": "match",
+      "width": 761,
+      "ypos": 165
+    },
+    {
+      "ypos": 577,
+      "width": 246,
+      "type": "exclude",
+      "xpos": 468,
+      "height": 37
+    },
+    {
+      "height": 46,
+      "xpos": 337,
+      "type": "exclude",
+      "width": 182,
+      "ypos": 236
+    },
+    {
+      "xpos": 212,
+      "ypos": 553,
+      "width": 510,
+      "height": 67,
+      "type": "match"
+    },
+    {
+      "xpos": 124,
+      "ypos": 111,
+      "width": 199,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-datetime-ui"
+  ]
+}
