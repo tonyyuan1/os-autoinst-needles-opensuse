@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 288,
+      "width": 100,
+      "type": "match",
+      "xpos": 16,
+      "height": 38
+    },
+    {
+      "type": "match",
+      "xpos": 958,
+      "ypos": 727,
+      "width": 38,
+      "height": 11
+    },
+    {
+      "height": 20,
+      "type": "match",
+      "xpos": 10,
+      "ypos": 32,
+      "width": 330
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-VIDEOMODE-text",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}
