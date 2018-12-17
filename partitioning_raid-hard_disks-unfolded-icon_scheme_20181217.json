@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 190,
+      "width": 68,
+      "type": "match",
+      "xpos": 44,
+      "height": 33
+    },
+    {
+      "ypos": 218,
+      "width": 20,
+      "type": "match",
+      "xpos": 84,
+      "height": 45
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIRSH_VMM_FAMILY-hyperv",
+    "partitioning_raid-hard_disks-unfolded",
+    "storage-ng"
+  ]
+}
