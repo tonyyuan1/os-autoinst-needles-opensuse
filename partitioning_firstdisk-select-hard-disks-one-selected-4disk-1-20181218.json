@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 284,
+      "ypos": 321,
+      "width": 35,
+      "height": 128,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "select-hard-disks-one-selected"
+  ]
+}
