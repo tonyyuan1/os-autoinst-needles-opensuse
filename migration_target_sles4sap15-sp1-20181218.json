@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "type": "match",
+      "xpos": 357,
+      "ypos": 136,
+      "width": 309
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "migration_target_sles4sap15-sp1"
+  ]
+}
