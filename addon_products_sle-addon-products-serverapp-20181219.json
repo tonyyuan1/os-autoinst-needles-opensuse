@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 385,
+      "width": 150,
+      "type": "match",
+      "xpos": 57,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-products-serverapp"
+  ]
+}
