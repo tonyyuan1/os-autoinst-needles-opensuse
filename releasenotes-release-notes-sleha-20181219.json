@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "width": 103,
+      "ypos": 241,
+      "xpos": 209,
+      "type": "match"
+    },
+    {
+      "height": 14,
+      "width": 391,
+      "ypos": 209,
+      "xpos": 209,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "release-notes-sleha"
+  ]
+}
