@@ -9,10 +9,10 @@
     },
     {
       "height": 12,
-      "ypos": 723,
-      "width": 28,
       "type": "match",
-      "xpos": 961
+      "xpos": 961,
+      "ypos": 723,
+      "width": 28
     }
   ],
   "properties": [],
