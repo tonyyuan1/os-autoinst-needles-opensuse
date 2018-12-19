@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 304,
+      "width": 240,
+      "type": "match",
+      "xpos": 392,
+      "height": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-dvd-sdk",
+    "addon-dvd-sr1"
+  ]
+}
