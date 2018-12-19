@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "type": "match",
+      "width": 316,
+      "ypos": 30,
+      "height": 22
+    },
+    {
+      "height": 12,
+      "ypos": 723,
+      "width": 28,
+      "type": "match",
+      "xpos": 961
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ext-modules-reg-codes"
+  ]
+}
