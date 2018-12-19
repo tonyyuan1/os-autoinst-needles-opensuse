@@ -19,7 +19,8 @@
       "ypos": 157,
       "width": 142,
       "height": 501,
-      "type": "exclude"
+      "type": "exclude",
+      "match": 100
     }
   ],
   "properties": [
