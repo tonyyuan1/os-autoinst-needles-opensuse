@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 104,
+      "ypos": 243,
+      "xpos": 208,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "height": 15,
+      "ypos": 210,
+      "width": 226,
+      "type": "match",
+      "xpos": 207
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "ENV-15ORLATER-1",
+    "release-notes-sles"
+  ]
+}
