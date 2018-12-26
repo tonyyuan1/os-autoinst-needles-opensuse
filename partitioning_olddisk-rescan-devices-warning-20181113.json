@@ -17,6 +17,7 @@
     }
   ],
   "tags": [
+    "ENV-VIDEOMODE-text",
     "rescan-devices-warning"
   ]
 }

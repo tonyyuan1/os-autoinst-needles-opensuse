@@ -10,6 +10,7 @@
     }
   ],
   "tags": [
+    "ENV-VIDEOMODE-text",
     "partition-role"
   ]
 }

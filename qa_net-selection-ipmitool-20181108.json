@@ -10,6 +10,7 @@
   ],
   "properties": [],
   "tags": [
+    "ENV-VIDEOMODE-text",
     "qa-net-selection",
     "qa-net-selection-ipmitool"
   ]

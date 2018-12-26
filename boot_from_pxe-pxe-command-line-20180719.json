@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
+    "ENV-VIDEOMODE-text",
     "pxe-command-line"
   ],
   "properties": []

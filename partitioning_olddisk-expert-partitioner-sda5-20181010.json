@@ -9,6 +9,7 @@
     }
   ],
   "tags": [
+    "ENV-VIDEOMODE-text",
     "expert-partitioner-sda5"
   ],
   "properties": []

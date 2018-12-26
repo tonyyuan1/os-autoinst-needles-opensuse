@@ -1,5 +1,6 @@
 {
   "tags": [
+    "ENV-VIDEOMODE-text",
     "sshd-server-started"
   ],
   "properties": [],
