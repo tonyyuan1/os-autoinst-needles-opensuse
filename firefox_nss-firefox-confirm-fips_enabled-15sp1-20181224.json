@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "firefox-confirm-fips_enabled",
+    "firefox-confirm-fips_enabled-15sp1"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 244,
+      "ypos": 353,
+      "width": 47,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}
