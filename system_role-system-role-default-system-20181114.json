@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "system-role-default-system"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 30,
+      "width": 91,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 50,
+      "ypos": 139,
+      "width": 40,
+      "height": 27,
+      "type": "match"
+    }
+  ]
+}

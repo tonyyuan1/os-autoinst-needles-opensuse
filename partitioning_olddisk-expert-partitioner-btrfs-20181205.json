@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 305,
+      "ypos": 370,
+      "width": 38,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "expert-partitioner-btrfs"
+  ]
+}

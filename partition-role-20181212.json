@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 384,
+      "ypos": 314,
+      "width": 253,
+      "height": 121,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "partition-role"
+  ]
+}

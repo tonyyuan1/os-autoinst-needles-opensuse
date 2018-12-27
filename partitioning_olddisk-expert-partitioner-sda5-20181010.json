@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 179,
+      "type": "match",
+      "xpos": 323,
+      "width": 66,
+      "height": 10
+    }
+  ],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "expert-partitioner-sda5"
+  ],
+  "properties": []
+}
