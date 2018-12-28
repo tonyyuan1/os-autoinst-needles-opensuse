@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 311,
+      "ypos": 0,
+      "width": 209,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 38,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mutt-message-list"
+  ]
+}
