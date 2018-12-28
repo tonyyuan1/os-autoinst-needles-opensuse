@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 105,
+      "xpos": 301,
+      "type": "match",
+      "ypos": 71,
+      "width": 194
+    },
+    {
+      "type": "match",
+      "ypos": 208,
+      "width": 165,
+      "xpos": 157,
+      "height": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "ENV-OFW-0",
+    "bootloader-grub2"
+  ]
+}
