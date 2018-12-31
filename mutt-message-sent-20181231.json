@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "width": 80,
+      "ypos": 753,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mutt-message-sent"
+  ]
+}
