@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "ypos": 0,
+      "width": 639,
+      "type": "match",
+      "xpos": 0
+    },
+    {
+      "type": "match",
+      "xpos": 0,
+      "ypos": 33,
+      "width": 233,
+      "height": 45
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mutt-show-mail"
+  ]
+}
