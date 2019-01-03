@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "default-root-filesystem"
+  ],
+  "area": [
+    {
+      "height": 48,
+      "type": "match",
+      "ypos": 303,
+      "width": 174,
+      "xpos": 368
+    }
+  ],
+  "properties": []
+}
