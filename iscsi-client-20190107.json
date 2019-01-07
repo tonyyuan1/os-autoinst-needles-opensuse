@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 45,
+      "height": 65,
+      "type": "match",
+      "width": 515,
+      "ypos": 113
+    }
+  ],
+  "tags": [
+    "iscsi-client"
+  ]
+}
