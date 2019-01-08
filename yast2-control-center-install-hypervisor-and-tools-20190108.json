@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 73,
+      "ypos": 275,
+      "width": 252,
+      "type": "match",
+      "xpos": 400
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_control-center_install-hypervisor-and-tools"
+  ]
+}
