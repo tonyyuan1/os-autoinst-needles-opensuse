@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 28,
+      "xpos": 230,
+      "height": 36,
+      "type": "match",
+      "width": 269
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "nginx-alpine"
+  ]
+}
