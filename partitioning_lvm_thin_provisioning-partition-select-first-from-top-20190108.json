@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 19,
+      "type": "match",
+      "width": 248,
+      "ypos": 287,
+      "height": 42
+    },
+    {
+      "height": 20,
+      "xpos": 62,
+      "type": "exclude",
+      "width": 79,
+      "ypos": 309
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-select-first-from-top"
+  ]
+}
