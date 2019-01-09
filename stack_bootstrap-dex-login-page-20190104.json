@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 331,
+      "xpos": 345,
+      "height": 35,
+      "ypos": 114,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "dex-login-page"
+  ]
+}
