@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 119,
+      "height": 112,
+      "type": "match",
+      "width": 44,
+      "ypos": 469
+    },
+    {
+      "type": "match",
+      "ypos": 250,
+      "width": 159,
+      "height": 17,
+      "xpos": 607
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-3-nodes-outdated"
+  ]
+}
