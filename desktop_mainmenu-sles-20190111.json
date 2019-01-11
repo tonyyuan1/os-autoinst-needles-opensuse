@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "xpos": 0,
+      "type": "match",
+      "ypos": 740,
+      "width": 177
+    },
+    {
+      "xpos": 203,
+      "height": 312,
+      "width": 190,
+      "ypos": 280,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 141,
+      "ypos": 675,
+      "height": 30,
+      "xpos": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-FLAVOR-Server",
+    "test-desktop_mainmenu-1"
+  ]
+}
