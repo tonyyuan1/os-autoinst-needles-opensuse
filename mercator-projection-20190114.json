@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 607,
+      "height": 17,
+      "width": 18,
+      "ypos": 310,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mercator-projection"
+  ]
+}
