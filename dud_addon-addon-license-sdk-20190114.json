@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 257,
+      "width": 214,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 219,
+      "ypos": 227,
+      "width": 20,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 494,
+      "ypos": 555,
+      "width": 38,
+      "height": 23,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-betawarning-sdk"
+  ]
+}
