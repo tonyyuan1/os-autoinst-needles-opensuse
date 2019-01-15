@@ -1,26 +1,25 @@
 {
+  "area": [
+    {
+      "height": 21,
+      "xpos": 233,
+      "type": "match",
+      "width": 84,
+      "ypos": 28
+    },
+    {
+      "xpos": 26,
+      "height": 22,
+      "type": "match",
+      "ypos": 75,
+      "width": 98
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-FLAVOR-Server-DVD",
     "ENV-OFW-1",
     "ENV-VERSION-12-SP3",
-    "bootloader",
     "grub2"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "height": 21,
-      "xpos": 217,
-      "ypos": 28,
-      "width": 84,
-      "type": "match"
-    },
-    {
-      "xpos": 26,
-      "ypos": 75,
-      "width": 98,
-      "height": 22,
-      "type": "match"
-    }
   ]
 }
