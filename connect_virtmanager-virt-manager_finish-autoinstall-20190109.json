@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 462,
+      "ypos": 548,
+      "width": 44,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 303,
+      "ypos": 472,
+      "width": 296,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_finish-autoinstall"
+  ]
+}

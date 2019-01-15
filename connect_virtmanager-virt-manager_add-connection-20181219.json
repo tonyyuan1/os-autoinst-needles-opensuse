@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 455,
+      "ypos": 243,
+      "width": 111,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_add-connection"
+  ]
+}
