@@ -1,16 +1,23 @@
 {
   "area": [
     {
-      "xpos": 572,
       "height": 10,
+      "xpos": 572,
       "width": 68,
       "ypos": 426,
       "type": "match"
+    },
+    {
+      "xpos": 574,
+      "ypos": 395,
+      "width": 16,
+      "height": 46,
+      "type": "match"
     }
   ],
+  "properties": [],
   "tags": [
     "hard-disk-dev-sdb-selected",
     "storage-ng"
-  ],
-  "properties": []
+  ]
 }
