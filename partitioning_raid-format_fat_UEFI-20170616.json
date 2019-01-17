@@ -9,7 +9,8 @@
     }
   ],
   "tags": [
-    "partitioning_raid-format_default_UEFI"
+    "partitioning_raid-format_default_UEFI",
+    "partitioning_raid-fat_format-selected"
   ],
   "properties": []
 }
