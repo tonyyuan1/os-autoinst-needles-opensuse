@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 181,
+      "ypos": 213,
+      "width": 86,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_resizetovm"
+  ]
+}
