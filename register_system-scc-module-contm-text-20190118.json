@@ -1,15 +1,15 @@
 {
   "area": [
     {
-      "xpos": 34,
-      "ypos": 162,
-      "width": 167,
-      "height": 12,
-      "type": "match"
+      "type": "match",
+      "width": 171,
+      "ypos": 159,
+      "height": 15,
+      "xpos": 32
     }
   ],
   "properties": [],
   "tags": [
-    " scc-module-contm"
+    "scc-module-contm"
   ]
 }
