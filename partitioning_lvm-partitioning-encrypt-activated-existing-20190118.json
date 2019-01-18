@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 410,
+      "height": 10,
+      "width": 161,
+      "ypos": 204,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-encrypt-ignored-existing"
+  ]
+}
