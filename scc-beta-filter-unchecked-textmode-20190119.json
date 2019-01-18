@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "xpos": 17,
+      "width": 230,
+      "ypos": 63,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-TEXTMODE-1",
+    "scc-beta-filter-unchecked"
+  ]
+}
