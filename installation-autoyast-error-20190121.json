@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "autoyast-error"
+  ],
+  "area": [
+    {
+      "height": 17,
+      "xpos": 199,
+      "type": "match",
+      "ypos": 319,
+      "width": 43
+    },
+    {
+      "height": 22,
+      "width": 37,
+      "ypos": 413,
+      "xpos": 486,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
