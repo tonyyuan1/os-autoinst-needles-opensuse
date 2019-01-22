@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "iscsi-target-acl-auth-target-username"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 166,
+      "ypos": 439,
+      "width": 71,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

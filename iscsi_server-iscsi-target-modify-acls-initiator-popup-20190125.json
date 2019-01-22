@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "iscsi-target-modify-acls-initiator-popup"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 238,
+      "ypos": 299,
+      "width": 103,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 230,
+      "ypos": 299,
+      "width": 39,
+      "height": 59,
+      "type": "match"
+    }
+  ]
+}
