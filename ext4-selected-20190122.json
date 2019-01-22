@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 32,
+      "ypos": 305,
+      "xpos": 372,
+      "width": 67
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ext4-selected"
+  ]
+}

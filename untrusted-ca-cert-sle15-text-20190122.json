@@ -1,0 +1,18 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 50,
+      "type": "match",
+      "ypos": 512,
+      "width": 223,
+      "xpos": 97
+    }
+  ],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "untrusted-ca-cert"
+  ]
+}
