@@ -1,6 +1,6 @@
 {
   "tags": [
-    "yast2_lan_restart_dhcp_set"
+    "yast2_lan_dhcp_set"
   ],
   "properties": [],
   "area": [

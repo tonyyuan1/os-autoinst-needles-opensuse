@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 50,
+      "ypos": 312,
+      "width": 242,
+      "height": 63,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ip_textfield_empty"
+  ]
+}

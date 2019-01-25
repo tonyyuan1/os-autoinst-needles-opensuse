@@ -1,7 +1,7 @@
 {
   "properties": [],
   "tags": [
-    "gnome_static_IP_set"
+    "yast2_lan_static_ip_set"
   ],
   "area": [
     {
