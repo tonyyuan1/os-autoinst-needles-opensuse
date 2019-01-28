@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "ypos": 505,
+      "width": 45,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "container-runtime-cri-o"
+  ]
+}
