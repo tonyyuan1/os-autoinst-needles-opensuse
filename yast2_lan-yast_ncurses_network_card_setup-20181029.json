@@ -1,7 +1,7 @@
 {
   "properties": [],
   "tags": [
-    "yast_ncurses_network_card_setup"
+    "yast2_lan_network_card_setup"
   ],
   "area": [
     {

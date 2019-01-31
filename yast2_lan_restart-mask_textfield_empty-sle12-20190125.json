@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 297,
+      "ypos": 317,
+      "width": 240,
+      "height": 55,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mask_textfield_empty"
+  ]
+}

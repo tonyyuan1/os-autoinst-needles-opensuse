@@ -10,6 +10,6 @@
   ],
   "properties": [],
   "tags": [
-    "yast_ncurses_set_dhcp"
+    "yast2_lan_dhcp_set"
   ]
 }
