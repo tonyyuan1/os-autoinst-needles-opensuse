@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 371,
+      "ypos": 424,
+      "width": 337,
+      "height": 10,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "xpos": 545,
+      "ypos": 419,
+      "width": 38,
+      "height": 20,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "before-select-product-bcl"
+  ]
+}
