@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 22,
+      "ypos": 607,
+      "width": 160,
+      "xpos": 63
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "on-pattern",
+    "pattern-wbem"
+  ]
+}
