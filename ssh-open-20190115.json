@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "xpos": 398,
+      "ypos": 521,
+      "type": "match",
+      "width": 149
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ssh-open"
+  ]
+}
