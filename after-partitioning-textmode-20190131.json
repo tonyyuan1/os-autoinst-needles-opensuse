@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 28,
+      "height": 23,
+      "type": "match",
+      "xpos": 9,
+      "width": 196
+    },
+    {
+      "ypos": 177,
+      "type": "match",
+      "height": 13,
+      "width": 48,
+      "xpos": 71
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "after-partitioning"
+  ]
+}
