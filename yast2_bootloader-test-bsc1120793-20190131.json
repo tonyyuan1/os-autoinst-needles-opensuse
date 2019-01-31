@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 32,
+      "width": 480,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 21,
+      "ypos": 67,
+      "width": 279,
+      "height": 135,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "test-yast2_bootloader-1"
+  ]
+}
