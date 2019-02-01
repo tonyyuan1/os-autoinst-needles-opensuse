@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 82,
+      "xpos": 400,
+      "ypos": 274,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_samba-share-name-focused"
+  ]
+}
