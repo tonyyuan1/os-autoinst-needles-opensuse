@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "lvm_uncollapse_vgs"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 43,
+      "ypos": 256,
+      "width": 170,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 79,
+      "ypos": 259,
+      "width": 65,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}
