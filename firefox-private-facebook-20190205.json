@@ -4,15 +4,22 @@
       "ypos": 70,
       "type": "match",
       "height": 24,
-      "width": 137,
-      "xpos": 7
+      "xpos": 7,
+      "width": 138
     },
     {
-      "ypos": 212,
-      "type": "match",
       "height": 46,
+      "type": "match",
+      "ypos": 212,
       "width": 175,
       "xpos": 15
+    },
+    {
+      "xpos": 991,
+      "ypos": 67,
+      "width": 29,
+      "height": 28,
+      "type": "match"
     }
   ],
   "properties": [],
