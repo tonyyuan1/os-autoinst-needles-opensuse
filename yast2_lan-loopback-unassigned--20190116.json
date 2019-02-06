@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 275,
+      "type": "match",
+      "height": 14,
+      "ypos": 128,
+      "xpos": 30
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "loopback-unassigned"
+  ]
+}

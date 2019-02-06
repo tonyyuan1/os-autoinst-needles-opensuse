@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 159,
+      "ypos": 81,
+      "width": 105,
+      "height": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "static-ip-address-set"
+  ]
+}

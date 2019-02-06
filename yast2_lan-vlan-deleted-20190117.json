@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 78,
+      "width": 122,
+      "height": 87,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vlan-deleted"
+  ]
+}
