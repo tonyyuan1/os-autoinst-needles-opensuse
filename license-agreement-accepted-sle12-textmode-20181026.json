@@ -1,23 +1,16 @@
 {
+  "area": [
+    {
+      "ypos": 673,
+      "type": "match",
+      "height": 14,
+      "xpos": 18,
+      "width": 261
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-VIDEOMODE-text",
     "license-agreement-accepted"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "type": "match",
-      "width": 137,
-      "height": 10,
-      "xpos": 199,
-      "ypos": 34
-    },
-    {
-      "ypos": 673,
-      "xpos": 18,
-      "height": 14,
-      "width": 261,
-      "type": "match"
-    }
   ]
 }
