@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 455,
+      "width": 163,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-server"
+  ]
+}
