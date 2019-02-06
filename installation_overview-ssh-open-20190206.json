@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 15,
+      "ypos": 513,
+      "width": 246,
+      "xpos": 28
+    },
+    {
+      "width": 180,
+      "xpos": 12,
+      "height": 27,
+      "type": "match",
+      "ypos": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ssh-open"
+  ]
+}
