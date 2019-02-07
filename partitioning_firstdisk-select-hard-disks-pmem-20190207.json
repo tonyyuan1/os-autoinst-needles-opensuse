@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 296,
+      "xpos": 5,
+      "ypos": 89,
+      "type": "match",
+      "height": 51
+    },
+    {
+      "ypos": 402,
+      "height": 73,
+      "type": "match",
+      "width": 20,
+      "xpos": 358
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "hard-disk-dev-non-sda-selected",
+    "hard-disk-dev-pmem0",
+    "select-hard-disks-one-selected",
+    "storage-ng"
+  ]
+}
