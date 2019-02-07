@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 430,
+      "height": 25,
+      "type": "match",
+      "xpos": 714,
+      "width": 126
+    }
+  ],
+  "properties": [
+  	"workaround"
+  ],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-retry"
+  ]
+}
