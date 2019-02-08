@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 94,
+      "ypos": 118,
+      "width": 23,
+      "height": 18,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-select_HD"
+  ]
+}
