@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 415,
+      "width": 134,
+      "height": 15,
+      "ypos": 125,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP3ORLATER-1",
+    "partitioning-encrypt-activated"
+  ]
+}

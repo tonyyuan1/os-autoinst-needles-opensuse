@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "inst-suggested-partitioning-step"
+  ],
+  "area": [
+    {
+      "xpos": 146,
+      "ypos": 194,
+      "width": 172,
+      "height": 76,
+      "type": "match"
+    },
+    {
+      "xpos": 609,
+      "ypos": 406,
+      "width": 142,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 604,
+      "ypos": 481,
+      "width": 154,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 617,
+      "ypos": 525,
+      "width": 127,
+      "height": 34,
+      "type": "match"
+    }
+  ]
+}
