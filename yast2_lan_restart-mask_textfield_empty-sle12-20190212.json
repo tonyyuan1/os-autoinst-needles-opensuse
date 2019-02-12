@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 317,
+      "type": "match",
+      "height": 55,
+      "xpos": 297,
+      "width": 240,
+      "match": 92
+    },
+    {
+      "xpos": 301,
+      "ypos": 341,
+      "width": 16,
+      "height": 28,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mask_textfield_empty"
+  ]
+}
