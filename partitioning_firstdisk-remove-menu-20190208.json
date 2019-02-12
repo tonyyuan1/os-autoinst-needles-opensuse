@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 373,
+      "width": 201,
+      "height": 36,
+      "ypos": 414
+    }
+  ],
+  "tags": [
+    "remove-menu"
+  ],
+  "properties": []
+}
