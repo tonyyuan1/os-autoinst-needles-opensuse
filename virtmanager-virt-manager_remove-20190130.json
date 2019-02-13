@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 531,
+      "ypos": 697,
+      "width": 54,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_remove"
+  ]
+}
