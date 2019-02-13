@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 270,
+      "xpos": 2,
+      "ypos": 496,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ssh-keygen-ok"
+  ]
+}
