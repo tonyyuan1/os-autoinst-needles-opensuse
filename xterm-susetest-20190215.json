@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 76,
+      "height": 17,
+      "type": "match",
+      "width": 38,
+      "xpos": 78
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "xterm",
+    "xterm-susetest"
+  ]
+}
