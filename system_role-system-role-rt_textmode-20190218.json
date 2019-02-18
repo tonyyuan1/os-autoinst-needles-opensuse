@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 15,
+      "ypos": 275,
+      "width": 142,
+      "xpos": 358,
+      "match": 93
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-rt",
+    "system-role-textmode"
+  ]
+}
