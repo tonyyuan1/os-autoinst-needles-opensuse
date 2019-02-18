@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 16,
+      "ypos": 275,
+      "xpos": 359,
+      "width": 142
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "system-role-rt",
+    "system-role-textmode-selected"
+  ]
+}
