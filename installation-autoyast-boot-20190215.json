@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "width": 42,
+      "ypos": 54,
+      "xpos": 7,
+      "type": "match"
+    },
+    {
+      "xpos": 227,
+      "ypos": 15,
+      "type": "match",
+      "width": 74,
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "autoyast-boot"
+  ]
+}
