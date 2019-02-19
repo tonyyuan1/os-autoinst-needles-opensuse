@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 253,
+      "type": "match",
+      "ypos": 355,
+      "xpos": 35,
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-TEXTMODE-1",
+    "ENV-VIDEOMODE-text",
+    "select-product-sles"
+  ]
+}
