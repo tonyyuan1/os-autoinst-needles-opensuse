@@ -1,23 +1,23 @@
 {
-  "tags": [
-    "ENV-SP2ORLATER-1",
-    "firefox-urls_protocols-http"
-  ],
-  "properties": [],
   "area": [
     {
+      "width": 107,
+      "xpos": 283,
       "height": 20,
-      "xpos": 217,
       "type": "match",
-      "width": 192,
       "ypos": 108
     },
     {
-      "height": 38,
       "xpos": 265,
-      "type": "match",
       "width": 163,
-      "ypos": 165
+      "ypos": 165,
+      "height": 38,
+      "type": "match"
     }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-urls_protocols-http"
   ]
 }
