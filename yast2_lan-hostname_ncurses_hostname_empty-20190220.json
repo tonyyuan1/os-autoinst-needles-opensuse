@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 78,
+      "type": "match",
+      "height": 22,
+      "xpos": 21,
+      "width": 70
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hostname_ncurses_hostname_empty"
+  ]
+}
