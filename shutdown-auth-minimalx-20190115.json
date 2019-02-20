@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 124,
+      "ypos": 385,
+      "width": 139,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 457,
+      "ypos": 294,
+      "width": 84,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "shutdown-auth"
+  ]
+}
