@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 14,
+      "ypos": 440,
+      "xpos": 368,
+      "width": 192
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "select-product-rt"
+  ]
+}
