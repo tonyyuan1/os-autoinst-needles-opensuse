@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 294,
+      "ypos": 244,
+      "width": 107,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_list-sles11sp4HVMx32"
+  ]
+}
