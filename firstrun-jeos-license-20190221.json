@@ -1,31 +1,34 @@
 {
   "area": [
     {
-      "type": "match",
-      "height": 24,
       "ypos": 46,
-      "width": 434,
-      "xpos": 171
-    },
-    {
-      "width": 552,
-      "xpos": 171,
-      "height": 82,
+      "height": 24,
       "type": "match",
-      "ypos": 207
+      "xpos": 171,
+      "width": 434
     },
     {
-      "xpos": 8,
-      "width": 249,
+      "xpos": 171,
+      "width": 552,
+      "ypos": 207,
+      "type": "match",
+      "height": 82
+    },
+    {
       "height": 16,
       "type": "match",
-      "ypos": 7
+      "ypos": 7,
+      "width": 249,
+      "xpos": 8
     }
   ],
-  "properties": [],
+  "properties": [
+    "workaround"
+  ],
   "tags": [
     "ENV-BETA-1",
     "ENV-JEOS-1",
+    "bsc#1126319",
     "jeos-license"
   ]
 }
