@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "cz_keymap_not_ready"
+  ],
+  "area": [
+    {
+      "xpos": 50,
+      "ypos": 401,
+      "width": 179,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
