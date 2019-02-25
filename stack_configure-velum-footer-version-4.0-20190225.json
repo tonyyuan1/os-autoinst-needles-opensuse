@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 210,
+      "xpos": 67,
+      "ypos": 711,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-CASP",
+    "velum-footer-version-4.0-dev"
+  ]
+}
