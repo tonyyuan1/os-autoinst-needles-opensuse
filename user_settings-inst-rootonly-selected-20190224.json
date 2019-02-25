@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 205,
+      "type": "match",
+      "xpos": 512,
+      "height": 397,
+      "width": 340,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-rootonly-selected"
+  ]
+}
