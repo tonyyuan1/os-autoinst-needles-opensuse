@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "width": 653,
+      "ypos": 24,
+      "height": 197,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "width": 749,
+      "ypos": 228,
+      "height": 70,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "storage-ng",
+    "test-yast2_bootloader-1"
+  ]
+}
