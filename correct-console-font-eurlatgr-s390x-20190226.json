@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 127,
+      "type": "match",
+      "ypos": 127,
+      "xpos": 33,
+      "width": 177,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "correct-console-font"
+  ]
+}
