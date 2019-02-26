@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 32,
+      "height": 27,
+      "type": "match",
+      "width": 203,
+      "xpos": 410
+    },
+    {
+      "width": 145,
+      "xpos": 6,
+      "type": "match",
+      "height": 189,
+      "ypos": 215
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "libreoffice-test-ods"
+  ]
+}
