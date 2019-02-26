@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 251,
+      "width": 626,
+      "ypos": 742,
+      "height": 26,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-minimalx",
+    "desktop-runner"
+  ]
+}
