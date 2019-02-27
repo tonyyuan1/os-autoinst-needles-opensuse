@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 349,
+      "ypos": 339,
+      "width": 122,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "use-entire-disk-selected"
+  ]
+}
