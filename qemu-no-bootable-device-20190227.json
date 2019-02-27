@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 20,
+      "ypos": 494,
+      "width": 165,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "qemu-no-bootable-device"
+  ]
+}
