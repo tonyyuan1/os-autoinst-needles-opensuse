@@ -1,15 +1,15 @@
 {
   "area": [
     {
-      "xpos": 319,
+      "xpos": 294,
       "ypos": 491,
-      "width": 84,
-      "height": 16,
+      "width": 86,
+      "height": 17,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "virt-manager_list-xen-sles12sp4HVM"
+    "virt-manager_list-sles12sp4HVM"
   ]
 }
