@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "xpos": 334,
+      "ypos": 147,
+      "type": "match",
+      "width": 131,
+      "match": 90
+    },
+    {
+      "height": 47,
+      "ypos": 88,
+      "xpos": 13,
+      "type": "match",
+      "width": 264
+    },
+    {
+      "type": "match",
+      "width": 73,
+      "ypos": 180,
+      "xpos": 451,
+      "height": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "expert-partitioner-overview",
+    "storage-ng"
+  ]
+}
