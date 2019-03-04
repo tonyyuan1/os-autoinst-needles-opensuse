@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "type": "match",
+      "width": 56,
+      "ypos": 146,
+      "xpos": 292
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "packages-grub2-selected"
+  ]
+}
