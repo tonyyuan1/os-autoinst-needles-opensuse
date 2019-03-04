@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 12,
+      "type": "match",
+      "width": 464,
+      "xpos": 29,
+      "ypos": 255
+    },
+    {
+      "height": 26,
+      "type": "match",
+      "width": 85,
+      "xpos": 805,
+      "ypos": 138
+    },
+    {
+      "xpos": 32,
+      "ypos": 422,
+      "width": 305,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-ibft"
+  ]
+}
