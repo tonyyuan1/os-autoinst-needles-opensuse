@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 306,
+      "ypos": 21,
+      "width": 49,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vmware_bios_boot_tab"
+  ]
+}

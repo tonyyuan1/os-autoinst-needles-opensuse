@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 52,
+      "ypos": 56,
+      "width": 167,
+      "height": 37,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vmware_bios_boot_top_cdrom"
+  ]
+}
