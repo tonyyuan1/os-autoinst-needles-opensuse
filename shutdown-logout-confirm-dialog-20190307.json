@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 397,
+      "ypos": 348,
+      "width": 234,
+      "height": 88,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logout-confirm-dialog"
+  ]
+}
