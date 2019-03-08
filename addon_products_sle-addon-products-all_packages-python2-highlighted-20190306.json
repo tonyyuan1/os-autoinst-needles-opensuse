@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 327,
+      "type": "match",
+      "width": 65,
+      "xpos": 357,
+      "height": 12,
+      "match": 100
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-python2-highlighted"
+  ]
+}
