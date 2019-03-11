@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 87,
+      "ypos": 119,
+      "width": 84,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_not-connected"
+  ]
+}

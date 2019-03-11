@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 87,
+      "type": "match",
+      "ypos": 190,
+      "xpos": 267,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_add-network"
+  ]
+}

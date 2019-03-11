@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 248,
+      "type": "match",
+      "ypos": 224,
+      "height": 15,
+      "width": 38
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_close"
+  ]
+}
