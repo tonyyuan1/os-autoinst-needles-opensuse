@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 82,
+      "ypos": 32,
+      "xpos": 15,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "width": 57,
+      "ypos": 33,
+      "xpos": 102,
+      "height": 16
+    },
+    {
+      "type": "match",
+      "width": 50,
+      "ypos": 718,
+      "xpos": 959,
+      "height": 20
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-filesystem-options",
+    "storage-ng"
+  ]
+}
