@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 17,
+      "xpos": 13,
+      "ypos": 31,
+      "width": 100
+    },
+    {
+      "type": "match",
+      "xpos": 119,
+      "height": 18,
+      "width": 51,
+      "ypos": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "inst-partitioning-scheme",
+    "storage-ng"
+  ]
+}
