@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 286,
+      "ypos": 368,
+      "xpos": 360,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-TEXT",
+    "enabledhome"
+  ]
+}
