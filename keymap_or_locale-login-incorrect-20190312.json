@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "login-incorrect"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 201,
+      "ypos": 433,
+      "width": 118,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}
