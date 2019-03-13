@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 33,
+      "width": 44,
+      "ypos": 49,
+      "xpos": 9,
+      "type": "match"
+    },
+    {
+      "height": 19,
+      "width": 48,
+      "ypos": 13,
+      "type": "match",
+      "xpos": 292
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "also_used_for_supportserver_in_sled",
+    "ENV-OFW-0",
+    "bootloader",
+    "grub2"
+  ]
+}
