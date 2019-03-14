@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 363,
+      "ypos": 325,
+      "width": 284,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 7,
+      "ypos": 28,
+      "width": 114,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-overview"
+  ]
+}

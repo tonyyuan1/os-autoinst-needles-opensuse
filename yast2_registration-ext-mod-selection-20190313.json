@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 125,
+      "ypos": 29,
+      "width": 133,
+      "height": 20,
+      "type": "match",
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-ext-mod-selection"
+  ]
+}
