@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 318,
+      "ypos": 250,
+      "width": 213,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-join-openqa-test_irc_from_openqa"
+  ]
+}
