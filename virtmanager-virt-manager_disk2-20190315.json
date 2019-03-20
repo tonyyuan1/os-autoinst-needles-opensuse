@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "xpos": 234,
+      "type": "match",
+      "ypos": 313,
+      "width": 98
+    },
+    {
+      "ypos": 339,
+      "type": "match",
+      "xpos": 234,
+      "height": 19,
+      "width": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_disk2"
+  ]
+}

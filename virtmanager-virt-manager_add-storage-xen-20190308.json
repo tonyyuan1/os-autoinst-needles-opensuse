@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 17,
+      "xpos": 534,
+      "ypos": 397,
+      "type": "match",
+      "width": 51
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_add-storage-xen"
+  ]
+}

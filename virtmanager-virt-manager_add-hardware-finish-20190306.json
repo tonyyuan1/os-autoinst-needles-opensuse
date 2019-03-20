@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "ypos": 619,
+      "type": "match",
+      "xpos": 695,
+      "width": 40
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_add-hardware-finish"
+  ]
+}

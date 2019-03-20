@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 229,
+      "height": 18,
+      "xpos": 305,
+      "ypos": 744,
+      "type": "match"
+    },
+    {
+      "width": 41,
+      "ypos": 744,
+      "type": "match",
+      "xpos": 236,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_login-screen"
+  ]
+}
