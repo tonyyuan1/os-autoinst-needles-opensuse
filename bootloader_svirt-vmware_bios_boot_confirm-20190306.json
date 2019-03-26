@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 132,
+      "ypos": 179,
+      "width": 369,
+      "height": 117,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vmware_bios_boot_confirm"
+  ]
+}
