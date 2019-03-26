@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "type": "match",
+      "width": 13,
+      "xpos": 0,
+      "height": 152
+    },
+    {
+      "height": 10,
+      "ypos": 2,
+      "type": "match",
+      "width": 189,
+      "xpos": 1
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "cleared-console",
+    "cleared-console-root",
+    "cleared_console"
+  ]
+}
