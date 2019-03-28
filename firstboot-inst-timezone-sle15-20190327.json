@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 24,
+      "height": 608,
+      "width": 990,
+      "type": "match",
+      "xpos": 6
+    },
+    {
+      "ypos": 716,
+      "xpos": 772,
+      "type": "match",
+      "height": 46,
+      "width": 233
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "inst-timezone"
+  ]
+}
