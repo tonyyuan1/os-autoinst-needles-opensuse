@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "exclude",
+      "height": 18,
+      "width": 95,
+      "ypos": 102,
+      "xpos": 306
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-checksum-error"
+  ]
+}
