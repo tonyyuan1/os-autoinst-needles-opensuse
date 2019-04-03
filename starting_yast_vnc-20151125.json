@@ -1,6 +1,7 @@
 {
    "area" : [
       {
+         "type": "match",
          "xpos" : 0,
          "ypos" : 700,
          "width" : 200,
