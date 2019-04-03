@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 268,
+      "width": 198,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "adminer-database-dropped"
+  ]
+}
