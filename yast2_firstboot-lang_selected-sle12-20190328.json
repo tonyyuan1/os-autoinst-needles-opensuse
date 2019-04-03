@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 214,
+      "ypos": 27,
+      "width": 458,
+      "height": 19,
+      "type": "match",
+      "match": 91
+    },
+    {
+      "xpos": 428,
+      "ypos": 273,
+      "width": 136,
+      "height": 79,
+      "type": "match",
+      "match": 93
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "lang_selected"
+  ]
+}

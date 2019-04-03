@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 206,
+      "ypos": 20,
+      "width": 160,
+      "height": 31,
+      "type": "match",
+      "match": 91
+    },
+    {
+      "xpos": 450,
+      "ypos": 211,
+      "width": 109,
+      "height": 24,
+      "type": "match",
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "local_user"
+  ]
+}
