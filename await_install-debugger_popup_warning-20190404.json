@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 296,
+      "ypos": 276,
+      "width": 432,
+      "height": 218,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "debugger_popup_warning"
+  ]
+}
