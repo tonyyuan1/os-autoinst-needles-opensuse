@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 145,
+      "xpos": 22,
+      "height": 134,
+      "type": "match",
+      "width": 195
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "correct-console-font"
+  ]
+}
