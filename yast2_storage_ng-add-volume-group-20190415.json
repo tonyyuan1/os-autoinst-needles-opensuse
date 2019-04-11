@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 373,
+      "ypos": 640,
+      "width": 110,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-add-volume-group"
+  ]
+}
