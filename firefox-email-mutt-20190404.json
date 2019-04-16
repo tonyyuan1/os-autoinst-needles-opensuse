@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 541,
+      "xpos": 175,
+      "type": "match",
+      "height": 21,
+      "width": 169
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-email-mutt"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 447,
+      "height": 29,
+      "xpos": 199,
+      "type": "match",
+      "ypos": 18,
+      "match": 90
+    },
+    {
+      "height": 57,
+      "width": 111,
+      "xpos": 423,
+      "type": "match",
+      "ypos": 284,
+      "match": 92
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "lang_and_keyboard"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 361,
+      "height": 65,
+      "width": 157,
+      "xpos": 427,
+      "type": "match",
+      "match": 93
+    },
+    {
+      "width": 452,
+      "height": 38,
+      "type": "match",
+      "xpos": 211,
+      "ypos": 17,
+      "match": 91
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "keyboard_selected"
+  ]
+}

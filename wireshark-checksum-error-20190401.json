@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 305,
+      "ypos": 102,
+      "width": 98,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-checksum-error"
+  ]
+}

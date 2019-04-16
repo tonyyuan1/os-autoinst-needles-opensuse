@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "type": "match",
+      "match": 80,
+      "width": 312,
+      "ypos": 390,
+      "xpos": 313
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "contacting-registration-server"
+  ]
+}
