@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 128,
+      "height": 16,
+      "xpos": 266,
+      "ypos": 640
+    },
+    {
+      "xpos": 789,
+      "ypos": 626,
+      "width": 31,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nautilus-connect-to-server"
+  ]
+}
