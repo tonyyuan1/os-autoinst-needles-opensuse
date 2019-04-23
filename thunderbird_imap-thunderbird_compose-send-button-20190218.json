@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 596,
+      "ypos": 464,
+      "width": 160,
+      "height": 74,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_select-compose-window"
+  ]
+}

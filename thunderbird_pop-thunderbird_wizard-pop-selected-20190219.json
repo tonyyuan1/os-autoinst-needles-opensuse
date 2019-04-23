@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 260,
+      "ypos": 489,
+      "width": 131,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 430,
+      "ypos": 436,
+      "width": 265,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard-pop-selected"
+  ]
+}

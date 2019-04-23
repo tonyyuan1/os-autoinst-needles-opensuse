@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 775,
+      "ypos": 433,
+      "width": 88,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_send-message-error-ok-button"
+  ]
+}

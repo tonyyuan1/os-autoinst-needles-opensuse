@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 889,
+      "ypos": 595,
+      "width": 88,
+      "height": 29,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard-send-button"
+  ]
+}
