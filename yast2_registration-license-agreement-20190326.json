@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 148,
+      "ypos": 141,
+      "width": 142,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_registration-license-agreement"
+  ]
+}
