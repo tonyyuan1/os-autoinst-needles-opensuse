@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 438,
+      "ypos": 327,
+      "width": 146,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 212,
+      "ypos": 361,
+      "width": 208,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_send-message-error"
+  ]
+}
