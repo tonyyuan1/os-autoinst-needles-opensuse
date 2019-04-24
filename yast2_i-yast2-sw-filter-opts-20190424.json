@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 51,
+      "width": 158,
+      "height": 122,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-sw-filter-opts"
+  ]
+}
