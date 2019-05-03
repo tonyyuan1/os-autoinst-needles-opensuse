@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "width": 22,
+      "ypos": 44,
+      "xpos": 6,
+      "type": "match"
+    },
+    {
+      "xpos": 283,
+      "type": "match",
+      "width": 110,
+      "height": 17,
+      "ypos": 82
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-pagesaving-load"
+  ]
+}
