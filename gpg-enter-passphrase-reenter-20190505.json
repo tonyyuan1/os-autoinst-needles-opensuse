@@ -1,10 +1,10 @@
 {
   "area": [
     {
-      "xpos": 290,
-      "ypos": 321,
-      "width": 447,
-      "height": 124,
+      "xpos": 300,
+      "ypos": 333,
+      "width": 255,
+      "height": 23,
       "type": "match",
       "match": 75,
       "margin": 150
@@ -13,6 +13,6 @@
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "gpg-enter-passphrase"
+    "gpg-enter-passphrase-reenter"
   ]
 }
