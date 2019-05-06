@@ -1,7 +1,8 @@
 {
   "properties": [],
   "tags": [
-    "gpg-incorrect-passphrase"
+    "gpg-incorrect-passphrase",
+    "gpg-insecure-passphrase"
   ],
   "area": [
     {
@@ -9,7 +10,8 @@
       "height": 19,
       "type": "match",
       "xpos": 601,
-      "width": 174
+      "width": 174,
+      "margin": 150
     }
   ]
 }
