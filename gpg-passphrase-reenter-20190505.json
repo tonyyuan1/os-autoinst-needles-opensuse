@@ -12,7 +12,6 @@
   ],
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
-    "gpg-enter-passphrase-reenter"
+    "gpg-passphrase-reenter"
   ]
 }
