@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 197,
+      "type": "match",
+      "height": 24,
+      "width": 152,
+      "ypos": 501
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooffice-python-samples"
+  ]
+}
