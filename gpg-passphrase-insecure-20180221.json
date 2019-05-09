@@ -1,8 +1,7 @@
 {
   "properties": [],
   "tags": [
-    "gpg-incorrect-passphrase",
-    "gpg-insecure-passphrase"
+    "gpg-passphrase-insecure"
   ],
   "area": [
     {

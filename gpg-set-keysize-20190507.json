@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 752,
+      "width": 153,
+      "height": 16,
+      "type": "match",
+      "match": 80,
+      "margin": 150
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-set-keysize"
+  ]
+}

@@ -13,6 +13,6 @@
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "gpg-enter-passphrase"
+    "gpg-passphrase-enter"
   ]
 }

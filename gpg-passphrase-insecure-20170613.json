@@ -1,7 +1,6 @@
 {
   "tags": [
-    "gpg-incorrect-passphrase",
-    "gpg-insecure-passphrase"
+    "gpg-passphrase-insecure"
   ],
   "properties": [],
   "area": [
