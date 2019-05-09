@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "ypos": 350,
+      "width": 100,
+      "xpos": 98,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-edit-linux-line"
+  ]
+}

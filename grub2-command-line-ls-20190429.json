@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 127,
+      "ypos": 232,
+      "width": 81,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 79,
+      "ypos": 318,
+      "width": 61,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-command-line-ls"
+  ]
+}
