@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 233,
+      "xpos": 82,
+      "type": "match",
+      "height": 142,
+      "width": 483
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "rrdtool_image_speed-1"
+  ]
+}
