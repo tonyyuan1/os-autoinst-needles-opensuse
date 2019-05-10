@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 219,
+      "height": 17,
+      "ypos": 286,
+      "xpos": 358,
+      "type": "match"
+    },
+    {
+      "ypos": 271,
+      "width": 289,
+      "height": 29,
+      "type": "match",
+      "xpos": 28
+    },
+    {
+      "type": "match",
+      "xpos": 371,
+      "ypos": 676,
+      "height": 10,
+      "width": 154
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "license-agreement"
+  ]
+}
