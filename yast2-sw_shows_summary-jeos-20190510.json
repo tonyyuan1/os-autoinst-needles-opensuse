@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "ypos": 22,
+      "width": 916,
+      "height": 176,
+      "type": "match",
+      "xpos": 11
+    },
+    {
+      "xpos": 210,
+      "ypos": 139,
+      "width": 241,
+      "height": 40,
+      "type": "exclude"
+    },
+    {
+      "xpos": 48,
+      "ypos": 160,
+      "width": 265,
+      "height": 15,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-FLAVOR-JeOS-for-kvm",
+    "ENV-INSTLANG-en_US",
+    "yast2-sw_shows_summary"
+  ]
+}
