@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 251,
+      "height": 24,
+      "xpos": 307,
+      "type": "match",
+      "ypos": 124
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "yast2-fadump-enabled"
+  ]
+}
