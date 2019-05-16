@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 327,
+      "width": 67,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_storage_ng-vg-select-device"
+  ]
+}
