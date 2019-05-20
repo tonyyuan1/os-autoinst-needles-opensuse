@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "http_summary"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 108,
+      "width": 177,
+      "height": 17,
+      "ypos": 30
+    }
+  ],
+  "properties": []
+}
