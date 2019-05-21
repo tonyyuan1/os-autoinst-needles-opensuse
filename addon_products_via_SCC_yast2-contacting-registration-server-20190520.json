@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 255,
+      "ypos": 75,
+      "width": 144,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 348,
+      "ypos": 76,
+      "width": 14,
+      "height": 364,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "yast_scc-pkgtoinstall"
+  ]
+}
