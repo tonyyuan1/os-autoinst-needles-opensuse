@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 45,
+      "type": "match",
+      "ypos": 323,
+      "xpos": 519,
+      "height": 15
+    },
+    {
+      "type": "match",
+      "width": 101,
+      "xpos": 520,
+      "height": 10,
+      "ypos": 309
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "keyboard-test-fr"
+  ]
+}
