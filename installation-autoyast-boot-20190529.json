@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 129,
+      "ypos": 342,
+      "width": 50,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 497,
+      "ypos": 426,
+      "width": 28,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-error"
+  ]
+}
