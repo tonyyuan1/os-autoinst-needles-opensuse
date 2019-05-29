@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 672,
+      "width": 258,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 196,
+      "ypos": 28,
+      "width": 161,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "license-agreement"
+  ]
+}
