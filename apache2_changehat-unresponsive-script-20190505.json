@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 300,
+      "width": 201,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "unresponsive-script"
+  ]
+}
