@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 214,
+      "ypos": 221,
+      "width": 234,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kiwi_oem_install_installer"
+  ]
+}
