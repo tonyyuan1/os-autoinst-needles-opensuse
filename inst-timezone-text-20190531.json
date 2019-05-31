@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 279,
+      "type": "match",
+      "xpos": 0,
+      "height": 384,
+      "ypos": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
