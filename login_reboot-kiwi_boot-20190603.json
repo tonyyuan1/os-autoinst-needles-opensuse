@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 153,
+      "ypos": 204,
+      "width": 52,
+      "height": 75,
+      "type": "match"
+    },
+    {
+      "xpos": 298,
+      "ypos": 75,
+      "width": 209,
+      "height": 116,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "kiwi_boot",
+    "kiwi_installed"
+  ]
+}
