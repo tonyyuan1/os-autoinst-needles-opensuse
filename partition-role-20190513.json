@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "width": 24,
+      "xpos": 426,
+      "type": "match",
+      "ypos": 374
+    },
+    {
+      "xpos": 9,
+      "ypos": 91,
+      "width": 244,
+      "height": 39,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partition-role",
+    "storage-ng"
+  ]
+}

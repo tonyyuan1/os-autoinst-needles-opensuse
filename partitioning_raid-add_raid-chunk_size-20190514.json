@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 93,
+      "width": 148,
+      "height": 36,
+      "type": "match"
+    },
+    {
+      "xpos": 459,
+      "ypos": 399,
+      "width": 68,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-add_raid-chunk_size"
+  ]
+}
