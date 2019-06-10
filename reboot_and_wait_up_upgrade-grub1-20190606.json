@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 31,
+      "ypos": 17,
+      "height": 12,
+      "width": 175
+    },
+    {
+      "width": 238,
+      "height": 14,
+      "ypos": 112,
+      "type": "match",
+      "xpos": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "ENV-FLAVOR-Server-DVD",
+    "ENV-VIDEOMODE-text",
+    "grub1",
+    "on_host_lower_than_sles_12_sp2"
+  ]
+}
