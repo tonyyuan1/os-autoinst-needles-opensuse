@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 20,
+      "ypos": 173,
+      "width": 150,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lynx-connect-google-webpage"
+  ]
+}
