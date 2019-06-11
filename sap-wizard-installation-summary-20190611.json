@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 300,
+      "ypos": 172,
+      "height": 26,
+      "type": "match",
+      "xpos": 361
+    },
+    {
+      "height": 86,
+      "ypos": 423,
+      "xpos": 292,
+      "type": "match",
+      "width": 190
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sap-wizard-installation-summary"
+  ]
+}
