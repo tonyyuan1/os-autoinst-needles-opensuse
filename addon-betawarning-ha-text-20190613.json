@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 65,
+      "ypos": 303,
+      "type": "match",
+      "xpos": 308,
+      "width": 323
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-betawarning-ha",
+    "ENV-VIDEOMODE-text"
+  ]
+}
