@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 168,
+      "type": "match",
+      "ypos": 65,
+      "xpos": 127,
+      "height": 15
+    },
+    {
+      "xpos": 15,
+      "ypos": 31,
+      "width": 157,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-textmode",
+    "installation-report"
+  ]
+}
