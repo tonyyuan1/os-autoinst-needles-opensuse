@@ -1,23 +1,21 @@
 {
-  "properties": [
-    "workaround"
-  ],
   "area": [
     {
-      "ypos": 194,
-      "height": 148,
       "xpos": 66,
-      "width": 254,
-      "type": "match"
+      "type": "match",
+      "height": 148,
+      "ypos": 194,
+      "width": 254
     },
     {
       "width": 360,
       "type": "match",
-      "ypos": 171,
+      "xpos": 374,
       "height": 54,
-      "xpos": 374
+      "ypos": 171
     }
   ],
+  "properties": [],
   "tags": [
     "ENV-DISTRI-sle",
     "ENV-INSTLANG-en_US",

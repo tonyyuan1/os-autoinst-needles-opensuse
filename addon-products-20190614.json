@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 259,
+      "type": "match",
+      "xpos": 72,
+      "height": 52,
+      "ypos": 185
+    },
+    {
+      "height": 29,
+      "ypos": 249,
+      "xpos": 467,
+      "type": "match",
+      "width": 293
+    },
+    {
+      "xpos": 950,
+      "type": "match",
+      "height": 20,
+      "ypos": 729,
+      "width": 50
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "addon-products",
+    "inst-addon"
+  ]
+}
