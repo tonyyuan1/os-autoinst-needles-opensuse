@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 96,
+      "width": 232,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2",
+    "virttest-bootmenu-xen-kernel"
+  ]
+}
