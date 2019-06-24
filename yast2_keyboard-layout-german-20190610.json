@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 301,
+      "ypos": 494,
+      "width": 56,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_keyboard-layout-german"
+  ]
+}
