@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 754,
+      "width": 131,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_keyboard_layout_cmd_test"
+  ]
+}
