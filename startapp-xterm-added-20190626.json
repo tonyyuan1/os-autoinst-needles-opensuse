@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 56,
+      "xpos": 278,
+      "height": 27,
+      "ypos": 78,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "startapp-xterm-added"
+  ]
+}

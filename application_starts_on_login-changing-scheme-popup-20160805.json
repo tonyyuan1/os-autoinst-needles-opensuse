@@ -1,16 +1,16 @@
 {
+  "area": [
+    {
+      "height": 38,
+      "width": 182,
+      "xpos": 357,
+      "type": "match",
+      "ypos": 247
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
     "changing-scheme-popup"
-  ],
-  "area": [
-    {
-      "xpos": 182,
-      "ypos": 247,
-      "width": 538,
-      "height": 253,
-      "type": "match"
-    }
-  ],
-  "properties": []
+  ]
 }
