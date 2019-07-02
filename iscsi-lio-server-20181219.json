@@ -1,39 +1,37 @@
 {
   "area": [
     {
-      "type": "match",
-      "xpos": 46,
-      "ypos": 116,
       "width": 188,
+      "xpos": 46,
+      "type": "match",
+      "ypos": 116,
       "height": 27
     },
     {
-      "xpos": 134,
-      "ypos": 157,
-      "width": 94,
       "height": 20,
-      "type": "match"
+      "ypos": 157,
+      "type": "match",
+      "xpos": 134,
+      "width": 94
     },
     {
       "xpos": 399,
-      "ypos": 155,
       "width": 78,
-      "height": 22,
-      "type": "match"
+      "type": "match",
+      "ypos": 155,
+      "height": 22
     },
     {
-      "xpos": 661,
-      "ypos": 155,
+      "type": "match",
       "width": 69,
+      "xpos": 661,
       "height": 21,
-      "type": "match"
+      "ypos": 155
     }
   ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "ENV-SP2ORLATER-1",
-    "ENV-SP3ORLATER-1",
     "iscsi-lio-server"
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 44,
+      "ypos": 323,
+      "type": "match",
+      "width": 29,
+      "xpos": 302
+    },
+    {
+      "xpos": 301,
+      "width": 56,
+      "type": "match",
+      "ypos": 356,
+      "height": 16
+    },
+    {
+      "xpos": 356,
+      "ypos": 345,
+      "width": 25,
+      "height": 37,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "iscsi-target-LUN"
+  ]
+}
