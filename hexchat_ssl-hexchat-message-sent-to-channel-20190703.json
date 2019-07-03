@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 315,
+      "height": 30,
+      "xpos": 482,
+      "type": "match",
+      "width": 209
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "hexchat-message-sent-to-channel"
+  ]
+}
