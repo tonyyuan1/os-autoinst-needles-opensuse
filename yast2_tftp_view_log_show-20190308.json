@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "yast2_tftp_view_log_show"
+  ],
+  "area": [
+    {
+      "xpos": 235,
+      "type": "match",
+      "width": 39,
+      "height": 17,
+      "ypos": 192
+    }
+  ]
+}
