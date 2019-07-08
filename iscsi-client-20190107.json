@@ -1,14 +1,14 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 45,
       "height": 65,
+      "ypos": 113,
       "type": "match",
       "width": 515,
-      "ypos": 113
+      "xpos": 45
     }
   ],
+  "properties": [],
   "tags": [
     "iscsi-client"
   ]

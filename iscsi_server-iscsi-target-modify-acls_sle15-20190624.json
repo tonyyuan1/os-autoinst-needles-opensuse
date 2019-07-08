@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 46,
+      "width": 207,
+      "height": 26,
+      "ypos": 116
+    },
+    {
+      "width": 58,
+      "xpos": 280,
+      "type": "match",
+      "ypos": 623,
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-modify-acls"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 121,
+      "ypos": 117,
+      "width": 124,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 350,
+      "ypos": 110,
+      "width": 94,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "auto-save-session-off"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "ypos": 345,
+      "height": 55,
+      "type": "match",
+      "xpos": 349,
+      "width": 105
+    },
+    {
+      "ypos": 168,
+      "height": 123,
+      "type": "match",
+      "xpos": 24,
+      "width": 300
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "inst-welcome",
+    "installation",
+    "languagepicked"
+  ]
+}

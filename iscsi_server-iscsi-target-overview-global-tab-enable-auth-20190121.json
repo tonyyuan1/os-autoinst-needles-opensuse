@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "iscsi-target-overview-global-tab-enable-auth"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 246,
+      "ypos": 291,
+      "width": 116,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 233,
+      "ypos": 344,
+      "width": 213,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 234,
+      "ypos": 429,
+      "width": 213,
+      "height": 43,
+      "type": "match"
+    }
+  ]
+}

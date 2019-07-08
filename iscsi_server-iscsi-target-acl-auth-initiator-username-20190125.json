@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-acl-auth-initiator-username"
+  ],
+  "area": [
+    {
+      "xpos": 166,
+      "height": 17,
+      "ypos": 352,
+      "type": "match",
+      "width": 81,
+      "match": 96
+    }
+  ],
+  "properties": []
+}
