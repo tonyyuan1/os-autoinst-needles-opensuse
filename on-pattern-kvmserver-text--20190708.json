@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 11,
+      "width": 145,
+      "ypos": 323,
+      "xpos": 62
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "on-pattern",
+    "on-pattern-kvmserver",
+    "pattern-kvmserver"
+  ]
+}
