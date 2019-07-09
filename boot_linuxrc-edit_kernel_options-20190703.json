@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 469,
+      "ypos": 352,
+      "width": 82,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "edit_kernel_options"
+  ]
+}
