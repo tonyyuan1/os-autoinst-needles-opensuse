@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 26,
+      "ypos": 96,
+      "width": 293,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "prepare-hard-disk"
+  ]
+}

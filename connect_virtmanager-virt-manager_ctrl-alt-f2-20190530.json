@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 200,
+      "height": 15,
+      "type": "match",
+      "ypos": 335,
+      "width": 78
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_ctrl-alt-f2"
+  ]
+}
