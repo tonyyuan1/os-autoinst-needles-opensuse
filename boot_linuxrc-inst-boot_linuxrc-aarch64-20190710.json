@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 161,
+      "ypos": 252,
+      "width": 89,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-boot_linuxrc"
+  ]
+}
