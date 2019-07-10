@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 14,
+      "height": 50,
+      "width": 512,
+      "ypos": 365
+    },
+    {
+      "type": "match",
+      "xpos": 114,
+      "height": 10,
+      "width": 10,
+      "ypos": 308
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-web-application-manager"
+  ]
+}

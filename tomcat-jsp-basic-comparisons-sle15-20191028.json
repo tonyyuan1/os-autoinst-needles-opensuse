@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 38,
+      "ypos": 402,
+      "width": 243,
+      "height": 311,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-jsp-basic-comparisons"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 130,
+      "ypos": 369,
+      "xpos": 19,
+      "height": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-echo-example-message"
+  ]
+}

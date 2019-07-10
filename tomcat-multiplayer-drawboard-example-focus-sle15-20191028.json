@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 85,
+      "ypos": 153,
+      "width": 170,
+      "xpos": 8
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-multiplayer-drawboard-example-focus"
+  ]
+}

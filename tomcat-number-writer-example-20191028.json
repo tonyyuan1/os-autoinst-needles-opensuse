@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 4,
+      "ypos": 117,
+      "width": 337,
+      "height": 449,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-number-writer-example"
+  ]
+}
