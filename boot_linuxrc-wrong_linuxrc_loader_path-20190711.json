@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 274,
+      "ypos": 159,
+      "width": 156,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wrong_linuxrc_loader_path"
+  ]
+}
