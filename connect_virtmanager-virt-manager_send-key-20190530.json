@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 62,
+      "ypos": 172,
+      "type": "match",
+      "height": 18,
+      "xpos": 397
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_send-key"
+  ]
+}

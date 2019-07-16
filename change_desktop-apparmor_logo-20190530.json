@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 60,
+      "ypos": 280,
+      "width": 33,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "apparmor_logo"
+  ]
+}

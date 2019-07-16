@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 253,
+      "ypos": 172,
+      "width": 101,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 226,
+      "ypos": 172,
+      "width": 21,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "virt-manager_file"
+  ]
+}
