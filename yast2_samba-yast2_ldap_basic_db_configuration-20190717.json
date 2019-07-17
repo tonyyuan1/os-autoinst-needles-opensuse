@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 411,
+      "ypos": 237,
+      "width": 195,
+      "height": 24,
+      "type": "match"
+    },
+    {
+      "xpos": 12,
+      "ypos": 29,
+      "width": 104,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_ldap_basic_db_configuration"
+  ]
+}
