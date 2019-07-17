@@ -1,14 +1,15 @@
 {
-  "properties": [],
   "area": [
     {
-      "type": "match",
       "width": 54,
       "xpos": 70,
-      "height": 20,
-      "ypos": 748
+      "type": "match",
+      "ypos": 748,
+      "height": 19,
+      "match": 90
     }
   ],
+  "properties": [],
   "tags": [
     "linux-login"
   ]
