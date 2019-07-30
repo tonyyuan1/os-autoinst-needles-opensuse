@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 119,
+      "ypos": 110,
+      "width": 300,
+      "height": 31,
+      "type": "match"
+    },
+    {
+      "xpos": 302,
+      "ypos": 377,
+      "width": 84,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_keyboard-layout-us"
+  ]
+}
