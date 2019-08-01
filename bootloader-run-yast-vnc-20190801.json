@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 463,
+      "width": 531,
+      "height": 42,
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "run-yast-ssh",
+    "run-yast-vnc"
+  ]
+}
