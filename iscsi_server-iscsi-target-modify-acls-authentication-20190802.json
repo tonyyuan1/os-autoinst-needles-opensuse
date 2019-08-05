@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "width": 129,
+      "ypos": 246,
+      "type": "match",
+      "height": 21,
+      "xpos": 160
+    },
+    {
+      "height": 20,
+      "xpos": 345,
+      "width": 181,
+      "type": "match",
+      "ypos": 277
+    },
+    {
+      "type": "match",
+      "ypos": 381,
+      "width": 193,
+      "xpos": 329,
+      "height": 21
+    },
+    {
+      "height": 23,
+      "xpos": 323,
+      "width": 24,
+      "type": "match",
+      "ypos": 284
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-target-modify-acls-authentication"
+  ]
+}
