@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 433,
+      "ypos": 226,
+      "width": 155,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 365,
+      "ypos": 354,
+      "width": 243,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 326,
+      "ypos": 472,
+      "width": 76,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "nvidia-validation-failed"
+  ]
+}
