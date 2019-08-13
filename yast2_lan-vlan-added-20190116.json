@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 31,
+      "ypos": 112,
+      "width": 121,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 14,
+      "ypos": 30,
+      "width": 133,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vlan-added"
+  ]
+}

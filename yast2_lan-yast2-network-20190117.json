@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 229,
+      "height": 56,
+      "type": "match"
+    },
+    {
+      "xpos": 85,
+      "ypos": 90,
+      "width": 246,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 88,
+      "ypos": 112,
+      "width": 102,
+      "height": 14,
+      "type": "exclude"
+    },
+    {
+      "xpos": 928,
+      "ypos": 714,
+      "width": 80,
+      "height": 28,
+      "type": "match"
+    },
+    {
+      "xpos": 150,
+      "ypos": 0,
+      "width": 76,
+      "height": 15,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-network"
+  ]
+}
