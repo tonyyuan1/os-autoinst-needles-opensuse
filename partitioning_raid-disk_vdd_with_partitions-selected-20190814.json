@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 67,
+      "height": 13,
+      "width": 41,
+      "ypos": 252
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "partitioning_raid-disk_vdd_with_partitions-selected"
+  ]
+}
