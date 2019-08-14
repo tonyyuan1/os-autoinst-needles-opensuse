@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 523,
+      "type": "match",
+      "xpos": 566,
+      "height": 15,
+      "width": 119
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "autologindisabled"
+  ]
+}
