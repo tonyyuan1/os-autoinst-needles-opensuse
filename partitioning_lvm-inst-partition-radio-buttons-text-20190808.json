@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 18,
+      "ypos": 292,
+      "xpos": 387,
+      "type": "match",
+      "height": 10
+    },
+    {
+      "type": "match",
+      "height": 50,
+      "ypos": 255,
+      "xpos": 413,
+      "width": 53
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-TEXT",
+    "inst-partition-radio-buttons"
+  ]
+}
