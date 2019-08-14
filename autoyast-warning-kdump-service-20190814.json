@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 260,
+      "width": 62,
+      "height": 26,
+      "xpos": 272,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 467,
+      "height": 44,
+      "width": 88,
+      "ypos": 489
+    },
+    {
+      "xpos": 312,
+      "ypos": 295,
+      "width": 178,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "warning-pop-up"
+  ]
+}
