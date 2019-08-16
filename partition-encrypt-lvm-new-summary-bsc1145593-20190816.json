@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 65,
+      "height": 63,
+      "type": "match",
+      "xpos": 67,
+      "width": 214
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-TEXT",
+    "partitioning-encrypt-activated"
+  ]
+}
