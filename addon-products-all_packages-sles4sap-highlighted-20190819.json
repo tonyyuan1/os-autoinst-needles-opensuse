@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 362,
+      "ypos": 348,
+      "width": 107,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-sles4sap-highlighted"
+  ]
+}
