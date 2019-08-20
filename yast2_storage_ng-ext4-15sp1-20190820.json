@@ -6,6 +6,13 @@
       "height": 19,
       "xpos": 889,
       "ypos": 37
+    },
+    {
+      "xpos": 353,
+      "ypos": 323,
+      "width": 35,
+      "height": 25,
+      "type": "match"
     }
   ],
   "properties": [],
