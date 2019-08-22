@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 83,
+      "type": "match",
+      "width": 144,
+      "height": 14,
+      "xpos": 261
+    },
+    {
+      "type": "match",
+      "width": 559,
+      "ypos": 250,
+      "height": 26,
+      "xpos": 61
+    },
+    {
+      "xpos": 239,
+      "type": "match",
+      "width": 17,
+      "ypos": 82,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-ssl-loadpage"
+  ]
+}
