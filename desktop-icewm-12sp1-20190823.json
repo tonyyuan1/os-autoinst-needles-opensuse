@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 539,
+      "ypos": 38,
+      "width": 465,
+      "height": 620,
+      "type": "match"
+    },
+    {
+      "xpos": 3,
+      "ypos": 743,
+      "width": 51,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "desktop-icewm"
+  ]
+}
