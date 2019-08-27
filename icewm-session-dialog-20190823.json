@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 334,
+      "ypos": 345,
+      "width": 356,
+      "height": 76,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "icewm-session-dialog"
+  ]
+}

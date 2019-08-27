@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 27,
+      "ypos": 583,
+      "width": 120,
+      "xpos": 591,
+      "click_point": {
+        "xpos": 26,
+        "ypos": 13.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dm-icewm"
+  ]
+}

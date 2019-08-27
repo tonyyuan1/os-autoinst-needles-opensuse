@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 630,
+      "ypos": 483,
+      "width": 120,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dm-icewm"
+  ]
+}

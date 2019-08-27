@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 725,
+      "ypos": 123,
+      "width": 269,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-12ORLATER-1",
+    "user-logout-sector"
+  ]
+}

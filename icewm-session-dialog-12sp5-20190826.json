@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 340,
+      "width": 343,
+      "height": 76,
+      "type": "match",
+      "ypos": 346
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-12ORLATER-1",
+    "icewm-session-dialog"
+  ]
+}

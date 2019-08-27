@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 266,
+      "width": 489,
+      "ypos": 223,
+      "height": 274,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "reboot-auth"
+  ]
+}
