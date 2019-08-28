@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 133,
+      "ypos": 125,
+      "width": 667,
+      "height": 41,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "sap-wizard-disk-selection-warning"
+  ]
+}
