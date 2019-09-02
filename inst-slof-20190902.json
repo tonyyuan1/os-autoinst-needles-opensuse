@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 16,
+      "height": 31,
+      "width": 479,
+      "ypos": 97
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-slof"
+  ]
+}
