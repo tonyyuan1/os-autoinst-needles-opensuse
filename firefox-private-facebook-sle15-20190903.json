@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 7,
+      "height": 22,
+      "width": 156,
+      "ypos": 70
+    },
+    {
+      "xpos": 15,
+      "ypos": 206,
+      "height": 46,
+      "width": 175,
+      "type": "match"
+    },
+    {
+      "xpos": 989,
+      "height": 27,
+      "width": 31,
+      "ypos": 67,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-private-facebook"
+  ]
+}
