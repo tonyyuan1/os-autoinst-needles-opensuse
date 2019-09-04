@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 43,
+      "height": 24,
+      "width": 138,
+      "xpos": 7
+    },
+    {
+      "type": "match",
+      "height": 46,
+      "width": 175,
+      "ypos": 179,
+      "xpos": 15
+    },
+    {
+      "xpos": 991,
+      "width": 29,
+      "height": 28,
+      "ypos": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-private-facebook"
+  ]
+}
