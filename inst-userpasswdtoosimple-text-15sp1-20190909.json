@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 332,
+      "height": 104,
+      "xpos": 379,
+      "width": 276
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "inst-userpasswdtoosimple"
+  ]
+}
