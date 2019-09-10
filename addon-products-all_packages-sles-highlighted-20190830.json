@@ -3,7 +3,14 @@
     {
       "xpos": 359,
       "ypos": 428,
-      "width": 181,
+      "width": 172,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 494,
+      "ypos": 490,
+      "width": 70,
       "height": 10,
       "type": "match"
     }
