@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 31,
+      "ypos": 48,
+      "type": "match",
+      "xpos": 175,
+      "width": 588
+    },
+    {
+      "ypos": 221,
+      "height": 82,
+      "type": "match",
+      "width": 590,
+      "xpos": 173
+    },
+    {
+      "xpos": 8,
+      "width": 249,
+      "ypos": 2,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BETA-1",
+    "ENV-JEOS-1",
+    "jeos-license"
+  ]
+}
