@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 207,
+      "height": 13,
+      "type": "match",
+      "xpos": 414,
+      "width": 323
+    },
+    {
+      "xpos": 615,
+      "width": 63,
+      "type": "exclude",
+      "height": 13,
+      "ypos": 207
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-encrypt-activated"
+  ]
+}
