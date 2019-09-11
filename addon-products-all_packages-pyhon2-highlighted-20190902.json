@@ -1,16 +1,16 @@
 {
   "area": [
     {
-      "width": 121,
       "xpos": 358,
-      "type": "match",
-      "height": 14,
-      "ypos": 326
+      "ypos": 328,
+      "width": 67,
+      "height": 10,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "addon-products-all_packages-script-highlighted"
+    "addon-products-all_packages-pyhon2-highlighted"
   ]
 }
