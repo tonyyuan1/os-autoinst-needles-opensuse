@@ -1,16 +1,23 @@
 {
   "area": [
     {
-      "xpos": 360,
-      "ypos": 203,
-      "width": 119,
-      "height": 11,
+      "xpos": 357,
+      "type": "match",
+      "ypos": 427,
+      "height": 12,
+      "width": 122
+    },
+    {
+      "xpos": 493,
+      "ypos": 490,
+      "width": 145,
+      "height": 12,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
-    "addon-products-all_packages-sdk-highlighted"
+    "addon-products-all_packages-serverapp-highlighted"
   ]
 }
