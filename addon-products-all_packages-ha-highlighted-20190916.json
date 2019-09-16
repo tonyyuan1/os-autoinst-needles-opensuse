@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 281,
+      "ypos": 426,
+      "height": 15,
+      "type": "match",
+      "xpos": 359
+    },
+    {
+      "xpos": 494,
+      "ypos": 491,
+      "width": 60,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-ha-highlighted"
+  ]
+}
