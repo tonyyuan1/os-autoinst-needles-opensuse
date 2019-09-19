@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 212,
+      "type": "match",
+      "height": 63,
+      "xpos": 70,
+      "ypos": 147
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-VIDEOMODE-TEXT",
+    "partitioning-encrypt-activated"
+  ]
+}
