@@ -1,0 +1,28 @@
+{
+  "area": [
+    {
+      "width": 183,
+      "type": "match",
+      "ypos": 403,
+      "height": 10,
+      "xpos": 359
+    },
+    {
+      "height": 10,
+      "ypos": 490,
+      "width": 70,
+      "type": "match",
+      "xpos": 494
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "sles-already-slected"
+    }
+  ],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-sles-highlighted"
+  ]
+}
