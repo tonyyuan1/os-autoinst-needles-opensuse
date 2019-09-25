@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 515,
+      "type": "match",
+      "width": 505,
+      "ypos": 33,
+      "height": 724
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "desktop-sle-classic",
+    "x11",
+    "FAKE",
+    "generic-desktop"
+  ]
+}
