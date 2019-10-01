@@ -1,15 +1,22 @@
 {
-  "tags": [
-    "firefox-developertool-opensuse"
-  ],
   "area": [
     {
-      "xpos": 168,
-      "type": "match",
+      "xpos": 26,
       "width": 123,
-      "ypos": 91,
-      "height": 24
+      "height": 24,
+      "type": "match",
+      "ypos": 43
+    },
+    {
+      "xpos": 11,
+      "ypos": 123,
+      "width": 385,
+      "height": 110,
+      "type": "match"
     }
   ],
-  "properties": []
+  "properties": [],
+  "tags": [
+    "firefox-developertool-opensuse"
+  ]
 }
