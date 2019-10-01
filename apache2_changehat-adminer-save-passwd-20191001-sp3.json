@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 39,
+      "height": 19,
+      "xpos": 529,
+      "type": "match",
+      "ypos": 301
+    },
+    {
+      "ypos": 122,
+      "type": "match",
+      "height": 15,
+      "width": 261,
+      "xpos": 280
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "adminer-save-passwd"
+  ]
+}
