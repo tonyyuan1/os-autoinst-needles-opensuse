@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 490,
+      "height": 263,
+      "ypos": 85,
+      "xpos": 241,
+      "match": 90
+    },
+    {
+      "xpos": 129,
+      "ypos": 82,
+      "width": 483,
+      "height": 33,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-blank_list",
+    "ENV-SP2ORLATER-1"
+  ]
+}
