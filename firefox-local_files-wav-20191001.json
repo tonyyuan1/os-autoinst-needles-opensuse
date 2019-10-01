@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 449,
+      "width": 125,
+      "height": 27,
+      "ypos": 171,
+      "type": "match"
+    },
+    {
+      "xpos": 272,
+      "width": 171,
+      "height": 24,
+      "ypos": 211,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-local_files-wav"
+  ]
+}
