@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 17,
+      "width": 65,
+      "height": 21,
+      "ypos": 210
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-private-checktoday"
+  ]
+}
