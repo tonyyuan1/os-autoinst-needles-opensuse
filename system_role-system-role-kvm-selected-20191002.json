@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 287,
+      "type": "match",
+      "height": 15,
+      "width": 146,
+      "xpos": 363
+    },
+    {
+      "xpos": 394,
+      "width": 199,
+      "height": 47,
+      "type": "match",
+      "ypos": 313
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "system-role-kvm-selected"
+  ]
+}
