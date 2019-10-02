@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 396,
+      "height": 19,
+      "ypos": 209,
+      "width": 187,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-passwd-master_setting"
+  ]
+}
