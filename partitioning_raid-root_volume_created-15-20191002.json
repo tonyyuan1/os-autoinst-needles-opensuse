@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "width": 253,
+      "ypos": 99,
+      "type": "match",
+      "height": 24,
+      "xpos": 16
+    },
+    {
+      "height": 13,
+      "ypos": 151,
+      "type": "match",
+      "width": 132,
+      "xpos": 341
+    },
+    {
+      "width": 79,
+      "ypos": 230,
+      "type": "match",
+      "height": 14,
+      "xpos": 321
+    },
+    {
+      "width": 146,
+      "ypos": 230,
+      "type": "match",
+      "height": 12,
+      "xpos": 582
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-root_volume_created"
+  ]
+}
