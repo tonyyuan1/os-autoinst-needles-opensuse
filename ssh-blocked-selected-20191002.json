@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 454,
+      "xpos": 398,
+      "width": 172,
+      "type": "match",
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "ssh-blocked-selected"
+  ]
+}
