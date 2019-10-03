@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 321,
+      "xpos": 306,
+      "type": "match",
+      "ypos": 146,
+      "width": 366
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "designer-qt5",
+    "designer-qt5-preview",
+    "libqt5-qtbase"
+  ]
+}
