@@ -1,16 +1,16 @@
 {
   "area": [
     {
+      "width": 37,
+      "ypos": 188,
+      "xpos": 427,
       "type": "match",
-      "height": 41,
-      "width": 91,
-      "xpos": 335,
-      "ypos": 447,
+      "height": 17,
       "match": 90
     }
   ],
   "properties": [],
   "tags": [
-    "firefox-passwd-input_username"
+    "firefox-extensions-added"
   ]
 }

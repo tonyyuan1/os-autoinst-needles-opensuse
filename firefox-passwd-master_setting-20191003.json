@@ -1,16 +1,16 @@
 {
   "area": [
     {
-      "width": 63,
-      "xpos": 572,
-      "ypos": 157,
+      "xpos": 396,
+      "ypos": 222,
+      "width": 187,
+      "height": 19,
       "type": "match",
-      "height": 35,
       "match": 80
     }
   ],
   "properties": [],
   "tags": [
-    "firefox-searchall-addon"
+    "firefox-passwd-master_setting"
   ]
 }

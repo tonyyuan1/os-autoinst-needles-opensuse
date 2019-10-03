@@ -1,23 +1,25 @@
 {
+  "area": [
+    {
+      "height": 20,
+      "type": "match",
+      "width": 236,
+      "ypos": 107,
+      "xpos": 241,
+      "match": 90
+    },
+    {
+      "height": 29,
+      "type": "match",
+      "ypos": 226,
+      "xpos": 1,
+      "width": 219,
+      "match": 90
+    }
+  ],
+  "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "firefox-fullscreen-page"
-  ],
-  "properties": [],
-  "area": [
-    {
-      "xpos": 216,
-      "height": 20,
-      "ypos": 107,
-      "width": 262,
-      "type": "match"
-    },
-    {
-      "xpos": 1,
-      "height": 29,
-      "ypos": 227,
-      "type": "match",
-      "width": 219
-    }
   ]
 }
