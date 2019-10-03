@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "ypos": 217,
+      "type": "match",
+      "width": 260,
+      "xpos": 282
+    },
+    {
+      "xpos": 415,
+      "type": "match",
+      "width": 186,
+      "ypos": 540,
+      "height": 41
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "confirm-dasd-format"
+  ]
+}
