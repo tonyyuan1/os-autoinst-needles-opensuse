@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 81,
+      "xpos": 692,
+      "ypos": 168,
+      "width": 65,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "zfcp-activated"
+  ]
+}
