@@ -1,0 +1,51 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 90,
+      "ypos": 195,
+      "xpos": 178,
+      "height": 44
+    },
+    {
+      "ypos": 195,
+      "type": "match",
+      "width": 58,
+      "xpos": 380,
+      "height": 42
+    },
+    {
+      "width": 84,
+      "type": "match",
+      "ypos": 194,
+      "xpos": 584,
+      "height": 42
+    },
+    {
+      "height": 20,
+      "width": 151,
+      "type": "match",
+      "ypos": 309,
+      "xpos": 172
+    },
+    {
+      "xpos": 172,
+      "type": "match",
+      "width": 181,
+      "ypos": 336,
+      "height": 18
+    },
+    {
+      "ypos": 367,
+      "type": "match",
+      "width": 191,
+      "xpos": 179,
+      "height": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-overview"
+  ]
+}
