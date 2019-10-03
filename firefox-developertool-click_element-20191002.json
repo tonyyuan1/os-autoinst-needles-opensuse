@@ -3,14 +3,14 @@
     {
       "height": 20,
       "type": "match",
-      "ypos": 168,
-      "xpos": 494,
-      "width": 68,
-      "match": 80
+      "xpos": 5,
+      "ypos": 495,
+      "width": 21,
+      "match": 90
     }
   ],
   "properties": [],
   "tags": [
-    "firefox-pdf-zoom_menu_actual_size"
+    "firefox-developertool-click_element"
   ]
 }

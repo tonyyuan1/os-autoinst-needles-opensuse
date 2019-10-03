@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 21,
+      "width": 173,
+      "ypos": 107,
+      "xpos": 235,
+      "match": 90
+    },
+    {
+      "xpos": 66,
+      "ypos": 238,
+      "width": 363,
+      "height": 32,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-urls_protocols-ftp"
+  ]
+}

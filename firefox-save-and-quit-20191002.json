@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "width": 149,
+      "xpos": 437,
+      "ypos": 317,
+      "type": "match",
+      "height": 21,
+      "match": 90
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "width": 74,
+      "ypos": 451,
+      "xpos": 662,
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "firefox-save-and-quit"
+  ]
+}
