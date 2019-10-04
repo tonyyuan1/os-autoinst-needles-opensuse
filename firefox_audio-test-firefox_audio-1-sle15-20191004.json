@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 691,
+      "ypos": 391,
+      "xpos": 169,
+      "height": 68
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-firefox_audio-1"
+  ]
+}
