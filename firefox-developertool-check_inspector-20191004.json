@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 24,
+      "ypos": 593,
+      "width": 43,
+      "type": "match",
+      "height": 11
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-check_inspector"
+  ]
+}
