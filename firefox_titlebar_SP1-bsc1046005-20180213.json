@@ -1,17 +1,21 @@
 {
-  "tags": [
-    "firefox_titlebar"
-  ],
   "area": [
     {
-      "xpos": 657,
-      "width": 147,
-      "type": "match",
       "height": 42,
-      "ypos": 2
+      "xpos": 657,
+      "ypos": 2,
+      "type": "match",
+      "width": 147,
+      "match": 80
     }
   ],
   "properties": [
-    "workaround"
+    {
+      "name": "workaround",
+      "value": "bsc1046005"
+    }
+  ],
+  "tags": [
+    "firefox_titlebar"
   ]
 }
