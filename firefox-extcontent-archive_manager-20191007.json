@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 80,
+      "width": 116,
+      "height": 22,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extcontent-archive_manager"
+  ]
+}
