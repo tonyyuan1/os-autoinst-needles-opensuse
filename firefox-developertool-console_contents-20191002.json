@@ -1,17 +1,16 @@
 {
   "area": [
     {
-      "ypos": 623,
-      "xpos": 50,
-      "width": 32,
-      "type": "match",
       "height": 17,
-      "match": 90
+      "ypos": 623,
+      "type": "match",
+      "width": 32,
+      "match": 70,
+      "xpos": 50
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-SP2ORLATER-1",
     "firefox-developertool-console_contents"
   ]
 }
