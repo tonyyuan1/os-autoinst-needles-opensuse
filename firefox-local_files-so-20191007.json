@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 444,
+      "width": 136,
+      "type": "match",
+      "ypos": 192
+    },
+    {
+      "height": 14,
+      "xpos": 670,
+      "ypos": 373,
+      "type": "match",
+      "width": 65
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-local_files-so"
+  ]
+}
