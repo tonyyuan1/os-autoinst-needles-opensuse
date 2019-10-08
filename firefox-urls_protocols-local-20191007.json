@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 16,
+      "ypos": 85,
+      "type": "match",
+      "width": 239,
+      "xpos": 227
+    },
+    {
+      "xpos": 5,
+      "width": 223,
+      "type": "match",
+      "ypos": 196,
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-urls_protocols-local"
+  ]
+}
