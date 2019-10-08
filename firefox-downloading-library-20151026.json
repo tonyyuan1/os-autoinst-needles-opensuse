@@ -1,22 +1,24 @@
 {
+  "area": [
+    {
+      "height": 20,
+      "xpos": 255,
+      "ypos": 87,
+      "type": "match",
+      "width": 73,
+      "match": 80
+    },
+    {
+      "ypos": 9,
+      "type": "match",
+      "width": 59,
+      "xpos": 323,
+      "height": 26,
+      "match": 85
+    }
+  ],
   "properties": [],
   "tags": [
     "firefox-downloading-library"
-  ],
-  "area": [
-    {
-      "xpos": 255,
-      "ypos": 87,
-      "width": 73,
-      "height": 20,
-      "type": "match"
-    },
-    {
-      "xpos": 323,
-      "ypos": 9,
-      "width": 59,
-      "height": 26,
-      "type": "match"
-    }
   ]
 }
