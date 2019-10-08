@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 60,
+      "type": "match",
+      "ypos": 374,
+      "xpos": 794,
+      "height": 22,
+      "match": 60
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-extensions-remove"
+  ]
+}
