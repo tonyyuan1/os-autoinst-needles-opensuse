@@ -1,15 +1,16 @@
 {
-  "tags": [
-    "firefox-plugins-missing"
-  ],
   "area": [
     {
-      "height": 268,
+      "xpos": 341,
       "ypos": 240,
       "width": 100,
-      "xpos": 341,
-      "type": "match"
+      "type": "match",
+      "height": 268,
+      "match": 80
     }
   ],
-  "properties": []
+  "properties": [],
+  "tags": [
+    "firefox-plugins-missing"
+  ]
 }
