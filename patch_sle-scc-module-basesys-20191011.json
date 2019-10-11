@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 37,
+      "ypos": 131,
+      "width": 167,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-module-basesys-selected"
+  ]
+}
