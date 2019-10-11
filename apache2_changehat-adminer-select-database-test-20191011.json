@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 302,
+      "ypos": 197,
+      "width": 159,
+      "type": "match",
+      "height": 21
+    },
+    {
+      "ypos": 458,
+      "width": 60,
+      "xpos": 304,
+      "type": "match",
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "adminer-select-database-test"
+  ]
+}
