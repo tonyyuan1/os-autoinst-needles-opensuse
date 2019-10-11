@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 34,
+      "width": 346,
+      "xpos": 26,
+      "ypos": 96
+    },
+    {
+      "xpos": 142,
+      "type": "match",
+      "height": 71,
+      "width": 76,
+      "ypos": 266
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-startup-and-authentication",
+    "iscsi-initiator-startup-and-authentication-sle12sp2"
+  ]
+}
