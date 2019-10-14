@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 63,
+      "xpos": 0,
+      "height": 15,
+      "ypos": 752
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpg-set-comment"
+  ]
+}
