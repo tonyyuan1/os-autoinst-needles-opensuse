@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 601,
+      "ypos": 276,
+      "width": 253,
+      "height": 86,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_security-type-opened"
+  ]
+}
