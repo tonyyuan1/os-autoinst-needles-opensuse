@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "width": 176,
+      "xpos": 420,
+      "type": "match",
+      "ypos": 198
+    },
+    {
+      "width": 189,
+      "height": 25,
+      "type": "match",
+      "ypos": 564,
+      "xpos": 241
+    },
+    {
+      "width": 410,
+      "height": 45,
+      "ypos": 447,
+      "type": "match",
+      "xpos": 231
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_incoming-self-signed-cert"
+  ]
+}
