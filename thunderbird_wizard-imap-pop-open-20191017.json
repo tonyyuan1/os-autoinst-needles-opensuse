@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 218,
+      "ypos": 498,
+      "width": 91,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_wizard-imap-pop-open"
+  ]
+}
