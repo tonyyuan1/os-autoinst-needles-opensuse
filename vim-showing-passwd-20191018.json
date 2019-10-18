@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 307,
+      "xpos": 2,
+      "height": 10,
+      "width": 163
+    },
+    {
+      "height": 10,
+      "width": 85,
+      "xpos": 10,
+      "type": "match",
+      "ypos": 755
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1154300"
+    }
+  ],
+  "tags": [
+    "vim-showing-passwd"
+  ]
+}
