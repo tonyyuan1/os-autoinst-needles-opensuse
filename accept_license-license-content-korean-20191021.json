@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 406,
+      "width": 633,
+      "xpos": 359,
+      "type": "match",
+      "ypos": 257
+    },
+    {
+      "xpos": 23,
+      "ypos": 192,
+      "width": 304,
+      "height": 93,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "license-content-korean"
+  ]
+}
