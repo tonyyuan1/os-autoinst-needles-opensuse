@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 103,
+      "ypos": 239,
+      "width": 37,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_vda2-selected"
+  ]
+}
