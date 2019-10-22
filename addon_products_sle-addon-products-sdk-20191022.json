@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 32,
+      "width": 49,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 80,
+      "width": 40,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "addon-products-sdk"
+  ]
+}
