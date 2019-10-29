@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 5,
+      "type": "match",
+      "ypos": 259,
+      "width": 294,
+      "height": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-request-parameters-example-1"
+  ]
+}

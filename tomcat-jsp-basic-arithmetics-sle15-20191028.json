@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 274,
+      "type": "match",
+      "height": 306,
+      "width": 277,
+      "xpos": 21
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-jsp-basic-arithmetics"
+  ]
+}

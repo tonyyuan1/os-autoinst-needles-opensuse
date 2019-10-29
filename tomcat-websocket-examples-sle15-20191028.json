@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "width": 565,
+      "height": 67,
+      "type": "match",
+      "ypos": 151
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tomcat-websocket-examples"
+  ]
+}
