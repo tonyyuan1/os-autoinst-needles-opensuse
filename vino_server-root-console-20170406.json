@@ -2,6 +2,7 @@
   "properties": [],
   "tags": [
     "ENV-SP2ORLATER-1",
+    "tunnel-console",
     "root-console",
     "log-console"
   ],
