@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 400,
+      "height": 15,
+      "xpos": 81,
+      "width": 256,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "cz_keymap"
+  ]
+}
