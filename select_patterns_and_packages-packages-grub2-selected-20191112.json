@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 296,
+      "ypos": 169,
+      "width": 66,
+      "height": 12,
+      "type": "match",
+      "match": 86,
+      "click_point": {
+        "xpos": 6,
+        "ypos": 9
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "packages-grub2-selected"
+  ]
+}
