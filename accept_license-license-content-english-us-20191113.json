@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 169,
+      "width": 639,
+      "height": 518,
+      "type": "match"
+    },
+    {
+      "xpos": 351,
+      "ypos": 699,
+      "width": 171,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "license-content-english-us"
+  ]
+}
