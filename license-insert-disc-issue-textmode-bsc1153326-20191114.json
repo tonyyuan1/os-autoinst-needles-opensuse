@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 33,
+      "width": 138,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 313,
+      "ypos": 319,
+      "width": 30,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 393,
+      "ypos": 414,
+      "width": 57,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1153326 - Installer asks for a Disk after selecting modules"
+    }
+  ],
+  "tags": [
+    "license-insert-disc-issue"
+  ]
+}
