@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 281,
+      "ypos": 274,
+      "height": 15,
+      "width": 154,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "ENV-SP2ORLATER-1",
+    "installation",
+    "rebootnow"
+  ]
+}
