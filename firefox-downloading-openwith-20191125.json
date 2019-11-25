@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 28,
+      "xpos": 285,
+      "ypos": 380,
+      "width": 95,
+      "match": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-downloading-openwith"
+  ]
+}
