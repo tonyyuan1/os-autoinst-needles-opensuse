@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 26,
+      "height": 21,
+      "type": "match",
+      "xpos": 15,
+      "width": 99
+    },
+    {
+      "width": 119,
+      "ypos": 129,
+      "height": 12,
+      "type": "match",
+      "xpos": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "system-role-default-system"
+  ]
+}
