@@ -1,17 +1,15 @@
 {
   "area": [
     {
-      "width": 93,
-      "ypos": 160,
       "xpos": 242,
       "height": 22,
       "type": "match",
-      "match": 85
+      "ypos": 160,
+      "width": 93
     }
   ],
   "properties": [],
   "tags": [
-    "inst-textselected",
-    "inst-textselected-with_colormenu"
+    "inst-textselected"
   ]
 }
