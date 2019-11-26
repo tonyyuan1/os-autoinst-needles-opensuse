@@ -1,0 +1,64 @@
+{
+  "area": [
+    {
+      "width": 134,
+      "ypos": 31,
+      "xpos": 10,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "width": 66,
+      "ypos": 49,
+      "xpos": 151,
+      "type": "match",
+      "height": 14
+    },
+    {
+      "width": 43,
+      "xpos": 962,
+      "height": 14,
+      "type": "match",
+      "ypos": 720
+    },
+    {
+      "width": 974,
+      "ypos": 73,
+      "xpos": 10,
+      "height": 242,
+      "type": "match"
+    },
+    {
+      "ypos": 82,
+      "type": "match",
+      "height": 10,
+      "xpos": 30,
+      "width": 38
+    },
+    {
+      "width": 78,
+      "type": "match",
+      "height": 17,
+      "xpos": 243,
+      "ypos": 78
+    },
+    {
+      "ypos": 82,
+      "xpos": 330,
+      "type": "match",
+      "height": 11,
+      "width": 44
+    },
+    {
+      "ypos": 81,
+      "xpos": 384,
+      "height": 12,
+      "type": "match",
+      "width": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan"
+  ]
+}
