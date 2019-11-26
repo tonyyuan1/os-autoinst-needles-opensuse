@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "height": 195,
+      "type": "match",
+      "xpos": 270,
+      "ypos": 348,
+      "width": 489
+    },
+    {
+      "width": 182,
+      "xpos": 368,
+      "type": "match",
+      "height": 23,
+      "ypos": 253
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "shutdown-auth"
+  ]
+}
