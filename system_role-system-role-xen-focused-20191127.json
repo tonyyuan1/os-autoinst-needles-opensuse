@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "width": 234,
+      "height": 13,
+      "ypos": 306,
+      "type": "match"
+    },
+    {
+      "ypos": 34,
+      "type": "match",
+      "height": 14,
+      "xpos": 17,
+      "width": 88
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-xen-focused"
+  ]
+}
