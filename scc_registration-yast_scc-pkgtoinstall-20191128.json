@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 33,
+      "width": 128,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 34,
+      "ypos": 706,
+      "width": 253,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-VIDEOMODE-text",
+    "yast_scc-pkgtoinstall"
+  ]
+}
