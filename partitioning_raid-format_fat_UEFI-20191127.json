@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 322,
+      "ypos": 302,
+      "width": 103,
+      "height": 71,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-format_default_UEFI",
+    "partitioning_raid-fat_format-selected"
+  ]
+}
