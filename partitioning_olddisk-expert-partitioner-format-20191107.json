@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 29,
+      "xpos": 271,
+      "type": "match",
+      "width": 154,
+      "ypos": 290
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "expert-partitioner-format"
+  ]
+}

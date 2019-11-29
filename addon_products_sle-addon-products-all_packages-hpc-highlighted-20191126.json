@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 55,
+      "ypos": 147,
+      "width": 81,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-products-all_packages-hpc-highlighted"
+  ]
+}
