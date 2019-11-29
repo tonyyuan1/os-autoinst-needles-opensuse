@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 142,
+      "ypos": 198,
+      "width": 180,
+      "height": 71,
+      "type": "match"
+    },
+    {
+      "xpos": 594,
+      "ypos": 671,
+      "width": 61,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "autoyast-stage1-reboot-upcoming"
+  ]
+}
