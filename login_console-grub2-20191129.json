@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 151,
+      "xpos": 232,
+      "height": 14,
+      "ypos": 16,
+      "type": "match"
+    },
+    {
+      "width": 41,
+      "xpos": 16,
+      "height": 18,
+      "ypos": 62,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "grub2"
+  ]
+}
