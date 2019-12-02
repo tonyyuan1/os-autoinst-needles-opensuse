@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 57,
+      "ypos": 116,
+      "width": 213,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "addon-products-all_packages-desktop-highlighted"
+  ]
+}
