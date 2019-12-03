@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 446,
+      "width": 136,
+      "ypos": 201,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 389,
+      "width": 65,
+      "xpos": 668,
+      "height": 14
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-local_files-so"
+  ]
+}
