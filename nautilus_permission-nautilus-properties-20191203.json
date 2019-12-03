@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 114,
+      "xpos": 179,
+      "width": 162,
+      "height": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "nautilus-properties"
+  ]
+}
