@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 91,
+      "width": 331,
+      "height": 417,
+      "ypos": 103,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "test-brasero-started"
+  ]
+}
