@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 89,
+      "width": 156,
+      "height": 12,
+      "type": "match",
+      "ypos": 609
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-developertool-element"
+  ]
+}
