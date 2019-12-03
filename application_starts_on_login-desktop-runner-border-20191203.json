@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 691,
+      "xpos": 3,
+      "height": 506,
+      "type": "match",
+      "ypos": 3
+    },
+    {
+      "width": 126,
+      "xpos": 445,
+      "height": 19,
+      "type": "exclude",
+      "ypos": 4
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnome-tweak-tool"
+  ]
+}
