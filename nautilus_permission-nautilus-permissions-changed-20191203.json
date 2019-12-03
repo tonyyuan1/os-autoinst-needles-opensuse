@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 252,
+      "width": 114,
+      "height": 99,
+      "ypos": 292,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nautilus-permissions-changed"
+  ]
+}
