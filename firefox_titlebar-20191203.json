@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "width": 140,
+      "xpos": 229,
+      "ypos": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox_titlebar"
+  ]
+}
