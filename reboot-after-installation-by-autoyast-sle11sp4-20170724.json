@@ -1,15 +1,16 @@
 {
-  "properties": [],
   "area": [
     {
-      "xpos": 121,
-      "ypos": 353,
+      "xpos": 65,
       "width": 134,
       "height": 16,
-      "type": "match"
+      "type": "match",
+      "ypos": 737
     }
   ],
+  "properties": [],
   "tags": [
+    "ENV-15ORLATER-0",
     "reboot-after-installation"
   ]
 }
