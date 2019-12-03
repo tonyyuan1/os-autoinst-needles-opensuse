@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 123,
+      "width": 105,
+      "xpos": 123,
+      "type": "match",
+      "ypos": 113
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "settings"
+  ]
+}
