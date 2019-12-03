@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "ypos": 71,
+      "type": "match",
+      "height": 16,
+      "xpos": 416,
+      "width": 112,
+      "match": 80
+    },
+    {
+      "ypos": 113,
+      "type": "match",
+      "height": 21,
+      "xpos": 121,
+      "width": 75,
+      "match": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firewall-start-page"
+  ]
+}
