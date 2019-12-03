@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 32,
+      "width": 176,
+      "xpos": 425,
+      "height": 36
+    },
+    {
+      "height": 33,
+      "xpos": 3,
+      "width": 138,
+      "type": "match",
+      "ypos": 223
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_wizard-account-summary"
+  ]
+}
