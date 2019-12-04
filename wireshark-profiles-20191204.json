@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "type": "match",
+      "ypos": 177,
+      "xpos": 387,
+      "width": 231
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wireshark-profiles"
+  ]
+}
