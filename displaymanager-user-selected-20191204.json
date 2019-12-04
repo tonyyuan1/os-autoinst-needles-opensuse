@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 344,
+      "ypos": 335,
+      "width": 66,
+      "type": "match",
+      "height": 69
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "displaymanager-user-selected"
+  ]
+}
