@@ -1,0 +1,35 @@
+{
+  "area": [
+    {
+      "height": 70,
+      "type": "match",
+      "width": 361,
+      "xpos": 31,
+      "ypos": 198
+    },
+    {
+      "ypos": 21,
+      "xpos": 27,
+      "width": 991,
+      "height": 744,
+      "type": "match"
+    },
+    {
+      "height": 127,
+      "type": "exclude",
+      "width": 363,
+      "xpos": 429,
+      "ypos": 456
+    }
+  ],
+  "properties": [
+    {
+      "value": "bsc1118456",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "select-product"
+  ]
+}
