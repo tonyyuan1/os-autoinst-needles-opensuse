@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 39,
+      "ypos": 333,
+      "xpos": 540,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "build-service-cert"
+  ]
+}
