@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 265,
+      "ypos": 591,
+      "xpos": 383,
+      "height": 161,
+      "type": "match"
+    },
+    {
+      "width": 182,
+      "ypos": 310,
+      "xpos": 314,
+      "type": "match",
+      "height": 252
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "displaymanager"
+  ]
+}
