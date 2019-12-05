@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "xpos": 0,
+      "width": 478,
+      "height": 290,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-OFW-0",
+    "bootloader",
+    "inst-bootmenu"
+  ]
+}
