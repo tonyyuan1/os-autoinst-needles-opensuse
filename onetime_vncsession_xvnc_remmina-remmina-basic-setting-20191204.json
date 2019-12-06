@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 54,
+      "ypos": 315,
+      "height": 25,
+      "xpos": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-basic-setting"
+  ]
+}
