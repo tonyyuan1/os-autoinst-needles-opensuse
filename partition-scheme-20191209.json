@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "ypos": 95,
+      "type": "match",
+      "width": 166,
+      "xpos": 13,
+      "height": 44
+    },
+    {
+      "ypos": 96,
+      "type": "match",
+      "width": 127,
+      "xpos": 187,
+      "height": 40
+    },
+    {
+      "xpos": 968,
+      "ypos": 729,
+      "width": 35,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-scheme",
+    "storage-ng"
+  ]
+}
