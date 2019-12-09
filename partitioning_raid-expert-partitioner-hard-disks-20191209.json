@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 331,
+      "height": 15,
+      "ypos": 336,
+      "type": "match",
+      "width": 363
+    },
+    {
+      "ypos": 433,
+      "type": "match",
+      "width": 27,
+      "height": 19,
+      "xpos": 471
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "rescan-devices-warning",
+    "storage-ng"
+  ]
+}
