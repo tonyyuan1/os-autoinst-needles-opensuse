@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 77,
+      "ypos": 428,
+      "width": 169,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-conflicts"
+  ]
+}
