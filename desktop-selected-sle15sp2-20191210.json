@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 536,
+      "width": 227,
+      "height": 82,
+      "xpos": 32
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "desktop-selected"
+  ]
+}
