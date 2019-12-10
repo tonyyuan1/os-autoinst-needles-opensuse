@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 317,
+      "xpos": 345,
+      "type": "match",
+      "ypos": 229,
+      "width": 363
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "vncmanager-greeter"
+  ]
+}
