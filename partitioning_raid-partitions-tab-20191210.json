@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 650,
+      "ypos": 165,
+      "width": 216,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partitions-tab"
+  ]
+}
