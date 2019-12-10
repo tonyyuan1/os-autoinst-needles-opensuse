@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 414,
+      "height": 59,
+      "type": "match",
+      "ypos": 299,
+      "width": 103
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "filesystem-root-menu-selected"
+  ]
+}
