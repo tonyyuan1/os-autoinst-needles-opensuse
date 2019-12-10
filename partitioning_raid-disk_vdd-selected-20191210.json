@@ -1,15 +1,16 @@
 {
   "area": [
     {
-      "xpos": 84,
-      "ypos": 238,
+      "xpos": 83,
+      "ypos": 237,
       "width": 22,
-      "height": 28,
+      "height": 29,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-15SP2ORLATER-1"
+    "ENV-15SP2ORLATER-1",
+    "partitioning_raid-disk_vdd-selected"
   ]
 }
