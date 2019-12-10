@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 631,
+      "width": 121,
+      "xpos": 399,
+      "height": 104
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-dropdown-open"
+  ]
+}
