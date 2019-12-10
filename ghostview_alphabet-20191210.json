@@ -1,0 +1,21 @@
+{
+  "area": [
+    {
+      "xpos": 59,
+      "height": 54,
+      "ypos": 96,
+      "type": "match",
+      "width": 291
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://bugzilla.suse.com/show_bug.cgi?id=1158907"
+    }
+  ],
+  "tags": [
+    "bsc1158907",
+    "ghostview_alphabet"
+  ]
+}
