@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 305,
+      "ypos": 339,
+      "height": 31,
+      "xpos": 343
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "contacting-registration-server"
+  ]
+}
