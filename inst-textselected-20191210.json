@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 467,
+      "type": "match",
+      "width": 120,
+      "height": 23,
+      "xpos": 225
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-textselected",
+    "inst-textselected-with_colormenu"
+  ]
+}
