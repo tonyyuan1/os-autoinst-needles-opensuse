@@ -1,23 +1,24 @@
 {
   "area": [
     {
-      "ypos": 92,
-      "type": "match",
       "width": 289,
-      "height": 41,
-      "xpos": 9
+      "type": "match",
+      "ypos": 92,
+      "xpos": 9,
+      "height": 41
     },
     {
-      "xpos": 33,
+      "xpos": 969,
+      "ypos": 732,
+      "width": 35,
       "height": 15,
-      "type": "match",
-      "width": 40,
-      "ypos": 37
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
+    "ENV-15SP2ORLATER-1",
+    "ENV-STORAGE_NG-1",
     "inst-filesystem-options",
     "storage-ng"
   ]
