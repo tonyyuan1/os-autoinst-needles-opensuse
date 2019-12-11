@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 30,
+      "width": 177,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 936,
+      "ypos": 718,
+      "width": 64,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "inst-overview",
+    "installation-settings-overview-loaded"
+  ]
+}
