@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 125,
+      "type": "match",
+      "xpos": 72,
+      "width": 297,
+      "height": 194
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nautilus-newfile-moved"
+  ]
+}
