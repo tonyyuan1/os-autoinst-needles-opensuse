@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 425,
+      "type": "match",
+      "width": 233,
+      "height": 43,
+      "xpos": 391,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-html5-support"
+  ]
+}
