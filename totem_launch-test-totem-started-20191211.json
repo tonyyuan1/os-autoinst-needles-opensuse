@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "ypos": 2,
+      "width": 1014,
+      "height": 136,
+      "type": "match",
+      "xpos": 4
+    },
+    {
+      "xpos": 467,
+      "type": "exclude",
+      "height": 21,
+      "width": 476,
+      "ypos": 4
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLE_PRODUCT-SLED",
+    "test-totem-started",
+    "totem"
+  ]
+}
