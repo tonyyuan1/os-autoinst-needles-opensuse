@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 35,
+      "xpos": 236,
+      "height": 410,
+      "width": 325
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-instsourcedialog-smb"
+  ]
+}
