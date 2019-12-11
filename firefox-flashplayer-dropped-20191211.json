@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 136,
+      "type": "match",
+      "height": 152,
+      "width": 286,
+      "xpos": 512
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-flashplayer-dropped"
+  ]
+}
