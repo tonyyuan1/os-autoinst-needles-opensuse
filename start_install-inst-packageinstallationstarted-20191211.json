@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 9,
+      "ypos": 30,
+      "width": 160,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "inst-packageinstallationstarted"
+  ]
+}
