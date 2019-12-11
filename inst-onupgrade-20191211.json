@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 224,
+      "height": 30,
+      "width": 116,
+      "xpos": 248
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-onupgrade"
+  ]
+}
