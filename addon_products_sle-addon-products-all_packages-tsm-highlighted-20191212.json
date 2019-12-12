@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 357,
+      "ypos": 400,
+      "width": 131,
+      "height": 20,
+      "type": "match"
+    },
+    {
+      "xpos": 536,
+      "ypos": 488,
+      "width": 112,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-tsm-highlighted"
+  ]
+}
