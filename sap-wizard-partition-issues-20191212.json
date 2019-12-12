@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 167,
+      "height": 26,
+      "ypos": 208,
+      "xpos": 234,
+      "type": "match"
+    },
+    {
+      "ypos": 265,
+      "height": 21,
+      "width": 421,
+      "type": "match",
+      "xpos": 239
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-wizard-partition-issues"
+  ]
+}
