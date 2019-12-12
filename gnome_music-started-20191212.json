@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 375,
+      "ypos": 257,
+      "height": 235,
+      "width": 282,
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-gnome-music-started"
+  ]
+}
