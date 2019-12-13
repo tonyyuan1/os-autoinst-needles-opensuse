@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 730,
+      "ypos": 210,
+      "width": 62,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "expert-partitioner-perf-os7"
+  ]
+}
