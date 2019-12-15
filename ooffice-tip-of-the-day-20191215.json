@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 461,
+      "ypos": 257,
+      "width": 105,
+      "height": 26,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooffice-tip-of-the-day",
+    "test-oocalc-1"
+  ]
+}
