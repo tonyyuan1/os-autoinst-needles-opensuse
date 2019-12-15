@@ -1,17 +1,17 @@
 {
   "area": [
     {
-      "xpos": 461,
-      "ypos": 257,
-      "width": 105,
-      "height": 26,
+      "xpos": 462,
       "type": "match",
-      "match": 90
+      "height": 26,
+      "width": 105,
+      "ypos": 257
     }
   ],
   "properties": [],
   "tags": [
     "ooffice-tip-of-the-day",
+    "ooffice-writer-tools",
     "test-oocalc-1"
   ]
 }
