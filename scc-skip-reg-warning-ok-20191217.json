@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 509,
+      "width": 35,
+      "height": 23,
+      "type": "match",
+      "xpos": 494
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "scc-skip-reg-warning-ok"
+  ]
+}
