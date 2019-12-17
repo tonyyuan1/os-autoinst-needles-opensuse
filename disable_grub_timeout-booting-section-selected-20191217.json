@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 689,
+      "width": 54,
+      "height": 23,
+      "type": "match",
+      "xpos": 357
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SLE15SP2ORLATER-1",
+    "booting-section-selected"
+  ]
+}
