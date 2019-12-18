@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 199,
+      "ypos": 40,
+      "xpos": 68,
+      "type": "match",
+      "height": 42
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER",
+    "packages-search-tab"
+  ]
+}
