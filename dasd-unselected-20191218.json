@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 192,
+      "height": 12,
+      "width": 73,
+      "type": "match",
+      "xpos": 360
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "dasd-unselected"
+  ]
+}
