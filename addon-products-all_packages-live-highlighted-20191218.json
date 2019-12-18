@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 488,
+      "ypos": 491,
+      "width": 121,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 359,
+      "ypos": 276,
+      "width": 211,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-live-highlighted"
+  ]
+}
