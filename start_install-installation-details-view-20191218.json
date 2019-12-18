@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 108,
+      "xpos": 104,
+      "ypos": 179,
+      "width": 244
+    },
+    {
+      "width": 95,
+      "xpos": 338,
+      "ypos": 674,
+      "type": "match",
+      "height": 31
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation-details-view",
+    "installation-details-view-s390x-upgrade-preparation-sp1-to-later"
+  ]
+}
