@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 112,
+      "type": "match",
+      "height": 12,
+      "xpos": 358,
+      "ypos": 146
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-desktop"
+  ]
+}
