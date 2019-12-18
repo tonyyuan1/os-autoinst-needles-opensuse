@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "type": "match",
+      "ypos": 334,
+      "xpos": 346,
+      "width": 48
+    },
+    {
+      "width": 81,
+      "ypos": 717,
+      "xpos": 823,
+      "type": "match",
+      "height": 42
+    },
+    {
+      "width": 118,
+      "ypos": 378,
+      "xpos": 345,
+      "type": "match",
+      "height": 17
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "autoyast-error",
+    "nonexisting-package"
+  ]
+}
