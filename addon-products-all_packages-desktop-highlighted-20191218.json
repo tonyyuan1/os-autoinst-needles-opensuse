@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 487,
+      "ypos": 488,
+      "width": 163,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 175,
+      "width": 178,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-desktop-highlighted"
+  ]
+}
