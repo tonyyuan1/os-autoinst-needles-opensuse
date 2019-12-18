@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 55,
+      "ypos": 89,
+      "xpos": 354,
+      "width": 123
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "dasd-disk-management"
+  ]
+}
