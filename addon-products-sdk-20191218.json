@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 830,
+      "ypos": 132,
+      "height": 10,
+      "type": "match",
+      "width": 98
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-sdk"
+  ]
+}
