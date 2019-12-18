@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "width": 287,
+      "xpos": 7,
+      "ypos": 92,
+      "type": "match",
+      "height": 38
+    },
+    {
+      "ypos": 728,
+      "xpos": 964,
+      "type": "match",
+      "height": 21,
+      "width": 41
+    },
+    {
+      "height": 15,
+      "type": "match",
+      "xpos": 375,
+      "ypos": 394,
+      "width": 261
+    },
+    {
+      "type": "match",
+      "height": 15,
+      "xpos": 372,
+      "ypos": 475,
+      "width": 216
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "existing-partitions",
+    "storage-ng"
+  ]
+}
