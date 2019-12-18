@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 491,
+      "ypos": 489,
+      "width": 90,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 357,
+      "ypos": 223,
+      "width": 103,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-legacy-highlighted"
+  ]
+}
