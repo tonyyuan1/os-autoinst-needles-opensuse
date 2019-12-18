@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "height": 55,
+      "width": 105,
+      "ypos": 344,
+      "xpos": 349,
+      "type": "match"
+    },
+    {
+      "ypos": 188,
+      "height": 108,
+      "width": 300,
+      "type": "match",
+      "xpos": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DISTRI-sle",
+    "ENV-INSTLANG-en_US",
+    "ENV-15ORLATER-1",
+    "inst-welcome-no-product-list",
+    "languagepicked"
+  ]
+}
