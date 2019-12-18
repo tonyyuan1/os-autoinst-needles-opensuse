@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 259,
+      "xpos": 358,
+      "ypos": 690,
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ssh-key-import-selected"
+  ]
+}
