@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 92,
+      "type": "match",
+      "height": 17,
+      "ypos": 228,
+      "xpos": 323
+    },
+    {
+      "type": "match",
+      "height": 17,
+      "xpos": 340,
+      "ypos": 149,
+      "width": 136
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "volume-management-root-selected"
+  ]
+}
