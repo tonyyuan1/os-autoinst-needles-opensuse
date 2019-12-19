@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 408,
+      "type": "match",
+      "xpos": 27,
+      "ypos": 99,
+      "height": 26
+    },
+    {
+      "xpos": 401,
+      "type": "match",
+      "width": 154,
+      "height": 12,
+      "ypos": 335
+    },
+    {
+      "type": "match",
+      "width": 38,
+      "xpos": 966,
+      "ypos": 726,
+      "height": 22
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "volume-name-root-max-size"
+  ]
+}
