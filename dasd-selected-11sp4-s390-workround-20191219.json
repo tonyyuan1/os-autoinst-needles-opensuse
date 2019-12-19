@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "width": 170,
+      "type": "match",
+      "xpos": 361,
+      "ypos": 135,
+      "height": 12
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1159521 : selected flag disappear after active dasd on 11sp4 s390"
+    }
+  ],
+  "tags": [
+    "dasd-selected"
+  ]
+}
