@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 274,
+      "ypos": 182,
+      "width": 392,
+      "height": 79,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "confirm-dasd-format"
+  ]
+}
