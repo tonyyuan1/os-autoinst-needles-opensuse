@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 253,
+      "xpos": 16,
+      "ypos": 99,
+      "height": 24
+    },
+    {
+      "height": 13,
+      "ypos": 151,
+      "xpos": 341,
+      "width": 132,
+      "type": "match"
+    },
+    {
+      "height": 14,
+      "ypos": 230,
+      "xpos": 321,
+      "width": 79,
+      "type": "match"
+    },
+    {
+      "xpos": 648,
+      "ypos": 230,
+      "width": 20,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-root_volume_created"
+  ]
+}
