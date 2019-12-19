@@ -1,0 +1,67 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "ypos": 221,
+      "xpos": 416,
+      "type": "match",
+      "width": 131
+    },
+    {
+      "type": "match",
+      "width": 81,
+      "xpos": 649,
+      "ypos": 206,
+      "height": 11
+    },
+    {
+      "xpos": 633,
+      "type": "match",
+      "width": 103,
+      "height": 12,
+      "ypos": 190
+    },
+    {
+      "ypos": 192,
+      "height": 25,
+      "width": 82,
+      "type": "match",
+      "xpos": 416
+    },
+    {
+      "xpos": 412,
+      "width": 63,
+      "type": "match",
+      "height": 15,
+      "ypos": 173
+    },
+    {
+      "xpos": 835,
+      "ypos": 251,
+      "width": 138,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 839,
+      "ypos": 267,
+      "width": 107,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 694,
+      "ypos": 223,
+      "width": 108,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-ARCH-ppc64le",
+    "ENV-INSTLANG-en_US",
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ]
+}
