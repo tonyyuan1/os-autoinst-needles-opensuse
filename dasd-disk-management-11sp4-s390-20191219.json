@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 290,
+      "ypos": 17,
+      "width": 286,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 293,
+      "ypos": 58,
+      "width": 112,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dasd-disk-management"
+  ]
+}
