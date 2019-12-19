@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 73,
+      "type": "match",
+      "xpos": 940,
+      "ypos": 744,
+      "height": 13
+    },
+    {
+      "xpos": 359,
+      "ypos": 235,
+      "width": 140,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-wsm"
+  ]
+}
