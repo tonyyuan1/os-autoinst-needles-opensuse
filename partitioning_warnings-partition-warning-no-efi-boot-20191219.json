@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 11,
+      "ypos": 333,
+      "xpos": 324,
+      "type": "match",
+      "width": 144
+    },
+    {
+      "width": 33,
+      "type": "match",
+      "xpos": 471,
+      "ypos": 511,
+      "height": 16
+    },
+    {
+      "height": 16,
+      "ypos": 513,
+      "xpos": 530,
+      "type": "match",
+      "width": 19
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-warning-no-efi-boot"
+  ]
+}
