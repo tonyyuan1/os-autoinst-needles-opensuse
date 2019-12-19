@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 14,
+      "ypos": 221,
+      "xpos": 357,
+      "type": "match",
+      "width": 154
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-sles"
+  ]
+}
