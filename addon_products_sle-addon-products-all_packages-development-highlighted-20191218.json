@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 58,
+      "ypos": 131,
+      "width": 130,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VIDEOMODE-text",
+    "addon-products-all_packages-development-highlighted"
+  ]
+}
