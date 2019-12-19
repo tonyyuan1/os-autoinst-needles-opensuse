@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 488,
+      "ypos": 490,
+      "width": 139,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 358,
+      "ypos": 351,
+      "width": 155,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-sapapp-highlighted"
+  ]
+}
