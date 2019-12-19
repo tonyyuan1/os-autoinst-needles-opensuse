@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "ypos": 305,
+      "height": 11,
+      "type": "match",
+      "width": 91,
+      "xpos": 325
+    },
+    {
+      "type": "match",
+      "width": 55,
+      "xpos": 360,
+      "ypos": 326,
+      "height": 10
+    },
+    {
+      "ypos": 353,
+      "height": 10,
+      "type": "match",
+      "width": 30,
+      "xpos": 368
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-filesystem_ext4",
+    "storage-ng"
+  ]
+}
