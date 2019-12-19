@@ -1,0 +1,59 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 163,
+      "xpos": 151,
+      "ypos": 198,
+      "height": 70
+    },
+    {
+      "height": 10,
+      "ypos": 459,
+      "xpos": 413,
+      "width": 71,
+      "type": "match"
+    },
+    {
+      "height": 10,
+      "ypos": 520,
+      "xpos": 418,
+      "type": "match",
+      "width": 141
+    },
+    {
+      "ypos": 519,
+      "height": 11,
+      "width": 195,
+      "type": "match",
+      "xpos": 694
+    },
+    {
+      "xpos": 415,
+      "type": "match",
+      "width": 69,
+      "height": 12,
+      "ypos": 416
+    },
+    {
+      "height": 12,
+      "ypos": 488,
+      "xpos": 640,
+      "type": "match",
+      "width": 116
+    },
+    {
+      "height": 10,
+      "ypos": 504,
+      "xpos": 418,
+      "width": 132,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "acceptedpartitioningraid1lvm"
+  ]
+}
