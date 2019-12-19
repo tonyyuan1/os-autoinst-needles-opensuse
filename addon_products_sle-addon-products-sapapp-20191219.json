@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 73,
+      "ypos": 191,
+      "width": 246,
+      "height": 76,
+      "type": "match"
+    },
+    {
+      "xpos": 358,
+      "ypos": 161,
+      "width": 134,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-sapapp"
+  ]
+}
