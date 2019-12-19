@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "ypos": 193,
+      "height": 39,
+      "width": 276,
+      "type": "match",
+      "xpos": 45
+    },
+    {
+      "width": 126,
+      "type": "match",
+      "xpos": 348,
+      "ypos": 675,
+      "height": 21
+    },
+    {
+      "height": 13,
+      "ypos": 172,
+      "xpos": 357,
+      "type": "match",
+      "width": 164
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "all-partition",
+    "select-for-update"
+  ]
+}
