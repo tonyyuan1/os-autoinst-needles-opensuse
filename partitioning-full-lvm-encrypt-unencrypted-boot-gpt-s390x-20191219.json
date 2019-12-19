@@ -1,0 +1,59 @@
+{
+  "area": [
+    {
+      "height": 10,
+      "ypos": 221,
+      "xpos": 416,
+      "width": 131,
+      "type": "match"
+    },
+    {
+      "xpos": 416,
+      "type": "match",
+      "width": 167,
+      "height": 12,
+      "ypos": 236
+    },
+    {
+      "type": "match",
+      "width": 81,
+      "xpos": 649,
+      "ypos": 206,
+      "height": 11
+    },
+    {
+      "height": 15,
+      "ypos": 173,
+      "xpos": 412,
+      "type": "match",
+      "width": 63
+    },
+    {
+      "xpos": 683,
+      "width": 124,
+      "type": "match",
+      "height": 11,
+      "ypos": 221
+    },
+    {
+      "xpos": 836,
+      "type": "match",
+      "width": 136,
+      "height": 10,
+      "ypos": 250
+    },
+    {
+      "xpos": 837,
+      "type": "match",
+      "width": 110,
+      "height": 11,
+      "ypos": 266
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "ENV-INSTLANG-en_US",
+    "partitioning-full-lvm-encrypt-unencrypted-boot"
+  ]
+}
