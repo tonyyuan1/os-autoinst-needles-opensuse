@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 370,
+      "width": 37,
+      "type": "match",
+      "height": 19,
+      "ypos": 354
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-selected-btrfs-type"
+  ]
+}
