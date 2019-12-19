@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 98,
+      "type": "match",
+      "xpos": 405,
+      "ypos": 637,
+      "height": 94
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "logical-volumes-dropdown-open"
+  ]
+}
