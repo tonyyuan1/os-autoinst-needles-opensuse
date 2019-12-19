@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 48,
+      "type": "match",
+      "xpos": 432,
+      "ypos": 422,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-table-GPT-selected",
+    "storage-ng"
+  ]
+}
