@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 382,
+      "ypos": 131,
+      "width": 298,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "xpos": 871,
+      "ypos": 113,
+      "width": 87,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "dasd-device-formatted"
+  ]
+}
