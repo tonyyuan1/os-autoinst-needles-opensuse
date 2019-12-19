@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 53,
+      "ypos": 181,
+      "xpos": 21,
+      "type": "match",
+      "width": 307
+    },
+    {
+      "xpos": 945,
+      "width": 71,
+      "type": "match",
+      "height": 27,
+      "ypos": 726
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation-settings-overview-loaded"
+  ]
+}
