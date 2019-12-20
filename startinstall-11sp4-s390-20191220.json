@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 691,
+      "height": 20,
+      "type": "match",
+      "width": 173,
+      "xpos": 448
+    },
+    {
+      "xpos": 231,
+      "ypos": 176,
+      "width": 562,
+      "height": 418,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "startinstall",
+    "ENV-INSTLANG-en_US"
+  ]
+}
