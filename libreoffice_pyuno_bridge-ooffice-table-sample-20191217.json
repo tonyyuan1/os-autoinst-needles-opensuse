@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 526,
+      "width": 116,
+      "ypos": 245,
+      "type": "match",
+      "height": 26
+    },
+    {
+      "ypos": 430,
+      "type": "match",
+      "height": 25,
+      "xpos": 283,
+      "width": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ooffice-table-sample"
+  ]
+}
