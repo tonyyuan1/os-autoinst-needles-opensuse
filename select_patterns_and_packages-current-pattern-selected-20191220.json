@@ -3,6 +3,7 @@
     {
       "width": 31,
       "type": "match",
+      "match": 100,
       "xpos": 25,
       "ypos": 190,
       "height": 24
