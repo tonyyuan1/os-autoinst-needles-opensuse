@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 11,
+      "height": 522,
+      "width": 726,
+      "type": "match",
+      "xpos": 282
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
