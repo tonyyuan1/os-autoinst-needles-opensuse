@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 282,
+      "ypos": 12,
+      "width": 355,
+      "height": 38,
+      "type": "match"
+    },
+    {
+      "xpos": 25,
+      "ypos": 10,
+      "width": 111,
+      "height": 104,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-packageinstallationstarted"
+  ]
+}
