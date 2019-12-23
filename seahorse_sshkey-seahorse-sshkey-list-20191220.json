@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 121,
+      "type": "match",
+      "height": 20,
+      "xpos": 207,
+      "ypos": 420
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "seahorse-sshkey-list"
+  ]
+}
