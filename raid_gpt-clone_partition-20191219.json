@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 316,
+      "ypos": 167,
+      "width": 93,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "clone_partition"
+  ]
+}
