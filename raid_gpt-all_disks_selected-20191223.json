@@ -2,14 +2,14 @@
   "area": [
     {
       "xpos": 320,
-      "ypos": 283,
-      "width": 43,
-      "height": 37,
+      "height": 72,
+      "ypos": 235,
+      "width": 69,
       "type": "match"
     }
   ],
   "properties": [],
   "tags": [
-    "last_disk_selected"
+    "all_disks_selected"
   ]
 }
