@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "type": "match",
+      "width": 63,
+      "height": 17,
+      "ypos": 481
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partition-selected-bios-boot-type",
+    "storage-ng"
+  ]
+}
