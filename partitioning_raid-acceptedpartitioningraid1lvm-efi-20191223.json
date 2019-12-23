@@ -1,0 +1,52 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 185,
+      "xpos": 142,
+      "ypos": 191,
+      "height": 82
+    },
+    {
+      "xpos": 631,
+      "width": 115,
+      "type": "match",
+      "height": 14,
+      "ypos": 369
+    },
+    {
+      "xpos": 419,
+      "width": 123,
+      "type": "match",
+      "height": 10,
+      "ypos": 416
+    },
+    {
+      "type": "match",
+      "width": 133,
+      "xpos": 410,
+      "ypos": 459,
+      "height": 13
+    },
+    {
+      "height": 10,
+      "ypos": 506,
+      "xpos": 415,
+      "type": "match",
+      "width": 135
+    },
+    {
+      "xpos": 790,
+      "ypos": 518,
+      "width": 107,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-UEFI-1",
+    "acceptedpartitioningraid1lvm-efi"
+  ]
+}
