@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "ypos": 722,
+      "xpos": 932,
+      "type": "match",
+      "width": 80
+    },
+    {
+      "xpos": 538,
+      "ypos": 263,
+      "width": 93,
+      "height": 30,
+      "type": "match"
+    },
+    {
+      "xpos": 694,
+      "ypos": 269,
+      "width": 26,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-STORAGE_NG-1",
+    "partitioning_raid-raid_swap_added-lvm-UEFI",
+    "storage-ng"
+  ]
+}
