@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 347,
+      "ypos": 149,
+      "width": 122,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 85,
+      "ypos": 254,
+      "width": 21,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_raid-disk_sdd-selected"
+  ]
+}
