@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 330,
+      "height": 13,
+      "type": "match",
+      "width": 151,
+      "xpos": 323
+    },
+    {
+      "height": 15,
+      "ypos": 513,
+      "xpos": 471,
+      "width": 30,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-warning-no-boot-zipl"
+  ]
+}
