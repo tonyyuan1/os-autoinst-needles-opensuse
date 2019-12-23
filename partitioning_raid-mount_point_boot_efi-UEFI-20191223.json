@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 562,
+      "width": 98,
+      "type": "match",
+      "height": 13,
+      "ypos": 354
+    },
+    {
+      "type": "match",
+      "width": 73,
+      "xpos": 591,
+      "ypos": 378,
+      "height": 10
+    },
+    {
+      "height": 16,
+      "ypos": 402,
+      "xpos": 610,
+      "width": 47,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-UEFI-1",
+    "partitioning_raid-mount_point_boot_efi"
+  ]
+}
