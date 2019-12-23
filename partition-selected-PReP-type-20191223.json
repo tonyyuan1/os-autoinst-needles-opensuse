@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 18,
+      "ypos": 481,
+      "xpos": 335,
+      "type": "match",
+      "width": 68
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-selected-PReP-type",
+    "storage-ng"
+  ]
+}
