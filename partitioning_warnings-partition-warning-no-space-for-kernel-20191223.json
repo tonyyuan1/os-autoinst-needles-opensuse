@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 256,
+      "height": 14,
+      "type": "match",
+      "width": 37,
+      "xpos": 275
+    },
+    {
+      "width": 424,
+      "type": "match",
+      "xpos": 313,
+      "ypos": 332,
+      "height": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partition-warning-no-space-for-kernel"
+  ]
+}
