@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 22,
+      "type": "match",
+      "width": 75,
+      "height": 35,
+      "ypos": 152
+    },
+    {
+      "xpos": 66,
+      "ypos": 171,
+      "width": 55,
+      "height": 17,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "custompart_systemview-selected"
+  ]
+}
