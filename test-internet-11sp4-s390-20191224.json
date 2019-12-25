@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 243,
+      "ypos": 12,
+      "width": 305,
+      "height": 54,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 10,
+      "width": 107,
+      "height": 109,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-internet-11sp4-s390"
+  ]
+}

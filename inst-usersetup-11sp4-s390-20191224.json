@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 244,
+      "ypos": 11,
+      "width": 219,
+      "height": 50,
+      "type": "match"
+    },
+    {
+      "xpos": 26,
+      "ypos": 22,
+      "width": 119,
+      "height": 90,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "inst-usersetup"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 241,
+      "ypos": 13,
+      "width": 371,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 17,
+      "ypos": 12,
+      "width": 117,
+      "height": 97,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "domain-configuration-11sp4-s390"
+  ]
+}
