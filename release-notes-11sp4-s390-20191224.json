@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 244,
+      "ypos": 11,
+      "width": 189,
+      "height": 43,
+      "type": "match"
+    },
+    {
+      "xpos": 20,
+      "ypos": 11,
+      "width": 115,
+      "height": 98,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "release-notes-11sp4-s390"
+  ]
+}

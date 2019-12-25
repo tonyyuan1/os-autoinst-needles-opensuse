@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 249,
+      "ypos": 12,
+      "width": 246,
+      "height": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 18,
+      "ypos": 14,
+      "width": 126,
+      "height": 98,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation-complete-11sp4-s390"
+  ]
+}

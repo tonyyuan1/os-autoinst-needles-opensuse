@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 239,
+      "ypos": 13,
+      "width": 311,
+      "height": 42,
+      "type": "match"
+    },
+    {
+      "xpos": 15,
+      "ypos": 16,
+      "width": 100,
+      "height": 93,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-authentication-11sp4-s390"
+  ]
+}

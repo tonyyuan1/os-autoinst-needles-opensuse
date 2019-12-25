@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 237,
+      "ypos": 7,
+      "width": 355,
+      "height": 50,
+      "type": "match"
+    },
+    {
+      "xpos": 15,
+      "ypos": 17,
+      "width": 117,
+      "height": 96,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "network-configuration-ca-11sp4-s390"
+  ]
+}
