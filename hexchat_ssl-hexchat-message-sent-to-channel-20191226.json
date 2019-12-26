@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 259,
+      "width": 209,
+      "height": 34,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hexchat-message-sent-to-channel"
+  ]
+}
