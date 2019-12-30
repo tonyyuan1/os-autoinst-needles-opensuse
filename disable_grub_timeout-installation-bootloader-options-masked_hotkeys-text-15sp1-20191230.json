@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 358,
+      "ypos": 79,
+      "height": 22,
+      "width": 151
+    },
+    {
+      "xpos": 361,
+      "ypos": 46,
+      "width": 47,
+      "height": 21,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "installation-bootloader-options"
+  ]
+}
