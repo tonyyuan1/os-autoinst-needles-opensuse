@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "ypos": 195,
+      "height": 30,
+      "width": 124,
+      "xpos": 120,
+      "type": "match"
+    },
+    {
+      "ypos": 204,
+      "height": 16,
+      "width": 332,
+      "xpos": 382,
+      "type": "match"
+    },
+    {
+      "xpos": 150,
+      "type": "match",
+      "height": 32,
+      "width": 168,
+      "ypos": 271
+    },
+    {
+      "xpos": 201,
+      "ypos": 232,
+      "width": 114,
+      "height": 73,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-12-SP5-RT",
+    "addon-license-rt"
+  ]
+}
