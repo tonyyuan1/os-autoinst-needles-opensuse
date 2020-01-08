@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 416,
+      "type": "match",
+      "height": 10,
+      "width": 125,
+      "ypos": 459
+    },
+    {
+      "xpos": 416,
+      "type": "match",
+      "height": 10,
+      "width": 150,
+      "ypos": 489
+    },
+    {
+      "type": "match",
+      "xpos": 651,
+      "height": 10,
+      "ypos": 489,
+      "width": 61
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "acceptedpartitioningraid0"
+  ]
+}
