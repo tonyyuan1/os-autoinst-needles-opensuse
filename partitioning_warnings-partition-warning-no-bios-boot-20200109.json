@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 381,
+      "height": 14,
+      "xpos": 323,
+      "ypos": 330,
+      "type": "match"
+    },
+    {
+      "height": 17,
+      "width": 35,
+      "type": "match",
+      "ypos": 513,
+      "xpos": 522
+    },
+    {
+      "xpos": 270,
+      "type": "match",
+      "ypos": 250,
+      "width": 68,
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-warning-no-bios-boot"
+  ]
+}
