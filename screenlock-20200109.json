@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 19,
+      "height": 52,
+      "xpos": 503,
+      "type": "match",
+      "ypos": 322
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "screenlock"
+  ]
+}
