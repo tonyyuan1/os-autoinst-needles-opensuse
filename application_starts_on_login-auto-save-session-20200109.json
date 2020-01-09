@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 470,
+      "type": "match",
+      "ypos": 222,
+      "height": 32,
+      "width": 298,
+      "click_point": {
+        "xpos": 271,
+        "ypos": 17
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "auto-save-session"
+  ]
+}
