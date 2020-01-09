@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 233,
+      "ypos": 18,
+      "width": 150,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 18,
+      "ypos": 113,
+      "width": 180,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-ipmi",
+    "grub2",
+    "on_host_sles_12_sp2_or_above"
+  ]
+}
