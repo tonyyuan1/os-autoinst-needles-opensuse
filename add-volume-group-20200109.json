@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "width": 288,
+      "xpos": 10,
+      "type": "match",
+      "ypos": 95
+    },
+    {
+      "type": "match",
+      "ypos": 290,
+      "xpos": 21,
+      "height": 46,
+      "width": 66
+    },
+    {
+      "width": 75,
+      "height": 49,
+      "ypos": 291,
+      "type": "match",
+      "xpos": 187
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "lvmsetupraid"
+  ]
+}
