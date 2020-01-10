@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 390,
+      "height": 39,
+      "xpos": 318,
+      "type": "match",
+      "ypos": 252
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "tweak-startapp-applist"
+  ]
+}
