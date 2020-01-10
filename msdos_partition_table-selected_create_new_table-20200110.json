@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 91,
+      "width": 150,
+      "height": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 329,
+      "ypos": 728,
+      "width": 187,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "selected_create_new_table"
+  ]
+}
