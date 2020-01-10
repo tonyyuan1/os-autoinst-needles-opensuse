@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 89,
+      "width": 398,
+      "height": 50,
+      "type": "match"
+    },
+    {
+      "xpos": 427,
+      "ypos": 393,
+      "width": 139,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "new_partition_table_type"
+  ]
+}
