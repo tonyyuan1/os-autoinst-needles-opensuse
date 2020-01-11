@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "width": 258,
+      "ypos": 705,
+      "type": "match",
+      "xpos": 85,
+      "match": 80
+    },
+    {
+      "width": 58,
+      "height": 10,
+      "xpos": 67,
+      "type": "match",
+      "ypos": 754,
+      "match": 80
+    },
+    {
+      "xpos": 393,
+      "ypos": 188,
+      "width": 98,
+      "height": 30,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160707"
+    }
+  ],
+  "tags": [
+    "linux-login"
+  ]
+}
