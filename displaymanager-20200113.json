@@ -1,31 +1,32 @@
 {
   "area": [
     {
-      "height": 87,
-      "width": 166,
-      "ypos": 292,
-      "type": "match",
-      "xpos": 342
+      "xpos": 345,
+      "ypos": 295,
+      "width": 153,
+      "height": 68,
+      "type": "match"
     },
     {
-      "height": 77,
-      "width": 121,
-      "ypos": 661,
-      "type": "match",
-      "xpos": 451
+      "xpos": 411,
+      "ypos": 303,
+      "width": 87,
+      "height": 79,
+      "type": "match"
     },
     {
-      "width": 79,
-      "height": 86,
-      "ypos": 311,
-      "type": "match",
-      "xpos": 414
+      "xpos": 447,
+      "ypos": 659,
+      "width": 122,
+      "height": 81,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "ENV-DESKTOP-gnome",
     "ENV-INSTLANG-en_US",
-    "displaymanager"
+    "displaymanager",
+    "displaymanager-user-notselected"
   ]
 }
