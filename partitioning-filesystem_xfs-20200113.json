@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 310,
+      "ypos": 276,
+      "width": 119,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 373,
+      "ypos": 350,
+      "width": 38,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning-filesystem_xfs"
+  ]
+}
