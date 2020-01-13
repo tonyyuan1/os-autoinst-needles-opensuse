@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 464,
+      "type": "match",
+      "width": 113,
+      "ypos": 257,
+      "height": 13
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_proxy_acl_group_localnet_changed_selected"
+  ]
+}
