@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "width": 192,
+      "type": "match",
+      "ypos": 175,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-poweron-successful"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 143,
+      "type": "match",
+      "xpos": 0,
+      "width": 219,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pvm-poweroff-successful"
+  ]
+}
