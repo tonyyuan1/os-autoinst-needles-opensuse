@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 97,
+      "width": 59,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 139,
+      "ypos": 97,
+      "width": 19,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "text-logged-in-hscroot"
+  ]
+}
