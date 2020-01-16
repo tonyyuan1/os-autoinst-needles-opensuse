@@ -6,9 +6,21 @@
       "ypos": 376,
       "width": 125,
       "type": "match"
+    },
+    {
+      "xpos": 158,
+      "ypos": 309,
+      "width": 100,
+      "height": 16,
+      "type": "match"
     }
   ],
-  "properties": [],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1161107 - \"Couldn't connect to accessibility bus\" warning is shown while starting YaST2 snapper on s390x with Gnome"
+    }
+  ],
   "tags": [
     "root-gnome-terminal"
   ]
