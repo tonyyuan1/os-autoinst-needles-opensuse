@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 361,
+      "xpos": 31,
+      "ypos": 198,
+      "height": 70
+    },
+    {
+      "height": 744,
+      "width": 991,
+      "type": "match",
+      "ypos": 21,
+      "xpos": 27
+    },
+    {
+      "height": 127,
+      "type": "exclude",
+      "width": 363,
+      "ypos": 456,
+      "xpos": 429
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "select-product"
+  ]
+}
