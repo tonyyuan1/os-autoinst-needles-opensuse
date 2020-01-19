@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "width": 165,
+      "type": "match",
+      "xpos": 211,
+      "ypos": 255
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-protocol-vnc"
+  ]
+}
