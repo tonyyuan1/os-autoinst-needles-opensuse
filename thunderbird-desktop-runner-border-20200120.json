@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 396,
+      "ypos": 209,
+      "width": 228,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "height": 25,
+      "xpos": 471,
+      "ypos": 33,
+      "width": 140,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "thunderbird"
+  ]
+}
