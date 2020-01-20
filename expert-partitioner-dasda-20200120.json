@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "xpos": 337,
+      "ypos": 147,
+      "width": 145,
+      "type": "match"
+    },
+    {
+      "height": 10,
+      "xpos": 69,
+      "ypos": 209,
+      "type": "match",
+      "width": 51
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "expert-partitioner-vda"
+  ]
+}
