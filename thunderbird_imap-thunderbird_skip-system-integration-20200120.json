@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "ypos": 482,
+      "xpos": 428,
+      "type": "match",
+      "width": 115
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_skip-system-integration"
+  ]
+}
