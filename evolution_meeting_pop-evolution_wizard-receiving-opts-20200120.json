@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 25,
+      "xpos": 4,
+      "ypos": 195,
+      "type": "match",
+      "width": 135
+    },
+    {
+      "height": 23,
+      "width": 143,
+      "type": "match",
+      "xpos": 441,
+      "ypos": 33
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_wizard-receiving-opts"
+  ]
+}
