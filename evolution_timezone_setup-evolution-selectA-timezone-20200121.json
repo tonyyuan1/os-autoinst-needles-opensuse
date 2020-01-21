@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "ypos": 186,
+      "xpos": 268,
+      "type": "match",
+      "width": 548,
+      "height": 45
+    },
+    {
+      "height": 31,
+      "ypos": 241,
+      "xpos": 211,
+      "width": 88,
+      "type": "match"
+    },
+    {
+      "height": 25,
+      "type": "match",
+      "width": 71,
+      "xpos": 211,
+      "ypos": 514
+    },
+    {
+      "height": 53,
+      "type": "match",
+      "width": 204,
+      "xpos": 616,
+      "ypos": 604
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution-selectA-timezone"
+  ]
+}
