@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 298,
+      "ypos": 279,
+      "width": 105,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 368,
+      "ypos": 351,
+      "width": 30,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_swap-format-selected"
+  ]
+}
