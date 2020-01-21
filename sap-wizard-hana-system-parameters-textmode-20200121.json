@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "width": 215,
+      "xpos": 477,
+      "ypos": 224
+    },
+    {
+      "height": 14,
+      "xpos": 399,
+      "ypos": 272,
+      "type": "match",
+      "width": 192
+    },
+    {
+      "height": 17,
+      "ypos": 415,
+      "xpos": 398,
+      "type": "match",
+      "width": 197
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "sap-wizard-hana-system-parameters"
+  ]
+}
