@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "height": 179,
+      "type": "match",
+      "width": 562,
+      "ypos": 289,
+      "xpos": 241
+    },
+    {
+      "height": 42,
+      "width": 606,
+      "type": "match",
+      "ypos": 545,
+      "xpos": 212
+    },
+    {
+      "xpos": 211,
+      "ypos": 566,
+      "width": 10,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "mercator-zoomed-in"
+  ]
+}
