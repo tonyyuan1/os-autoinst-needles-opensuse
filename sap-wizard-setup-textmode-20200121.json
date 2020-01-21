@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 15,
+      "type": "match",
+      "width": 188,
+      "ypos": 32,
+      "xpos": 16
+    },
+    {
+      "type": "match",
+      "width": 349,
+      "ypos": 332,
+      "xpos": 15,
+      "height": 40
+    },
+    {
+      "height": 65,
+      "width": 677,
+      "type": "match",
+      "ypos": 398,
+      "xpos": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-TEXTMODE-1",
+    "sap-installation-wizard"
+  ]
+}
