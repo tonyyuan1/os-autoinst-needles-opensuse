@@ -1,0 +1,37 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 494,
+      "ypos": 188,
+      "xpos": 54,
+      "height": 36
+    },
+    {
+      "height": 23,
+      "ypos": 234,
+      "xpos": 454,
+      "width": 63,
+      "type": "match"
+    },
+    {
+      "height": 203,
+      "ypos": 419,
+      "xpos": 77,
+      "width": 92,
+      "type": "match"
+    },
+    {
+      "xpos": 372,
+      "ypos": 83,
+      "width": 68,
+      "type": "match",
+      "height": 24
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_mail-compse_meeting"
+  ]
+}
