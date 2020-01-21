@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 313,
+      "ypos": 32,
+      "width": 195,
+      "type": "match",
+      "height": 80
+    },
+    {
+      "height": 15,
+      "xpos": 328,
+      "ypos": 256,
+      "width": 119,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "current-kdmup-mem-size"
+  ]
+}
