@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 189,
+      "width": 111,
+      "xpos": 44,
+      "height": 14
+    },
+    {
+      "ypos": 207,
+      "type": "match",
+      "height": 23,
+      "xpos": 321,
+      "width": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "partitioning_raid-hard_disks-selected"
+  ]
+}
