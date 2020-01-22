@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 300,
+      "ypos": 277,
+      "width": 113,
+      "height": 44,
+      "type": "match"
+    },
+    {
+      "xpos": 368,
+      "ypos": 351,
+      "width": 24,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partitioning_ext2-format-selected"
+  ]
+}
