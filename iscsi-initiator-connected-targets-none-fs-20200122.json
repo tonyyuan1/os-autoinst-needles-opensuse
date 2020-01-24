@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 345,
+      "type": "match",
+      "height": 33,
+      "ypos": 94,
+      "xpos": 22
+    },
+    {
+      "height": 49,
+      "width": 375,
+      "type": "match",
+      "ypos": 180,
+      "xpos": 35
+    },
+    {
+      "xpos": 441,
+      "ypos": 144,
+      "width": 138,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-connected-targets-none-fs"
+  ]
+}
