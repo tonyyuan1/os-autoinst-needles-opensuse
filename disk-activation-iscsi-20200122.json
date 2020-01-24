@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 90,
+      "height": 35,
+      "type": "match",
+      "width": 232,
+      "ypos": 194
+    },
+    {
+      "xpos": 560,
+      "ypos": 349,
+      "width": 241,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disk-activation-iscsi"
+  ]
+}

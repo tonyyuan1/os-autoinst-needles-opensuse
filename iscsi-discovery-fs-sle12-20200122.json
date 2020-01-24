@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 24,
+      "height": 36,
+      "width": 346,
+      "type": "match",
+      "ypos": 95
+    },
+    {
+      "xpos": 140,
+      "width": 147,
+      "type": "match",
+      "height": 22,
+      "ypos": 338
+    },
+    {
+      "width": 76,
+      "type": "match",
+      "height": 18,
+      "ypos": 247,
+      "xpos": 144
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-discovery-fs",
+    "iscsi-discovery-fs-sle12sp1"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 353,
+      "ypos": 347,
+      "width": 314,
+      "height": 99,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "detected-multipath",
+    "enable-multipath"
+  ]
+}
