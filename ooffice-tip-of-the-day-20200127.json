@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "ypos": 257,
+      "type": "match",
+      "height": 26,
+      "width": 105,
+      "xpos": 462
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "libreoffice-test-doc",
+    "ooffice-tip-of-the-day",
+    "ooffice-writer-tools",
+    "oowriter",
+    "test-oocalc-1"
+  ]
+}
