@@ -1,36 +1,30 @@
 {
   "area": [
     {
-      "ypos": 351,
       "type": "match",
-      "height": 16,
+      "ypos": 351,
       "xpos": 374,
-      "width": 267
+      "width": 267,
+      "height": 16
     },
     {
+      "height": 18,
       "xpos": 550,
       "width": 69,
-      "height": 18,
-      "type": "match",
-      "ypos": 415
+      "ypos": 415,
+      "type": "match"
     },
     {
       "ypos": 417,
       "type": "match",
       "height": 14,
-      "xpos": 400,
-      "width": 61
-    },
-    {
-      "height": 10,
-      "xpos": 434,
-      "width": 10,
-      "ypos": 506,
-      "type": "match"
+      "width": 61,
+      "xpos": 400
     }
   ],
   "properties": [],
   "tags": [
+    "linuxrc-dhcp-question",
     "linuxrc-dhcp-question-no"
   ]
 }
