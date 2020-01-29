@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 203,
+      "type": "match",
+      "height": 92,
+      "width": 150,
+      "xpos": 79
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-ooffice-2",
+    "ENV-INSTLANG-en_US"
+  ]
+}
