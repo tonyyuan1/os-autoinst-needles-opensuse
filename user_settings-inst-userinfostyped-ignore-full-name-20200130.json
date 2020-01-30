@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 160,
+      "ypos": 196,
+      "width": 157,
+      "height": 29,
+      "type": "match"
+    },
+    {
+      "xpos": 567,
+      "ypos": 315,
+      "width": 265,
+      "height": 171,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "inst-userinfostyped-ignore-full-name"
+  ]
+}
