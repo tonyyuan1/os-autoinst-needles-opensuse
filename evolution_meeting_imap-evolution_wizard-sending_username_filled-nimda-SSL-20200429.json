@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 270,
+      "ypos": 418,
+      "width": 34,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 945,
+      "ypos": 722,
+      "width": 46,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-sending_username_filled"
+  ]
+}
