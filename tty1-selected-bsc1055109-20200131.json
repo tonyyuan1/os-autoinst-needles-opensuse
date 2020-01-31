@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "xpos": 104,
+      "ypos": 751,
+      "width": 46,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 2,
+      "ypos": 670,
+      "width": 253,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc1055109"
+    }
+  ],
+  "tags": [
+    "linux-login"
+  ]
+}
