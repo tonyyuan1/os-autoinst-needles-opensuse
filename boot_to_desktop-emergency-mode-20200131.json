@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 107,
+      "ypos": 523,
+      "width": 228,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 707,
+      "ypos": 523,
+      "width": 34,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 126,
+      "ypos": 570,
+      "width": 39,
+      "height": 20,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-VERSION-11-SP4",
+    "tty1-selected"
+  ]
+}
