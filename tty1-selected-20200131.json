@@ -25,12 +25,7 @@
       "match": 86
     }
   ],
-  "properties": [
-    {
-      "value": "bsc1055109",
-      "name": "workaround"
-    }
-  ],
+  "properties": [],
   "tags": [
     "tty1-selected"
   ]
