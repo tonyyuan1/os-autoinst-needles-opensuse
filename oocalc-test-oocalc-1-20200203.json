@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 96,
+      "xpos": 1,
+      "type": "match",
+      "width": 365,
+      "height": 228
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oocalc",
+    "test-oocalc-1"
+  ]
+}
