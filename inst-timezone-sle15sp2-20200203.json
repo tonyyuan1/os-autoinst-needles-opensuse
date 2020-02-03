@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 34,
+      "ypos": 143,
+      "height": 470,
+      "width": 956
+    },
+    {
+      "ypos": 726,
+      "xpos": 964,
+      "type": "match",
+      "width": 40,
+      "height": 22
+    },
+    {
+      "height": 36,
+      "width": 320,
+      "type": "match",
+      "xpos": 10,
+      "ypos": 90
+    },
+    {
+      "type": "match",
+      "xpos": 153,
+      "ypos": 621,
+      "height": 41,
+      "width": 39
+    },
+    {
+      "type": "match",
+      "ypos": 621,
+      "xpos": 466,
+      "height": 40,
+      "width": 118
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "after-partitioning",
+    "inst-timezone"
+  ]
+}
