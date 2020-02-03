@@ -3,20 +3,23 @@
     {
       "width": 314,
       "height": 10,
-      "ypos": 643,
+      "ypos": 275,
       "xpos": 0,
-      "type": "match"
+      "type": "match",
+      "match": 86
     },
     {
+      "xpos": 65,
+      "ypos": 384,
+      "type": "match",
       "width": 46,
       "height": 13,
-      "ypos": 752,
-      "xpos": 73,
-      "type": "match"
+      "match": 86
     }
   ],
   "properties": [],
   "tags": [
-    "tty1-selected"
+    "tty1-selected",
+    "ttys1-selected"
   ]
 }
