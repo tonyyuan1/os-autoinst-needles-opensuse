@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "width": 87,
+      "height": 23,
+      "ypos": 669,
+      "xpos": 0,
+      "type": "match",
+      "match": 80
+    },
+    {
+      "height": 13,
+      "width": 51,
+      "type": "match",
+      "ypos": 673,
+      "xpos": 730,
+      "match": 80
+    },
+    {
+      "type": "match",
+      "ypos": 749,
+      "xpos": 69,
+      "height": 18,
+      "width": 49,
+      "match": 80
+    },
+    {
+      "xpos": 535,
+      "ypos": 195,
+      "width": 96,
+      "height": 22,
+      "type": "match",
+      "match": 80
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "boo#1160707"
+    }
+  ],
+  "tags": [
+    "tty1-selected"
+  ]
+}
