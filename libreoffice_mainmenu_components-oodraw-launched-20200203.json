@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 215,
+      "height": 27,
+      "xpos": 403,
+      "ypos": 31,
+      "type": "match"
+    },
+    {
+      "width": 245,
+      "height": 161,
+      "ypos": 60,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oodraw-launched"
+  ]
+}
