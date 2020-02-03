@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 410,
+      "height": 180,
+      "ypos": 314,
+      "xpos": 251,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-installupdate"
+  ]
+}
