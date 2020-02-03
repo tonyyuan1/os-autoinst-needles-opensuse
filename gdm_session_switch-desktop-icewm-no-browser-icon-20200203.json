@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "height": 724,
+      "width": 572,
+      "type": "match",
+      "xpos": 443,
+      "ypos": 5
+    },
+    {
+      "ypos": 744,
+      "xpos": 1,
+      "type": "match",
+      "width": 210,
+      "height": 22
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "bsc#1157930"
+    }
+  ],
+  "tags": [
+    "desktop-icewm"
+  ]
+}
