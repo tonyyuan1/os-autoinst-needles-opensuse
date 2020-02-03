@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 144,
+      "height": 107,
+      "xpos": 90,
+      "ypos": 112,
+      "type": "match"
+    },
+    {
+      "ypos": 651,
+      "xpos": 414,
+      "type": "match",
+      "width": 271,
+      "height": 69
+    },
+    {
+      "type": "match",
+      "xpos": 411,
+      "ypos": 68,
+      "height": 31,
+      "width": 202
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ooffice-tools-options-view"
+  ]
+}
