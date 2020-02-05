@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "height": 226,
+      "width": 526,
+      "type": "match",
+      "ypos": 62,
+      "xpos": 3
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "oowriter",
+    "test-ooffice-1"
+  ]
+}
