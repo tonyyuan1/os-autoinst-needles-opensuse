@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 465,
+      "ypos": 300,
+      "width": 316,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 789,
+      "ypos": 691,
+      "width": 45,
+      "height": 17,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "completing-cert-import"
+  ]
+}
