@@ -1,0 +1,34 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "type": "match",
+      "height": 14,
+      "ypos": 706,
+      "width": 311
+    },
+    {
+      "width": 45,
+      "ypos": 753,
+      "height": 14,
+      "type": "match",
+      "xpos": 81
+    },
+    {
+      "xpos": 720,
+      "ypos": 705,
+      "width": 22,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "value": "bsc1055109",
+      "name": "workaround"
+    }
+  ],
+  "tags": [
+    "xen-hvc-selected"
+  ]
+}
