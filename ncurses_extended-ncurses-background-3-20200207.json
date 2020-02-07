@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 3,
+      "width": 458,
+      "height": 326,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ncurses-background-3"
+  ]
+}
