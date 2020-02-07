@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "width": 191,
+      "height": 11,
+      "type": "match",
+      "xpos": 0,
+      "ypos": 722
+    },
+    {
+      "width": 162,
+      "type": "match",
+      "height": 11,
+      "xpos": 345,
+      "ypos": 722
+    },
+    {
+      "type": "match",
+      "height": 13,
+      "xpos": 0,
+      "ypos": 754,
+      "width": 543
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "remote-ssh-login"
+  ]
+}
