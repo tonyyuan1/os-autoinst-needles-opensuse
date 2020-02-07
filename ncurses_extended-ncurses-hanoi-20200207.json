@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 12,
+      "ypos": 13,
+      "width": 588,
+      "height": 321,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ncurses-hanoi"
+  ]
+}
