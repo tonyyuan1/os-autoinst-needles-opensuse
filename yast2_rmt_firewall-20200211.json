@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 116,
+      "ypos": 364,
+      "type": "match",
+      "height": 21,
+      "xpos": 158
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_rmt_firewall"
+  ]
+}
