@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 50,
+      "width": 147,
+      "height": 72,
+      "type": "match"
+    },
+    {
+      "xpos": 52,
+      "ypos": 299,
+      "width": 414,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 663,
+      "width": 86,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 21,
+      "ypos": 615,
+      "width": 324,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "wsl-license"
+  ]
+}
