@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 510,
+      "width": 455,
+      "height": 35,
+      "xpos": 109,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vnc-server-started"
+  ]
+}
