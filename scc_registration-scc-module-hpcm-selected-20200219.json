@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 226,
+      "width": 116,
+      "xpos": 33,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "height": 16,
+      "xpos": 268,
+      "type": "match",
+      "ypos": 747,
+      "width": 88
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "scc-module-hpcm-selected"
+  ]
+}
