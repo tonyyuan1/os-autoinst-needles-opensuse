@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 361,
+      "ypos": 228,
+      "width": 84,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 536,
+      "ypos": 490,
+      "width": 27,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "addon-products-all_packages-hpcm-highlighted"
+  ]
+}
