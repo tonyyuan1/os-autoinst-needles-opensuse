@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 50,
+      "xpos": 327,
+      "type": "match",
+      "height": 12,
+      "ypos": 152
+    },
+    {
+      "xpos": 458,
+      "ypos": 152,
+      "width": 142,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "packages-quota-nfs-selected"
+  ]
+}
