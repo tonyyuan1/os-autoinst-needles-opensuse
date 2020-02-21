@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 18,
+      "xpos": 72,
+      "width": 40,
+      "ypos": 209
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_checkbox_unchecked"
+  ]
+}
