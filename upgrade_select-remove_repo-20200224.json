@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 251,
+      "type": "match",
+      "xpos": 73,
+      "height": 76,
+      "ypos": 189
+    },
+    {
+      "width": 123,
+      "type": "match",
+      "xpos": 356,
+      "ypos": 169,
+      "height": 12
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "remove-repository"
+  ]
+}
