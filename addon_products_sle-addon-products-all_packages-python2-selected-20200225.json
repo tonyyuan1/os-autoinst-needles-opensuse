@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 105,
+      "height": 10,
+      "ypos": 330,
+      "xpos": 361,
+      "type": "match"
+    },
+    {
+      "width": 91,
+      "xpos": 489,
+      "type": "match",
+      "height": 12,
+      "ypos": 490
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "addon-products-all_packages-python2-selected"
+  ]
+}
