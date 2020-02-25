@@ -8,11 +8,11 @@
       "xpos": 16
     },
     {
-      "width": 167,
+      "width": 128,
       "type": "match",
       "xpos": 344,
-      "height": 28,
-      "ypos": 273
+      "height": 89,
+      "ypos": 306
     }
   ],
   "properties": [],
