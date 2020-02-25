@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 87,
+      "ypos": 34,
+      "height": 11,
+      "type": "match",
+      "xpos": 16
+    },
+    {
+      "width": 167,
+      "type": "match",
+      "xpos": 344,
+      "height": 28,
+      "ypos": 273
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "ENV-VIDEOMODE-text",
+    "inst-userinfostyped-ignore-full-name"
+  ]
+}
