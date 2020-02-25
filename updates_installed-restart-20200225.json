@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 429,
+      "ypos": 340,
+      "height": 71,
+      "type": "match",
+      "xpos": 298,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "updates_installed-restart"
+  ]
+}
