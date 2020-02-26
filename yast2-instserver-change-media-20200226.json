@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 336,
+      "ypos": 323,
+      "width": 134,
+      "height": 26,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-instserver-change-media"
+  ]
+}
