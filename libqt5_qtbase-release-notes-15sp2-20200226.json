@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 124,
+      "height": 56,
+      "width": 137,
+      "ypos": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-15SP2ORLATER-1",
+    "inst_release_notes",
+    "libqt5-qtbase"
+  ]
+}
