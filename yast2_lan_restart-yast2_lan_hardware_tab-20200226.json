@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 206,
+      "ypos": 110,
+      "height": 35,
+      "type": "match",
+      "xpos": 48
+    },
+    {
+      "xpos": 638,
+      "ypos": 151,
+      "width": 116,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "yast2_lan_hardware_tab"
+  ]
+}
