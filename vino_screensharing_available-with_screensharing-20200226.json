@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 119,
+      "ypos": 106,
+      "xpos": 354,
+      "type": "match",
+      "height": 199
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "with_screensharing"
+  ]
+}
