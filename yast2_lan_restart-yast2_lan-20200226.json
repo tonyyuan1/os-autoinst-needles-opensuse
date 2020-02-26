@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 174,
+      "ypos": 113,
+      "type": "match",
+      "xpos": 50,
+      "height": 63
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "yast2_lan"
+  ]
+}
