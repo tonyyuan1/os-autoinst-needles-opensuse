@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "ypos": 123,
+      "width": 698,
+      "height": 154,
+      "xpos": 260,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "designer-qt5",
+    "designer-qt5-main",
+    "libqt5-qtbase"
+  ]
+}
