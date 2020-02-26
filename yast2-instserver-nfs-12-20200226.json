@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 137,
+      "height": 61,
+      "width": 251,
+      "ypos": 82,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-instserver-nfs"
+  ]
+}
