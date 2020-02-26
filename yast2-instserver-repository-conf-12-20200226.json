@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 81,
+      "width": 248,
+      "xpos": 136,
+      "type": "match",
+      "height": 54,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-instserver-repository-conf"
+  ]
+}
