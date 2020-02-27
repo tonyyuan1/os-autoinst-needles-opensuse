@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 13,
+      "xpos": 1,
+      "ypos": 17,
+      "width": 318,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 2,
+      "width": 149,
+      "ypos": 19,
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linuxrc-start-shell-before-installation"
+  ]
+}
