@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "height": 75,
+      "type": "match",
+      "xpos": 447,
+      "ypos": 656,
+      "width": 129
+    },
+    {
+      "height": 27,
+      "xpos": 411,
+      "type": "match",
+      "width": 226,
+      "ypos": 357
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SLES4SAP-1",
+    "displaymanager",
+    "displaymanager-sapadm",
+    "reboot-after-installation"
+  ]
+}
