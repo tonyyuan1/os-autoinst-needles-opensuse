@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 22,
+      "type": "match",
+      "xpos": 210,
+      "ypos": 358,
+      "width": 142
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-disable-encryption"
+  ]
+}
