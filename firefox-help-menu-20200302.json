@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 247,
+      "ypos": 28,
+      "height": 52,
+      "type": "match",
+      "xpos": 380
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-help-menu"
+  ]
+}
