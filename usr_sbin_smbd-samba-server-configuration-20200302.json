@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 126,
+      "type": "match",
+      "height": 23,
+      "width": 195,
+      "ypos": 115
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "samba-server-configuration"
+  ]
+}
