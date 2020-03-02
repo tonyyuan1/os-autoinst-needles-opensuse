@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 88,
+      "ypos": 231,
+      "type": "match",
+      "xpos": 76,
+      "height": 27
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-extensions"
+  ]
+}
