@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "ypos": 73,
+      "width": 74,
+      "height": 24,
+      "xpos": 405,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-preferences-keyboard"
+  ]
+}
