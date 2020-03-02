@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 339,
+      "width": 319,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 340,
+      "width": 152,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "linuxrc-start-shell-after-installation"
+  ]
+}
