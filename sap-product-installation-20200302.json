@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 123,
+      "type": "match",
+      "height": 36,
+      "width": 234,
+      "ypos": 106
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-product-installation"
+  ]
+}
