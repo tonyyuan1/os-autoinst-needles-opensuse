@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 122,
+      "height": 24,
+      "ypos": 113,
+      "width": 110
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "samba-server-configuration-shares-newshare"
+  ]
+}
