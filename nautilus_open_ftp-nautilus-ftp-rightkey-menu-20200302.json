@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 93,
+      "type": "match",
+      "height": 20,
+      "width": 73,
+      "ypos": 428
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "nautilus-ftp-rightkey-menu"
+  ]
+}
