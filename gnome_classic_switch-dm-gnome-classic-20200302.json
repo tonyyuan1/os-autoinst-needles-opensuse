@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 123,
+      "ypos": 554,
+      "height": 25,
+      "xpos": 581,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "dm-gnome-classic"
+  ]
+}
