@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 216,
+      "type": "match",
+      "height": 76,
+      "width": 169,
+      "ypos": 213
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnote",
+    "gnote-first-launched"
+  ]
+}
