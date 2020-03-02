@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 67,
+      "ypos": 299,
+      "xpos": 328,
+      "type": "match",
+      "height": 39
+    },
+    {
+      "width": 119,
+      "ypos": 251,
+      "type": "match",
+      "xpos": 589,
+      "height": 40
+    },
+    {
+      "ypos": 252,
+      "width": 73,
+      "height": 37,
+      "xpos": 318,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "focused-on-search"
+  ]
+}
