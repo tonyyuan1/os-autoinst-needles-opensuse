@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "xpos": 121,
+      "type": "match",
+      "width": 126,
+      "ypos": 113
+    },
+    {
+      "xpos": 328,
+      "type": "match",
+      "height": 30,
+      "width": 202,
+      "ypos": 207
+    },
+    {
+      "ypos": 262,
+      "width": 363,
+      "xpos": 319,
+      "type": "match",
+      "height": 23
+    },
+    {
+      "ypos": 323,
+      "width": 138,
+      "type": "match",
+      "xpos": 332,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-INSTLANG-en_US",
+    "scc-registration"
+  ]
+}
