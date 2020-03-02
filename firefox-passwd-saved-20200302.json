@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 441,
+      "type": "match",
+      "height": 66,
+      "width": 117,
+      "ypos": 314
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-passwd-saved"
+  ]
+}
