@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 258,
+      "type": "match",
+      "height": 44,
+      "click_point": {
+        "xpos": 252.5,
+        "ypos": 25.5
+      },
+      "width": 505,
+      "ypos": 430
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "displaymanager-reboot"
+  ]
+}
