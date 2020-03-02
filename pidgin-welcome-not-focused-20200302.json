@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "ypos": 217,
+      "width": 268,
+      "height": 91,
+      "xpos": 299,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "pidgin",
+    "pidgin-welcome-not-focused"
+  ]
+}
