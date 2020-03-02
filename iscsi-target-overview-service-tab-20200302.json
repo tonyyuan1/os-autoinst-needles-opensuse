@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 183,
+      "ypos": 115,
+      "xpos": 50,
+      "type": "match",
+      "height": 27
+    },
+    {
+      "height": 21,
+      "xpos": 148,
+      "type": "match",
+      "ypos": 153,
+      "width": 61
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "iscsi-target-overview-service-tab"
+  ]
+}
