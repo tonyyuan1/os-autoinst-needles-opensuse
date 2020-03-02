@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 25,
+      "type": "match",
+      "height": 18,
+      "ypos": 519,
+      "width": 84
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "wireshark-dns-response-details-answers"
+  ]
+}
