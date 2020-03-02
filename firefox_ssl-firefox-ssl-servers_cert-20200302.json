@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 499,
+      "width": 159,
+      "height": 18,
+      "type": "match",
+      "xpos": 228
+    },
+    {
+      "height": 16,
+      "type": "match",
+      "xpos": 400,
+      "width": 105,
+      "ypos": 500
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-ssl-servers_cert"
+  ]
+}
