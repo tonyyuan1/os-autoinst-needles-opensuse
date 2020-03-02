@@ -1,15 +1,15 @@
 {
   "area": [
     {
-      "xpos": 344,
-      "ypos": 381,
       "width": 287,
-      "height": 21,
-      "type": "match"
+      "ypos": 381,
+      "type": "match",
+      "xpos": 344,
+      "height": 21
     }
   ],
   "properties": [],
   "tags": [
-    "desktop-runner-border"
+    "root-auth-dialog"
   ]
 }
