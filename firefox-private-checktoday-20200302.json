@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 8,
+      "height": 20,
+      "ypos": 202,
+      "width": 80
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "firefox-private-checktoday"
+  ]
+}
