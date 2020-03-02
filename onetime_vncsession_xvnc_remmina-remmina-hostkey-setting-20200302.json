@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 89,
+      "xpos": 418,
+      "type": "match",
+      "width": 190,
+      "ypos": 331
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "remmina-hostkey-setting"
+  ]
+}
