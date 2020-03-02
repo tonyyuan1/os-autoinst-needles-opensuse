@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 124,
+      "height": 32,
+      "width": 531,
+      "ypos": 108
+    },
+    {
+      "ypos": 353,
+      "width": 510,
+      "height": 35,
+      "xpos": 259,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-wizard-additional-repos"
+  ]
+}
