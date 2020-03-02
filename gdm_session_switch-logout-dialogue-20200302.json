@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 76,
+      "ypos": 286,
+      "xpos": 255,
+      "type": "match",
+      "height": 92
+    },
+    {
+      "xpos": 336,
+      "type": "match",
+      "height": 33,
+      "ypos": 298,
+      "width": 72
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "logout-dialogue"
+  ]
+}
