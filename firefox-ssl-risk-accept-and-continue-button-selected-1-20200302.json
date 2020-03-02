@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 732,
+      "width": 252,
+      "height": 29,
+      "xpos": 640,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-ssl-risk-accept-and-continue-button-selected"
+  ]
+}
