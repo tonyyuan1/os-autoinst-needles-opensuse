@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 28,
+      "xpos": 271,
+      "type": "match",
+      "width": 66,
+      "ypos": 81
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_wizard-sending-smtp"
+  ]
+}
