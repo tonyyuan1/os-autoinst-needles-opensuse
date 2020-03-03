@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "width": 174,
+      "ypos": 213,
+      "height": 27,
+      "xpos": 139,
+      "type": "match"
+    },
+    {
+      "width": 131,
+      "ypos": 246,
+      "height": 52,
+      "xpos": 214,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SP2ORLATER-1",
+    "gnote-search-welcome"
+  ]
+}
