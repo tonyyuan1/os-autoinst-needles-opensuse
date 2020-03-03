@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 272,
+      "width": 147,
+      "type": "match",
+      "xpos": 436,
+      "height": 31
+    },
+    {
+      "type": "match",
+      "xpos": 446,
+      "height": 10,
+      "ypos": 286,
+      "width": 10
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-sysconfig-editor"
+  ]
+}
