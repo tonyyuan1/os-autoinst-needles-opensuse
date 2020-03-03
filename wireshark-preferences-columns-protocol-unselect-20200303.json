@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "xpos": 350,
+      "type": "match",
+      "height": 19,
+      "ypos": 286,
+      "width": 196,
+      "click_point": {
+        "xpos": 9,
+        "ypos": 9.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP2ORLATER-1",
+    "wireshark-preferences-columns-protocol-unselect"
+  ]
+}
