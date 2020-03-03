@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 210,
+      "ypos": 68,
+      "xpos": 25,
+      "type": "match",
+      "height": 26
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-vpn-gateway-client"
+  ]
+}
