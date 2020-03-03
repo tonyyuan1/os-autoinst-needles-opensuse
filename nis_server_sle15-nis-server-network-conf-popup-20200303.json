@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 311,
+      "height": 88,
+      "width": 289,
+      "ypos": 246
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-server-network-conf-popup"
+  ]
+}
