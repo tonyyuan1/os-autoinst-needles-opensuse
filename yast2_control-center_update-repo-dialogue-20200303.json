@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 49,
+      "xpos": 235,
+      "width": 329,
+      "ypos": 319
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_control-center_update-repo-dialogue"
+  ]
+}
