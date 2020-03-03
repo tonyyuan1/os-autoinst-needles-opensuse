@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 212,
+      "width": 92,
+      "type": "match",
+      "xpos": 62,
+      "height": 16
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_device_ethernet_selected"
+  ]
+}
