@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 27,
+      "xpos": 59,
+      "type": "match",
+      "ypos": 123,
+      "width": 205
+    },
+    {
+      "ypos": 401,
+      "width": 106,
+      "height": 37,
+      "type": "match",
+      "xpos": 312
+    },
+    {
+      "width": 81,
+      "ypos": 154,
+      "xpos": 63,
+      "type": "match",
+      "height": 25
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nfs-server-export"
+  ]
+}
