@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "width": 132,
+      "ypos": 210,
+      "xpos": 68,
+      "type": "match",
+      "height": 33
+    },
+    {
+      "ypos": 322,
+      "width": 31,
+      "xpos": 435,
+      "type": "match",
+      "height": 35
+    },
+    {
+      "xpos": 449,
+      "type": "match",
+      "height": 31,
+      "width": 29,
+      "ypos": 440
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-SP2ORLATER-1",
+    "gnote-search-body-and"
+  ]
+}
