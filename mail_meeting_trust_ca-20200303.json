@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 440,
+      "height": 28,
+      "width": 137,
+      "ypos": 167
+    },
+    {
+      "ypos": 210,
+      "width": 56,
+      "xpos": 74,
+      "type": "match",
+      "height": 58
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_mail_meeting_trust_ca"
+  ]
+}
