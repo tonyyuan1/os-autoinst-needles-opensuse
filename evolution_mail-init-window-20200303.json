@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 138,
+      "xpos": 178,
+      "type": "match",
+      "width": 392,
+      "ypos": 107
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_mail-init-window"
+  ]
+}
