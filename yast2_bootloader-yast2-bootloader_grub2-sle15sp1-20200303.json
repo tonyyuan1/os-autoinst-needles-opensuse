@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "xpos": 144,
+      "type": "match",
+      "width": 116,
+      "ypos": 227
+    },
+    {
+      "width": 17,
+      "ypos": 229,
+      "height": 16,
+      "xpos": 244,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-bootloader_grub2"
+  ]
+}
