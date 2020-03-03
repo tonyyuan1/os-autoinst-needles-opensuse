@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 19,
+      "ypos": 272,
+      "type": "match",
+      "xpos": 525,
+      "height": 21
+    },
+    {
+      "ypos": 574,
+      "width": 23,
+      "height": 23,
+      "xpos": 515,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_security-check-min-pwd-len-and-exp-days"
+  ]
+}
