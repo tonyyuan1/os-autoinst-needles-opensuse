@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 481,
+      "type": "match",
+      "height": 30,
+      "ypos": 77,
+      "width": 144
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_control-center_sudo_rules"
+  ]
+}
