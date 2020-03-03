@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 254,
+      "type": "match",
+      "height": 14,
+      "width": 181,
+      "ypos": 298,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast_error"
+  ]
+}
