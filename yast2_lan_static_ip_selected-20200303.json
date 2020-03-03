@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "xpos": 51,
+      "type": "match",
+      "ypos": 244,
+      "width": 225
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_lan_static_ip_selected"
+  ]
+}
