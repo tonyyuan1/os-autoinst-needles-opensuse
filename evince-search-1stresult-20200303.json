@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 637,
+      "type": "match",
+      "height": 20,
+      "ypos": 746,
+      "width": 80
+    },
+    {
+      "height": 22,
+      "xpos": 31,
+      "type": "match",
+      "width": 88,
+      "ypos": 121
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evince-search-1stresult"
+  ]
+}
