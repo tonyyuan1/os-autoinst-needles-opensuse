@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "xpos": 438,
+      "type": "match",
+      "width": 179,
+      "ypos": 273
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2_control-center_authentication-server"
+  ]
+}
