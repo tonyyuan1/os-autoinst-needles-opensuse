@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 289,
+      "ypos": 118,
+      "type": "match",
+      "xpos": 58,
+      "height": 64
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-server-query-hosts-setup"
+  ]
+}
