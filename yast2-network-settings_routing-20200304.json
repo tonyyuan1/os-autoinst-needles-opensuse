@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 70,
+      "ypos": 146,
+      "height": 25,
+      "xpos": 769,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-network-settings_routing"
+  ]
+}
