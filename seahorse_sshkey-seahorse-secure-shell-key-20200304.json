@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 441,
+      "ypos": 111,
+      "width": 139,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 238,
+      "ypos": 173,
+      "width": 253,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "seahorse-secure-shell-key"
+  ]
+}
