@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 62,
+      "xpos": 316,
+      "type": "match",
+      "width": 387,
+      "ypos": 40
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "tracker-mainmenu-launched"
+  ]
+}
