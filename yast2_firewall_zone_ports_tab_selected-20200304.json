@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 616,
+      "height": 43,
+      "width": 160,
+      "ypos": 146
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_firewall_zone_ports_tab_selected"
+  ]
+}
