@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 0,
+      "width": 77,
+      "xpos": 0,
+      "type": "match",
+      "height": 766
+    },
+    {
+      "xpos": 45,
+      "ypos": 0,
+      "width": 75,
+      "height": 18,
+      "type": "exclude"
+    },
+    {
+      "xpos": 0,
+      "ypos": 715,
+      "width": 65,
+      "height": 53,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_console-finished"
+  ]
+}
