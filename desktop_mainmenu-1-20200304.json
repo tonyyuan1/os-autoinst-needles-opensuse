@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "height": 497,
+      "type": "match",
+      "xpos": 3,
+      "ypos": 175,
+      "width": 65
+    },
+    {
+      "ypos": 1,
+      "width": 87,
+      "height": 22,
+      "type": "match",
+      "xpos": 6
+    },
+    {
+      "height": 46,
+      "xpos": 333,
+      "type": "match",
+      "width": 360,
+      "ypos": 46
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-DESKTOP-gnome",
+    "test-desktop_mainmenu-1"
+  ]
+}
