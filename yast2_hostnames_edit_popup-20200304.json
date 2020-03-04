@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "width": 72,
+      "ypos": 284,
+      "xpos": 416,
+      "type": "match",
+      "height": 13
+    },
+    {
+      "height": 25,
+      "type": "match",
+      "xpos": 467,
+      "width": 75,
+      "ypos": 248
+    },
+    {
+      "height": 14,
+      "xpos": 417,
+      "type": "match",
+      "ypos": 351,
+      "width": 70
+    },
+    {
+      "type": "match",
+      "xpos": 414,
+      "height": 13,
+      "width": 102,
+      "ypos": 420
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_hostnames_edit_popup"
+  ]
+}
