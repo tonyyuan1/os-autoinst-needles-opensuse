@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 376,
+      "width": 260,
+      "type": "match",
+      "xpos": 320,
+      "height": 23
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nfs-server-directory-does-not-exist"
+  ]
+}
