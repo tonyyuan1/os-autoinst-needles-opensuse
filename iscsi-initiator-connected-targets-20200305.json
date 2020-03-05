@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 131,
+      "ypos": 106,
+      "type": "match",
+      "xpos": 47,
+      "width": 507
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-connected-targets"
+  ]
+}
