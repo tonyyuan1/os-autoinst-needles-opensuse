@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 28,
+      "ypos": 130,
+      "width": 193,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-nobody"
+  ]
+}
