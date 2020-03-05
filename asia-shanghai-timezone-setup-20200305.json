@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 70,
+      "ypos": 514,
+      "width": 145,
+      "xpos": 214
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "asia-shanghai-timezone-setup"
+  ]
+}
