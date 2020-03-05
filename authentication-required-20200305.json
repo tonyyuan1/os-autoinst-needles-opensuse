@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 290,
+      "ypos": 243,
+      "width": 477,
+      "xpos": 274
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "authentication-required-user-settings"
+  ]
+}
