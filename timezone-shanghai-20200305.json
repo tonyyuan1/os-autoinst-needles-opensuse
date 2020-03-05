@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 21,
+      "ypos": 550,
+      "type": "match",
+      "xpos": 810,
+      "width": 77
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "timezone-shanghai"
+  ]
+}
