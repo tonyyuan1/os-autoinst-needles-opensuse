@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "ypos": 284,
+      "xpos": 395,
+      "width": 182,
+      "type": "match"
+    },
+    {
+      "ypos": 310,
+      "height": 16,
+      "width": 81,
+      "type": "match",
+      "xpos": 298
+    },
+    {
+      "height": 34,
+      "ypos": 503,
+      "xpos": 362,
+      "type": "match",
+      "width": 87
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-server-in-domain-selected"
+  ]
+}
