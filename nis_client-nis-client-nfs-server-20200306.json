@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 292,
+      "type": "match",
+      "width": 88,
+      "height": 44,
+      "ypos": 293
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-nfs-server"
+  ]
+}

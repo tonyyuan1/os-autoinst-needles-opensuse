@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 432,
+      "width": 200,
+      "type": "match",
+      "height": 62,
+      "ypos": 266
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "nis-client-add-nfs-share-remotedir"
+  ]
+}
