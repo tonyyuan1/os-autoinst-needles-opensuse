@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "xpos": 397,
+      "width": 225,
+      "ypos": 32,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 291,
+      "width": 270,
+      "ypos": 360,
+      "height": 147,
+      "type": "match"
+    },
+    {
+      "xpos": 12,
+      "width": 150,
+      "ypos": 221,
+      "height": 102,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "libreoffice-test-pptx"
+  ]
+}
