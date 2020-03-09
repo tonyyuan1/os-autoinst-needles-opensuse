@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "width": 144,
+      "xpos": 7,
+      "type": "match",
+      "ypos": 103,
+      "height": 18
+    },
+    {
+      "xpos": 944,
+      "width": 41,
+      "ypos": 725,
+      "click_point": {
+        "xpos": 20.5,
+        "ypos": 8.5
+      },
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 183,
+      "width": 15,
+      "ypos": 165,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-restore-backup-click"
+  ]
+}
