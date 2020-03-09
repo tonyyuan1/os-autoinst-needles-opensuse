@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "width": 57,
+      "xpos": 814,
+      "type": "match",
+      "height": 20,
+      "ypos": 717
+    },
+    {
+      "xpos": 813,
+      "width": 62,
+      "ypos": 157,
+      "click_point": {
+        "xpos": 31,
+        "ypos": 14
+      },
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "timezone-yerevan"
+  ]
+}
