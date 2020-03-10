@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 10,
+      "width": 28,
+      "ypos": 61,
+      "height": 10
+    },
+    {
+      "height": 10,
+      "width": 40,
+      "ypos": 607,
+      "type": "match",
+      "xpos": 371
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-ARCH-s390x",
+    "x3270",
+    "x3270-reconnected"
+  ]
+}
