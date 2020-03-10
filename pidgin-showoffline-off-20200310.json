@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 36,
+      "ypos": 196,
+      "width": 106,
+      "xpos": 236
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "pidgin-showoffline-off"
+  ]
+}
