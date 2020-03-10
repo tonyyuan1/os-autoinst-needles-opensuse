@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 206,
+      "xpos": 184,
+      "type": "match",
+      "height": 27,
+      "ypos": 133
+    },
+    {
+      "type": "match",
+      "height": 73,
+      "ypos": 209,
+      "width": 162,
+      "xpos": 64
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "gnote-note-start-here"
+  ]
+}
