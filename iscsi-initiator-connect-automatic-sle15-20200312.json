@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 227,
+      "type": "match",
+      "height": 29,
+      "ypos": 115,
+      "xpos": 46
+    },
+    {
+      "ypos": 236,
+      "xpos": 109,
+      "width": 83,
+      "type": "match",
+      "height": 49
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "iscsi-initiator-connect-automatic"
+  ]
+}
