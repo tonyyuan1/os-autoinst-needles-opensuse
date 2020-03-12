@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "xpos": 124,
+      "type": "match",
+      "width": 230,
+      "height": 31,
+      "ypos": 109
+    },
+    {
+      "ypos": 343,
+      "type": "match",
+      "width": 493,
+      "height": 80,
+      "xpos": 263
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "sap-wizard-failed"
+  ]
+}
