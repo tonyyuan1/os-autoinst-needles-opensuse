@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 158,
+      "ypos": 68,
+      "width": 491,
+      "height": 180,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "bootloader-timeout-disabled"
+  ]
+}
