@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "ypos": 719,
+      "xpos": 0,
+      "width": 456,
+      "type": "match",
+      "height": 31
+    },
+    {
+      "width": 286,
+      "type": "match",
+      "height": 26,
+      "ypos": 515,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "socket-response"
+  ]
+}
