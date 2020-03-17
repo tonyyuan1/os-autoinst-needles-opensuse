@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 160,
+      "width": 342,
+      "height": 459,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "splash-screen"
+  ]
+}
