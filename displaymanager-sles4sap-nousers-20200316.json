@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 651,
+      "xpos": 431,
+      "height": 91,
+      "width": 174
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 326,
+      "ypos": 320,
+      "width": 86,
+      "height": 124,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "ENV-SLES4SAP-1",
+    "ENV-SP2ORLATER-1",
+    "displaymanager",
+    "dm-nousers"
+  ]
+}
