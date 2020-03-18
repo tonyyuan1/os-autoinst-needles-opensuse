@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 33,
+      "width": 96,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 223,
+      "width": 93,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-ha-node-selected"
+  ]
+}
