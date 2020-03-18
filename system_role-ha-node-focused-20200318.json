@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 16,
+      "ypos": 35,
+      "width": 96,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 26,
+      "ypos": 220,
+      "width": 92,
+      "height": 25,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "system-role-ha-node-focused"
+  ]
+}
