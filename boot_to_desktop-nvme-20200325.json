@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 12,
+      "width": 773,
+      "height": 571,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "boot_to_desktop-nvme"
+  ]
+}
