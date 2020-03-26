@@ -1,0 +1,20 @@
+{
+  "area": [
+    {
+      "height": 26,
+      "type": "match",
+      "width": 105,
+      "ypos": 282,
+      "xpos": 437,
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "libreoffice-test-doc",
+    "ooffice-tip-of-the-day",
+    "ooffice-writer-tools",
+    "oowriter",
+    "test-oocalc-1"
+  ]
+}
