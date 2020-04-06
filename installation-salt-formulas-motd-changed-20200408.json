@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 24,
+      "xpos": 21,
+      "type": "match",
+      "ypos": 183,
+      "width": 129
+    },
+    {
+      "height": 24,
+      "xpos": 17,
+      "type": "match",
+      "ypos": 102,
+      "width": 74
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "salt-formulas-motd-changed"
+  ]
+}

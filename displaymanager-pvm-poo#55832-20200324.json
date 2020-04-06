@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 31,
+      "height": 16,
+      "width": 415,
+      "xpos": 82
+    },
+    {
+      "xpos": 79,
+      "type": "match",
+      "height": 18,
+      "width": 49,
+      "ypos": 111
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-INSTLANG-en_US",
+    "displaymanager",
+    "reboot-after-installation"
+  ]
+}

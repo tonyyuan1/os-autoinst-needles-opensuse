@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 128,
+      "ypos": 194,
+      "width": 191,
+      "type": "match",
+      "height": 34
+    },
+    {
+      "height": 12,
+      "type": "match",
+      "width": 136,
+      "ypos": 186,
+      "xpos": 369
+    },
+    {
+      "width": 556,
+      "type": "match",
+      "height": 44,
+      "xpos": 390,
+      "ypos": 207
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15SP1ORLATER-1",
+    "system-role-default-system",
+    "system-role-serverro",
+    "system-role-serverro-selected",
+    "system-role-serverro-selected-sle"
+  ]
+}
