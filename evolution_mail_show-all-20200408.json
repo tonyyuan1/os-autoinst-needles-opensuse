@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 36,
+      "height": 33,
+      "ypos": 370,
+      "width": 165,
+      "type": "match"
+    },
+    {
+      "xpos": 291,
+      "ypos": 144,
+      "width": 114,
+      "height": 21,
+      "type": "match",
+      "match": 85
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "evolution_mail_show-all"
+  ]
+}
