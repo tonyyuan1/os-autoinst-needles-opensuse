@@ -1,16 +1,17 @@
 {
   "area": [
     {
-      "ypos": 257,
       "type": "match",
       "height": 21,
-      "xpos": 58,
-      "width": 118
+      "ypos": 257,
+      "width": 118,
+      "xpos": 58
     }
   ],
   "properties": [],
   "tags": [
     "on-pattern",
-    "pattern-base"
+    "pattern-base",
+    "pattern-minimal"
   ]
 }
