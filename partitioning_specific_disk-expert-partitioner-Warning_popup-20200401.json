@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 272,
+      "ypos": 273,
+      "width": 55,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "expert-partitioner-Warning_popup"
+  ]
+}
