@@ -2,15 +2,15 @@
   "area": [
     {
       "xpos": 96,
-      "ypos": 266,
+      "height": 22,
+      "ypos": 263,
       "width": 76,
-      "height": 18,
-      "type": "match"
+      "type": "ocr",
+      "match": 85
     }
   ],
   "properties": [],
   "tags": [
-    "ENV-15ORLATER-1",
     "on-pattern",
     "pattern-base"
   ]
