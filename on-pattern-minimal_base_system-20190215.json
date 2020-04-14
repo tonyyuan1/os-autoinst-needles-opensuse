@@ -1,18 +1,17 @@
 {
   "area": [
     {
-      "xpos": 101,
       "type": "match",
-      "height": 21,
       "width": 113,
-      "ypos": 257
+      "height": 21,
+      "ypos": 257,
+      "xpos": 101
     }
   ],
   "properties": [],
   "tags": [
     "ENV-15ORLATER-1",
     "on-pattern",
-    "pattern-base",
     "pattern-minimal"
   ]
 }
