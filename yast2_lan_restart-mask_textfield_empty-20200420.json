@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 110,
+      "height": 55,
+      "ypos": 271,
+      "type": "match",
+      "xpos": 303
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-TEXTMODE-0",
+    "mask_textfield_empty"
+  ]
+}
