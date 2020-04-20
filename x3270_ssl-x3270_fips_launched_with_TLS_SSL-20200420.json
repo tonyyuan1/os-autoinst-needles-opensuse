@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 231,
+      "ypos": 88,
+      "width": 151,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "xpos": 191,
+      "ypos": 226,
+      "width": 220,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "x3270_fips_launched_with_TLS_SSL"
+  ]
+}
