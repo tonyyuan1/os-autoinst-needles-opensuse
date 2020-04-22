@@ -1,29 +1,17 @@
 {
   "area": [
     {
-      "type": "match",
-      "xpos": 379,
+      "xpos": 360,
+      "ypos": 203,
+      "width": 152,
       "height": 10,
-      "ypos": 204,
-      "width": 100
-    },
-    {
-      "width": 101,
-      "height": 11,
-      "ypos": 204,
       "type": "match",
-      "xpos": 380
-    },
-    {
-      "xpos": 359,
-      "type": "match",
-      "ypos": 201,
-      "height": 15,
-      "width": 123
+      "match": 98
     }
   ],
   "properties": [],
   "tags": [
+    "ENV-15ORLATER-1",
     "addon-products-all_packages-dev-highlighted"
   ]
 }
