@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "ypos": 121,
+      "width": 240,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "xpos": 246,
+      "ypos": 113,
+      "width": 10,
+      "height": 22,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-devicemanager-sb-conf-attempt-sb"
+  ]
+}
