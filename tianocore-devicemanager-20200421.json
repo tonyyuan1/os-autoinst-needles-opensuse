@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 23,
+      "ypos": 178,
+      "width": 123,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "tianocore-devicemanager"
+  ]
+}
