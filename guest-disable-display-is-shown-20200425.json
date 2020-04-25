@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 390,
+      "ypos": 353,
+      "width": 219,
+      "height": 45,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "guest-disable-display"
+  ]
+}
