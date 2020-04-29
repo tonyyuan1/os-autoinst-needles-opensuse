@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 576,
+      "ypos": 572,
+      "width": 141,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "evolution_wizard-sending-authtype"
+  ]
+}

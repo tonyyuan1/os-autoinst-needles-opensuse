@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 893,
+      "ypos": 730,
+      "width": 84,
+      "height": 24,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "thunderbird_SSL_ok_config"
+  ]
+}
