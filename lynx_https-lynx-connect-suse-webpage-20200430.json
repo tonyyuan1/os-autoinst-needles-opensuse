@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 1,
+      "height": 16,
+      "xpos": 398,
+      "width": 495
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "lynx-connect-suse-webpage"
+  ]
+}
