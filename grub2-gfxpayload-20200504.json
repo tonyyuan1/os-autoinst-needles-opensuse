@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 79,
+      "ypos": 223,
+      "width": 234,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "grub2-gfxpayload"
+  ]
+}
