@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 918,
+      "xpos": 50,
+      "ypos": 42,
+      "height": 703,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-gnome",
+    "ENV-INSTLANG-en_US",
+    "GNOME",
+    "desktop-at-first-boot",
+    "desktop-sle-classic",
+    "generic-desktop",
+    "test-consoletest_finish-1",
+    "x11"
+  ]
+}
