@@ -1,16 +1,29 @@
 {
-  "properties": [],
-  "tags": [
-    "ENV-15ORLATER-1",
-    "Policykit"
-  ],
   "area": [
     {
+      "ypos": 303,
       "width": 294,
       "xpos": 361,
       "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 594,
+      "ypos": 506,
+      "width": 86,
+      "height": 18,
       "type": "match",
-      "ypos": 303
+      "match": 85,
+      "click_point": {
+        "xpos": 43,
+        "ypos": 9
+      }
     }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "PolicyKit-authenticate",
+    "Policykit"
   ]
 }
