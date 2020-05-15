@@ -1,16 +1,27 @@
 {
   "area": [
     {
-      "height": 13,
-      "type": "match",
-      "xpos": 361,
       "ypos": 303,
-      "width": 294
+      "width": 294,
+      "xpos": 361,
+      "height": 13,
+      "type": "match"
+    },
+    {
+      "xpos": 593,
+      "ypos": 504,
+      "width": 87,
+      "height": 20,
+      "type": "match",
+      "match": 85,
+      "click_point": {
+        "xpos": 43.5,
+        "ypos": 10
+      }
     }
   ],
+  "properties": [],
   "tags": [
-    "ENV-SP2ORLATER-1",
-    "Policykit"
-  ],
-  "properties": []
+    "ENV-SP2ORLATER-1"
+  ]
 }
