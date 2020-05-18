@@ -3,21 +3,21 @@
     {
       "type": "match",
       "height": 17,
-      "ypos": 304,
+      "xpos": 368,
       "width": 292,
-      "xpos": 368
+      "ypos": 304
     },
     {
-      "xpos": 590,
-      "ypos": 505,
-      "width": 92,
-      "height": 20,
-      "type": "match",
-      "match": 85,
       "click_point": {
         "xpos": 46,
         "ypos": 10
-      }
+      },
+      "height": 20,
+      "xpos": 590,
+      "width": 92,
+      "ypos": 505,
+      "match": 85,
+      "type": "match"
     }
   ],
   "properties": [],
@@ -25,6 +25,7 @@
     "ENV-15ORLATER-1",
     "ENV-DESKTOP-gnome",
     "PolicyKit-authenticate",
-    "Policykit"
+    "Policykit",
+    "Policykit-authenticate"
   ]
 }
