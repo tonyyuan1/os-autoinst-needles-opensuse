@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 18,
+      "ypos": 89,
+      "type": "match",
+      "height": 51,
+      "width": 296
+    },
+    {
+      "xpos": 404,
+      "ypos": 445,
+      "type": "match",
+      "height": 18,
+      "width": 74
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hard-disk-dev-sdc-selected"
+  ]
+}
