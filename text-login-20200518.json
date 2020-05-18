@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "width": 260,
+      "xpos": 0,
+      "ypos": 35,
+      "height": 11,
+      "type": "match"
+    },
+    {
+      "ypos": 34,
+      "xpos": 755,
+      "width": 42,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "text-login",
+    "tty6-selected"
+  ]
+}
