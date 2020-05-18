@@ -2,27 +2,28 @@
   "area": [
     {
       "type": "match",
-      "height": 10,
-      "ypos": 287,
+      "xpos": 344,
       "width": 294,
-      "xpos": 344
+      "ypos": 287,
+      "height": 10
     },
     {
-      "xpos": 639,
+      "match": 85,
+      "type": "match",
+      "click_point": {
+        "ypos": 9.5,
+        "xpos": 46
+      },
+      "height": 19,
       "ypos": 511,
       "width": 92,
-      "height": 19,
-      "type": "match",
-      "match": 85,
-      "click_point": {
-        "xpos": 46,
-        "ypos": 9.5
-      }
+      "xpos": 639
     }
   ],
   "properties": [],
   "tags": [
     "PolicyKit-authenticate",
-    "Policykit"
+    "Policykit",
+    "Policykit-authenticate"
   ]
 }
