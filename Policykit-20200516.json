@@ -1,27 +1,28 @@
 {
   "area": [
     {
-      "width": 294,
       "xpos": 365,
+      "width": 294,
       "ypos": 305,
       "height": 13,
       "type": "match"
     },
     {
-      "type": "match",
       "ypos": 504,
-      "width": 92,
       "xpos": 590,
+      "width": 92,
       "click_point": {
-        "xpos": 46,
-        "ypos": 9.5
+        "ypos": 9.5,
+        "xpos": 46
       },
-      "height": 19
+      "height": 19,
+      "type": "match"
     }
   ],
   "properties": [],
   "tags": [
     "PolicyKit-authenticate",
-    "Policykit"
+    "Policykit",
+    "Policykit-authenticate"
   ]
 }
