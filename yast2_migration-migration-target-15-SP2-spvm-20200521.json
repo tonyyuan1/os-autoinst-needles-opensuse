@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "height": 23,
+      "type": "match",
+      "width": 252,
+      "ypos": 36,
+      "xpos": 18
+    },
+    {
+      "ypos": 217,
+      "xpos": 25,
+      "height": 20,
+      "type": "match",
+      "width": 129
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-15ORLATER-1",
+    "yast2-migration-target"
+  ]
+}
