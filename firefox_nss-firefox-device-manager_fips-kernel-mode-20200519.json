@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 977,
+      "ypos": 420,
+      "width": 44,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "firefox-device-manager_fips-kernel-mode"
+  ]
+}
