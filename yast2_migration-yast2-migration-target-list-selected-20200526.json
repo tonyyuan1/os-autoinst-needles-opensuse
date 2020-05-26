@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 33,
+      "xpos": 14,
+      "type": "match",
+      "height": 27,
+      "width": 254
+    },
+    {
+      "width": 132,
+      "type": "match",
+      "height": 20,
+      "xpos": 23,
+      "ypos": 216
+    },
+    {
+      "height": 21,
+      "type": "match",
+      "width": 67,
+      "ypos": 586,
+      "xpos": 719
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2-migration-target-list-selected"
+  ]
+}
