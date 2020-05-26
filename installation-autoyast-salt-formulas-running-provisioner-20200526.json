@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "height": 20,
+      "type": "match",
+      "width": 133,
+      "ypos": 204,
+      "xpos": 232
+    },
+    {
+      "type": "match",
+      "height": 53,
+      "width": 141,
+      "ypos": 357,
+      "xpos": 233
+    },
+    {
+      "xpos": 490,
+      "ypos": 548,
+      "width": 37,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "salt-formulas-running-provisioner"
+  ]
+}
