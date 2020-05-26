@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 450,
+      "xpos": 566,
+      "height": 122,
+      "type": "match",
+      "width": 423
+    },
+    {
+      "xpos": 315,
+      "ypos": 333,
+      "width": 122,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 596,
+      "ypos": 333,
+      "width": 31,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "yast2_package_retry"
+  ]
+}
