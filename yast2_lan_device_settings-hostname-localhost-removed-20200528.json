@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 78,
+      "ypos": 119,
+      "height": 21,
+      "xpos": 558
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hostname-localhost-removed"
+  ]
+}
